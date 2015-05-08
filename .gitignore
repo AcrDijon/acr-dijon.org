@@ -1,0 +1,8 @@
+*.un~
+*.pyc
+.Python
+bin/
+cache/
+include/
+lib/
+output/
