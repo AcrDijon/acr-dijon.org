@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Equipe ACR'
 SITENAME = u'ACR Dijon'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'fr'
