@@ -284,16 +284,16 @@ http://www.tipue.com/search
                               if (show_replace == 1)
                               {
                                    out += '<div id="tipue_search_warning_head">Showing results for ' + d + '</div>';
-                                   out += '<div id="tipue_search_warning">Search instead for <a href="javascript:void(0)" id="tipue_search_replaced">' + d_r + '</a></div>'; 
+                                   out += '<div id="tipue_search_warning">Recherche pour <a href="javascript:void(0)" id="tipue_search_replaced">' + d_r + '</a></div>'; 
                               }
                               if (c == 1)
                               {
-                                   out += '<div id="tipue_search_results_count">1 result</div>';
+                                   out += '<div id="tipue_search_results_count">1 résultat</div>';
                               }
                               else
                               {
                                    c_c = c.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                                   out += '<div id="tipue_search_results_count">' + c_c + ' results</div>';
+                                   out += '<div id="tipue_search_results_count">' + c_c + ' résultats</div>';
                               }
                               
                               found.sort();
@@ -342,7 +342,7 @@ http://www.tipue.com/search
                                    
                                    if (start > 0)
                                    {
-                                       out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + (start - set.show) + '_' + replace + '">Prev</a></li>'; 
+                                       out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + (start - set.show) + '_' + replace + '">Prec</a></li>'; 
                                    }
                                                        
                                    if (page <= 2)
@@ -386,7 +386,7 @@ http://www.tipue.com/search
                                                       
                                    if (page + 1 != pages)
                                    {
-                                       out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + (start + set.show) + '_' + replace + '">Next</a></li>'; 
+                                       out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + (start + set.show) + '_' + replace + '">Suiv</a></li>'; 
                                    }                    
                                    
                                    out += '</ul></div>';
@@ -394,25 +394,25 @@ http://www.tipue.com/search
                          }
                          else
                          {
-                              out += '<div id="tipue_search_warning_head">Nothing found</div>'; 
+                              out += '<div id="tipue_search_warning_head">Aucun résultat</div>'; 
                          }
                     }
                     else
                     {
                          if (show_stop)
                          {
-                              out += '<div id="tipue_search_warning_head">Nothing found</div><div id="tipue_search_warning">Common words are largely ignored</div>';     
+                              out += '<div id="tipue_search_warning_head">Aucun résultat</div><div id="tipue_search_warning">Les mots communs sont ignorés</div>';     
                          }
                          else
                          {
-                              out += '<div id="tipue_search_warning_head">Search too short</div>';
+                              out += '<div id="tipue_search_warning_head">Recherche trop courte</div>';
                               if (set.minimumLength == 1)
                               {
-                                   out += '<div id="tipue_search_warning">Should be one character or more</div>';
+                                   out += '<div id="tipue_search_warning">Entrez au moins un caractère</div>';
                               }
                               else
                               {
-                                   out += '<div id="tipue_search_warning">Should be ' + set.minimumLength + ' characters or more</div>';
+                                   out += '<div id="tipue_search_warning">Au moins ' + set.minimumLength + ' caractère ou plus</div>';
                               }
                          }
                     }
