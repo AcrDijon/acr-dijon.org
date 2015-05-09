@@ -1,5 +1,8 @@
 html {
-  font: 400 14px / 20px "Oswald", "Helvetica Neue",Helvetica,Arial,sans-serif; }
+  font-family: "Open Sans", "Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align: justify;
+  font-weight: 400;
+}
 
 a {
   color: #33b5e5; }
@@ -7,7 +10,7 @@ a {
     color: #0099cc; }
 
 .uk-navbar-brand {
-	text-shadow: 0.5px 0.5px black;
+  text-shadow: 0.5px 0.5px black;
 }
 
 .uk-article-meta > a {
