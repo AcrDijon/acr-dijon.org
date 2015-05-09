@@ -3,7 +3,7 @@ Création du Blog
 
 :date: 2015-05-08 21:20
 :category: Actualités
-
+:summary: Bienvenue dans le nouveau blog
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend,
 neque feugiat aliquam sodales, justo mi sodales sem, eget pellentesque nibh est

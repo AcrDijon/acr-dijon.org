@@ -2,6 +2,7 @@ Présentation de l'ACR
 =====================
 
 :date: 2015-05-08 21:20
+:summary: Le club de l'ACR et son fonctionnement
 
 .. image:: http://assets-acr.ziade.org/inscription.jpg
 

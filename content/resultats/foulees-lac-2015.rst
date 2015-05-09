@@ -1,9 +1,9 @@
 Foulées du Lac Kir
 ==================
 
-:date: 2015-04-18 21:20
+:date: 2013-04-18 21:20
 :category: Résultats
-
+:summary: Enorme succés des foulées du lac
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend,
 neque feugiat aliquam sodales, justo mi sodales sem, eget pellentesque nibh est

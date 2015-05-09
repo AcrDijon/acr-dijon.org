@@ -1,8 +1,9 @@
 Foulées des Cochons
 ===================
 
-:date: 2015-05-18 21:20
+:date: 2014-05-18 21:20
 :category: Résultats
+:summary: Le résultat des Cochons
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend,
