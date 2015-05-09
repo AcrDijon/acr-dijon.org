@@ -3,6 +3,7 @@ Présentation de l'ACR
 
 :date: 2015-05-08 21:20
 
+.. image:: http://assets-acr.ziade.org/inscription.jpg
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend,
 neque feugiat aliquam sodales, justo mi sodales sem, eget pellentesque nibh est
