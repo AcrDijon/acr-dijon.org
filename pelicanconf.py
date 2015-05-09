@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Equipe ACR'
-SITENAME = u'ACR Dijon'
+ALT_NAME = SITENAME = u'Association des Coureurs sur Route de Dijon'
 SITEURL = 'http://localhost:8000'
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
@@ -38,7 +38,6 @@ AUTHOR_SAVE_AS = ''
 DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search',
                     'tipue_search')
 TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
-ALT_NAME = 'ACR Dijon'
 FAVICON = 'favicon.ico'
 FAVICON_TYPE = 'image/vnd.microsoft.icon'
 
