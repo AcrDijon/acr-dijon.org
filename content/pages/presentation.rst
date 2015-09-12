@@ -6,49 +6,47 @@ Présentation de l'ACR
 
 .. image:: http://assets-acr.ziade.org/inscription.jpg
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend,
-neque feugiat aliquam sodales, justo mi sodales sem, eget pellentesque nibh est
-id dolor. Nulla scelerisque, quam malesuada bibendum rhoncus, mi lorem
-tincidunt nisi, sit amet ornare nunc quam id est. Ut porttitor tortor non augue
-bibendum, sed pulvinar tellus consequat. Aliquam scelerisque tristique porta.
-Phasellus dignissim urna id magna pulvinar pretium. Quisque cursus hendrerit
-est sed aliquam. Morbi fringilla eget urna id consequat. Nam tincidunt sapien
-ac dolor lobortis malesuada.
 
-Maecenas sagittis erat finibus augue sagittis, et aliquam eros elementum.
-Vivamus sed elit sodales, molestie diam vitae, consequat orci. Nam vestibulum
-justo lectus, id aliquet dui elementum nec. Aliquam tempor pellentesque
-molestie. Nullam facilisis aliquam massa at tincidunt. Nulla a enim vel tellus
-laoreet lacinia. Curabitur nunc urna, dictum a velit at, aliquet tincidunt dui.
-Nullam vel eros ac erat elementum faucibus. Sed eget odio sapien. Etiam rutrum
-aliquet tristique.
+L’ACR Dijon (Association des Coureurs sur Route), fondée en 1999, a fêté ses 15
+ans d’existence à l’automne 2014. C’est un club de course à pied hors stade à
+vocation loisirs. Cela dit, notre association dispose dans ses rangs de
+compétiteurs chevronnés qui ont l’habitude de bien figurer dans les
+compétitions du département et de monter sur les podiums dans leur catégorie
+respective.
 
-Ut in lorem eu odio convallis sodales. Nam urna purus, blandit sit amet sapien
-nec, vulputate efficitur justo. Nullam convallis sollicitudin laoreet. Maecenas
-pharetra justo sed mi iaculis, sed varius augue sodales. Nunc velit dui,
-convallis eget tempor in, pharetra ut nunc. Integer rutrum lectus sed lacinia
-hendrerit. Nullam eget accumsan risus, dignissim gravida libero. Sed vulputate,
-sapien non aliquet hendrerit, nisl massa porttitor magna, vitae molestie sem
-odio vitae felis.
+L’ACR est composée d’une centaine d’adhérents, de 7 à 77ans
+pourrait-on écrire, dont près de 40% représentent la gent féminine.
+L’entraînement se déroule 3 fois /semaine, notre lieu de rendez-vous étant le
+barrage du lac Kir. Le jeudi, possibilité de s’entraîner sur piste nous est
+donnée de 18h30 à 20h00 au stade Colette Besson sis sur le campus
+universitaire. Notre entraîneur, Jean-Claude Maguer, est une des figures
+emblématiques de la course à pied départementale. Qui ne connaît pas « le
+MAG » ? Par ailleurs, le Conseil d’Administration se réunit, au minimum, une
+fois par mois. Le procès - verbal de chaque séance est diffusé à chaque
+adhérent.
 
-Integer eu urna risus. Aliquam metus massa, suscipit non enim a, euismod
-condimentum quam. Donec justo sapien, bibendum in est id, lobortis cursus enim.
-Nulla et metus sed sem viverra mattis at ac magna. Praesent varius efficitur
-metus, et pulvinar urna euismod ut. Proin posuere pellentesque ipsum, et porta
-risus congue vel. Phasellus lacinia eros et nunc rutrum, ac dapibus neque
-mollis. Cras commodo at lacus sed semper. Etiam sed consequat velit.
-Pellentesque consectetur porta sagittis. Sed nisi lacus, cursus eu cursus
-ultrices, pellentesque nec erat. Curabitur et fermentum lorem. Cras rhoncus
-felis sed condimentum porta. Vivamus tristique augue quis justo accumsan
-rhoncus. Pellentesque ipsum metus, sollicitudin tincidunt mollis ac,
-consectetur eget turpis.
+Depuis 10 ans, nous organisons « les Foulées du Lac Kir » qui rassemblent
+maintenant plus de 1000 coureurs toutes courses confondues (10 km, 5 km et 2
+courses jeunes). La 11ème édition aura lieu le samedi 16 avril 2016. En outre,
+notre course est une des rares dans le département à disposer du label régional
+de la Fédération Française d’Athlétisme. A ce titre, elle est qualificative
+pour le Championnat de France des 10 km hors stade et désormais bien connue
+dans l’hexagone. Chaque année, nos efforts se portent sur l’accueil des
+concurrents et, notamment, sur notre village partenaires afin d’attirer encore
+plus de participants et permettre à tous de prendre du plaisir. Ainsi en 2015,
+un stand massage a été installé et a pu accueillir simultanément 10 coureurs.
+En plus des critères cités plus haut, la course compte pour l’attribution de
+points au Challenge de l’Etoile, ensemble de 9 courses organisées à Dijon, dans
+le Grand Dijon et dans le département.
 
-Cras sollicitudin ac turpis et tristique. Sed pharetra pretium tellus
-sollicitudin sodales. Vestibulum vel gravida mi. Nam venenatis, nibh id aliquam
-rutrum, velit odio tristique ante, id laoreet velit elit et lacus. Ut iaculis
-risus nec tortor fringilla consequat. Vivamus sit amet turpis congue, sagittis
-dolor eu, vulputate urna. Morbi eleifend iaculis turpis eget interdum. Cras
-lobortis sed urna faucibus porttitor. Duis imperdiet vulputate diam. Cras vitae
-ipsum eu neque gravida lacinia. Interdum et malesuada fames ac ante ipsum
-primis in faucibus. Curabitur pulvinar porttitor pulvinar.
+Ce challenge, organisé par la Commission
+des Courses Hors Stade, récompense non seulement les coureurs les plus
+performants mais aussi les plus assidus car, pour être classé dans chaque
+catégorie, il faut avoir participé à un minimum de courses. Sur le plan
+régional, l’ACR Dijon est bien classée : rang qui lui confère une place très
+respectable dans le premier tiers du classement national des clubs d’athlétisme
+hors stade. C’est un gage de reconnaissance dont le mérite en revient non
+seulement à ses athlètes mais aussi à ses dirigeants compétents et dévoués.
 
+Venez prendre du plaisir à courir à l’ACR, nous vous garantissons efficacité,
+convivialité et solidarité.  
