@@ -1,7 +1,7 @@
 Présentation de l'ACR
 =====================
 
-:date: 2015-05-08 21:20
+:date: 2015-09-12 09:00
 :summary: Le club de l'ACR et son fonctionnement
 
 .. image:: http://assets.acr-dijon.org/inscription.jpg
