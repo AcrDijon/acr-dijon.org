@@ -2,7 +2,7 @@ A propos du site
 ================
 
 :date: 2015-09-12 09:00
-:summary: Le club de l'ACR et son fonctionnement
+:summary: A propos du site de l'ACR
 
 
 **Le site de l’ACR est un espace où sont présentés les résultats, performances et
