@@ -1,11 +1,11 @@
-Nétiquette
-==========
+A propos du site
+================
 
 :date: 2015-09-12 09:00
 :summary: Le club de l'ACR et son fonctionnement
 
 
-**Le blog de l’ACR est un espace où sont présentés les résultats, performances et
+**Le site de l’ACR est un espace où sont présentés les résultats, performances et
 participations des adhérents du club ainsi que les informations concernant la
 vie du club.**
 
@@ -20,7 +20,7 @@ commentaires ou anecdotes  seront toujours les bienvenus. Toutefois, les
 remarques ou critiques personnelles n’y ont pas leur place, celles-ci pouvant
 s’exprimer par d’autres biais de communications.
 
-**Le blog conservera donc  cette
+**Le site de l'ACR conservera donc  cette
 spécificité de convivialité qui fait sa réputation.**
 
 Le bureau ACR.
