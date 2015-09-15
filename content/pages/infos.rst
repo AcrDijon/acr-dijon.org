@@ -8,7 +8,7 @@ Contacts
 --------
 
 Vous pouvez contacter les responsables de l'association en envoyant
-un e-mail à: <a href="mailto:contact@acr-dijon.org">contact@acr-dijon.org</a>
+un e-mail à: `contact@acr-dijon.org <mailto:contact@acr-dijon.org>`_
 
 - **Président** Alain BREGAND - 03 80 72 03 78 / 06 88 24 82 02
 - **Vice-Président** Didier BELLEVILLE - 03 80 41 81 62 / 06 08 98 77 17
