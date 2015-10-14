@@ -37,4 +37,7 @@ trois formules vous sont proposées :
 Le prix de la licence catégories "jeunes" (jusqu'à junior) a été fixé à 20 euros pour
 la saison 2014-2015.
 
+`Bulletin d'inscription <http://assets.acr-dijon.org/bulletin-2014-2015.pdf>`_.
+
+
 
