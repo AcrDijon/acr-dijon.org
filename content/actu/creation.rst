@@ -5,6 +5,9 @@ Création du Site
 :category: Actualités
 :summary: Bienvenue dans le nouveau site
 
+
+.. image:: http://assets.acr-dijon.org/nouvel-an.jpg
+
 Bienvenue sur le nouveau site de l'ACR Dijon!
 
 Cet espace a été créé dans la continuité du blog que nous maintenions depuis de nombreuses
