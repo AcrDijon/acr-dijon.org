@@ -11,7 +11,7 @@ Félicitations à **Michael Alixant** qui finit son premier 100 km.
 **150ème en 12h24'17"**
 
 
-.. image:: http://assets-acr.ziade.org/amiens.jpg
+.. image:: http://assets.acr-dijon.org/amiens.jpg
 
 Je confirme 100 km, c’est long!! 100km le jour de mes 40ans c’était un Défi.
 Les 50 premiers kilomètres se sont bien passés avec le chromo prévu 05h25 mais
