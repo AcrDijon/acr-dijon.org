@@ -69,6 +69,11 @@ a {
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
 
+.uk-heading-large {
+   font-size: 40px;
+}
+
+
 .mg-header {
   padding: 1em 0;
   background-color: white; 
