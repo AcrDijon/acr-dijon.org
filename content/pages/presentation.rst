@@ -1,5 +1,5 @@
-Présentation de l'ACR
-=====================
+Présentation ACR
+================
 
 :date: 2015-09-12 09:00
 :summary: Le club de l'ACR et son fonctionnement
