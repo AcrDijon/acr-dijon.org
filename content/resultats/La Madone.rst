@@ -9,7 +9,7 @@ Velars-Sur-Ouche (8 et 14 km)
 Avec encore quelques podiums à la clé.
 
 8 km : 
-======
+------
 
 184 concurrents classés
 victoire de Franck CAILLON (non licencié) en 31'12''
@@ -19,7 +19,7 @@ victoire de Franck CAILLON (non licencié) en 31'12''
 - 85e : Laurentine KLEIN, en 46'21'' (1ere ESF)
 
 14 km : 
-=======
+-------
 
 474 concurrents classés
 victoire de Thomas REMOND (non licencié), en54'44''
