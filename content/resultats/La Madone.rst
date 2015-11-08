@@ -1,6 +1,10 @@
 La Madone
 =========
 
+:date: 2015-11-08 20:39
+:category: Résultats
+:summary: Le Trail de la Madone
+
 Velars-Sur-Ouche (8 et 14 km)
 
 .. image:: http://assets.acr-dijon.org/madone2015.jpg
