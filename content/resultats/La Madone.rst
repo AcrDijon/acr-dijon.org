@@ -14,9 +14,9 @@ Avec encore quelques podiums à la clé.
 184 concurrents classés
 victoire de Franck CAILLON (non licencié) en 31'12''
 
--7e  : Fabrice HEURET, en 33'52''
--38e : Gérard GOEURY, en 40'43'' (2e V3M)
--85e : Laurentine KLEIN, en 46'21'' (1ere ESF)
+- 7e  : Fabrice HEURET, en 33'52''
+- 38e : Gérard GOEURY, en 40'43'' (2e V3M)
+- 85e : Laurentine KLEIN, en 46'21'' (1ere ESF)
 
 14 km : 
 =======
@@ -24,9 +24,9 @@ victoire de Franck CAILLON (non licencié) en 31'12''
 474 concurrents classés
 victoire de Thomas REMOND (non licencié), en54'44''
 
--195e : Charly FONTAINE, en 1h19'29''
--246e : Christophe MIMEUR, en 1h22'40''
--282e : Jean-Philippe BEUCHE, en 1h25'36''
+- 195e : Charly FONTAINE, en 1h19'29''
+- 246e : Christophe MIMEUR, en 1h22'40''
+- 282e : Jean-Philippe BEUCHE, en 1h25'36''
 
 Bravo à tous !
 
