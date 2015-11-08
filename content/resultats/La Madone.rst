@@ -26,7 +26,7 @@ Victoire de **Franck CAILLON** (non licencié) en 31'12''
 
 474 concurrents classés.
 
-Victoire de Thomas REMOND (non licencié), en54'44''
+Victoire de Thomas REMOND (non licencié), en 54'44''
 
 - 195e : **Charly FONTAINE**, en 1h19'29''
 - 246e : **Christophe MIMEUR**, en 1h22'40''
