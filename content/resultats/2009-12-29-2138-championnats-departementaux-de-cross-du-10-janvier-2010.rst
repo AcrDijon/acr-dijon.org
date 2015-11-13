@@ -7,8 +7,7 @@ Championnats départementaux de cross du 10 janvier 2010
 
 Les licenciés FFA qui souhaitent participer aux championnats départementaux de cross à Chatillon Sur Seine le 10 janvier 2010 doivent se faire connaître dès que possible. L’ACR se charge des inscriptions. Les détenteurs de licences Loisir ou simple adhérent devront s’inscrire individuellement. Contacts : responsables habituels.
 
-Championnats Départementaux de Cross Country 2010 à Chatillon sur seine. 
-=========================================================================
+Championnats Départementaux de Cross Country 2010 à Chatillon sur seine.
 
 **LE DIMANCHE 10 JANVIER**
 

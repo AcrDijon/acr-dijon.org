@@ -5,11 +5,9 @@ Lyon Urban Trail
 :category: Résultats
 :summary: Lyon Urban Trail
 
-**1ère édition de LUT By Night** 
-=================================
+**1ère édition de LUT By Night**
 
-**Le LUT inaugure sa version de nuit** 
-=======================================
+**Le LUT inaugure sa version de nuit**
 
 
 Initialement annoncé le 20 septembre,Lyon Urban Trail By Night aura finalement lieu le 8 novembre.
