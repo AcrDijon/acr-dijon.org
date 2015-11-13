@@ -1,0 +1,15 @@
+Vu sur Le Bien Public du 15/01/2008
+===================================
+
+:date: 2008-01-15 11:58
+:category: Résultats
+:summary: Vu sur Le Bien Public du 15/01/2008
+
+| Alexandra Poli (ACRD) s'impose en cadettes (photos Arnaud Finistre)|
+
+
+Alexandra Poli (ACR Dijon) s'impose en cadettes (photos Arnaud Finistre)
+
+.. |LE BIEN PUBLIC - les dépêches| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomimg-logo.gif
+.. _|LE BIEN PUBLIC - les dépêches|: http://www.bienpublic.com/
+.. | Alexandra Poli (ACRD) s'impose en cadettes (photos Arnaud Finistre)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1002_150108.jpg

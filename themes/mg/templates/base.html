@@ -118,8 +118,11 @@ type='text/css'>
                     
                     {% endif %}
 
-                    <li class="uk-nav-divider"></li>
-                    <li {% if page_name == 'archives' %}class="uk-active"{% endif %}><a href="{{ SITEURL }}/archives.html">Archives</a></li>
+                    <li class="uk-nav-header">Archives</li>
+                    {% for group in articles|groupby('date.year')|reverse %}
+                    <li><a href="{{ SITEURL }}/posts/{{group.grouper}}/index.html">{{ group.grouper }}
+                     ({{ group.list|length }})</a><li>
+                    {% endfor %}
                 </ul>
             </div>
 

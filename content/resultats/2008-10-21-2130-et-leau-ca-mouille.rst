@@ -1,0 +1,9 @@
+Et l'eau ça mouille...
+======================
+
+:date: 2008-10-21 21:30
+:category: Résultats
+:summary: Et l'eau ça mouille...
+
+Que des athlètes motivés ce soir à l'entraînement... Malgré la pluie incessante, pas moins de 18 ACéRistes étaient présents sur les berges du Lac Kir pour la séance du mardi soir ! Ballade en endurance pour ceux qui ont couru ce week-end ou fractionné de dernier réglage pour les futurs "Marseillais", c'est avec le sourire que tous sont revenus des Flic-Floc dans les flaques. Et quand je vous disais que le groupe c'est plus motivant lorsque le temps est dur, qu'il pleut, qu'il fait froid, que le vent souffle ? Va falloir s'habituer car la semaine prochaine, nous changeons d'heure et qu'il fera nuit encore plus tôt...
+Alors haut les coeurs, ACéRistes vaillants ! De foulées en foulées, l'hiver passera.

@@ -1,0 +1,20 @@
+09/08/08 - Foulées Cercycoises
+==============================
+
+:date: 2008-08-18 00:07
+:category: Résultats
+:summary: 09/08/08 - Foulées Cercycoises
+
+C'est à Cercy la Tour (58) que **Bertrand Quintin**  a couru le samedi 09 août. Aligné sur le 5800 mètres, Bertrand a pris une belle deuxième place à seulement 20 secondes du vainqueur.
+
+
+
+3
+
+
+
+Retrouvez les classements complets de cette épreuve avec le lien suivant: `http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=029390 <http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=029390>`_
+
+.. _4 ème course 5,800 kms catégories C à V: javascript:openrec('http://www.athle.com/dev/ffa/recordCompet.aspx?num=029390&epreuve=003&sexe=M&serie=4%20%C3%A8me%20course%205,800%20kms%20cat%C3%A9gories%20C%20%C3%A0%20V')
+.. _AUCLAIR Mickael: javascript:bddThrowAthlete('resultats',%20484986,%200)
+.. _QUINTIN Bertrand: javascript:bddThrowAthlete('resultats',%20183603,%200)

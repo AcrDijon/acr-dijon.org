@@ -1,0 +1,17 @@
+10 km de Seurre
+===============
+
+:date: 2015-08-03 20:48
+:category: Résultats
+:summary: 10 km de Seurre
+
+|Mais ou est passé Jean Philippe?|
+
+
+Mais ou est passé Jean Philippe?
+
+167     | Rob Heywood                | 01:22:00
+
+**Félicitations à tous les 4**
+
+.. |Mais ou est passé Jean Philippe?| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150803-ob_eb9a4b_1.JPG

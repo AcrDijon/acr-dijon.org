@@ -1,0 +1,41 @@
+Test VMA du 25 Mars
+===================
+
+:date: 2012-03-25 20:29
+:category: Résultats
+:summary: Test VMA du 25 Mars
+
+|Les-misses-sont-un-peu-trop-rapides.JPG| Ce matin se déroulait un Test VMA sur la piste d'Epirey.
+
+
+5 de nos adhérents étaient présents mal grès le changement d'heure.
+
+
+On note la progression de nos 2 adhérentes Vanessa et Séverine.
+
+
+Jean Philippe stagne par manque d'entraînement.
+
+
+Nicolas réalise son premier test VMA et Bertrand Bulle privé de son lièvre ne pourra pas se dépasser.
+
+
+Résultat du test de ce matin |Les-hommes-reprennent-la-donne.JPG|
+
+
+Séverine: 15 km/h
+
+
+Vanessa: 15,5 km/h
+
+
+Jean Philippe: 17 km/h
+
+
+Nicolas: 17,5 km/h
+
+
+Bertrand: 19,5 km/h
+
+.. |Les-misses-sont-un-peu-trop-rapides.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2012test-vma-les-misses-sont-un-peu-trop-rapides.JPG
+.. |Les-hommes-reprennent-la-donne.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2012test-vma-les-hommes-reprennent-la-donne.JPG

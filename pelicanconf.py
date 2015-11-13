@@ -54,3 +54,5 @@ DISQUS_SITENAME = "httpacrziadeorg"
 SC_PROJECT = '10431657'
 SC_SECURITY = 'fb0b78b3'
 
+YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+

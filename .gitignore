@@ -6,3 +6,4 @@ cache/
 include/
 lib/
 output/
+.DS_Store

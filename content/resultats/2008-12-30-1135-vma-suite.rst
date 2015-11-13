@@ -1,0 +1,15 @@
+VMA suite...
+============
+
+:date: 2008-12-30 11:35
+:category: Résultats
+:summary: VMA suite...
+
+|httpfarm1staticflickrcom61-221471514_f7e71f34eb.jpg| | Retour sur notre test VMA du Samedi 20 décembre avec le lien sur le site d' Eric (Père de William). Quelques photos d'ensemble...Toujours sympa ! `http://eric63.sports.over-blog.com/article-25981013.html`_ 
+
+Parlons aussi un peu de nos sponsors, en n'oubliant pas, lorsque vous vous y rendez et que cela est possible, de dire l'apartenance au club... Pourquoi pas un petit rabais ?
+
+J'ai le droit d'y croire, c'est pas les fêtes, en ce moment...
+
+.. |httpfarm1staticflickrcom61-221471514_f7e71f34eb.jpg| image:: http://assets.acr-dijon.org/old/httpfarm1staticflickrcom61-221471514_f7e71f34eb.jpg
+.. _http://eric63.sports.over-blog.com/article-25981013.html: http://eric63.sports.over-blog.com/article-25981013.html

@@ -1,0 +1,10 @@
+Naissance...
+============
+
+:date: 2007-09-12 20:34
+:category: Résultats
+:summary: Naissance...
+
+|httpidataover-blogcom0120862-naissance-guillaume.jpg|
+
+.. |httpidataover-blogcom0120862-naissance-guillaume.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-naissance-guillaume.jpg

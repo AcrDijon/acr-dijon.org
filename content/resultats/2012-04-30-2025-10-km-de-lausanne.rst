@@ -1,0 +1,17 @@
+10 km de Lausanne
+=================
+
+:date: 2012-04-30 20:25
+:category: Résultats
+:summary: 10 km de Lausanne
+
+|lausanne.jpg| Sur un parcours pentu et sous un (trop ) chaud soleil, Vincent MP prend la 23 ième place sur 6248 arrivants d'un 10 km gagné en 31' 28".
+
+Ses 35'  51" lui offrent la 12 ième position dans la catégorie des Hommes I ( 20 à 30 ans ). sur 825 classés.
+
+Le maillot de l'ACR s'est fait une petite place à la une du journal local de dimanche!!
+
+|DSC03225.JPG|
+
+.. |lausanne.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2012lausanne-lausanne.jpg
+.. |DSC03225.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012lausanne-dsc03225.JPG
