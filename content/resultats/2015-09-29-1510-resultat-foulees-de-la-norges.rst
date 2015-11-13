@@ -12,11 +12,23 @@ David Dumont Photographe amateur
 
 346     | Jean Claude Rouot        | 01:11:20
 
-`|Résultat Foulées de la Norges| <http://img.over-blog-kiwi.com/1/49/28/85/20150929/ob_427476_vincent-badet.jpg>`_ `|Résultat Foulées de la Norges #0| <http://img.over-blog-kiwi.com/1/49/28/85/20150929/ob_5d86e5_bertrand.jpg>`_
+|Résultat Foulées de la Norges|
 
-`|Résultat Foulées de la Norges #1| <http://img.over-blog-kiwi.com/1/49/28/85/20150929/ob_96da8f_jean-louis.jpg>`_ `|Résultat Foulées de la Norges #2| <http://img.over-blog-kiwi.com/1/49/28/85/20150929/ob_84e76d_christian.jpg>`_ `|Résultat Foulées de la Norges #3| <http://img.over-blog-kiwi.com/1/49/28/85/20150929/ob_9963de_pierre.jpg>`_
+|Résultat Foulées de la Norges #0|
 
-`|Résultat Foulées de la Norges #4| <http://img.over-blog-kiwi.com/1/49/28/85/20150929/ob_cc15b5_jean-philippe.jpg>`_ `|Résultat Foulées de la Norges #5| <http://img.over-blog-kiwi.com/1/49/28/85/20150929/ob_cf4704_talmi.jpg>`_
+|Résultat Foulées de la Norges #1|
+
+|Résultat Foulées de la Norges #2|
+
+|Résultat Foulées de la Norges #3|
+
+|Résultat Foulées de la Norges #4|
+
+|Résultat Foulées de la Norges #5|
+
+
+
+
 
 .. |David Dumont Photographe amateur| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150929-ob_ce42a3_bea.jpg
 .. |Résultat Foulées de la Norges| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom300x225-ct149288520150929-ob_427476_vincent-badet.jpg
