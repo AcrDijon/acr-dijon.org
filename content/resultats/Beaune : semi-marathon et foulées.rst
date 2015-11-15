@@ -5,7 +5,7 @@ Semi-Marathon de Beaune et Foulées Beaunoises (14/11/2015)
 :category: Résultats
 :summary: Semi-Marathon de la vente des vins des Hospices de Beaune et Foulées Beaunoises
 
-Les courses de Beaune se sont finalement déroulées, même si l'incertitude a pesé jusqu'à une heure avant leur déroulement.
+Les courses de Beaune ont finalement eu lieu, même si l'incertitude a pesé jusqu'à une heure avant leur déroulement.
 Après une avant-course marquée par le recueillement et l'émotion, le soleil et la douceur ont accompagné l'ensemble des participants.
 L'ACR a répondu présent à l'occasion de la 30e édition de cette épreuve, avec un nombre conséquent de participants.
 
