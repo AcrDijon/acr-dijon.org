@@ -10,7 +10,7 @@ Après une avant-course marquée par le recueillement et l'émotion, le soleil e
 L'ACR a répondu présent à l'occasion de la 30e édition de cette épreuve, avec un nombre conséquent de participants.
 
 Foulées Beaunoises (10,4 km)
-============================
+----------------------------
 
 2073 concurrents classés / Victoire de **Thierry GUIBAULT** : 33'06''
 
@@ -38,7 +38,7 @@ Foulées Beaunoises (10,4 km)
 
 
 Semi-Marathon
-=============
+-------------
 
 2531 concurrents classés / Victoire de **Willy NDIMAYANO** : 1h05'03'' (record de l'épreuve)
 
