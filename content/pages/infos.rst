@@ -37,7 +37,7 @@ trois formules vous sont proposées :
    titre associatif (30 euros).
 
 Le prix de la licence catégories "jeunes" (jusqu'à junior) a été fixé à 20 euros pour
-la saison 2014-2015.
+la saison 2015-2016.
 
 Un supplément de 5 euros est demandé aux nouveaux adhérents pour participer aux frais
 du t-shirt du club qui est remis à chaque adhérent.
