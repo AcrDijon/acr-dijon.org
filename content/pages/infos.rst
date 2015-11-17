@@ -10,12 +10,14 @@ Contacts
 Vous pouvez contacter les responsables de l'association en envoyant
 un e-mail à: `contact@acr-dijon.org <mailto:contact@acr-dijon.org>`_
 
-- **Président** Alain BREGAND - 03 80 72 03 78 / 06 88 24 82 02
-- **Vice-Président** Didier BELLEVILLE - 03 80 41 81 62 / 06 08 98 77 17
+- **Président** Didier BELLEVILLE - 03 80 41 81 62 / 06 08 98 77 17
+- **Vice-Président** Manuel LOPEZ-VARQUIEL - 06 71 68 57 31
 - **Trésorier** Pierre AUDIN - 03 80 74 14 66 / 06 79 80 21 83
 - **Secrétaire** Laurent BERTHE - 03 80 42 13 60 / 06 86 89 33 61
-- **Chargé de Communication** Didier BELLEVILLE
-- **Blog** Vincent Lauvergne - 06 10 47 38 17
+- **Secrétaire Adjointe** Claire TAINTURIER - 06 77 47 40 74
+- **Secrétaire Adjointe** Edith SANCHEZ - 06 32 17 66 21
+- **Chargé de Communication** Jean-Christophe DUBARD - 06 21 67 94 79
+- **Relations Partenaires** Eric MARILLIER - 06 26 02 18 85
 
 
 
