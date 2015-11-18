@@ -59,7 +59,7 @@ Sponsors
 
 .. image:: /theme/partenaires/rapidflore.png
 
-
+.. image:: /theme/partenaires/doras.png
 
 
 
