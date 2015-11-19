@@ -5,7 +5,7 @@ Trail des Ducs / Montbéliard (25) / 15.11.2015
 :category: Résultats
 :summary: Trail des Ducs 31 km
 
-Laurentine et Kévin étaient à Montbéliard dimanche, à l'occasion du Trail des Ducs, pour y disputer la course de 31 km (923m D+), parmi les diverses épreuves au programme du jour.
+**Laurentine KLEIN** et **Kévin FOND** étaient à Montbéliard dimanche, à l'occasion du Trail des Ducs, pour y disputer la course de 31 km (923m D+), parmi les diverses épreuves au programme du jour.
 
 .. image:: http://assets.acr-dijon.org/i1.jpg
 .. image:: http://assets.acr-dijon.org/i2.jpg
