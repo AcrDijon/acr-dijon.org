@@ -51,8 +51,6 @@ Sponsors
 
 .. image:: /theme/partenaires/lafestive.png
 
-.. image:: /theme/partenaires/lagazette.png
-
 .. image:: /theme/partenaires/lesportif.png
 
 .. image:: /theme/partenaires/orangebleue.png
