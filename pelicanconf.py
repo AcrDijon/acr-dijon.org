@@ -55,4 +55,13 @@ SC_PROJECT = '10431657'
 SC_SECURITY = 'fb0b78b3'
 
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+DEFAULT_DATE_FORMAT = '%a %d %B %Y'
 
+from pelican.utils import strftime, get_date
+
+
+def str2defaultformat(data):
+    return strftime(get_date(data), DEFAULT_DATE_FORMAT)
+
+
+JINJA_FILTERS = {'str2defaultformat': str2defaultformat}

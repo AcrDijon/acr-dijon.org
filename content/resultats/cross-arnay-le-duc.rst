@@ -1,9 +1,11 @@
-48e cross d'Arnay Le Duc (11.11.2015)
-=====================================
+48e cross d'Arnay Le Duc
+========================
 
 :date: 2015-11-12 15:20
 :category: Résultats
-:summary: cross d'Arnay Le Duc
+:location: Arnay Le Duc
+:eventdate: 2015-11-11
+
 
 .. image:: http://assets.acr-dijon.org/DSCN1552.jpg
 

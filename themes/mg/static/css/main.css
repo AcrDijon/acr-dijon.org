@@ -20,6 +20,10 @@ a {
 .uk-article-meta > .uk-icon-comment {
   color: #444; }
 
+.uk-article-meta {
+  font-size: 16px;
+}
+
 .uk-icon-twitter {
   color: #00B0ED; }
 

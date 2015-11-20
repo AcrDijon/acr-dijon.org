@@ -1,9 +1,10 @@
-Semi-Marathon de Beaune et Foulées Beaunoises (14/11/2015)
-==========================================================
+Semi-Marathon de Beaune et Foulées Beaunoises
+=============================================
 
 :date: 2015-11-15 22:00
 :category: Résultats
-:summary: Semi-Marathon de la vente des vins des Hospices de Beaune et Foulées Beaunoises
+:location: Beaune
+:eventdate: 2015-11-14
 
 Les courses de Beaune ont finalement eu lieu, même si l'incertitude a pesé jusqu'à une heure avant leur déroulement.
 Après une avant-course marquée par le recueillement et l'émotion, le soleil et la douceur ont accompagné l'ensemble des participants.
