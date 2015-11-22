@@ -11,6 +11,11 @@ La fin de l'année approche, mais il reste encore quelques belles courses à dis
 
   http://oms-saulieu.skyrock.com/
 
+- Samedi 5/12 : **Trail du plateau de CHENÔVE 2e édition**
+distances : 8 ou 16 km ; trail diurne pour le 8 km, nocturne pour le 16 km
+
+http://www.cdchs21.fr/2015/12/2015-12-05-samedi-5-decembre-2015-trail-du-plateau-chenove.html
+
 - Dimanche 6/12 : **Foulées du Téléthon / GENLIS**
   distances : 11 et 6 km ; parcours plat sur chemins de champs
 
