@@ -23,8 +23,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/acrdijon'),
-          ('envelope', 'mailto:contact@acr-dijon.org'),)
+SOCIAL = [('envelope', 'mailto:contact@acr-dijon.org')]
 
 DEFAULT_PAGINATION = 10
 
@@ -43,7 +42,7 @@ FAVICON_TYPE = 'image/vnd.microsoft.icon'
 
 FOOTER = "&copy; 2015 ACR Dijon. Tout droits réservés."
 
-SHARE = True
+SHARE = False
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'

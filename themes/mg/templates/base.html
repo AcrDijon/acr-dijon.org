@@ -87,12 +87,12 @@ type='text/css'>
 <div class="uk-container uk-container-center">
 
     <div class="uk-grid" data-uk-grid-margin>
-        
+
         {% block content %}
-        {% endblock %} 
-    
+        {% endblock %}
+
         <div class="uk-width-medium-1-5 uk-hidden-small">
-            
+
             <div class="uk-panel uk-panel-box">
               <form class="uk-search" action="{{ SITEURL }}/search.html" data-uk-search>
                     <input class="uk-search-field tipue_search" type="search"
@@ -109,13 +109,13 @@ type='text/css'>
                     {% endfor %}
                     {% if DISPLAY_PAGES_ON_MENU != False %}
                     <li class="uk-nav-header">Pages</li>
-                    
+
                     {% for p in PAGES %}
                     <li {% if p == page %}class="uk-active"{% endif %}>
                         <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
                     </li>
                     {% endfor %}
-                    
+
                     {% endif %}
 
                     <li class="uk-nav-header">Archives</li>
@@ -126,11 +126,6 @@ type='text/css'>
                 </ul>
             </div>
 
-            <div class="uk-panel uk-panel-box">
-                <h3 class="uk-panel-title">Abonnement Flux</h3>
-                <a rel="alternate" type="application/atom+xml" href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" class="mg-feed"><i class="uk-icon-rss uk-icon-medium"></i> ATOM</a>
-            </div>
-            
             {% if SOCIAL %}
             <div class="uk-panel uk-panel-box">
                 <h3 class="uk-panel-title">Contacts</h3>
@@ -171,7 +166,7 @@ type='text/css'>
             class="uk-visible-small"> Theme <a
               href="https://github.com/lucachr/pelican-mg">mg</a> par <a href="https://github.com/lucachr">Luca Chiricozzi</a>.</p>
         </div>
-    </div> 
+    </div>
 </footer>
 
 <div id="mg-offcanvas" class="uk-offcanvas">
@@ -188,13 +183,13 @@ type='text/css'>
             <li {% if cat == category %}class="uk-active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
             {% endfor %}
             {% if DISPLAY_PAGES_ON_MENU != False %}
-            <li class="uk-nav-header">Pages</li>        
+            <li class="uk-nav-header">Pages</li>
             {% for p in PAGES %}
             <li {% if p == page %}class="uk-active"{% endif %}>
                 <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
             </li>
             {% endfor %}
-                    
+
             {% endif %}
 
             <li class="uk-nav-divider"></li>
