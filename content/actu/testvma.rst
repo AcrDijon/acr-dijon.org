@@ -5,7 +5,7 @@ Test VMA : Stade Colette Besson
 
 
 12 courageux ont bravé le froid et le vent ce dimanche matin, pour s'étalonner sur un test VMA, sur la piste d'athlétisme du Stade Colette Besson.
-Sous la houlette de Mag' qui a pris en charge la logistique et l'organisation du test, ils partirent au complet et souriants ou concentrés, puis le groupe s'étiola jusqu'à ce que le dernier stoppe son effort, après avoir atteint 19 km/h, tout de même...
+Sous la houlette de Mag' qui a pris en charge la logistique et l'organisation du test, ils partirent au complet et souriants ou concentrés, puis le groupe s'étiola jusqu'à ce que le dernier stoppe son effort, après avoir atteint la barre des 19 km/h, tout de même...
 
 .. image:: http://assets.acr-dijon.org/vma1.jpg
 
