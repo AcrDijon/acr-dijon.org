@@ -2,14 +2,14 @@
 ========================
 
 :date: 2015-04-22 14:33
-:category: Résultats
+:category: Foulées
 :summary: 10ème Foulées du Lac Kir
 
 Après le vif succès de cette nouvelle édition, nous nous efforcerons de continuer de faire aussi bien, si ce n'est encore mieux pour la 11ème édition.
 
 |10ème Foulées du Lac Kir|
 
-En attendant, vous pouvez d'ores et déjà retrouver l'intégralité des résulatats en cliquant sur le lien suivant :
+En attendant, vous pouvez d'ores et déjà retrouver l'intégralité des résultats en cliquant sur le lien suivant :
 
 
 `http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=164514 <http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=164514>`_

@@ -2,7 +2,7 @@ Liste des inscrits au 14 avril
 ==============================
 
 :date: 2015-04-14 07:10
-:category: Résultats
+:category: Foulées
 :summary: Liste des inscrits au 14 avril
 
 |Liste des inscrits au 14 avril|

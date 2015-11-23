@@ -2,7 +2,7 @@ Liste des inscrits aux Foulées du Lac Kir
 =========================================
 
 :date: 2015-04-08 19:37
-:category: Résultats
+:category: Foulées
 :summary: Liste des inscrits aux Foulées du Lac Kir
 
 |Liste des inscrits aux Foulées du Lac Kir|

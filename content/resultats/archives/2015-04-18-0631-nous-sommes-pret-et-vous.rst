@@ -2,7 +2,7 @@ Nous sommes pret et vous...
 ===========================
 
 :date: 2015-04-18 06:31
-:category: Résultats
+:category: Foulées
 :summary: Nous sommes pret et vous...
 
 |Nous sommes pret et vous...|

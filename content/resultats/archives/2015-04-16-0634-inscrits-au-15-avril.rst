@@ -2,7 +2,7 @@ Inscrits au 15 Avril
 ====================
 
 :date: 2015-04-16 06:34
-:category: Résultats
+:category: Foulées
 :summary: Inscrits au 15 Avril
 
 |Inscrits au 15 Avril|

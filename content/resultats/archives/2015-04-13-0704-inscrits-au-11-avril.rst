@@ -2,7 +2,7 @@ Inscrits au 11 avril
 ====================
 
 :date: 2015-04-13 07:04
-:category: Résultats
+:category: Foulées
 :summary: Inscrits au 11 avril
 
 |Parcours des Foulées du Lac Kir|
