@@ -118,6 +118,13 @@ type='text/css'>
 
                     {% endif %}
 
+                    {% if LINKS %}
+                    <li class="uk-nav-header">Liens</li>
+                    {% for title, url in LINKS %}
+                    <li><a href="{{ url }}">{{ title }}</a></li>
+                    {% endfor %}
+                    {% endif %}
+
                     <li class="uk-nav-header">Archives</li>
                     {% for group in articles|groupby('date.year')|reverse %}
                     <li><a href="{{ SITEURL }}/posts/{{group.grouper}}/index.html">{{ group.grouper }}
@@ -189,7 +196,13 @@ type='text/css'>
                 <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
             </li>
             {% endfor %}
+            {% endif %}
 
+            {% if LINKS %}
+            <li class="uk-nav-header">Liens</li>
+            {% for title, url in LINKS %}
+            <li><a href="{{ url }}">{{ title }}</a></li>
+            {% endfor %}
             {% endif %}
 
             <li class="uk-nav-divider"></li>

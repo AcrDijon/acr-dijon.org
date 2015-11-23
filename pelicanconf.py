@@ -17,10 +17,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Athle.fr', 'http://www.athle.fr/ffa.performance/'),
+        ('Ligue Bourgogne', 'http://ffaliguebou.pagesperso-orange.fr/'),
+        ("J'aime Courir", 'http://www.jaimecourir.fr/'),
+        ('CDCHS 21', 'http://www.cdchs21.fr'),
+)
 
 # Social widget
 SOCIAL = [('envelope', 'mailto:contact@acr-dijon.org')]
