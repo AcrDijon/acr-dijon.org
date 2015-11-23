@@ -2,7 +2,7 @@ Classements des Foulées du Lac Kir
 ==================================
 
 :date: 2006-05-22 16:58
-:category: Résultats
+:category: Foulées
 :summary: Classements des Foulées du Lac Kir
 
 Vous avez été nombreux à courir les premières Foulées du Lac Kir. L'acalmie du temps dés le début d'après midi (veille et matin pluvieux...), a été profitable...c'est pas moins de 367 inscrits que les organisateurs ont pu décompter. Les courses enfants ont été aussi trés disputées.
