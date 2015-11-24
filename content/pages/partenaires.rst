@@ -11,8 +11,6 @@ Partenaires institutionels
 
 .. image:: /theme/partenaires/bourgogne.png
 
-.. image:: /theme/partenaires/cgeneral.png
-
 .. image:: /theme/partenaires/omsport.png
 
 .. image:: http://assets.acr-dijon.org/logocg.png
