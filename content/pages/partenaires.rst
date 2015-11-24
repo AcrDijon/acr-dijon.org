@@ -15,6 +15,8 @@ Partenaires institutionels
 
 .. image:: /theme/partenaires/omsport.png
 
+.. image:: http://assets.acr-dijon.org/logocg.png
+
 
 Instances sportives
 -------------------
