@@ -6,7 +6,7 @@ Trail de la Nuit d'Or
 :location: Villars Fontaine
 :eventdate: 2015-11-21
 
-Six ACRistes étaient samedi soir à **Villars Fontaine**, à l'occasion du trail nocturne de la Nuit d'Or.
+Sept ACRistes étaient samedi soir à **Villars Fontaine**, à l'occasion du trail nocturne de la Nuit d'Or.
 
 Distance : 15,431 km (370m D+)
 
@@ -17,6 +17,7 @@ Distance : 15,431 km (370m D+)
 - 42e **Dominique ZIMA** : 1h14'48'' (**2eV2H**)
 - 187e **Christophe MIMEUR** : 1h27'05''
 - 200e **David PAUTET** : 1h28'10''
+- 273e **Thomas PAGET** : 1h32'54''
 - 325e **Jean-Philippe BEUCHE** : 1h36'27''
 
 Bravo à eux, pour leur effort et pour avoir représenté notre club !
