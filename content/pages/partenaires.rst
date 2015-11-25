@@ -59,6 +59,6 @@ Sponsors
 
 .. image:: http://assets.acr-dijon.org/doras.png
 
-
+.. image:: http://assets.acr-dijon.org/lr.png
 
 
