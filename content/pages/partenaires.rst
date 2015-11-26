@@ -61,4 +61,4 @@ Sponsors
 
 .. image:: http://assets.acr-dijon.org/lr.png
 
-
+.. image:: http://assets.acr-dijon.org/barbarians.png
