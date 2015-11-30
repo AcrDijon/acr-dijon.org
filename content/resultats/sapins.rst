@@ -21,7 +21,7 @@ Pour cette édition anniversaire, l'inscription était gratuite, mais le sapin d
 
 *Zoé (à droite) troisième des Benjamines*
 
-Course des As (7,5km) :
+Course des As (7,6km) :
 -----------------------
 
 311 concurrents classés.
