@@ -28,7 +28,7 @@ Course des As (7,6km) :
 
 Victoire de **Nicolas MARY** (AC CHENÔVE) en 26'44''
 
-- 14e  : **Tarek ZIADE**, en 29'37''
+- 15e  : **Tarek ZIADE**, en 29'37''
 - 38e : **Manuel LOPEZ VARQUIEL**, en 31'47''
 - 126e : **Valentin FRELET**, en 37'22''
 - 130e  : **Jean-Christophe DUBARD**, en 37'39''
