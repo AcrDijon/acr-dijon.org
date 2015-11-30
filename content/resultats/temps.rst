@@ -1,9 +1,9 @@
-Les Couloirs du Temps 7 et 14 km / AUXONNE
-==========================================
+Les Couloirs du Temps 7 et 14 km
+================================
 
 :date: 2015-11-30 15:00
 :category: Résultats
-:location: AUXONNE
+:location: Auxonne
 :eventdate: 2015-11-28
 
 Trois explorateurs de l'ACR se sont élancés dans les Couloirs du Temps (7km) vendredi soir, pour cette nouvelle course urbaine nocturne, parcourant couloirs, escaliers, et divers lieux ordinairement inaccessibles...
