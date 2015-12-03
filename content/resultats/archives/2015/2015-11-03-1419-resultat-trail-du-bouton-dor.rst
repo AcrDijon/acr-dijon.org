@@ -22,10 +22,10 @@ Elle termine**209e en 1h04'37''**  mais **1ere ESF** , malgré tout !
 **22,5 km : 241 concurrents classés**
 
 
-Bertrand BULLE, 13ème en 1h45'57''
-Dominique ZIMA, 32ème en 1h55'41''
-David PAUTET, 114ème en 2h14'41''
-Vincent LAUVERGNE, 155ème en 2h24'08''
+- Bertrand BULLE, 13ème en 1h45'57''
+- Dominique ZIMA, 32ème en 1h55'41''
+- David PAUTET, 114ème en 2h14'41''
+- Vincent LAUVERGNE, 155ème en 2h24'08''
 
 
 **3000m (course jeunes) : 44 classés** 
