@@ -39,7 +39,7 @@ Résultat du Bien Public
 - 1333    | **Alain BREGAND**          | 1h05'06''
 - 1353    | **Jean Louis RABIET**      | 1h05'34''
 
-**5km**(course féminine)
+**5 km** (course féminine)
 
 198 concurrentes classées / Victoire d'**Annie TROUSSARD** | 18'20''
 
