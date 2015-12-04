@@ -11,17 +11,17 @@ Belle représentation ACRiste pour cette 25e édition, sous des conditions mét�
 1046 concurrents classés (1er : Alexandre BOURGEOIS 33'05")
 
 
-83e Dominique ZIMA : 40'40"
-284e Ismaël KHADIR : 46'12"
-297e JC DUBARD : 46'25"
-341e Eric MARILLIER : 47'24"
-391e Christian COTELLE : 48'27"
-451e Sylvain SANCHEZ : 49'37"
-549e Soua M'COMBANI : 51'37"
-676e Sandrine CABIJOS :54'27"
-819e Eric CORDIER : 58'20"
-832e Edith SANCHEZ : 58'47"
-858e Aurélie RAVAUD : 59'39"
+- 83e Dominique ZIMA : 40'40"
+- 284e Ismaël KHADIR : 46'12"
+- 297e JC DUBARD : 46'25"
+- 341e Eric MARILLIER : 47'24"
+- 391e Christian COTELLE : 48'27"
+- 451e Sylvain SANCHEZ : 49'37"
+- 549e Soua M'COMBANI : 51'37"
+- 676e Sandrine CABIJOS :54'27"
+- 819e Eric CORDIER : 58'20"
+- 832e Edith SANCHEZ : 58'47"
+- 858e Aurélie RAVAUD : 59'39"
 
 
 Bravo à toutes et tous
