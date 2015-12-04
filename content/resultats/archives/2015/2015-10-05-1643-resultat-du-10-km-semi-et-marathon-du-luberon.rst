@@ -14,10 +14,10 @@ Grosse performance de Pierre Audin
 1er Thibaud BAUDOIN : 36'30"
 
 
-**77ème Edalberto CUCO : 48'07"**
+- **77ème Edalberto CUCO : 48'07"**
 
 
-**314ème Alain BREGAND : 1h00'40**
+- **314ème Alain BREGAND : 1h00'40**
 
 
 ********************
@@ -27,13 +27,13 @@ Grosse performance de Pierre Audin
 1er Benoît BAULAIN : 1h16'38"
 
 
-42ème Dominique ZIMA : 1h31'07" 
-50ème David CROTET : 1h32'53" 
-136ème Charly FONTAINE : 1h44'57" 
-165ème Jean-Christophe DUBARD : 1h47'33" 
-187ème Jean-Philippe BEUCHE : 1h49'23" 
-233ème Adrien BRUNET : 1h52'01" 
-370ème David LEPETIT : 1h59'40"
+- 42ème Dominique ZIMA : 1h31'07" 
+- 50ème David CROTET : 1h32'53" 
+- 136ème Charly FONTAINE : 1h44'57" 
+- 165ème Jean-Christophe DUBARD : 1h47'33" 
+- 187ème Jean-Philippe BEUCHE : 1h49'23" 
+- 233ème Adrien BRUNET : 1h52'01" 
+- 370ème David LEPETIT : 1h59'40"
 
 |Frédéric Rabiet au départ|
 
@@ -41,12 +41,11 @@ Grosse performance de Pierre Audin
 Frédéric Rabiet au départ
 
 **Marathon : 230 classés**
-
-
 1er Stéphane GRUET : 2h45'33" 
-6ème Pierre AUDIN : 2h54'58" (3ème V1M) 
-12ème Frédéric RABIET : 3h09'58" 
-151ème Vincent LAUVERGNE : 4h23'28"
+
+- 6ème Pierre AUDIN : 2h54'58" (3ème V1M) 
+- 12ème Frédéric RABIET : 3h09'58" 
+- 151ème Vincent LAUVERGNE : 4h23'28"
 
 Félicitations à tous, et tous nous remerciements à notre Président pour l'organisation de ce week end.
 
