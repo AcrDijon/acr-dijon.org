@@ -24,13 +24,13 @@ Résultat Alésia Trail
 **Tendinix (25km) : 393 concurrents classés**
 
 
-- 168e David PAUTET : 2h39'00''
+- 168e **David PAUTET** : 2h39'00''
 
 |Résultat Alésia Trail #1|
 
 **Vercingétorix (51km) : 192 concurrents classés**
 
-- 127e Vincent LAUVERGNE : 6h31'49**
+- 127e **Vincent LAUVERGNE** : 6h31'49
 
 |Résultat Alésia Trail #2|
 
