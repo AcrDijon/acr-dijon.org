@@ -5,7 +5,9 @@ Résultat en bref
 :category: Résultats
 :summary: Résultat en bref
 
-|Foulées d'automne / SEMUR EN AUXOIS (11/10/2015)|
+
+Foulées d'automne / SEMUR EN AUXOIS (11/10/2015)
+
 
 **Sur les 9,4 km :**
 
