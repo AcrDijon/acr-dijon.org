@@ -1,10 +1,12 @@
-Foulée des Vendanges / Savigny Lès Beaune (17/10/2015)
-======================================================
+Foulée des Vendanges 
+====================
 
 :date: 2015-10-21 13:34
 :category: Résultats
-:summary: Foulée des Vendanges / Savigny Lès Beaune (17/10/2015)
-
+:summary: Foulée des Vendanges 
+:location: Savigny Lès Beaune
+:eventdate: 2015-10-17
+ 
 Belle représentation ACRiste pour cette 25e édition, sous des conditions météo, finalement plus agréables qu'escomptées, avec un soleil bien présent qui a réchauffé les concurrents. Néanmoins, la relative fraicheur était idéale pour réaliser un bon chrono. Ce sont donc 11 ACRistes qui se sont élancés sur le joli et vallonné parcours tracé dans le village et les vignobles environnants.
 
 
