@@ -5,7 +5,7 @@ Résultat en bref
 :category: Résultats
 :summary: Résultat en bref
 
-|Résultat en bref|
+|Foulées d'automne / SEMUR EN AUXOIS (11/10/2015)|
 
 **Sur les 9,4 km :**
 
@@ -27,7 +27,7 @@ Résultat en bref
 
 **Jean Philippe Beuche, 48ème en 1h44'39"**
 
-|Résultat en bref #0|
+|Foulée des Vendanges / SAVIGNY LES BEAUNE (17/10/2015)|
 
 Dominique ZIMA, 83ème en 40'40" 
 Ismaël KHADIR, 284ème en 46'12"
@@ -41,7 +41,7 @@ Sandrine CABIJOS, 676ème en 54'27"
 Edith SANCHEZ, 832ème en 58'47"
 Aurélie RAVAUD, 858ème en 59'39"
 
-**Corrida de Chaussin**
+**Corrida de Chaussin / CHAUSSIN (17/10/2015)**
 
 
 **Adrien Brunet, 24ème en 21'40"**
