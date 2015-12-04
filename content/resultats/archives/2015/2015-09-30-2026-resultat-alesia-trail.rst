@@ -12,25 +12,25 @@ Résultat Alésia Trail
 **Oppidum (16km) : 637 concurrents classés**
 
 
-- 33. Manuel LOPEZ VARQUIEL,    1h23'03" 
-- 127. Eric MARILLIER,                    1h34'57'' 
-- 128. JC DUBARD,                          1h35'12'' 
-- 268. Laurentine KLEIN,                 1h44'59'' (2e ESF) 
-- 269. Adrien BRUNET,                    1h44'59''
-- 391. Gilles BECHARD,                   1h53'05''
-- **534. Sandrine CABIJOS,                2h04'00"** 
-- **590. Aurélie RAVAUD,                    2h12'57''**
+- 33e **Manuel LOPEZ VARQUIEL** : 1h23'03" 
+- 127e **Eric MARILLIER** : 1h34'57'' 
+- 128e **Jean Christophe DUBARD** : 1h35'12'' 
+- 268e **Laurentine KLEIN** : 1h44'59'' (**2e ESF**) 
+- 269e **Adrien BRUNET** : 1h44'59''
+- 391e **Gilles BECHARD** : 1h53'05''
+- 534e **Sandrine CABIJOS** : 2h04'00"
+- 590e **Aurélie RAVAUD** : 2h12'57''
 
 **Tendinix (25km) : 393 concurrents classés**
 
 
-- **168. David PAUTET,            2h39'00''**
+- 168e David PAUTET : 2h39'00''
 
 |Résultat Alésia Trail #1|
 
 **Vercingétorix (51km) : 192 concurrents classés**
 
-- **127. Vincent LAUVERGNE,                    6h31'49**
+- 127e Vincent LAUVERGNE : 6h31'49**
 
 |Résultat Alésia Trail #2|
 
