@@ -22,7 +22,7 @@ Sur le 10 km remporté par Romain Lelièvre en 34'49"
 **Dominique Zima, 35ème en 41'37"**
 
 
-**Jean Christophe Dubard, 71ème en 45'59"**  et ( 3ème Junior, je pense qu'il doit y avoir une erreur? )
+**Jean Christophe Dubard, 71ème en 45'59"** 
 
 
 **Jean Louis Rabiet, 197ème en 1h05'49"**
