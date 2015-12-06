@@ -10,7 +10,7 @@ Foulées Epleumiennes
 Sur le 5 km :
 
 
-**Sandrine Fanton, 32ème en 24'19"**
+**Sandrine Fanton, 32ème en 24'19" et 1ere V1F**
 
 
 **Juliette Berbin, 79ème en 31'18"**
@@ -20,7 +20,7 @@ Sur le 5 km :
 Sur le 10 km :
 
 
-**Pierre Audin, 7ème en 36'17" et 2ème M1**
+**Pierre Audin, 7ème en 36'17" et 2ème V1H**
 
 
 **David Crotet, 20ème en 38'38"**
@@ -32,7 +32,7 @@ Sur le 10 km :
 **Jean Philippe Beuche, 141ème en 47'24"**
 
 
-**Jean Louis Rabiet, 298ème en 1h06'18"**
+**Jean Louis Rabiet, 298ème en 1h06'18" et 3ème V4H**
 
 |Foulées Epleumiennes #1|
 
