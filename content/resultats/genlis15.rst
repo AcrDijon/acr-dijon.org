@@ -6,7 +6,7 @@ Foulées du Téléthon / GENLIS
 :location: GENLIS
 :eventdate: 2015-12-06
 
-Ce dimanche, se disputaient les 5e Foulées du Téléthon à Genlis, sur un parcours rendu gras et humide par le brouillard matinal tenace et présentant une alternance entre rares portions goudronnées, chemins de champs pour l'essentiel, et passages en plein champ (avec la terre colée sous les chaussures à la sortie et les graviers qui viennent se coller à la terre, histoire d'allourdir un peu plus les jambes...).
+Ce dimanche, se disputaient les 5e Foulées du Téléthon à **Genlis**, sur un parcours rendu gras et humide par le brouillard matinal tenace et présentant une alternance entre rares portions goudronnées, chemins de champs pour l'essentiel, et passages en plein champ (avec la terre colée sous les chaussures à la sortie et les graviers qui viennent se coller à la terre, histoire d'allourdir un peu plus les jambes...).
 Bref, un parcours qui n'avait rien d'une promenade de santé...
 
 **6km :**
