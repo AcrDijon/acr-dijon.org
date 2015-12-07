@@ -14,14 +14,14 @@ Sandrine Fanton aux Foulées des cochons
 
 
 - 1er : Stéphane CHARNET (DUC) en 33min26s
-...
+
 - 12e : **Fabrice HEURET** en 38min11s
 - 39e : **Eric MAREJUS** en 42min14s (**1er V3H**)
 - 65e : **David LEPETIT** en 46min03s
 - 72e : **Jean-Christophe DUBARD** en 46min41s
 - 87e : **Jean-Philippe BEUCHE** en 49min00s 
 - 97e : **Sandrine FANTON en 50min41s (**3eV1F**) 
-...
+
 - 141e : Tony VILLENEUVE (SA AUTUN) en 1h08min11s
 
 
