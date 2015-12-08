@@ -14,7 +14,7 @@ Cette année, l'épreuve présentait une course diurne pour le 8 km et une cours
 .. image:: http://assets.acr-dijon.org/PlChenôve152.jpg
 
 
-Trail Découverte (8km, 230m D+) :
+Trail Découverte (8km, 230m D+)
 -------------------------------
 
 132 concurrents classés.
@@ -25,7 +25,7 @@ Victoire d' **Olivier SOULIER** (AC CHENÔVE) en 32'53''
 
 Mention spéciale à Emilie qui disputait sa toute première compétition !
 
-Trail des Bombis (16km, 460m D+) :
+Trail des Bombis (16km, 460m D+)
 --------------------------------
 
 106 concurrents classés.
