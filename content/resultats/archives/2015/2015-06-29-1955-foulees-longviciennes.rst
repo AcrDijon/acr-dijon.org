@@ -10,13 +10,11 @@ Foulées longviciennes
 5 ACRistes présents ce vendredi soir sur les 5 km de Longvic (65 partants)
 
 
-`Bertrand Quintin <https://www.facebook.com/bertrand.quintin>`_ , **4ème en18'18**
-
-
-**Frédéric Rabiet** , **7ème en 19'02** 
-`Adrien Brunet <https://www.facebook.com/adrien.brunet.750>`_ , **19ème en21'51** 
-**Sandrine Fanton** , **28ème en 23'33** 
-`Jacques Pivot <https://www.facebook.com/jacques.pivot.9>`_ , **59ème en 31'07**
+- **Bertrand Quintin**, **4ème en 18'18**
+- **Frédéric Rabiet**, **7ème en 19'02** 
+- **Adrien Brunet**, **19ème en 21'51** 
+- **Sandrine Fanton**, **28ème en 23'33** 
+- **Jacques Pivot**, **59ème en 31'07**
 
 |Foulées longviciennes #0|
 
