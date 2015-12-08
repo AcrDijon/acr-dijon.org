@@ -12,11 +12,11 @@ Marathon Relais des Hautes Côtes
 - 1  | **Red Devils (ASPTT DIJON)** en 2h46'54''
 - 2  | **L'équipe du Pret Mouflon (DIJON SINGLE TRACK)** en 2h49'08''
 - 3  | **ACR'Outsiders** en 2h50'43''
-
+---
 - 10 | **ACR Pom'Potes** en 3h29'33''
 - 16 | **Les Invincibles de l'ACR** en 3h42'09''
-- 37 | **Les ACR'ettes en 4h25'46''
-
+- 37 | **Les ACR'ettes** en 4h25'46''
+---
 - 42 | **Les Carboulets** en 5h12'01''
 
 |Marathon Relais des Hautes Côtes #0|
