@@ -5,10 +5,6 @@ Week end chargé en émotion...
 :category: Résultats
 :summary: Week end chargé en émotion...
 
-|L'objectif d'1h20' maîtrisé pour Fabrice|
-
-
-L'objectif d'1h20' maîtrisé pour Fabrice
 
 **David Lepetit**  était à Autrey-les-gray pour montrer nos couleurs sur les 11 km.
 
@@ -18,12 +14,20 @@ L'objectif d'1h20' maîtrisé pour Fabrice
 
 Bravo à lui.
 
+
+
+A Salin les bains, 4 ACRistes se sont brillament illustrés.
+
+|L'objectif d'1h20' maîtrisé pour Fabrice|
+
+
+L'objectif d'1h20' maîtrisé pour Fabrice
+
 |Avant l'effort|
 
 
 Avant l'effort
 
-A Salin les bains, 4 ACRistes se sont brillament illustrés.
 
 
 **Fabrice Heuret, 74ème en 1h19'52"** , victime d'ampoules sous la voute plantaire des deux pieds dès le 10ème km.
