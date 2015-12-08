@@ -19,6 +19,6 @@ Félicitations à nos valeureux ACRistes qui une nouvelle fois ont montré nos c
 **Kévin Fond, 95ème en 55'33"**
 
 
-Laurentine Klein, 249ème et 1ère Espoir en 1h04'35"
+**Laurentine Klein, 249ème et 1ère Espoir en 1h04'35"**
 
 .. |Sur les Traces de Bonaparte| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150518-ob_08319d_sur-les-traces-de-bonaparte-a-auxonne.jpg
