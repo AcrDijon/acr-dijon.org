@@ -19,12 +19,12 @@ Belle participation des ACRistes pour cette 1er édition avec 3 podiums à la cl
   	  	  	 
 - 12 	**Fabrice Heuret** 	00:38:06 	**3ème V1**
 - 18 	**Tarek Ziade** 	00:39:33 	 
-- 54 	**Michel Le Boulanger** 	00:45:21 	 
+- 54 	**Michel Le Boulanger** 00:45:21 	 
 - 59 	**Didier Belleville** 	00:45:56 	 
 - 136 **Soianrati M'Combani** 	00:52:06 	 
 - 195 **Marie Laure Leonard** 	00:58:26 	 
 - 213 **David Lepetit** 	01:01:05 	 
-- 282 **Jean Louis Rabiet** 	01:13:56 	1er V4
+- 282 **Jean Louis Rabiet** 	01:13:56 	**1er V4**
   	  	  	 
 - 317 	Berangere Bogni 	02:24:49 	 
   	  	  	 
