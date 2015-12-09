@@ -5,8 +5,11 @@ Trail du tacot
 
 333 coureurs sur le 15 km dont 3 ACRistes
 
-Dominique Zima, 20ème en 1h22'25", 2ème V2, David Pautet, 124ème en 01h40'01", Manuel Barreira, 173ème en 1h46'57", 
+**Dominique Zima**, 20ème en 1h22'25", 2ème V2, **David Pautet**, 124ème en 01h40'01", **Manuel Barreira**, 173ème en 1h46'57", 
 
 131 coureurs sur le 26 km dont 1 ACRiste
 
-Eric Marillier, 75ème en 2h46'26"
+**Eric Marillier**, 75ème en 2h46'26"
+
+.. image:: http://assets.acr-dijon.org/tacot.jpg
+*photo d'archive : Courir au Mont Afrique 2014*
