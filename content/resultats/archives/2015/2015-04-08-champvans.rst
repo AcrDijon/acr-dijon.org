@@ -8,6 +8,7 @@
 
 
 .. image:: http://assets.acr-dijon.org/champvans.jpg
+
 *Podium par équipe*
 
 - 1 	Benoit Menestrier 	00:34:45
