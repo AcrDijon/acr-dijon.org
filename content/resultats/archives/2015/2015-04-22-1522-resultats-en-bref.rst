@@ -7,9 +7,10 @@ Résultats en bref...
 
 Belles prestations de nos vétérans au Championnat de France de 10 km.
 
+- MAREJUS Eric 	667 (56) 	43'01'' 	D5
+- SIMEHA Talmi 	721 (99) 	46'23'' 	D6
 
 
-721 (99) | 46'23'' | D6
 
 ------------
 De son côté,
