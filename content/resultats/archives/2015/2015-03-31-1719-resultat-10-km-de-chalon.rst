@@ -7,9 +7,9 @@ Résultat 10 km de Chalon
 
 |Résultat 10 km de Chalon|
 
--1 	Masha Haile 	00:30:44
--2 	Paul Omuya 	00:30:45
--3 	Abdelkader Mahmoudi 	00:30:47
+- 1 	Masha Haile 	00:30:44
+- 2 	Paul Omuya 	00:30:45
+- 3 	Abdelkader Mahmoudi 	00:30:47
   	  	 
 - 67 	**Tarek Ziadé** 	00:37:41
 - 118 	**Dominique Zima** 	00:39:57
@@ -20,7 +20,7 @@ Résultat 10 km de Chalon
 - 294 	**Soianrati M'Combani** 	00:48:50
 - 330 	**Sandrine Fanton** 	00:50:35
   	  	 
--481 	Virginie Gautheron 	01:22:57
+- 481 	Virginie Gautheron 	01:22:57
 
 
 
