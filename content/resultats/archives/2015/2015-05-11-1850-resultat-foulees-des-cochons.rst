@@ -7,7 +7,7 @@ Résultat Foulées des Cochons
 
 |Résultat Foulées des Cochons|
 
-**6km :**(105 classés)
+**6km :** (105 classés)
 
 - 1 	Antoine Fillion 	00:23:12 	 
 - 2 	Sylvain Mangin 	00:23:20 	 
