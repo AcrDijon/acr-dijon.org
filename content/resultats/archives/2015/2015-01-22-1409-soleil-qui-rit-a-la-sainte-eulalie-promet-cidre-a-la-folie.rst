@@ -5,7 +5,9 @@ Soleil qui rit à la Sainte-Eulalie, promet cidre à la folie
 :category: Résultats
 :summary: Soleil qui rit à la Sainte-Eulalie, promet cidre à la folie
 
-|Marine.jpg| Après les festivités et agapes, il est grand temps de ressortir vos runnings...
+|Marine.jpg| 
+
+Après les festivités et agapes, il est grand temps de ressortir vos runnings...
 
 
 Samedi 7 février : `Night & Run <http://lyc21-liegeard.ac-dijon.fr/NightandRun2015/pagenightandrun2015.html>`_  à Brochon, Trail de 15 km
