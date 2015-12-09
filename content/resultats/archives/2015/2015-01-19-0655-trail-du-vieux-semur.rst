@@ -10,39 +10,39 @@ Belle participation des ACRistes pour cette 1er édition avec 3 podiums à la cl
 
 |fab.jpg|
 
-8 km 	  	  	 
+**8 km :** 	  	  	 
   	  	  	 
-Clt 	Nom 	Temps 	 
-1 	Nicolas Mary 	00:32:45 	 
-2 	Aymeric Dury 	00:34:07 	 
-3 	Carlos Lopes 	00:34:11 	 
+	 
+- 1 	Nicolas Mary 	00:32:45 	 
+- 2 	Aymeric Dury 	00:34:07 	 
+- 3 	Carlos Lopes 	00:34:11 	 
   	  	  	 
-12 	Fabrice Heuret 	00:38:06 	3ème V1
-18 	Tarek Ziade 	00:39:33 	 
-54 	Michel Le Boulanger 	00:45:21 	 
-59 	Didier Belleville 	00:45:56 	 
-136 	Soianrati M'Combani 	00:52:06 	 
-195 	Marie Laure Leonard 	00:58:26 	 
-213 	David Lepetit 	01:01:05 	 
-282 	Jean Louis Rabiet 	01:13:56 	1er V4
+- 12 	**Fabrice Heuret** 	00:38:06 	**3ème V1**
+- 18 	**Tarek Ziade** 	00:39:33 	 
+- 54 	**Michel Le Boulanger** 	00:45:21 	 
+- 59 	**Didier Belleville** 	00:45:56 	 
+- 136 **Soianrati M'Combani** 	00:52:06 	 
+- 195 **Marie Laure Leonard** 	00:58:26 	 
+- 213 **David Lepetit** 	01:01:05 	 
+- 282 **Jean Louis Rabiet** 	01:13:56 	1er V4
   	  	  	 
-317 	Berangere Bogni 	02:24:49 	 
+- 317 	Berangere Bogni 	02:24:49 	 
   	  	  	 
-19 km 	  
+**19 km :**	  
 
-1 	Baptiste Domanico 	01:21:30 	 
-2 	Stephane Pouzet 	01:21:30 	 
-3 	Régis Raymond 	01:21:30 	 
+- 1 	Baptiste Domanico 	01:21:30 	 
+- 2 	Stephane Pouzet 	01:21:30 	 
+- 3 	Régis Raymond 	01:21:30 	 
   	  	  	 
-35 	Benoit Sureau 	01:37:25 	 
-157 	Mickael Alixant 	01:56:28 	 
-179 	Marine Humbert 	02:01:34 	3ème S
-179 	Vincent Lauvergne 	02:01:34 	 
-180 	David Pautet 	02:01:34 	 
-225 	Adrien Brunet 	02:12:17 	 
-227 	Jean Christophe Dubard 	02:12:21 	 
+- 35 	**Benoit Sureau** 	01:37:25 	 
+- 157 **Mickael Alixant** 	01:56:28 	 
+- 179 **Marine Humbert** 	02:01:34 	3ème S
+- 179 **Vincent Lauvergne** 	02:01:34 	 
+- 180 **David Pautet** 	02:01:34 	 
+- 225 **Adrien Brunet** 	02:12:17 	 
+- 227 **Jean Christophe Dubard** 	02:12:21 	 
   	  	  	 
-294 	Jean Louis Laurent 	03:01:17
+- 294 	Jean Louis Laurent 	03:01:17
 
 
 |trail-du-vieux-semur-photo-philippe-bruchot--3-.jpg|
