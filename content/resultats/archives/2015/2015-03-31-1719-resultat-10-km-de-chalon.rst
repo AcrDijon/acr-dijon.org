@@ -7,7 +7,6 @@ Résultat 10 km de Chalon
 
 |Résultat 10 km de Chalon|
 
-Clt 	Nom 	Temps
 -1 	Masha Haile 	00:30:44
 -2 	Paul Omuya 	00:30:45
 -3 	Abdelkader Mahmoudi 	00:30:47
@@ -27,7 +26,7 @@ Clt 	Nom 	Temps
 
 .. image:: http://assets.acr-dijon.org/suki.jpg
 
-Suki Ziadé, future ACRiste vient de terminer son 1er kilomètre
+*Suki Ziadé, future ACRiste vient de terminer son 1er kilomètre*
 
 Félicitations à tous, une nouvelle fois notre club aura été bien représenté.
 
