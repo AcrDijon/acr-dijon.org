@@ -39,8 +39,9 @@ On ne peut qu'en redemander.
 - 43 	**Gérard Goeury** 	00:59:40
 - 68 	**Jean Christophe Dubard** 	01:04:18
 - 69 	**Laurentine Klein** 	01:04:31
--150 	**Jean Louis Rabiet** 	01:38:55
-  	  	 
+- 150 	**Jean Louis Rabiet** 	01:38:55
+
+
 **11 km Duo** 	 
   	  	 
 - 1 	Watrin / Emonot 	00:55:11

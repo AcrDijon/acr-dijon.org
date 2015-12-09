@@ -8,6 +8,7 @@ Foulées Bletteranoises
 
 
 .. image:: http://assets.acr-dijon.org/blettrans.jpg
+
 Adrien Brunet
 
 3 de nos adhérents étaient ce dimanche à Bletterans pour la 1ère course sur Route de la saison.

@@ -7,6 +7,7 @@ Trail de la Pérouse
 :eventdate: 2015-03-01
 
 .. image:: http://assets.acr-dijon.org/perouse1.jpg
+
 *David Lepetit*
 
 Sur le 26 km,
@@ -18,6 +19,7 @@ Vincent Lauvergne en préparation des 100 km de Belvès fin avril s'est senti un
 84ème sur 190 en 2h34'50"
 
 .. image:: http://assets.acr-dijon.org/perouse2.jpg
+
 *Eric Marillier*
 
 Sur le 13 km,
