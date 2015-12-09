@@ -5,7 +5,6 @@ Rotarienne 2015
 :category: Résultats
 :summary: Rotarienne 2015
 
-.. image:: http://assets.acr-dijon.org/lolo.jpg
 
 
 
@@ -31,6 +30,10 @@ Rotarienne 2015
 
 
 **Laurent Berthe, 127ème en 1h09'55"**
+
+
+.. image:: http://assets.acr-dijon.org/lolo.JPG
+
 
 
 Félicitations à vous tous
