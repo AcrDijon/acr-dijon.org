@@ -17,10 +17,9 @@ Celui-ci termina contre toute attente **28ème sur 106**  sur l'étape nocturne 
 Par contre, le dimanche fut une toute autre histoire, les jambes tournent beaucoup moins bien, la foulée est beaucoup moins fluide et légère, cette sortie de 35 km fut une bonne petite sortie en endurance sur le rythme qu'il devra tenir dans un peu plus d'un mois sur les 100 km de Belvès.
 
 
-**4** **7ème sur 102 en 4h14'11"**
+**47ème** sur 102 en 4h14'11"
 
-|Sébastien Bonnot dit le Clown du Team Solidai'Run|
-
+.. image:: http://assets.acr-dijon.org/3chateaux.jpg
 
 Sébastien Bonnot dit le Clown du Team Solidai'Run
 
