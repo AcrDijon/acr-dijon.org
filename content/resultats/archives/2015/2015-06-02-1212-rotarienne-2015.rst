@@ -5,6 +5,7 @@ Rotarienne 2015
 :category: Résultats
 :summary: Rotarienne 2015
 
+.. image:: http://assets.acr-dijon.org/lolo.jpg
 
 
 
