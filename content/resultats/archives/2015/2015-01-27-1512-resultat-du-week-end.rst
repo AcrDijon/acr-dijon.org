@@ -5,8 +5,9 @@ Résultat du Week End
 :category: Résultats
 :summary: Résultat du Week End
 
-|William-et-moi-a-l-arrivee.jpg| Régionaux de Cross à St-Florentin dans l'yonne.
+|William-et-moi-a-l-arrivee.jpg| 
 
+**Régionaux de Cross à St-Florentin dans l'yonne :**
 
 **Eric Marejus**  était le seul à porter nos couleurs...il termine **103ème**  sur 134 en **40'24"**  ces 8900m.
 
