@@ -11,6 +11,6 @@ Une petite poignée d'adhérents se sont donnés rendez-vous à Corcelles-les-mo
 Le tout sous la conduite de Mag, notre chef de Meute.
 
 
-.. image:: http://MtAfrique2015.jpg
+.. image:: http://assets.acr-dijon.org/MtAfrique2015.jpg
 
 .. |Mt-Afrique-2015.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2015-mt-afrique-2015.JPG
