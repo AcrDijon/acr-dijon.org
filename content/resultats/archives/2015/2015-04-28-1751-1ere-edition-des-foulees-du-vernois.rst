@@ -18,10 +18,10 @@ L'entraînement finit toujours par payer.
 Sur le 5 km :
 
 
-**Tarek Ziadé**  domine l'épreuve en **19'36".**
+**Tarek Ziadé**  domine l'épreuve en **19'36"** et **1erSE**.
 
 
-**Jean-Philippe Beuche** , **11ème en 23'01"** ,
+**Jean-Philippe Beuche** , **11ème en 23'01"** et **1erV1**.
 
 
 **David Lepetit** , **17ème en 24'09"**  à un pied du podium
