@@ -16,7 +16,6 @@ Un petit groupe d'ACRiste étaient samedi soir à Villars fontaine pour le 1er T
 - 52 	**Benoit Sureau** 	01:12:49
 - 54 	**Vincent Lauvergne** 	01:13:00
 - 180 	**Kevin Fond** 	01:22:43
-- 183 	**Christophe Melot** 	01:23:03
 - 291 	**Talmi Simeha** 	01:30:20
 - 473 	**Laurentine Klein** 	01:46:56
   	  	 
