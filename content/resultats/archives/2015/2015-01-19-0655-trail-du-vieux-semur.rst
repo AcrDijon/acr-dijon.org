@@ -37,7 +37,6 @@ Belle participation des ACRistes pour cette 1er édition avec 3 podiums à la cl
 - 35 	**Benoit Sureau** 	01:37:25 	 
 - 157 **Mickael Alixant** 	01:56:28 	 
 - 179 **Marine Humbert** 	02:01:34 	3ème S
-- 179 **Vincent Lauvergne** 	02:01:34 	 
 - 180 **David Pautet** 	02:01:34 	 
 - 225 **Adrien Brunet** 	02:12:17 	 
 - 227 **Jean Christophe Dubard** 	02:12:21 	 
