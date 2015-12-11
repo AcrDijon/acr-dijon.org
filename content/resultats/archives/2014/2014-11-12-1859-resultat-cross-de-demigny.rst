@@ -5,7 +5,7 @@ Résultat Cross de Demigny
 :category: Résultats
 :summary: Résultat Cross de Demigny
 
-**|Gerard.jpg| Gérard Goeury**  nous représentait lors de ce cross.
+**Gérard Goeury**  nous représentait lors de ce cross.
 
 
 CROSS DE 6 KM
