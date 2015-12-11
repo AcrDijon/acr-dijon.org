@@ -28,7 +28,6 @@ Résultat complet ici :
   	  	  	 
 - 7 	**Fabrice Heuret** 	00:29:08 	**3ème V1**
 - 14 	**David Crotet** 	00:31:49 	 
-- 26 	**Vincent Lauvergne** 	00:35:00 	 
 - 29 	**Didier Belleville** 	00:35:55 	 
 - 45 	**Jean Christophe Dubard** 	00:39:50 	 
   	  	  	 
