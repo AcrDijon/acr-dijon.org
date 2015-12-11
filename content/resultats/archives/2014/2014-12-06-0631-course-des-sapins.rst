@@ -14,9 +14,11 @@ Une poignée d'ACRistes présents dimanche dernier à Saulieu pour la traditione
 Cela ne se voit pas forcément, mais il s'éclate comme un ado notre Jean Christophe...
 
 
-**Kévin FOND** , 46ème en 34'42" 
-**Jean-Christophe DUBARD** , 103ème en 40'41" 
-**Daniel CHAMBIN** , 104ème en 40'43",**3ème V3 M** **Etienne FRELET ,** 115ème en 41'34" **Laurentine KLEIN ,** 137ème en 44'32", **3ème ES F**
+- **Kévin FOND**, 46ème en 34'42" 
+- **Jean-Christophe DUBARD**, 103ème en 40'41" 
+- **Daniel CHAMBIN**, 104ème en 40'43",**3ème V3 M** 
+- **Etienne FRELET**, 115ème en 41'34" 
+- **Laurentine KLEIN**, 137ème en 44'32", **3ème ES F**
 
 
 |image1.JPG|
