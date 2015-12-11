@@ -31,7 +31,6 @@ Semi de Beaune
 - 90 	**Dominique Zima** 	01:27:26
 - 91 	**Frederic Rabiet** 	01:27:28
 - 889 	**Charly Fontaine** 	01:49:00
-- 890 	**Eric Marillier** 	01:49:00
 - 894 	**Marine Humbert** 	01:49:05
 - 1294 	**Jean Christophe Dubard** 	01:56:08
 - 1595 	**Claire Tainturier** 	02:02:15
