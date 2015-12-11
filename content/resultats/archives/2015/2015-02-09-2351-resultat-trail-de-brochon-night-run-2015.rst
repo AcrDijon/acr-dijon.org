@@ -17,7 +17,6 @@ Résultats Complets ici :
 - 37 	**Dominique Zima** 	01:12:43 	 
 - 54 	**Frederic Rabiet** 	01:14:53 	 
 - 195 	**Marine Humbert** 	01:26:05 	**4ème S**
-- 195 	**Vincent Lauvergne** 	01:26:05 	 
 - 217 	**David Pautet** 	01:28:08 	 
 - 252 	**Thomas Paget** 	01:30:57 	 
   	  	  	 
