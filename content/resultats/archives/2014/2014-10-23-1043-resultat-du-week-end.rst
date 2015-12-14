@@ -7,9 +7,23 @@ Résultat du week end ...
 
 Foulées des Vendanges :
 
+- 1 	Khalid Chahid 	00:33:00
+- 2 	Nicolas Mary 	00:33:32
+- 3 	Olivier Benoit 	00:33:36
+  	  	 
+- 48 	**Frederic Rabiet** 	00:40:38
+- 49 	**Dominique Zima** 	00:40:38
+- 275 	**Eric Marillier** 	00:48:17
+- 310 	**Jean Christophe Dubard** 	00:49:09
+- 358 	**Charlie Fontaine** 	00:50:15
+- 359 	**David Lepetit** 	00:50:18
+- 370 	**Jean Claude Maguer** 	00:50:27
+- 580 	**Claire Tainturier** 	00:56:11
+- 953 	**Aurélie Ravaud** 	01:19:28
+  	  	 
+- 957 	Joel Chaperon 	01:23:09 
 
 
-957     | Joel Chaperon              | 01:23:09
 
 
 *A noter les premières foulées d'Eva ...*
