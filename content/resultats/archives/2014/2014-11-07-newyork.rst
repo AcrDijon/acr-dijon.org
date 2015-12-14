@@ -1,7 +1,7 @@
-02.11.2014 Mon New York City Marathon
-=====================================
+Mon New York City Marathon
+==========================
 
-:date: 2015-12-14 21:45
+:date: 2014-11-02
 :category: Résultats
 :location: New York
 :eventdate: 2014-11-02
