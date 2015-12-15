@@ -1,7 +1,7 @@
 Trail des Glières
 =================
 
-:date: 2015-12-15 00:40
+:date: 2014-10-05 20:40
 :category: Résultats
 :location: Trail des Glières
 :eventdate: 2014-10-05
