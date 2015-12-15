@@ -4,7 +4,7 @@ L'Orsière Champex Chamonix, 53 km - 3300m D+
 :date: 2014-09-02 15:20
 :category: Résultats
 :location: Chamonix
-:eventdate: 2014-08-31
+:eventdate: 2014-08-30
 
 Félicitations à **Kevin** pour avoir montré nos couleurs ce week end autour du toit de l'Europe.
 
