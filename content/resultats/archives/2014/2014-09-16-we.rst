@@ -1,7 +1,7 @@
 Résultat du Week End du 13 et 14 Septembre
 ==========================================
 
-:date: 2015-12-15 14:30
+:date: 2014-09-15 14:30
 :category: Résultats
 :location: Sennecey Lès Dijon & Marseille
 :eventdate: 2014-09-13
