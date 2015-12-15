@@ -5,7 +5,6 @@ Tour de la Grande Casse, dimanche 24 aout
 :category: Résultats
 :summary: Tour de la Grande Casse, dimanche 24 aout
 
-`TGC 2014 <http://www.dailymotion.com/video/x24jqvv_tgc-2014_sport>`_ par `f100003020537399 <http://www.dailymotion.com/f100003020537399>`_
 
 
 **Vincent Lauvergne**  participa ce dimanche à cette nouvelle édition du Tour de la Grande Casse à Pralognan-la-Vanoise. Une petite sortie improvisée de **67 km avec 4120m D+**  suite à l'invitation reçue par la caisse d'épargne, partenaire de l'épreuve.
