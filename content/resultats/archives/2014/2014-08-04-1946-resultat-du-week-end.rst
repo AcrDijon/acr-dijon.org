@@ -11,7 +11,7 @@ Résultat du Week End
 Il termine **18ème sur 154 en 38'21"**
 
 
-Du côté de Semur en Auxois, J**ean Christophe Dubard**  termine **47ème sur 75**  sur les 16 km du nouveau Trail du Lac de Pont en **1h32'42"**
+Du côté de Semur en Auxois,**Jean Christophe Dubard**  termine **47ème sur 75**  sur les 16 km du nouveau Trail du Lac de Pont en **1h32'42"**
 
 
 Félicitations à tous les 2
