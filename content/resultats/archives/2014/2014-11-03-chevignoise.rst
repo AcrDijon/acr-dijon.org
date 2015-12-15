@@ -3,7 +3,7 @@
 Résultat Chevignoise
 ====================
 
-:date: 2015-12-14 22:40
+:date: 2014-10-25
 :category: Résultats
 :location: CHEVIGNY SAINT SAUVEUR
 :eventdate: 2014-10-25
