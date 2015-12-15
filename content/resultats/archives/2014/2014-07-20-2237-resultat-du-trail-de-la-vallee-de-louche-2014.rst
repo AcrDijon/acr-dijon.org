@@ -29,7 +29,7 @@ Résultat du Trail de la Vallée de l'Ouche 2014
 - 3 	Denis Royet 	02:05:56 	 
   	  	  	 
 - 31 	**Vincent Lauvergne** 	02:34:49 	 
-- 48 	**Cécile Clet** 	02:43:23 	3ème Sénior
+- 48 	**Cécile Clet** 	02:43:23 	**3ème Sénior**
 - 90 	**Mikaël Marcaud** 	03:16:26 	 
   	  	  	 
 - 102 	Fabrice Boucansaud 	03:43:44 	  
