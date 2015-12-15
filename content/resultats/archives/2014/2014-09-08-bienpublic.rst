@@ -46,7 +46,7 @@ Course du Bien Public
 
 - 479 	Gilles Verger 	02:53:16
 
-
+Une pensée pour **Eric Marillier** qui a terminé son semi-marathon en 1h 52min et 40s, ce qui aurait dû lui valoir la 232e place... Malheureusement, la puce électronique de son dossard n'a pas été détectée au passage de la ligne d'arrivée et il ne figure pas dans le classement...
 
 Marathon de L'Ardèche
 ---------------------
