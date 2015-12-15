@@ -1,7 +1,7 @@
 Run In Lyon
 ===========
 
-:date: 2015-12-14 00:30
+:date: 2014-10-06 20:30
 :category: Résultats
 :location: LYON
 :eventdate: 2014-10-05
