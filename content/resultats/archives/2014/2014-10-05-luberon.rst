@@ -1,7 +1,7 @@
 Marathon du Lubéron
 ===================
 
-:date: 2015-12-15 00:45
+:date: 2014-10-06 20:45
 :category: Résultats
 :location: PERTUIS
 :eventdate: 2015-10-05
