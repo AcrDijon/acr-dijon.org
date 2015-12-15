@@ -8,7 +8,6 @@
 **Vincent Lauvergne**  était ce dimanche entre Isère et Savoie pour la 2ème édition de ce Trail qui se veut être à échelle humaine afin de préserver la beauté du site.
 
 
-`Trail de l'Etendard 2014 <http://www.dailymotion.com/video/x22s0u6_trail-de-l-etendard-2014_sport>`_ par `f100003020537399 <http://www.dailymotion.com/f100003020537399>`_
 
 
 Au programme des 72 inscrits,
