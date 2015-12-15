@@ -1,10 +1,10 @@
 Résultat du Week End du 6 et 7 septembre
 ========================================
 
-:date: 2015-12-15 15:00
+:date: 2014-09-09 15:00
 :category: Résultats
 :location: DIJON et La Voulte sur Rhône
-:eventdate: 2015-09-06 et 07
+:eventdate: 2014-09-06 et 07
 
 Course du Bien Public
 =====================
