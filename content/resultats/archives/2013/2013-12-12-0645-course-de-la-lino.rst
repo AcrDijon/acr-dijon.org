@@ -12,7 +12,6 @@ Vous pourrez trouver les classements sur le site de l'`AC Talant <http://www.act
 
 
 
-**ZIADÉ**            | **Tarek**
 
 
 Une course sans en être une, au sens stricte du terme qui se voulait avant tout festive, et vous avez été nombreux à montrer nos couleurs ce jour-là.
