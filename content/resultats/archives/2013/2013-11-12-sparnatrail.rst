@@ -51,5 +51,5 @@ Une glissade non maîtrisée vers le 50ème km me fait ralentir mon allure, la f
 
 .. image:: http://assets.acr-dijon.org/sparnatrail3.jpg
 
- Finalement, nous ne seront que 350 arrivants sur cette édition sur un peu plus de 500 partants.
+Finalement, nous ne seront que 350 arrivants sur cette édition sur un peu plus de 500 partants.
 Vincent Lauvergne termine  175ème en 6h41'01", fatigué mais bien comptant d'en avoir fini...Le verre de soupe fût des plus apprécié à l'arrivée. 
