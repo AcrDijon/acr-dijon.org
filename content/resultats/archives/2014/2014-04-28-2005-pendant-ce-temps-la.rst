@@ -4,8 +4,7 @@ Pendant ce temps là...
 :date: 2014-04-28 20:05
 :category: Résultats
 :summary: Pendant ce temps là...
-
-**|Vero.jpg| Véronique Bornel**  et **Vincent Lauvergne**  ont répondu présents à l'appel de notre ami Rémi Bonnotte pour participer aux 6 heures de marche athlétique lors des Championnats de France de 24 heures.
+**Véronique Bornel**  et **Vincent Lauvergne**  ont répondu présents à l'appel de notre ami Rémi Bonnotte pour participer aux 6 heures de marche athlétique lors des Championnats de France de 24 heures.
 
 
 N'ayant pu me joindre à Véronique pour une petite séance d'initiation organisé par l'actuel vice champion de France, Rémi Bonnotte.
