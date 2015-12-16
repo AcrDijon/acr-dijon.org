@@ -11,5 +11,5 @@ Voeux 2014
 
 " Le Président et le Conseil d'administration de l'ACR adressent à tous les adhérents leurs voeux sincères en ce début d'année 2014.
 Que cette nouvelle année soit riche de réussite familiale, professionnelle et sportive.
-Bonne année à toutes et à tous." 
+Bonne année à toutes et à tous."
 
