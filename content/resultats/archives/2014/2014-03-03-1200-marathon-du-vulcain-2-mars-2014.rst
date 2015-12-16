@@ -12,7 +12,7 @@ Par Julien Harson.
 Retour aux affaires du côté des volcans d’Auvergne. Première course de la saison 2014.
 
 
-.. image:: http://assets.acr-dijon.org/downloadedfile.jpg
+
 
 
 Départ à 8h30, pour 42km et environ 1600m D+, depuis Volvic. Après un bref passage au coeur de la cité de l’eau, nous quittons rapidement le bitume pour les chemins. C’est parti pour presque 13km d’ascension non stop. La neige fait son apparition dès 800m d’altitude. Il y en aura pendant les 30km suivants. Les jambes ne répondent pas ce matin, elles sont bien lourdes, tant pis. Je décide de faire la course à mon rythme et laisse passer ceux qui sont plus rapides.
