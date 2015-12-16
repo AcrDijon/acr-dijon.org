@@ -21,4 +21,6 @@ secs en descente, grosses flaques, etc.
 
 **Kevin Fond**  69ème en 37'30"
 
-et **Véronique Bornel**  73ème en 38'01"
+**Véronique Bornel**  73ème en 38'01"
+
+et **Jean Christophe Dubard** 88ème en 39'47"
