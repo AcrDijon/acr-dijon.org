@@ -5,7 +5,7 @@ championnat de Bourgogne de Cross
 :category: Résultats
 :summary: championnat de Bourgogne de Cross
 
-|P1010003| 2 athlètes de l'ACR étaient présent cet après midi à Saint Florentin, dans l'Yonne, pour représenter notre club.
+|P1010003| 2 athlètes de l'ACR étaient présent cet après midi à Autun, pour représenter notre club.
 
 
 L'infatiguable et toujours aussi vaillant **Jean Claude Maguer**  sur le cross court.
