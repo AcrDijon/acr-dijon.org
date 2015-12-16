@@ -1,5 +1,5 @@
-Résultat Départementaux de Cross
-================================
+Résultat Départementaux de Cross / Sombernon
+============================================
 
 :date: 2014-01-15 14:27
 :category: Résultats
