@@ -1,5 +1,5 @@
-48e cross d'Arnay Le Duc
-========================
+Marathon Etna
+=============
 
 :date: 2015-11-12 15:20
 :category: Résultats
