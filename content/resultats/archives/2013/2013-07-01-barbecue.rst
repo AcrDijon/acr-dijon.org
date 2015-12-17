@@ -1,0 +1,8 @@
+Une soirée des plus appréciées...
+=================================
+
+:date: 2015-11-12 15:20
+
+Jeudi 27 juin se déroulait le traditionnel barbecue marquant le début de l'été et la fin de saison sportive.
+
+.. image:: http://assets.acr-dijon.org/barbecue2013.JPG
