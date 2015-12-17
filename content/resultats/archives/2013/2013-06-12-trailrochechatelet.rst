@@ -1,10 +1,10 @@
-48e cross d'Arnay Le Duc
-========================
+Trail de la Roche du Chatelet
+=============================
 
-:date: 2015-11-12 15:20
+:date: 2013-06-12 15:20
 :category: Résultats
-:location: Arnay Le Duc
-:eventdate: 2015-11-11
+:location: Bouilland
+:eventdate: 2013-06-08
 
 
 4 ACRistes étaient au départ de Bouilland pour 16 km et un peu plus de 500m D+ de pur plaisir ce dimanche 8 juin.
