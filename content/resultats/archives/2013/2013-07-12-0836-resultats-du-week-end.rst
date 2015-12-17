@@ -44,7 +44,7 @@ Clt... Temps....... Nom.......................................... Club
 3..... 38'33........ Julien Gauthier.......................... ASCEA Valduc
 
 
-4. . ... 39'35 ........ **Vincent Mangelaers-Pivot** ........... **ACR Dijon**
+4..... 39'35 ........ **Vincent Mangelaers-Pivot** ........... **ACR Dijon**
 
 
 50... 56'02........ **Vanessa Villemot......................** **ACR Dijon**
