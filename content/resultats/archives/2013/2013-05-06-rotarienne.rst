@@ -28,23 +28,19 @@ PS pour les non présents : Sédik largement en tête de la Rotarienne a fait un
 Il n'a donc pas accompli le circuit exact, (motif de sa disqualification) mais a fait 2/300 M en + ! Cela a été apparemment signalé à la direction de course à l'arrivée qui a disqualifié Sédik pour avoir "coupé".
 
  
- 
 
 Le responsable de la décision a formulé des excuses à Sédik, mais rien n'a été communiqué de façon officielle.
 
 .. image:: http://assets.acr-dijon.org/lolo2.JPG
 
- A l’issue de cette épreuve, j’apporte à Sédik BENDHAMANE tout mon soutien et le soutien de l’ACR DIJON.
+A l’issue de cette épreuve, j’apporte à Sédik BENDHAMANE tout mon soutien et le soutien de l’ACR DIJON.
 
- 
 
 Arrivé premier, Sédik s’est vu être disqualifié par une décision contestable et injustifiée de la direction de course.
 
- 
 
 Aucune excuse publique ne lui a été formulée ce qui porte préjudice à son intégrité morale et sportive, situation regrettable dans le contexte de cette course.
 
- 
 
 Ce commentaire n’est en aucune manière une critique de l’action caritative du Rotary Club qui mérite tout notre soutien.
 
