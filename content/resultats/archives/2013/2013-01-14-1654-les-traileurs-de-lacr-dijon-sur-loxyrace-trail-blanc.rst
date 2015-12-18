@@ -18,7 +18,15 @@ Une sortie de 15 km dans laquelle chacun des 3 amis laissèrent des forces, mêm
 
 
 
-213     | Gregory Urbano        | 02:42:55
+- 1 	François Gonon 	01:07:27
+- 2 	Thibaut Baronian 	01:11:55
+- 3 	Ivan Bourgeois 	01:12:36
+  	  	 
+- 91 	**Mathieu Tharion** 	01:43:20
+- 111 	**Vincent Lauvergne** 	01:46:19
+- 141 	**Manuel Barreira** 	01:53:54
+  	  	 
+- 213 	Gregory Urbano 	02:42:55 
 
 
 Une super soirée, un bon moment passé qui fit oublier la dureté de l'épreuve. Sans compter un repas réconfortant avant de reprendre la route.
