@@ -15,6 +15,16 @@ Remercions l'organisation Cote et Sport pour cette initiative, et n'oubliez pas 
 
 
 
-435     | Sarah Michel              | 2h43'09"
+- 1 	Benjamin Petitjean 	1h02'11"
+- 2 	Romain Prudon 	1h04'16"
+- 3 	Damien Delaplanche 	1h04'28"
+  	  	 
+- 49 	**Guillaume Charbonneau** 	1h17'15"
+- 188 	**Christophe Mimeur** 	1h30'59"
+- 190 	**Vincent Lauvergne** 	1h31'20"
+- 291 	**Christian Cotelle** 	1h39'56"
+- 349 	**Alain Bregand** 	1h52'45"
+  	  	 
+- 435 	Sarah Michel 	2h43'09"
 
 .. |P1000104.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-p1000104.JPG
