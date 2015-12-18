@@ -5,7 +5,7 @@ Chrsitian Cotelle nous raconte son 1er Marathon
 :category: Résultats
 :summary: Chrsitian Cotelle nous raconte son 1er Marathon
 
-<pre> <span style="font-family: Arial Unicode MS; font-size: 10pt;">Le vendredi précédent la course nous allons chercher nos dossards au Palais des Congrès de Rome, </span> </pre><pre> <span style="font-family: Arial Unicode MS; font-size: 10pt;">là on nous a filé des sacs, des revues, des tee-shirts aussi et puis des trucs miracles à manger pour </span> </pre><pre> <span style="font-family: Arial Unicode MS; font-size: 10pt;">battre les Kenyans.</span> </pre><pre> <span style="font-size: 10pt;"><span style="font-family: Arial Unicode MS;"> </span></span> </pre>Puis, appâté par le nom du truc, j’ai tenté The Power of Pistachos. Ma déception est de taille lorsque
+Le vendredi précédent la course nous allons chercher nos dossards au Palais des Congrès de Rome, là on nous a filé des sacs, des revues, des tee-shirts aussi et puis des trucs miracles à manger pour battre les Kenyans. Puis, appâté par le nom du truc, j’ai tenté The Power of Pistachos. Ma déception est de taille lorsque
 
 j e m’aperçois que finalement, ce ne sont que des pistaches banales. J’espère néanmoins que le
 
