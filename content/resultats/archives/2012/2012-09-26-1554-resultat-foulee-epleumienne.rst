@@ -9,7 +9,41 @@ Encore une belle représentation des coureurs de l'ACR sur cette 9ème édition 
 
 
 
-249     | 1h15'34''   | `LEMARCHAND Josette`_       |
+- 1 	16'33'' 	LUCAND Armand 	 
+- 2 	16'52'' 	SOULIER Olivier 	 
+- 3 	17'07'' 	LELIEVRE Romain 	 
+			
+- 7 	17'50'' 	**ROZE Fabrice** 	**1er V1**
+- 10 	18'40'' 	**MARTEAU Romain** 	 
+- 13 	18'57'' 	**BARSU Cyril** 	 
+- 17 	21'06'' 	**FILLON Elody** 	**1ère CAF**
+- 22 	21'47'' 	**BORNEL Veronique** 	**1ère V1F**
+- 44 	26'39'' 	**PANZA Ingrid** 	 
+			
+- 72 	58'08'' 	SOULIER Roger
+
+************************
+
+- 1 	32'06'' 	CHAHID Khalid (Mar) 	 
+- 2 	34'09'' 	**BENDAHMANE Sedik** 	**1er V1**
+- 3 	34'27'' 	CLAUDE Stephane 	 
+			
+- 6 	35'25'' 	**AUDIN Pierre** 	 
+- 9 	35'38'' 	**MANGELAERS-PIVOT Vincent** 	**1er E**
+- 19 	38'10'' 	**BULLE Bertrand** 	 
+- 30 	39'40'' 	**ZIMA Dominique** 	 
+- 69 	42'13'' 	**FOND Kevin** 	 
+- 76 	42'39'' 	**RABIET Frederic** 	 
+- 92 	43'34'' 	**BAUDRY Jacky** 	 
+- 118 	44'49'' 	**BABILLOTTE Fabrice** 	 
+- 126 	45'25'' 	**MIMEUR Christophe** 	 
+- 147 	46'13'' 	**CHAMBIN Daniel** 	 
+- 161 	47'41'' 	**ROSSIN Marie-estelle** 	 
+- 182 	49'27'' 	**VILLEMOT Vanessa** 	 
+- 200 	51'35'' 	**DALOZ-ROMERO Laura** 	**2ème JF**
+- 201 	51'38'' 	**PIVOT Jacques** 	**1er V4**
+			
+- 249 	1h15'34'' 	LEMARCHAND Josette
 
 
 Quelques photos prises par Guillaume Leclerc (AC Chenove) `ici <http://acr.dijon.over-blog.com/album-2109399.html>`_
