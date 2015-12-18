@@ -24,6 +24,16 @@ Remercions aussi notre Président venu encourager nos athlètes.
 
 
 
-244     | Gilbert Lebreuil          | 02:18:30
+- 1 	Benjamin Petitjean 	00:58:47
+- 2 	Romain Lelièvre 	01:02:30
+- 3 	Julien Gauthier 	01:02:51
+  	  	 
+- 37 	**Guillaume Charbonneau** 	01:12:17
+- 68 	**Bertrand Quitin** 	01:16:21
+- 130 	**Talmi Simeha** 	01:24:22
+- 139 	**Chritophe Mimeur** 	01:25:10
+- 234 	**Séverine Colliot** 	01:40:52
+  	  	 
+- 244 	Gilbert Lebreuil 	02:18:30
 
 .. |IMGP0426.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-imgp0426.JPG
