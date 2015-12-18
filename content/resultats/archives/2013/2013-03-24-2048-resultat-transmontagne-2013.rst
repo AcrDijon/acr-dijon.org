@@ -29,8 +29,34 @@ Vincent Lauvergne commence à retrouver le plaisir de courir même si les perfor
 Ariège. 75 km avec 3500m +.
 
 
+Classement Transmontagne 17 km 	 
+  	  	 
 
-149                                | Cédric Renault
+- 1 	Sebastien Thomas 	01:21:02
+- 2 	Baptiste Petin 	01:21:20
+- 3 	Romain Saillard 	01:21:54
+  	  	 
+- 12 	**Matthieu Tharion** 	01:28:26
+- 57 	**Vincent Lauvergne** 	01:43:03
+- 94 	**Vanessa Villemot** 	01:57:30
+  	  	 
+- 133 	Gérard Theuret 	02:53:45
+  	  	 
+Transmontagne 26 km 	 
+  	  	 
+
+- 1 	Stephane Bernardot 	02:26:34
+- 2 	Benoit Bernard 	02:27:21
+- 3 	Johann Moussel 	02:29:46
+  	  	 
+- 84 	**Guillaume Charbonneau** 	03:20:05
+- 103 	**Marie Estelle Rossin** 	03:28:59
+- 104 	**Eric Rossin** 	03:29:39
+  	  	 
+- 149 	Cédric Renault 	04:34:41
+
+  
+
 
 
 |Vannessa|
