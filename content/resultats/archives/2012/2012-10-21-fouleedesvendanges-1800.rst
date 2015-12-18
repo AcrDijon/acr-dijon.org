@@ -1,7 +1,7 @@
 Résultat Foulées des Vendanges 2012
 ===================================
 
-:date: 2012-10-21 16:20
+:date: 2012-10-21 13:20
 :category: Résultats
 :location: Savigny lès Beaune
 :eventdate: 2012-10-20
