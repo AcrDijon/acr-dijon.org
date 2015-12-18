@@ -15,7 +15,18 @@ Petite représentation sur cette 2ème course sur route, les amateurs de bitumes
 
 
 
-376     | Fabienne Vendroux            | 01:13:37
+- 1 	Onesephore NKUNZIMANA 	00:30:00
+- 2 	Willy NDUWIMANA 	00:30:27
+- 3 	Sebastien Charnay 	00:31:34
+  	  	 
+- 19 	**Sedik Bendahmane** 	00:34:28
+- 21 	**Vincent Mangelaers Pivot** 	00:34:38
+- 29 	**Pierre Audin** 	00:35:02
+- 187 	**Daniel Chambin** 	00:45:13
+  	  	 
+- 376 	Fabienne Vendroux 	01:13:37
+
+  
 
 
 |IMGP0856|
