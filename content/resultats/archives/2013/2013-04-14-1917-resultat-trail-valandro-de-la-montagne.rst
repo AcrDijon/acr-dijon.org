@@ -20,7 +20,7 @@ Victoire de Romain Lelièvre en 1h14'08" devant Nicolas Place 1h17'19" et Jeremy
 **Matthieu Tharion** , encore marqué par l'effort consenti sur le Marathon de Paris le week end dernier n'a pu suivre le rythme imposé, il termine cependant à la **30 ème place en 1h33'13"**  devant **Vincent Lauvergne 32ème en 1h33'59"**  (un peu moins émoussé par le Marathon de Paris).
 
 
-Un peu plus loin...**Véronique Bornel 43ème en 1h39'33"**  (Le retour de blessure est long, mais elle connaitra des jours meilleurs)
+Un peu plus loin...**Véronique Bornel** **43ème en 1h39'33"**  (Le retour de blessure est long, mais elle connaitra des jours meilleurs)
 
 
 **Marie Estelle Rossin 53ème en 1h44'45"**  en préparation de l'Ardéchois le 27 Avril prochain et **Vanessa Villemot 65ème en 1h52'09"**  en préparation du Trail des Forts du Grand Besançon.
