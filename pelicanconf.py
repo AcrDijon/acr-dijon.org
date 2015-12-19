@@ -36,8 +36,8 @@ THEME = 'themes/mg'
 
 TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
-DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search',
-                    'tipue_search')
+DIRECT_TEMPLATES = ('index', 'search', 'tipue_search')
+PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
 FAVICON = 'favicon.ico'
 FAVICON_TYPE = 'image/vnd.microsoft.icon'

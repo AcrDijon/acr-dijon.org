@@ -3,6 +3,44 @@
 {% block content %}
 <div class="uk-width-medium-4-5">
 
+{% if output_file == 'index.html' %}
+{% set last_article = articles[0] %}
+{% set home = hidden_pages[0] %}
+  <article class="uk-article" itemtype="http://schema.org/BlogPosting" itemscope="itemscope" itemprop="blogPost">
+	  <h2 class="uk-article-title" itemprop="name">{{ home.title }}</h2>
+      <p></p>
+      <section itemprop="articleBody">{{ home.content }}</section>
+                <hr class="uk-article-divider">
+            </article>
+
+  <article class="uk-article" itemtype="http://schema.org/BlogPosting" itemscope="itemscope" itemprop="blogPost">
+	  <a href="{{ SITEURL }}/{{ last_article.url }}" class="uk-article-title uk-link-muted" itemprop="name">{{ last_article.title }}</a>
+
+			  <p class="uk-article-meta">
+			  {% if last_article.eventdate %}
+			  Événement du <time datetime="{{ last_article.eventdate }}"
+			    itemprop="eventDate">{{ last_article.eventdate | str2defaultformat }}
+			  </time> 
+			  {% endif %}
+		      {% if last_article.location %}
+			  à {{ last_article.location}} •
+			  {% endif %}
+
+			  Article écrit le
+			  <time datetime="{{ last_article.date.strftime('%Y-%m-%d') }}" itemprop="datePublished">{{ last_article.locale_date }}</time> 
+
+			  {% if DISQUS_SITENAME %} <br class="uk-visible-small">
+
+
+			  {% endif %}</p>
+</p>
+                <section itemprop="articleBody">{{ last_article.content }}</section>
+                <a href="{{ SITEURL }}/{{ last_article.url }}#disqus_thread"></a>
+                <hr class="uk-article-divider">
+            </article>
+ 
+{% else %}
+
 {% if articles %}
 {% for article in articles_page.object_list %}
     {% if loop.index == 1 %}
@@ -73,6 +111,7 @@
     </ul>
 {% endif %}
 
+{% endif %}
 {% endif %}
 </div>
 {% endblock %}
