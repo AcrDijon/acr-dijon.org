@@ -21,6 +21,7 @@ LINKS = (('Athle.fr', 'http://www.athle.fr/ffa.performance/'),
         ('Ligue Bourgogne', 'http://ffaliguebou.pagesperso-orange.fr/'),
         ("J'aime Courir", 'http://www.jaimecourir.fr/'),
         ('CDCHS 21', 'http://www.cdchs21.fr'),
+        ('Challenge Etoile', 'http://www.everyoneweb.fr/challengeetoile21')
 )
 
 # Social widget

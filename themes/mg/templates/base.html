@@ -102,7 +102,13 @@ type='text/css'>
             </div>
 
             <div class="uk-panel uk-panel-box">
-                <ul class="uk-nav uk-nav-side">
+              <ul class="uk-nav uk-nav-side">
+                    <li>
+                      <a href="http://assets.acr-dijon.org/calendrier-2016.pdf">
+                        Calendrier Courses
+                      </a>
+                    </li>
+
                     <li class="uk-nav-header">Categories</li>
                     {% for cat, _ in categories %}
                     <li {% if cat == category %}class="uk-active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
