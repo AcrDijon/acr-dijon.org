@@ -15,7 +15,14 @@ Perdant 10 places sur les 5 derniers km. Bouclant ces 29 km en 3h00.
 
 
 
-92      | Maria Garotte         | 04:16:56
+- 1 	Armand Lucand 	02:20:29
+- 2 	Olivier Merlin 	02:22:05
+- 3 	Olivier Gaillard 	02:25:11
+  	  	 
+- 39 	**Matthieu Tharion** 	03:00:51
+- 68 	**Vincent Lauvergne** 	03:32:21
+  	  	 
+- 92 	Maria Garotte 	04:16:56 
 
 
 Quand à Vincent Lauvergne, émoussé par les 3 heures de la veille. Il prit le départ en deux temps. A 1' du départ, il se rend compte qu'il n'a pas mis sa puce. Du coups, pas le choix, faire un léger détour par la voiture pour accrocher sa puce puis retour sur le parcours. Quelques 3' plus tard, il repart sur le parcours et il lui aura fallu 3 km avant de revoir la queue de peloton.
@@ -32,4 +39,11 @@ Un autre ACRiste était sur les 20 km route
 
 
 
-135     | Annie Chanon        | 02:21:00
+- 1 	Georges Ribeiro 	01:09:41
+- 2 	Benjamin Bretin 	01:14:48
+- 3 	Emmanuel Dauby 	01:17:34
+  	  	 
+- 33 	**Jacky Baudry** 	01:32:11
+- 118 	**Nathalie Baudry** 	01:56:48
+  	  	 
+- 135 	Annie Chanon 	02:21:00
