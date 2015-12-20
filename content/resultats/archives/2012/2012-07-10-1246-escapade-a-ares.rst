@@ -15,4 +15,10 @@ Parcours de 13 km.
 
 
 
-287     | 1h39'15''     | JOUGLA Romain |
+- 1 	44'45'' 	DIRIBARNE Jean-christophe 	 
+- 2 	44'57'' 	POLLET Ludovic 	 
+- 3 	45'02'' 	DUMONT Laurent 	 
+  	  	  	 
+- 146 	1h03'52'' 	**PIVOT Jacques** 	**2ème V4**
+  	  	  	 
+- 287 	1h39'15'' 	JOUGLA Romain 
