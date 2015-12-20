@@ -12,7 +12,13 @@ Ils en ont profité pour s'inscrire sur un Trail de 13 km ou nos deux adhérents
 
 
 
-56      | Maurice Rouille              | 01:54:08     |
+- 1 	Raphael Nachet 	00:57:27 	 
+- 2 	**Vincent Mangelaers Pivot** 	00:59:21 	**1er Es**
+- 3 	Roderick Assier 	00:59:30 	 
+  	  	  	 
+- 38 	**Jacques Pivot** 	01:27:41 	**1er V4**
+  	  	  	 
+- 56 	Maurice Rouille 	01:54:08 
 
 
 |VMP.jpg|
