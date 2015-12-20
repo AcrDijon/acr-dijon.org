@@ -12,7 +12,14 @@ Samedi dernier, la famille Pivot en vacance en Corse ne resta pas uniquement en 
 
 
 
-99      | Laure Clémentin Maurette     | 01:45:53     |
+- 1 	Romain Salomon du Mont 	00:37:11 	 
+- 2 	Ian Debondt 	00:39:06 	 
+- 3 	Jean-Noel Seta 	00:39:35 	 
+  	  	  	 
+- 5 	**Vincent Mangelaers Pivot** 	00:42:43 	**1er Es**
+- 75 	**Jacques Pivot 	01:00:30** 	**1er V4**
+  	  	  	 
+- 99 	Laure Clémentin Maurette 	01:45:53 	  
 
 
 Encore bravo à vous 2
