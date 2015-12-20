@@ -24,7 +24,16 @@ Vincent Lauvergne en préparation des prochains championat de France de 24 heure
 
 
 
-100     | Colette Viville       | 02:10:57
+- 1 	Cedric Bernettes 	00:59:16
+- 2 	Guillaume Mort 	01:04:16
+- 3 	Jeremy Baudenne 	01:05:19
+  	  	 
+- 29 	**Matthieu Tharion** 	01:17:56
+- 37 	**Vincent Lauvergne** 	01:19:23
+- 69 	**Veronique Bornel** 	01:27:07
+- 78 	**Maxime Saunier** 	01:36:14
+  	  	 
+- 100 	Colette Viville 	02:10:57 
 
 
 Félicitation à eux 4 pour avoir une nouvelle fois montré les couleurs de notre club.
