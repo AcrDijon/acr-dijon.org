@@ -5,7 +5,6 @@ Résultat 9ème Trail des forts du Grand Besançon
 :date: 2012-05-13 15:20
 :category: Résultats
 :location: Besançon
-:eventdate: Trail des Forts
 
 
 Classement 45 km 	 
