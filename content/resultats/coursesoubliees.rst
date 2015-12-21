@@ -3,8 +3,7 @@ Courses et Coureurs oubliés en novembre...
 
 :date: 2015-12-21 17:20
 :category: Résultats
-:location: Le Puy en Velay, La Rochelle
-:eventdate: 2015-11-22 & 29
+
 
 
 ... brouillard en décembre !
