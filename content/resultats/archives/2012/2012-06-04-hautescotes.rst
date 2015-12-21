@@ -3,7 +3,7 @@ Résultat Marathon Relais des Hautes Côtes 2012
 
 :date: 2012-06-04 15:20
 :category: Résultats
-:location: Marathon Relais des Hautes Côtes 2012
+:location: Arcenant
 
 
 
