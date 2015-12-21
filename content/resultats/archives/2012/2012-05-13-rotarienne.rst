@@ -4,7 +4,7 @@ Dans un autre registre...
 :date: 2012-05-13 15:20
 :category: Résultats
 :location: Dijon
-:eventdate: Foulées Rotariennes 2012
+:eventdate: 2012-05-13
 
 
 
