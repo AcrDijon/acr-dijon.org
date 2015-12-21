@@ -4,7 +4,7 @@ Résultat Marathon d'Annecy
 :date: 2012-04-16 15:20
 :category: Résultats
 :location: Annecy
-:eventdate: Marathon d'Annecy 2012
+
 
 - 1 	02h13m14s 	WOLDEMIKAEL Feyisa Bekele 	SEM
 - 2 	02h15m59s 	BERHANU MELEYO Kassa 	SEM
