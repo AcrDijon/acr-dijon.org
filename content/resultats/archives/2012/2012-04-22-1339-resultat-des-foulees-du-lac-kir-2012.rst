@@ -5,8 +5,22 @@ Résultat des foulées du Lac Kir 2012
 :category: Résultats
 :summary: Résultat des foulées du Lac Kir 2012
 
-472     | 01:17:22     |                        |                 |
 
+- 1 	30:06:00 	N'DIWIMANA Willy (Bur) 	  	 
+- 2 	31:07:00 	NIYMFADA Eric (Bur) 	  	 
+- 3 	31:42:00 	N'DUWAYO Eric (Bur) 	  	 
+  	  	  	  	 
+  	  	  	  	 
+- 4 	31:51:00 	CHAHID Khalid (Mar) 	Dijon Uc 	1er Côte d'Orien
+  	  	  	  	 
+- 14 	35:02 qi 	BENDAHMANE Sedik 	A C R Dijon 	
+- 15 	35:09:00 	MANGELAERS-PIVOT Vincent 	A C R Dijon 	
+- 202 	46:26:00 	SIMEHA Talmi 	A C R Dijon 	
+- 268 	48:50:00 	VILLEMOT Vanessa 	A C R Dijon 	
+  	  	  	  	 
+- 472 	01:17:22 	HARBULOT Renata 	  	 
+
+  
 
 |DSCN8011.JPG|
 
