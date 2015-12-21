@@ -5,7 +5,7 @@ Relais de la Toison d'or
 :category: Résultats
 :summary: Relais de la Toison d'or
 
-Merci à Matthieu pour le montage de cette journée...
+
 
 
 Vous pouvez trouvez les autres photos de la journée `ici <http://acr.dijon.over-blog.com/album-2059302.html>`_
