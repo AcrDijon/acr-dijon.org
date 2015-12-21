@@ -1,0 +1,11 @@
+Cet après midi
+==============
+
+:date: 2012-05-12 15:20
+:category: Résultats
+
+Laura Daloz Roméro devient Championne de Bourgogne Franche Comté de 1000m en sapeur pompiers.
+
+.. image:: http://assets.acr-dijon.org/laura.jpg
+
+Nous lui souhaitons bonne chance pour les prochains Championats de France.
