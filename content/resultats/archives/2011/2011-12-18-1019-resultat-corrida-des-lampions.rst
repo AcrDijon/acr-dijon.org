@@ -21,7 +21,16 @@ Chacun est content de sa performance dans notre petit groupe, et laisse envisage
 
 
 
-105    | INIZAN               | Marie-Bernadette  | 50:26.00     |
+- 1 	**BENDAHMANE 	Sedik** 	29:06.00 	**1er V1**
+- 2 	LARABI 	Mohamed 	29:47.00 	 
+- 3 	**MANGELAERS-PIVOT 	Vincent** 	29:51.00 	**1er Es**
+  	  	  	  	 
+- 14 	**LAUVERGNE 	Vincent** 	33:42.00 	 
+- 23 	**FOND 	Kevin** 	36:21.00 	**2ème ES**
+- 40 	**BEUCHE 	Jean-Philippe** 	38:07.00 	 
+- 50 	**BREGAND 	Alain** 	40:00.00 	**2ème V3**
+  	  	  	  	 
+- 105 	INIZAN 	Marie-Bernadette 	50:26.00 
 
 
 |Podium-Espoir.JPG|
