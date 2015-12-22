@@ -23,5 +23,5 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 SOCIAL.append(('rss', SITEURL + '/' + FEED_ALL_ATOM))
-ISSO_SERVER = "http://comments.acr-dijon.org"
+ISSO_SERVER = "http://acr-dijon.org/comments"
 
