@@ -12,7 +12,13 @@ Parmi eux se trouvait Maxime Saunier venu découvrir ce parcours en tant que cou
 
 
 
-72      | Jean Marie Degardin     | 03:47:31
+- 1 	Mickael Hemon 	02:12:31
+- 2 	Pierre Ouvry 	02:12:58
+- 3 	Pierre Olivier Delattre 	02:13:02
+  	  	 
+- 44 	**Maxime Saunier** 	02:58:36
+  	  	 
+- 72 	Jean Marie Degardin 	03:47:31
 
 
 |Maxime.jpg|
