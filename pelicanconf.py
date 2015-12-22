@@ -51,7 +51,7 @@ PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 TWITTER_USERNAME = 'acrdijon'
-DISQUS_SITENAME = "httpacrziadeorg"
+#DISQUS_SITENAME = "httpacrziadeorg"
 SC_PROJECT = '10431657'
 SC_SECURITY = 'fb0b78b3'
 
@@ -66,3 +66,5 @@ def str2defaultformat(data):
 
 
 JINJA_FILTERS = {'str2defaultformat': str2defaultformat}
+
+ISSO_SERVER = "http://localhost:9999"

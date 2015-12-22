@@ -58,6 +58,10 @@ type='text/css'>
 <link rel="stylesheet" href="/theme/css/main.css">
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+{% if ISSO_SERVER %}
+<script data-isso-lang="fr" data-isso-vote="false" data-isso="{{ ISSO_SERVER }}/" src="{{ ISSO_SERVER }}/js/embed.min.js"></script>
+{% endif %}
+
 </head>
 <body>
 <!--[if lt IE 7]>

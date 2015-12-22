@@ -90,6 +90,11 @@
         <hr class="uk-article-divider">
     </article>
 
+    {% if ISSO_SERVER %}
+       <section id="isso-thread"></section>
+       <noscript>les commentaires de ce site utilisent javascript</noscript>
+    {% endif %}
+
     {% if DISQUS_SITENAME %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
