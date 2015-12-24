@@ -17,8 +17,30 @@ Objectif multiple pour l'ACR, préparation des cross pour Elody et passer sous l
 Quand à Daniel, même objectif, passer à nouveau sous les 50', quand à Vincent Lauvergne, il aimerait repasser lui aussi sous les 40'.
 
 
+**10km**
 
-41      | Marielle Grevey         | 37'46       |
+- 1 	Emmanuel David 	34'40 	 
+- 2 	Claude Lacouture 	35'26 	 
+- 3 	Valentin Deschamps 	36'25 	 
+  	  	  	 
+- 27 	**Vincent Lauvergne** 	43'40 	 
+- 60 	**Vanessa Villemot** 	49'16 	3 SF
+- 61 	**Manuel Barreiera** 	49'17 	 
+- 87 	**Daniel Chambin** 	52'57 	 
+- 116 	**Jean Louis Rabiet** 	1h01'04 	**1er V4**
+  	  	  	 
+- 129 	Thibert M, 	1h17'03 	 
+  	  	  	 
+**5km**
+
+- 1 	Mohamed Larabi 	18'39 	 
+- 2 	Sébastien Corbet 	18'59 	 
+- 3 	**Fabrice Heuret** 	19'11 	**2ème S**
+  	  	  	 
+- 12 	**Elody Fillon** 	23'22 	**1ère Ca**
+- 20 	**Marie Laure Leonard** 	26'30 	**2ème SF**
+  	  	  	 
+- 41 	Marielle Grevey 	37'46 	  
 
 
 Objectif rempli pour nos 2 vedettes, félicitations à Marie Laure et Jean Louis qui complètent avec brio ce dimanche.
