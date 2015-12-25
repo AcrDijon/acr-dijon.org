@@ -15,7 +15,17 @@ Dimanche a eu lieu la dernière course d'une saison 2011 bien longue et éprouva
 
 
 
-74     | Robin Michelle        | 1 h 15' 00" |
+
+
+- 1 	Schwartzler  Cedric 	30' 19" 	
+			
+- 4 	**M.P. Vincent** 	34'47" 	**1er espoir**
+- 10 	**Rabiet Frédéric** 	36'27" 	**3 ième V1**
+- 24 	**Cambazard Pascal** 	39'44" 	
+- 57 	**Pivot Jacques** 	48'08 	**1er V4**
+- 69 	**Rabiet Jean Louis** 	53'37 " 	**2ième V4**
+			
+- 74 	Robin Michelle 	1 h 15' 00"
 
 
 ﻿
