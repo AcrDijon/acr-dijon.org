@@ -15,7 +15,7 @@ course se déroulant dans une ambiance festive, à l'approche des fêtes de fin 
 .. image:: http://assets.acr-dijon.org/lamp15jc.jpg
 .. image:: http://assets.acr-dijon.org/lamp15mag.jpg
 
-**Mag'** inaugure son arrivée chez les v4 par un podium 
+**Mag'** (photo de droite) inaugure son arrivée chez les v4 par un podium 
 
 .. image:: http://assets.acr-dijon.org/lamp15san.jpg
 .. image:: http://assets.acr-dijon.org/lamp15gil.jpg
