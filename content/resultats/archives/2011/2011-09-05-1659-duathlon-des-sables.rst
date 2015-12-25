@@ -19,7 +19,7 @@ Vincent réalise une nouvelle performance en terminant 29ème Sénior, la catég
   	  	 
 - 36 	**MP Vincent**  	1h 25' 22"
   	  	 
- - 228 	Cazaux 	2h 12' 37"
+- 228 	Cazaux 	2h 12' 37"
 
 ﻿ 
 
