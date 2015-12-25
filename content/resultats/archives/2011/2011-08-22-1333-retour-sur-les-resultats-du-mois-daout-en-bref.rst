@@ -9,7 +9,9 @@ Retour sur les résultats du mois d'aout en bref
 
 
 
-3     | 40'02''     | EQ.DELAMOTTE .    | Masculine
+- 1 	38'40'' 	**EQ.QUINTIN** . 	Mixte
+- 2 	39'45'' 	EQ.VAN DE VELDE . 	Masculine
+- 3 	40'02'' 	EQ.DELAMOTTE . 	Masculine
 
 
 Bertrand Quintin, notre sociétaire qui réalise de belles performances sans aucun entraînement (d'après lui, lol)
@@ -21,7 +23,7 @@ Sur les 6 équipes présentes, il nous démontre une nouvelle fois ces capacité
 Notre ami Jacques Pivot n'est pas à son reste de compétition puisque le week end du 15 aout, il fit le doublé, 10 km le 14 aout et 4.5 km le 15 aout.
 
 
-Dimanche 14 aout, les 20ème éditions de la course d'Etrez:
+Dimanche 14 aout, les **20ème éditions de la course d'Etrez**:
 
 
 5 et 10 km mesurés (le 10 en 2 fois le 5 moitié faux plat descendant, moitié faux plat montant )
@@ -43,6 +45,13 @@ Fête, repas, bal et feu d'artifice
 
 95  Fontaine  32'15"
 
-Le 21 aout, Trail Valendro des 3 croix à la Rochepot.
+Le 21 aout, **Trail Valendro des 3 croix à la Rochepot**.
 
-94     | Podogorska Sébastien | 2h08'23"     |
+- 1 	Cédric Bernettes 	57'19 	 
+- 2 	Pierre Defontaine 	1h00'06" 	 
+- 3 	Romain Prudon 	1h00'46" 	 
+			
+- 50 	**Véronique Bornel** 	1h25'14" 	**3ème V1**
+- 88 	**Ingrid Panza** 	1h51'46" 	
+			
+- 94 	Podogorska Sébastien 	2h08'23" 	  
