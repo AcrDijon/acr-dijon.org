@@ -15,14 +15,32 @@ Notre nouvel adhérent Damien Burfin a su montrer ces qualités de résistance i
 
 
 
-58     | Nathalie Truchot    | 50'10"     |
+- 1 	Benoit Goffette 	24'44" 	 
+- 2 	Damien Burfin 	25'04" 	1er Se
+- 3 	Olivier Ducarme 	25'21" 	 
+  	  	  	 
+- 7 	**Frédéric Rabiet** 	26'44" 	 
+- 32 	**Fabrice Heuret** 	34'48" 	 
+  	  	  	
+- 58 	Nathalie Truchot 	50'10" 	  
 
 
 Sur la course des As, Sedik Bendahmane, Vincent Mangelaers Pivot, Kévin Fond, Véronique Bornel, Jacques Pivot et Jean Louis Rabiet se sont une nouvelle fois montré digne de nos couleurs.
 
 
 
-161     | Marie Bernadette Inizan     | 1h12'44"     |
+- 1 	Chahid Khalid 	32'49" 	 
+- 2 	Nicolas Jeandrot 	34'27" 	 
+- 3 	**Sedik Bendahmane** 	36'41" 	**1er V1**
+			
+- 13 	**Vincent Mangelers Pivot** 	39'15" 	**1er Es**
+- 56 	**Kevin Fond** 	46'46" 	**2ème Es**
+- 74 	**Véronique Bornel** 	48'19" 	**3ème V1**
+- 113 	**Vincent Lauvergne** 	53'43" 	
+- 119 	**Jacques Pivot** 	54'28" 	**2ème V4**
+- 153 	**Jean Louis Rabiet** 	1h02'09" 	**3ème V4**
+			
+- 161 	Marie Bernadette Inizan 	1h12'44" 	  
 
 
 |100_0173.JPG|
