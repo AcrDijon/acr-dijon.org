@@ -5,18 +5,31 @@ Trail du bouton d'or 2011
 :category: Résultats
 :summary: Trail du bouton d'or 2011
 
-150
+.. image:: http://assets.acr-dijon.org/boutondor11.JPG
 
-.. _ALIX Adrien: javascript:bddThrowAthlete('resultats',%202769583,%200)
-.. _GAUTHERON Cyril: javascript:bddThrowAthlete('resultats',%20437735,%200)
-.. _VAUTIER Julien: javascript:bddThrowAthlete('resultats',%201072051,%200)
-.. _BENDAHMANE Sedik: javascript:bddThrowAthlete('resultats',%204608358,%200)
-.. |DSC03266.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011-dsc03266.JPG
-.. _FOND Kevin: javascript:bddThrowAthlete('resultats',%202748874,%200)
-.. _BEUCHE Jean philippe: javascript:bddThrowAthlete('resultats',%203702709,%200)
-.. _BREGAND Alain: javascript:bddThrowAthlete('resultats',%201951754,%200)
-.. _PIVOT Jacques: javascript:bddThrowAthlete('resultats',%201641119,%200)
-.. _PETITJEAN Benjamin: javascript:bddThrowAthlete('resultats',%2091846,%200)
-.. _LEGUY Bertrand: javascript:bddThrowAthlete('resultats',%202748873,%200)
-.. _PELLETIER Romaric: javascript:bddThrowAthlete('resultats',%202796221,%200)
-.. _LAUVERGNE Vincent: javascript:bddThrowAthlete('resultats',%20877950,%200)
+Trail Nature 10,6 km
+
+- 1 	39:59:00 	ALIX Adrien 	  	  	 
+- 2 	42:05:00 	GAUTHERON Cyril 	  	  	 
+- 3 	42:07:00 	VAUTIER Julien 	  	  	 
+  	  	  	  	  	 
+- 6 	42:53:00 	**BENDAHMANE Sedik** 	  	  	 
+- 13 	45:36:00 **MANGELAERS PIVOT Vincent**
+- 37 	49:35:00 	**FOND Kevin** 	  	  	 
+- 91 	55:26:00 	**LELAISE Titouan** 	  	  	 
+- 97 	56:15:00 	**BEUCHE Jean philippe** 	  	  	 
+- 133 	59:00:00 	**BREGAND Alain** 	  	  	 
+- 188 	01:07:36 	**PIVOT Jacques** 	  	  	 
+  	  	  	  	  	 
+- 229 	02:54:14 	SEIGNEZ Elisabeth 	  	  	 
+  	  	  	  	  	 
+Trail  22,96km
+
+- 1 	01:44:03 	PETITJEAN Benjamin 	  	  	 
+- 2 	01:47:12 	LEGUY Bertrand 	  	  	 
+- 3 	01:48:29 	PELLETIER Romaric 	  	  	 
+  	  	  	  	  	 
+- 20 	02:02:57 	**LAUVERGNE Vincent** 	  	  	 
+- 119 	02:34:56 	**BARRIERA Manuel** 	  	  	 
+  	  	  	  	  	 
+- 150 	03:49:15 	JACOB Martine 	  	  	  
