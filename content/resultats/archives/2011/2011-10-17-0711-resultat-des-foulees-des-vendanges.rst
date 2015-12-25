@@ -9,19 +9,28 @@ Une nouvelle fois, une délégation d'ACRistes étaient présents sur cette mani
 
 
 
-836
+10 Km Route
+
+- 1 	32:14:00 	CHARNET Stephane 	 
+- 2 	32:29 qi 	LESEUR Jany 	 
+- 3 	32:33:00 	LALIRE Paul 	 
+  			
+			
+- 10 	35:09 qi 	**BENDAHMANE Sedik 	2ème V1**
+- 38 	38:26:00 	**MANGELAERS PIVOT Vincent** 	
+- 79 	40:12:00 	**MARTEAU Romain** 	
+- 228 	45:02:00 	**BARREIRA Manuel** 	
+- 304 	47:00:00 	**LEGRAND Karine** 	 
+- 305 	47:02:00 	**MAGUER Jean-claude** 	 
+- 485 	51:24:00 	**HEURET Fabrice** 	 
+- 486 	51:25:00 	**LEONARD Marie-laure** 	 
+- 564 	53:39:00 	**PIVOT Jacques  3ème V4**
+- 680 	58:02:00 	**PANZA Ingrid** 	
+- 699 	58:52:00 	**RABIET Jean-louis** 	 
+			
+- 836 	01:27:23 	CHIPOT William
 
 
 Des photos seront à venir très prochainement...
 
-.. _10 Km Route | M | 10 Km Route | Chr : M: javascript:openrec('http://www.athle.com/dev/ffa/recordCompet.aspx?num=078401&epreuve=261&sexe=M&serie=10%20Km%20Route')
-.. _CHARNET Stephane: javascript:bddThrowAthlete('resultats',%2091935,%200)
-.. _LESEUR Jany: javascript:bddThrowAthlete('resultats',%2013840,%200)
-.. _LALIRE Paul: javascript:bddThrowAthlete('resultats',%2092085,%200)
-.. _BENDAHMANE Sedik: javascript:bddThrowAthlete('resultats',%204608358,%200)
-.. _BARREIRA Manuel: javascript:bddThrowAthlete('resultats',%204660786,%200)
-.. _LEGRAND Karine: javascript:bddThrowAthlete('resultats',%203284669,%200)
-.. _MAGUER Jean-claude: javascript:bddThrowAthlete('resultats',%20877540,%200)
-.. _HEURET Fabrice: javascript:bddThrowAthlete('resultats',%201427387,%200)
-.. _PIVOT Jacques: javascript:bddThrowAthlete('resultats',%201641119,%200)
-.. _RABIET Jean-louis: javascript:bddThrowAthlete('resultats',%2097497,%200)
+
