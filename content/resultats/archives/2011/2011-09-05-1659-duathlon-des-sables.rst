@@ -15,11 +15,11 @@ Vincent réalise une nouvelle performance en terminant 29ème Sénior, la catég
 
 
 
-1 	Gomes Augusto 	1h 13' 04"
+- 1 	Gomes Augusto 	1h 13' 04"
   	  	 
- 36 	**MP Vincent**  	1h 25' 22"
+- 36 	**MP Vincent**  	1h 25' 22"
   	  	 
- 228 	Cazaux 	2h 12' 37"
+ - 228 	Cazaux 	2h 12' 37"
 
 ﻿ 
 
