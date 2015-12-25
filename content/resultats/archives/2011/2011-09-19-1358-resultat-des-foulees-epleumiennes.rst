@@ -9,7 +9,17 @@ Pour la 3ème course de la saison, les ACRistes montrent leur détermination et 
 
 
 
-25         | 09:47     | `PIDOUX Julie`_               | Dijon Uc*
+2030 m 	  	  	 
+  	  	  	 
+- 1 	06:38 	RUCH Simon 	Dijon
+- 2 	06:49 	FILLION Antoine 	Dijon Uc*
+- 3 	06:52 	MATHIEU-FIGUEIREDO Olivier 	Dijon Uc*
+  	  	  	 
+- 4 	06:54 	**LE BOULANGER Pierre** 	Talant
+  	  	  	 
+- 25 	09:47 	PIDOUX Julie 	Dijon Uc*
+
+﻿ 
 
 
 ﻿
@@ -22,14 +32,41 @@ Pour la 3ème course de la saison, les ACRistes montrent leur détermination et 
 
 
 
-75     | 53:01:00     | SOULIER Roger          | Dijon                    |
+- 1 	17:25 	VASSARD Francois 	Athle 21* 	 
+- 2 	17:58 	REITZIG Damien 	Entente De Haute Alsace* 	 
+- 3 	18:11 	GOFFETTE Benoit 	Crimolois 	 
+  	  	  	  	 
+- 8 	19:16 	**MARTEAU Romain** 	Dijon 	**3ème Senior**
+- 9 	19:36 	**LE BOULANGER Michel** 	Talant 	**1er V2**
+- 32 	23:43 	**FILLON Elody** 	Selongey 	**1ère Cadette**
+- 53 	28:28:00 	**PANZA Ingrid** 	Dijon 	 
+  	  	  	  	 
+- 75 	53:01:00 	SOULIER Roger 	Dijon 	 
+
+  
 
 
 Sur la course des as, le niveau était des plus relevé avec un Chahid Khalid intouchable.
 
 
 
-261     | 01:10:09     | REIMANN Agnes               | Saint Apollinaire   |
+- 1 	32:07:00 	CHAHID Khalid (Mar) 	Dijon Uc* 	 
+- 2 	34:26:00 	PLEUX Cedric 	Saint Apollinaire 	 
+- 3 	34:36:00 	LELIEVRE Romain 	Chevigny St Sauveur 	 
+  	  	  	  	 
+- 6 	36:17:00 	**BENDAHMANE Sedik** 	Acr Dijon 	**2ème V1**
+- 7 	36:47:00 	**AUDIN Pierre** 	Acr Dijon 	**3ème V1**
+- 13 	37:35:00 	**MANGELAERS-PIVOT Vincent** 	Acr Dijon 	**1er Es**
+- 24 	39:04:00 	**BULLE Bertrand** 	Acr Dijon 	 
+- 26 	39:10:00 	**BURFIN Damien** 	Dijon 	 
+- 45 	41:25:00 	**RABIET Frederic** 	Acr Dijon 	 
+- 67 	43:19:00 	**BAUDRY Jacky** 	Dijon 	 
+- 71 	43:28:00 	**FOND Kevin** 	Acr Dijon 	**3ème Es**
+- 119 	47:01:00 	**BORNEL Veronique** 	Acr Dijon 	 
+- 204 	54:36:00 	**PIVOT Jacques** 	Acr Dijon 	**2ème V4**
+- 240 	58:31:00 	**RABIET Jean-louis** 	Acr Dijon 	**3ème V4**
+  	  	  	  	 
+- 261 	01:10:09 	REIMANN Agnes 	Saint Apollinaire
 
 
 Félitation à vous tous pour votre présence.
