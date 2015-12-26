@@ -15,7 +15,31 @@ Résultat Ultra Trail de Côte d'Or, 1ère édition
 
 
 
-194       | 02:56:02     | Lanthony Murielle
+- 1 	08:19:30 	Guille Raphael
+- 2 	08:31:36 	Toubin Marc
+- 3 	08:38:27 	Marceau Xavier
+  	  	 
+- 53 	11:53:07 	**Bornel Véronique**
+- 54 	11:53:07 	**Bornel Lionel**
+- 55 	11:54:31 	**Baconnet Gérard**
+- 63 	12:02:13 	**Brégand Matthieu**
+- 92 	12:50:53 	**Pardon Alain**
+  	  	 
+- 150 	15:34:19 	Fischer Pierre
+  	  	 
+**********************************
+
+- 1 	01:06:35 	Petitjean Benjamin
+- 2 	01:09:50 	Bernettes Cédric
+- 3 	01:14:26 	Girardot Stphane
+  	  	 
+- 182 	02:22:05 	**Bonzon François**
+  	  	 
+- 194 	02:56:02 	Lanthony Murielle
+
+﻿
+
+﻿ 
 
 
 ﻿
