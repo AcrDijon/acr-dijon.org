@@ -12,7 +12,13 @@ Gérard Baconnet qui a fait le déplacement tout comme François Bonzon , hier �
 
 
 
-KOLTON     | Jose         | 03:07:30     | 173         | 6,4
+- MUSAGIRIJE 	Richard 	01:07:24 	1 	17,8
+- ANIRAKIZA 	Egrede 	01:07:28 	2 	17,79
+- ROBIN 	Philippe 	01:07:39 	3 	17,74
+  				
+- **BONZON 	François** 	01:59:39 	156 	10,03
+				
+- KOLTON 	Jose 	03:07:30 	173 	6,4
 
 
 Félicitation à François pour cette nouvelle performance.
