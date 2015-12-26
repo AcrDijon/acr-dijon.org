@@ -9,14 +9,28 @@ Fabrice, quand à lui, a préféré les 10 km de Choisey, pour  retrouver ces m
 
 
 
-239    | 1h15'22''   | BOUVET Christophe        | Non Licencie(e)
+- 1 	32'07'' 	CHOULET Stephane 	Entente Jura Centre Athletism
+- 2 	32'08'' 	LESEUR Jany 	Lons Athletique Club
+- 3 	33'16'' 	LAHRIFI Moulay-rachid 	Dijon Uc*
+  	  	  	 
+  	  	  	 
+- 18 	38'04'' 	**HEURET Fabrice 	Acr Dijon**
+  	  	  	 
+- 239 	1h15'22'' 	BOUVET Christophe 	Non Licencie(e)
 
 
 De son côté, Dominique Zima et Julien Harson avaient rendez-vous au bord du lac d'Annecy pour le Marathon.
 
 
 
-2738    | **5h34'51''**    | `WAROQUEAUX Pascal`_ |
+
+- 1 	2h11'33'' qi 	BITOK Benjamin 	Kenya
+- 2 	2h17'13'' qi 	MUSEMBI Martin 	Kenya
+- 3 	2h22'56'' qi 	JUNID Abuna 	Ethiopie
+  			 
+- 124 	2h56'26'' qi 	**ZIMA Dominique** 	 
+- 206  	3h00'23       **Harson Julien** 	 
+- 2738 	5h34'51'' 	WAROQUEAUX Pascal
 
 
 ﻿
@@ -26,7 +40,13 @@ Quand à Vincent L., c'est sur la cannebière qu'il avait rendez-vous ce dimanch
 
 
 
-1576    | **5h27'17''** | WALLART Lawrence      |
+- 1 	2h19'39'' 	ZWIERZCHIEWSKI Benoit 	 
+- 2 	2h22'18'' 	TEMAM-HUSIEN Mohammed 	Ethiopie
+- 3 	2h24'45'' 	CHOUIREB Amor 	Nais
+  			 
+- 355 	3h31'53'' 	**LAUVERGNE Vincent 	Acr Dijon**
+  	  	  	 
+- 1576 	5h27'17'' 	WALLART Lawrence 	 
 
 
 Félicitations à vous tous, pour ces résultats.
