@@ -1,9 +1,9 @@
-Entraînement &quot;sportif et culturel&quot; du dimanche 27 mars 2011
+Entraînement sportif et culturel du dimanche 27 mars 2011
 =====================================================================
 
 :date: 2011-03-29 14:31
 :category: Résultats
-:summary: Entraînement &quot;sportif et culturel&quot; du dimanche 27 mars 2011
+:summary: Entraînement sportif et culturel du dimanche 27 mars 2011
 
 Entraînement ‘’Sportif et Culturel’’ du dimanche 27 mars 2011
 
