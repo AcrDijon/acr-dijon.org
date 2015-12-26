@@ -9,7 +9,12 @@ En attendant l'article que Séverine doit nous faire parvenir, c'est avec pruden
 
 
 
-**3196**  | **1453**    | `» COLLIOT, Séverine (FRENCH)`_ | **02:15:59** | **04:35:32**
+Place 	Pl.cat. 	Nom 	21.1 km 	Arr.
+  	  	  	  	 
+3197 	1454 	» COLLIOT, Mathilde (FRENCH) 	02:15:59 	04:35:33
+
+3196 	1453 	» COLLIOT, Séverine (FRENCH) 	02:15:59 	04:35:32
+
 
 
 Sincères félicitation à vous deux.
