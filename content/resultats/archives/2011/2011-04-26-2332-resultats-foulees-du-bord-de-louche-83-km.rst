@@ -5,7 +5,21 @@ Résultats foulées du bord de l'ouche, 8,3 km
 :category: Résultats
 :summary: Résultats foulées du bord de l'ouche, 8,3 km
 
-106             | 1h05'28''                 | `LEMARCHAND Josette`_                      | Running Club Dijonnais        |
+- 1 	28'26'' 	DESLOGES Vincent 	Capr 	
+- 2 	28'49'' 	LELIEVRE Romain 	Running Club Dijonnais 	
+- 3 	29'05'' 	LUCAN Armand 	Ac Chnove 	
+				
+				
+- 5   29'49''   **BENDAHMANE Sedik 	Acr Dijon 	1 V1**
+- 39  37'19''   **MANGELAERS PIVOT Xavier  Acr Dijon 1J**
+- 52  40'12''   **RABIET Sophie  Acr Dijon  2 V1F**
+- 70 	45'01'' 	**PIVOT Jacques 	Acr Dijon 	1 V4**
+- 93 	51'23'' 	**RABIET Jean louis 	Acr Dijon 	2 V4**
+- 98 	54'28'' 	**DUFFOURD Brigitte 	Acr Dijon**
+
+- 106 	1h05'28'' 	LEMARCHAND Josette 	Running Club Dijonnais
+
+
 
 
 Félicitation à vous 5 pour ses nouvelles performances.
