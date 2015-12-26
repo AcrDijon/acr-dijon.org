@@ -12,7 +12,13 @@ Pas de véritables enjeux pour nous si ce n'est de représenter le club, de se f
 
 
 
-**14** | **21'42''53** | **MAGUER Jean-claude** | **Acr Dijon**
+
+- 1 	15'32''14 	MARY Nicolas 	Semur Athletisme Aventure
+- 2 	16'18''82 	TUIS Thomas 	Athle Bourgogne Sud
+- 3 	16'32''17 	MOUELHI Aimen 	Yonne Ac*
+  	  	  	 
+- 10 	19'04''35 	**LAUVERGNE Vincent** 	Acr Dijon
+- 14 	21'42''53 	**MAGUER Jean-claude** 	Acr Dijon
 
 
 Félicitation à notre coach, seul Vétéran ce soir.
