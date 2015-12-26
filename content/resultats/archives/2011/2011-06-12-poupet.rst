@@ -1,0 +1,29 @@
+Résultat 27ème Montée du Poupet
+===============================
+
+:date: 2011-06-12 15:20
+:category: Résultats
+:location: Salins Les Bains
+:eventdate: 2015-11-11
+
+
+.. image:: http://assets.acr-dijon.org/poupet.JPG
+
+- 1 	NDUWIMANA 	Willy 	1 	SE 	00:57:12 	AS RISPOLI
+- 2 	NKUNZIMANA 	onesphore 	2 	SE 	00:59:58 	 
+- 3 	BRANDENBOURG 	Mickael 	3 	SE 	01:00:19 	ARCH
+  	  	  	  	  	  	 
+- 56 	**BULLE 	Bertrand** 	30 	SE 	01:16:53 	ACR DIJON
+- 131 	**LAUVERGNE 	Vincent** 	57 	SE 	01:22:09 	ACR DIJON
+- 302 	**BAUDRY 	Jacky** 	108 	V1 	01:30:08 	ACR DIJON
+- 529 	**BREGAND 	Alain** 	16 	V3 	01:39:32 	ACR DIJON
+- 561 	**MIMEUR 	Christophe** 	193 	V1 	01:40:46 	ACR DIJON
+- 609 	**POLI 	Alexandra** 	2 	ES 	01:42:48 	ACR DIJON
+- 683 	**JOUFFROY 	Franck** 	210 	SE 	01:45:56 	FONTAINE FRANCAISE
+- 811 	**BARREIRA 	Manuel** 	231 	SE 	01:51:08 	ACR
+- 865 	**BAALI 	Mahfoud** 	173 	V2 	01:55:24 	ACR DIJON
+- 874 	**COLLIOT 	Séverine** 	38 	SE 	01:55:58 	ACR DIJON
+  	  	  	  	  	  	 
+- 1026 	HATIER 	Laure 	2 	JU 	02:34:58 	COURS TOUT DOUBS
+
+  
