@@ -12,7 +12,15 @@ Même si leur chronos ne sont pas à la hauteur de leur espérance, il est à no
 
 
 
-88     | 02:25:21     | DULERY Stephane       |
+- 1 	59:51:00 	PETITJEAN Benjamin 	 
+- 2 	01:02:23 	LELIEVRE Romain 	Running Club Dijonnais
+- 3 	01:03:27 	BERNETTES Cedric 	Autun Triathlon
+  	  	  	 
+- 44 	01:24:53 	**LAUVERGNE Vincent** 	Acr Dijon
+- 45 	01:25:23 	**BORNEL Veronique** 	Team Ben
+  	  	  	 
+  	  	  	 
+- 88 	02:25:21 	DULERY Stephane 	 
 
 
 |Trail-Valendro.jpg|
