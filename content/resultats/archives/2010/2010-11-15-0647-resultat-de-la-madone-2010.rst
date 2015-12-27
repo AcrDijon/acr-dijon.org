@@ -10,8 +10,9 @@ Résultat de la Madone 2010
 
 Notre Ami **Jean Philippe**  était le seul représentant sur la courte distance, il termine ces 8 km à la **17ème place sur 98, en 39'19** .
 
+|_DSC6310.JPG|
 
-Sur la longue distance, **Dominique**  termine |_DSC6310.JPG| **19ème sur 277 en 1h05'05** .
+Sur la longue distance, **Dominique**  termine  **19ème sur 277 en 1h05'05** .
 
 
 **Vincent Lauvergne**  termine **50ème en 1h10'15** .
