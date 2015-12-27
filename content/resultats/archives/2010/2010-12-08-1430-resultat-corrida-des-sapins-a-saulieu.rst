@@ -12,7 +12,9 @@ Il termine à la seconde place de sa catégorie sur 17 arrivants. Se classant av
 
 
 
-3 | DELPECH YVES    | 00:33:25 | Non Licencié
+- 1 	LINGER PHILIPPE 	00:31:08 	 DUC ATHLE
+- 2 	**BENE RAPHAEL** 	00:32:22 	**ACR DIJON**
+- 3 	DELPECH YVES 	00:33:25 	Non Licencié
 
 
 Tous les résultats disponibles `ici <http://www.saulieu.fr/index.php?option=com_content&view=article&id=452:coursedessapins2010&catid=82:blogdeloms&Itemid=99>`_
