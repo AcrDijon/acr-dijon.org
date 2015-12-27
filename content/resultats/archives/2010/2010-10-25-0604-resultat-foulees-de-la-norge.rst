@@ -21,6 +21,17 @@ Bravo à vous tous pour vos performances, le rendez-vous est donné maintenant �
 
 
 
-176 | Jacques Pivot       | 00:53:31 | **2 V4M**
+- 3 	Pierre Audin 	00:35:37 	2 V1M
+- 6 	Vincent M.P 	00:36:47 	1 EsM
+- 15 	David Crotet 	00:38:26 	 
+- 40 	Xavier M.P 	00:41:35 	2 JuM
+- 41 	Vincent Xambeu 	00:41:39 	 
+- 53 	Sophie Rabiet 	00:43:19 	2 V1F
+- 82 	Véronique Bornel 	00:45:28 	4 V1F
+- 86 	Gérard Goeury 	00:45:53 	
+- 105 	Jean Pierre Berthon 	00:47:03 	
+- 111 	Grégory Mathon 	00:47:57 	
+- 139 	Manuel Barreira 	00:49:27 	
+- 176 	Jacques Pivot 	00:53:31 	2 V4M
 
 .. |IMGP6641| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom398x6000120862courses-2010foulees-de-la-norge-imgp6641.JPG
