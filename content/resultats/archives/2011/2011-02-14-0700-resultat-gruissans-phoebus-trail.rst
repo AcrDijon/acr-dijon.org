@@ -8,6 +8,7 @@ Résultat Gruissans Phoebus Trail
 Après un rapide apperçu, je n'ai trouvé trace que de notre adhérent Alain Pardon sur ce parcours technique.
 
 
+50km-315 concurrents
 
 **110**                 | **PARDON ALAIN** | **V2M 13** | **05:31:00**
 
