@@ -12,14 +12,8 @@ Bravo à Didier , Vincent et Frédéric .
 
 
 
-BELLEVILLE  | FREDERIC      | SH
+- LAUVERGNE 	VINCENT 	SH 	1h 12mn 37s 	1421 / 18727 	
+- BELLEVILLE 	DIDIER 	VH2 	1h 22mn 51s 	6354 / 18727 	
+- BELLEVILLE 	FREDERIC 	SH 	1h 21mn 25s 	5501 / 18727 	
 
-.. _1421 / 18727: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=1421&recherche=scratch
-.. _894 / 7580: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=894&recherche=categorie&categorie=SH
-.. _1388 / 14963: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=1388&recherche=sexe&categorie=SH
-.. _6354 / 18727: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=6354&recherche=scratch
-.. _533 / 2036: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=533&recherche=categorie&categorie=VH2
-.. _6074 / 14963: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=6074&recherche=sexe&categorie=VH2
-.. _5501 / 18727: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=5501&recherche=scratch
-.. _3129 / 7580: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=3129&recherche=categorie&categorie=SH
-.. _5286 / 14963: http://vincent.asptt.over-blog.com/ext/http://www.parisversailles.com/lgc_resultat_indiv_25.php?no=5286&recherche=sexe&categorie=SH
+
