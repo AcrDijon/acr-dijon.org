@@ -12,7 +12,12 @@ Xavier Mangelaers Pivot était le seul représentant Junior de notre Club.  |Xav
 
 
 
-11    | **27'38''** | PORTELLA Quentin
+- 1   18'13'' 	SALI Sofiane 
+- 2 	18'31'' 	BRIGAND Jocelyn
+- 3 	18'42'' 	LACENAIRE Thibaut
+- 7 	19'50'' 	**MANGELAERS-PIVOT Xavier**
+  	  	 
+- 11 	27'38'' 	PORTELLA Quentin
 
 
 Sur la course des as, belle prestation individuelle et par équipe, l'ACR Dijon termine 3ème par équipe (**Vétéran** ) emmenée par son capitaine Pierre Audin.
@@ -22,14 +27,24 @@ Sur la course des as, belle prestation individuelle et par équipe, l'ACR Dijon 
 
 
 
-44     | **55'05''** | MARTINEZ Manuel
+
+- 1	  29'48'' 	RAYMOND Regis
+- 2 	32'13'' 	ALLEXANT Samuel
+- 3 	32'17'' 	**AUDIN Pierre**
+- 5 	33'50'' 	**BENE Raphael**
+- 29 	41'13'' 	**XAMBEU Vincent**
+- 33 	42'43'' 	**BACONNET Gerard**
+- 42 	53'58'' 	**RABIET Jean-louis**
+- 44 	55'05'' 	MARTINEZ Manuel
 
 
 De son coté Vincent Mangelaers Pivot termine 1er Espoir sur le Cross de Guerrigny
 
 
 
-10
+Cross SE-ES-VE-V1-V2-V3-V4 /M - 9030m Nevers
+  	  	  	  	  	  	  	  	 
+- 10 	29'49'' 	**MANGELAERS-PIVOT Vincent 	1er ES** 	  	  	 
 
 
 **Résultat Complet sur le site de la FFA.**
