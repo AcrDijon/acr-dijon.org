@@ -5,10 +5,28 @@ Championnat Régionaux de Cross
 :category: Résultats
 :summary: Championnat Régionaux de Cross
 
-34
+Junior - 23 concurents 	 
+
+- 15 	20'15'' qi 	MANGELAERS-PIVOT Xavier
+  	  	 
+Cross Court - 54 concurents 	 
+  	  	 
+- 50 	17'42'' 	FRANCOIS Serge
+- 54 	19'08'' 	MAGUER Jean-claude
+  	  	 
+Cross Elites - 82 concurents 	 
+  	  	 
+- 26 	37'21'' qi 	MANGELAERS-PIVOT Vincent
+  	  	 
+Vétérans - 136 concurents 	 
+  	  	 
+- 9 	33'20'' qi 	AUDIN Pierre
+- 34 	35'25'' qi 	BENE Raphael
 
 
-**Résultat Complet**  |DSCN5580.JPG|
+**Résultat Complet**  
+
+|DSCN5580.JPG|
 
 .. _MANGELAERS-PIVOT Xavier: javascript:bddThrowAthlete('resultats',%201602136,%200)
 .. _FRANCOIS Serge: javascript:bddThrowAthlete('resultats',%2097494,%200)
