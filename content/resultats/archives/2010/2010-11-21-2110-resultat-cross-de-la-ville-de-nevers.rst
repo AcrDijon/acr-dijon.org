@@ -5,8 +5,7 @@ Résultat Cross de la Ville de Nevers
 :category: Résultats
 :summary: Résultat Cross de la Ville de Nevers
 
-Sur la distance de 7500m commune d'Espoir à V4.Une 60 de concurrents prirent le départ dont**Vincent Mangelaers Pivot.**
-
+Sur la distance de 7500m commune d'Espoir à V4.Une 60 de concurrents prirent le départ dont **Vincent Mangelaers Pivot**.
 
 Belle performance de notre athlète émérite puisqu'il termine **15ème en 30'30**  et **1er Espoir** .
 
