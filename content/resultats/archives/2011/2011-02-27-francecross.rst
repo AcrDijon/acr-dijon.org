@@ -1,7 +1,7 @@
 Championnats de France de Cross-Country 2011 – Paray le Monial
 ==============================================================
 
-:date: 2011-03-01 15:20
+:date: 2011-02-27 20:00
 :category: Résultats
 :location: Paray Le Monial
 :eventdate: 2011-02-27
