@@ -9,7 +9,13 @@ Sur nos 4 concurrents, je n'ai trouvé trace que de 2 rescapés, espérons qu'il
 
 
 
-**30**
+Elite - 153 concurrents 	 
+  	  	 
+- 99 	41'55''        	MANGELAERS-PIVOT Vincent
+  	  	 
+Vétéran - 148 concurrents
+  	  	 
+- 30 	35'32'' qi 	AUDIN Pierre
 
 
 "Sur un parcours difficile, Vincent MP, est dans le coup pendant une bonne partie de la course. Malheureusement, une grosse défaillance le prive de la qualification aux France pour une place. Dommage, mais de belles courses de sa part suivront certainement.
