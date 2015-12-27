@@ -18,7 +18,7 @@ Place : 1500ème sur 32 920
 
 
 
-42,195    | 3H02'41"     | 4'06"       | 14,66
+
 
 
 Si d'autres acéristes étaient présents sur cette course merci de me le signaler .
