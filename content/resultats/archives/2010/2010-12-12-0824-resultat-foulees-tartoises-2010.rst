@@ -9,7 +9,19 @@ Belle prestation des ACRistes qui une fois de plus se sont distingués et monté
 
 
 
-28                             | 28:50:00
+Résultats 10 km - 77 Arrivants 	 
+  	  	  	 
+- 11 	39:19:00 	ZIMA Dominique 	4ème V1 H
+- 20 	41:21:00 	MANGELAERS-PIVOT Xavier 	1er Ju H
+- 36 	43:42:00 	RABIET Sophie 	2ème V1 F
+  	  	  	 
+Résultats 5 km - 28 Arrivants 	 
+  	  	  	 
+- 3 	17:02 	HEURET Fabrice 	3ème S H
+- 4 	17:11 	AUDIN Pierre 	1er V1 H
+- 12 	19:05 	BEUCHE Jean-philippe 	 
+- 26 	25:38:00 	PIVOT Jacques 	1er V4 H
+- 28 	28:50:00 	RABIET Jean-louis 	2ème V4 H
 
 
 Mention particulière à **Sophie Rabiet 3ème Féminine au scratch**  et **Fabrice Heuret 3ème au scratch** .
