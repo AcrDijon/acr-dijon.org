@@ -9,8 +9,13 @@ Un ACRiste étaient présent ce dimanche 12 décembre pour le Cross de Talant.
 
 
 
-**24** | **28:55:00** | **BACOMMET Gerard**      | **Acr**                        | **1er V3**
-
+- 1 	22:47 	EMMANUEL EMILE Pascal 	Montbeliard Belfort Athletisme 	
+- 2 	23:25 	AUBRY Anael 	Besancon 	
+- 3 	23:29 	GENTIL Loic 	Acc 	
+  	  	  	  	 
+  	  	  	  	 
+  	  	  	  	 
+- 24 	28:55:00 	**BACONNET Gerard 	Acr 	1er V3**
 
 Enfin mieux vaut tard que jamais, et encore bravo et nouveau podium pour notre ami Gérard.
 
