@@ -24,7 +24,12 @@ Parti sur un tempo qui m'était facile de tenir et de gérer, j'étais assez sat
 
 
 
-Semi           | 01:54:14 | 00:42:19 | 00:05:24
+- Distance en km  	 Temps  	Ecart 	Rythme min/km
+- Par intervalle
+- 5 	00:23:57 	  	00:04:47
+- 10 	00:47:05 	00:23:07 	00:04:42
+- 15 	01:11:55 	00:24:49 	00:04:47
+- Semi 	01:54:14 	00:42:19 	00:05:24 
 
 C'est hélas au 17ème km que le drame mettant un terme à mon début de saison arriva.
 
