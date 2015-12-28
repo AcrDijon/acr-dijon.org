@@ -18,7 +18,17 @@ Voici donc les classements de nos adhérents :
 
 
 
-405e  | SOULIER Roger            | 1H45'28" |
+- 1er 	CHAHID Khalid 	32'00" 	Athlé 21
+- 2e 	PETITJEAN Benjamin 	32'48" 	Athlé 21
+- 3e 	SICKLER Christian 	34'10" 	Langres AC
+- 26e 	**MANGELAERS-PIVOT Vincent** 	38'31" 	**1er espoir masculin**
+- 61e 	**PISANESCHI Matthieu** 	40'53" 	**1er junior masculin**
+- 86e 	**RABIET Sophie** 	42'48" 	**2e V1 féminime et 2e scratch féminin**
+- 90e 	**MANGELAERS-PIVOT Xavier** 	43'10" 	**2e junior masculin**
+- 96e 	**XAMBEU Vincent** 	43'32" 	 
+- 145e 	**BORNEL Véronique** 	46'05" 	**3e V1 féminime**
+- 146e 	**CHAMBIN Daniel** 	46'09" 	 
+- 405e 	SOULIER Roger 	1H45'28" 
 
 
 |départ 2| En attendant l'album photos de cette magnifique journée , retrouvez en lien sur cet article ou en annexes du blog les résultats complets des foulées du Lac Kir cru 2010 .
