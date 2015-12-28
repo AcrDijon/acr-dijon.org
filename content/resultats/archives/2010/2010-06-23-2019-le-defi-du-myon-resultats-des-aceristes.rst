@@ -18,7 +18,14 @@ Quand à Stephane il finira quasiment dans les talons à Sophie et François con
 
 
 
-162ème | BONZON François    | 1H45'16" |
+- 1er 	PETITJEAN Benjamin 	56'31" 	 
+- 2ème 	ALIX Pierre Jean 	1H01'44" 	 
+- 3ème 	LELIEVRE Romain 	1H03'52" 	 
+- 14ème 	**ZIMA Dominique** 	1H09'06" 	 
+- 35ème 	**RABIET Sophie** 	1H16'46" 	**2e scratch , 2e V1 F**
+- 37ème 	**BOURLOT Stéphane** 	1H17'06" 	 
+- 143ème 	**PIVOT Jacques** 	1H38'15" 	**1er V4 M**
+- 162ème 	**BONZON François** 	1H45'16" 	  
 
 
 Résultats complets sur ce lien :
