@@ -5,7 +5,7 @@ Assemblée générale du club
 :category: Résultats
 :summary: Assemblée générale du club
 
-|reunion.jpg|
+
 
 
 L'assemblée générale du club se tiendra salle Lucie et Raymond Aubrac , place de la Fontaine d'Ouche à Dijon  , le vendredi 8 octobre 2010 à partir de 19 H 45 .
