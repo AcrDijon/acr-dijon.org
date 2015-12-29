@@ -11,7 +11,10 @@ Ce week end avait lieu sur les terres de Chenôve le trail de La Transmontagne .
 
 
 
-121ème | HAEMMERLE           | 4 h 02 mns 44 s
+- 1er 	AUGEUX 	1 h 54 mns 27 s
+- 87ème 	**BACONNET Gérard** 	3 h 06 mns 35 s
+- 121ème 	HAEMMERLE	4 h 02 mns 44 s
+
 
 
 
@@ -22,7 +25,12 @@ Ce week end avait lieu sur les terres de Chenôve le trail de La Transmontagne .
 
 
 
-123ème | BADEY                 | 2 h 10 mns 34 s
+- 1er 	TUIS 	59 mns 09 s
+- 28ème 	**GUILLON Thomas** 	1 h 18 mns 53 s
+- 29ème 	**FOND Kévin** 	1 h 18 mns 54 s
+- 43ème 	**MIMEUR Christophe** 	1 h 23 mns 57 s
+- 115ème 	**BONZON François** 	1 h 47 mns 13 s
+- 123ème 	BADEY 	2 h 10 mns 34 s 
 
 
 
