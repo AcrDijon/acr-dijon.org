@@ -15,8 +15,7 @@ Les courses :
 
 La course peut se faire en individuel ( 45 kms , + 2 020 , - 1780) , par équipe de deux coureurs avec passage de relais à un des deux points de ravitaillement au choix , ou par équipe de trois coureurs avec passage de relais aux points de ravitaillement .
 
-* 28 kms en semi-autosuffisance avec 2 points de ravitaillement liquide/solide km 4,5 et 18 . Un point d'eau au km 10 vous permettra de remplir vos propres bidons ou poches à eau . Départ de la course à 8 h 30 de la Malcombe . Arrivée à Montfaucon . Heure limite de passage au ravitaillement d'Avanne : 10 h 00 ; Morre : 12 h 00 .
-Cette course de 28 kms fait partie des courses du Trail Tour National organisé par la FFA pour l'attribution du titre de champion de France des trails courts .
+* 28 kms en semi-autosuffisance avec 2 points de ravitaillement liquide/solide km 4,5 et 18 . Un point d'eau au km 10 vous permettra de remplir vos propres bidons ou poches à eau . Départ de la course à 8 h 30 de la Malcombe . Arrivée à Montfaucon . Heure limite de passage au ravitaillement d'Avanne : 10 h 00 ; Morre : 12 h 00 . Cette course de 28 kms fait partie des courses du Trail Tour National organisé par la FFA pour l'attribution du titre de champion de France des trails courts .
 
 * Le coureur gère sa course en portant son propre ravitaillement . Les ravitaillements sauvages sont interdits . Pour des raisons de sécurité , l'usage des bâtons est interdit .
 
