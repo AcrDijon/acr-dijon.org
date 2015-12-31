@@ -11,7 +11,21 @@ Voici donc tout fraîchement parus , les résultats de nos 9 acéristes présent
 
 
 
-**107ème** | **DAUTREY Johannes**     | **1H06'08"** |
+- 1er 	BINET David 	30'38" 	
+- 2ème 	FINOT Jean-Charles 	32'15" 	 
+- 3ème 	CHAHID Khalid 	32'33" 	 
+- 4ème 	**MANGELAERS-PIVOT Vincent** 	32'48" 	**1er JUN. M**
+- 5ème 	**HEURET Fabrice** 	32'52" 	 
+- 6ème 	**AUDIN Pierre** 	33'14" 	**1er V1. M**
+- 19ème 	**MANGELAERS-PIVOT Xavier** 	36'23" 	**2ème CA. M**
+- 20ème 	**ZIMA Dominique** 	36'36" 	 
+- 36ème 	**LAUVERGNE Vincent** 	39'29" 	 
+- 42ème 	**BORNEL Véronique** 	39'42" 	**2ème V1. F**
+- 47ème 	**RABIET Frédéric** 	40'25" 	 
+- 56ème 	**FOND Kévin** 	41'56" 	**3ème JUN. M**
+- 107ème 	DAUTREY Johannes 	1H06'08" 	 
+
+
 
 
 
