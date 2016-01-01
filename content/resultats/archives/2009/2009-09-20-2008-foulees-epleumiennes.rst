@@ -19,7 +19,7 @@ Le 5,6 KM est remporté par Fabien VANDESCHRICK de Couternon en 18'27". Xavier t
 - 4 	BOUCHESECHE 	Regis 	 35 16 	Dijon Uc*
 - 5 	**AUDIN 	Pierre** 	 35 17 	**Acr Dijon (1er V1M)**
 - 17 	**MANGELAERS-PIVOT 	Vincent** 	 38 06 	**Acr Dijon (1er Junior)**
-- 30 	**LAUVERGNE 	Vincent** 	 39 52 **	Acr Dijon**
+- 30 	**LAUVERGNE 	Vincent** 	 39 52 **Acr Dijon**
 - 48 	**BREGAND 	Alain** 	 42 04 	**Acr Dijon (1er V3M)**
 - 63 	**MATHEY 	Eric** 	 44 05 	**Acr Dijon**
 - 74 	**HARSON 	Julien** 	 45 14 	**Acr Dijon**
