@@ -1,9 +1,9 @@
-100 km de Millau, &quot;L'autre dimension&quot;
-===============================================
+100 km de Millau, L'autre dimension
+===================================
 
 :date: 2009-09-20 20:38
 :category: Résultats
-:summary: 100 km de Millau, &quot;L'autre dimension&quot;
+:summary: 100 km de Millau, L'autre dimension
 
 Plus de 1 500 inscrits sur le plus vieux 100 bornes de France... 
 |httpidataover-blogcom0120862photos-millau.jpg| 
