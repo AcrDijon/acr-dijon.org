@@ -16,8 +16,7 @@ Hommes
 - 1- DAVID    Emmanuel (DUC) 31'59"
 - 2- **AUDIN    Pierre (ACR DIJON)** 35'25" **1er V1M**
 - 3- DILLENSEGER Emmanuel (COURIR A SENNECEY) 35'45"
-...
-
+- ...
 - 22- **LAUVERGNE Vincent** 40'21"
 - 41- **FOND Kevin (ACR DIJON)** 42'47" **2ème JUM**
 - 57- **BREGAND Alain (ACR DIJON)** 44'06" **1er V3M**
