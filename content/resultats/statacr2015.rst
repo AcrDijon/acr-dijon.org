@@ -22,11 +22,11 @@ Répartition : 60 côté Masculins / 21 côté Féminines
 
 **Performances :**
 
-- 65 podiums de catégorie sur les courses individuelles, concernant 20 compétiteurs et compétitrices : 15 Masculins / 5 Féminines
+- 66 podiums de catégorie sur les courses individuelles, concernant 20 compétiteurs et compétitrices : 15 Masculins / 5 Féminines
 
 Dont **23 premières places** : 17 côté Masculins / 6 côté Féminines
 
-24 deuxièmes places et 18 troisièmes places 
+25 deuxièmes places et 18 troisièmes places 
 
 - 5 podiums scratch sur les courses individuelles (1 victoire, 2 deuxièmes places, 2 troisièmes places)
 
@@ -51,10 +51,10 @@ Dont **23 premières places** : 17 côté Masculins / 6 côté Féminines
 - **Eric MAREJUS** (V3M) : 3 podiums de catégorie (**3x1er**)
 - **Jean Claude MAGUER** (V3M puis V4M) : 3 podiums de catégorie (1x2e, 2x3e)
 - **Jean Philippe BEUCHE** (V1M) : 2 podiums de catégorie (**1x1er**, 1x2e)
+- **Bertrand QUINTIN** (V1M) : 2 podiums de catégorie (**1x1er**, 1x2e)
 - **Bertrand BULLE** (SEM) : 2 podiums de catégorie (1x2e, 1x3e) + 1 podium scratch (1x2e)
 - **Florian GUERRET** (ESM) : 2 podiums de catégorie (1x2e, 1x3e)
 - **Marie Laure LEONARD** (SEF puis V1F) : 2 podiums de catégorie (1x2e, 1x3e)
-- **Bertrand QUINTIN** (V1M) : 1 podium de catégorie (**1x1er**)
 - **Michel LE BOULANGER** (V2M) : 1 podium de catégorie (**1x1er**)
 - **Sylvie MICHELET** (V2F) : 1 podium de catégorie (1x2e)
 - **Talmi SIMEHA** (V3M) : 1 podium de catégorie (1x2e)
