@@ -1,9 +1,9 @@
-Course des vignes - Meeting du &quot;100 à l'heure&quot;
-========================================================
+Course des vignes - Meeting du 100 à l'heure
+============================================
 
 :date: 2009-07-06 19:20
 :category: Résultats
-:summary: Course des vignes - Meeting du &quot;100 à l'heure&quot;
+:summary: Course des vignes - Meeting du 100 à l'heure
 
 |httpidataover-blogcom0120862100alheure2009-100alheure2009n2408.jpg| Hier soir se tenait la Course des vignes organisée par l'AC Chenôve sur le stade Stade Léo Lagrange. Des courses du 100 mètres à l'heure ouvertes suivant les distances de minime à vétéran.
 
