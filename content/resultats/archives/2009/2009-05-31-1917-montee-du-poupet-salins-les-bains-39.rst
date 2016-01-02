@@ -5,16 +5,17 @@ Montée du Poupet, Salins-les-Bains (39)
 :category: Résultats
 :summary: Montée du Poupet, Salins-les-Bains (39)
 
-|httpidataover-blogcom0120862photos-poupet2009.jpg| 4 ACéRistes  ont participé à la 25ème édition de la **M** **ontée Internationale du Mont Poupet (17,300 KM)** ce dimanche 31 mai sous un magnifique soleil. 1023 engagés, record de 2007 battu.
+|httpidataover-blogcom0120862photos-poupet2009.jpg| 
+
+4 ACéRistes  ont participé à la 25ème édition de la **M** **ontée Internationale du Mont Poupet (17,300 KM)** ce dimanche 31 mai sous un magnifique soleil. 1023 engagés, record de 2007 battu.
+
 Aux avant-postes de la course les différents teams africains. A noter la 2ème place du vainqueur des 4e Foulées du Lac Kir, le burundais Emmanuel Nduwayo (AS Rispoli Villeurbanne).
 
 - 1- Eticha Tesfaye 1h00'47"
 - 2- Emmanuel Nduwayo 1h02'21"
-...
-
+- ...
 - 22- Benoît Demolombe 1h10'09"
-...
-
+- ...
 - 38- Fabrice Heuret 1h15'23"
 - 64- Frédéric Rabiet 1h18'15"
 - 86- Dominique Zima 1h20'25"
