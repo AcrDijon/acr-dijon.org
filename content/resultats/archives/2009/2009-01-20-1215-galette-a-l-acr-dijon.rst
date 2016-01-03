@@ -5,11 +5,10 @@ Galette à l' ACR Dijon
 :category: Résultats
 :summary: Galette à l' ACR Dijon
 
-`|httpfarm1staticflickrcom123-359548511_a46ff83d2b.jpg| <http://www.flickr.com/photos/78185463@N00/359548511>`_ Miam Miam la galette
 
 
-Dimanche 18 janvier, une quarantaine d’adhérents se sont réunis pour la traditionnelle galette des rois. Le président a renouvelé, au nom du bureau, les meilleurs vœux pour cette nouvelle année 2009 qui commence bien avec 87 adhésions à **l’ACR Dijon**  et de nombreux déplacements sur l’année… à commencer par les championnats de cross-country et début mars l’inscription d’une petite quinzaine d’ ACéRistes au semi marathon de Paris. La distribution de calendriers (papier) des manifestations et déplacements du club était également au programme. D’ailleurs il a été envoyé par mail à tous les adhérents-internautes 18 janvier, quelques anniversaires `|httpfarm1staticflickrcom253-519372647_369ea66e1b.jpg| <http://www.flickr.com/photos/8482674@N07/519372647>`_
 
+Dimanche 18 janvier, une quarantaine d’adhérents se sont réunis pour la traditionnelle galette des rois. Le président a renouvelé, au nom du bureau, les meilleurs vœux pour cette nouvelle année 2009 qui commence bien avec 87 adhésions à **l’ACR Dijon**  et de nombreux déplacements sur l’année… à commencer par les championnats de cross-country et début mars l’inscription d’une petite quinzaine d’ ACéRistes au semi marathon de Paris. La distribution de calendriers (papier) des manifestations et déplacements du club était également au programme. D’ailleurs il a été envoyé par mail à tous les adhérents-internautes 18 janvier, quelques anniversaires.
 
 **Jean-Louis Rabiet**  et **Andrée** , **Isabelle Chanez**  se sont vu souhaiter leur anniversaire (Nous aurions pu y ajouter **Delphine** ) par l’apparition surprise de trois gâteaux. Un moment sympathique et convivial pour lequel notre vétéran 4 et vice doyen avait apporté quelques flacons à bulles.
 
@@ -24,5 +23,4 @@ Un merci à ceux qui se sont occupé de cette manifestation : Karen et Didier. 
 
 Trés bientôt : quelques photos en "slide" sur ce blog.
 
-.. |httpfarm1staticflickrcom123-359548511_a46ff83d2b.jpg| image:: http://assets.acr-dijon.org/old/httpfarm1staticflickrcom123-359548511_a46ff83d2b.jpg
-.. |httpfarm1staticflickrcom253-519372647_369ea66e1b.jpg| image:: http://assets.acr-dijon.org/old/httpfarm1staticflickrcom253-519372647_369ea66e1b.jpg
+
