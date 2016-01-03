@@ -1,9 +1,9 @@
-Promotion des &quot;Foulées du Lac Kir&quot; 2009
+Promotion des Foulées du Lac Kir 2009
 =================================================
 
 :date: 2009-03-30 08:04
 :category: Résultats
-:summary: Promotion des &quot;Foulées du Lac Kir&quot; 2009
+:summary: Promotion des Foulées du Lac Kir 2009
 
 |httpidataover-blogcom0120862-foul-es-du-lac-kir.jpg| | Afin d’assurer la promotion de la course organisée par le club : «**Les Foulées du Lac Kir** » 4ème  édition, les adhérents à l’ ACR Dijon sont priés de bien vouloir distribuer, lors de leurs déplacements sur les épreuves, des affiches ou flyers(programme et bulletin d’inscription). 
 250 affiches, 5000 flyers et 5000 plaquettes sont disponibles pour distribution. Qu’on se le dise !
