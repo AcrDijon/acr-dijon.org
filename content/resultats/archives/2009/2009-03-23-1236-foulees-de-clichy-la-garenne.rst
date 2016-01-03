@@ -5,12 +5,4 @@ Foulées de Clichy La Garenne
 :category: Résultats
 :summary: Foulées de Clichy La Garenne
 
-Dossard : 334 
-Place au général : 54 / 246 
-Catégorie : SEH 
-Place / Nbre dans cette catégorie : 19  / 84 
-Club : Acr Dijon | Dossard : 334 
-Place au général : 54 / 246 
-Catégorie : SEH 
-Place / Nbre dans cette catégorie : 19  / 84 
-Club : Acr Dijon
+54/246 	Vincent LAUVERGNE 	0:42:09 	14.235 km/h
