@@ -9,7 +9,14 @@ Vincent Mangelaers-Pivot a remporté, au sprint, le Cross national de Nevers da
 
 
 
-5
+
+Cross JU /M - 4000m | M | Cross JU /M - 4000m | Chr : M
+
+- 1 	13'36'' 	**MANGELAERS-PIVOT Vincent 	Acr Dijon** 	021 	BOU 	JUM/90 	  	 
+- 2 	13'42'' 	VERNUSSE Luc Alain 	Entente Chalon/saone Athl. 	071 	BOU 	JUM/90 	  	 
+- 3 	14'18'' 	ADAM Benjamin 	S/l Asa Vauzelles A. 	058 	BOU 	JUM/91 	  	 
+- 4 	14'22'' 	MOREAU Gaetan 	Athletic Club Du Morvan 	058 	BOU 	JUM/91 	  	 
+- 5 	14'27'' 	FAVIERE Cyril 	S/l A. Sportive Guerigny-urzy 	058 	BOU 	JUM/90 
 
 .. _Cross JU /M - 4000m: javascript:openrec('http://www.athle.com/dev/ffa/recordCompet.aspx?num=029659&epreuve=001&sexe=M&serie=Cross%20JU%20/M%20-%204000m')
 .. _MANGELAERS-PIVOT Vincent: javascript:bddThrowAthlete('resultats',%20620739,%201)
