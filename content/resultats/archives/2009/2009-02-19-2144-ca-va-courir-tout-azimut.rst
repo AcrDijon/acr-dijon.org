@@ -17,7 +17,23 @@ Demi-finale Nord-Est des Championnnats de France de Cross-country, dimanche 22 f
 
 
 
-Cross VEM             | 219
+- Cross CAF : 109
+
+- Cross CAM : 161
+
+- Cross JUF : 57
+
+- Cross JUM : 128
+
+- Cross court ES-SE-VEF : 94
+
+- Cross court ES-SE-VEM : 191
+
+- Cross Elite ES-SE-VEF : 155
+
+- Cross Elite ES-SEM : 200
+
+- Cross VEM : 219 
 
 
 Pour ceux qui veulent en savoir plus, le site de la ligue d'Alsace:
