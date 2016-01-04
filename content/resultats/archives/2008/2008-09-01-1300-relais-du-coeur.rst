@@ -1,9 +1,9 @@
-&quot;Relais du Coeur&quot;
-===========================
+Relais du Coeur
+===============
 
 :date: 2008-09-01 13:00
 :category: Résultats
-:summary: &quot;Relais du Coeur&quot;
+:summary: Relais du Coeur
 
 Article du Bien Public du lundi 1 septembre 2008 - Dijon `http://www.bienpublic.com/sports/autres/20080901.BPA5750.html`_ 
 
