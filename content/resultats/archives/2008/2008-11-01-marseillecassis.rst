@@ -1,0 +1,23 @@
+Résumé Marseille Cassis (Episode N°1)
+=====================================
+
+:date: 2008-11-01 15:20
+:category: Résultats
+:location: Marseille
+
+
+
+
+Emmener un groupe pour ce qui devient le déplacement de l’année devient parfois un long travail et une source supplémentaire de soucis pour ceux qui ont envie de faire don d’un peu de temps et qui ont en eux le petit truc qui fait que le bénévolat existe encore dans le milieu du sport.
+
+Marseille Cassis est en vue en cette fin de semaine pour notre club. L’hôtel est réservé par Frédérique, les minibus par Alain, le restaurant du samedi soir par Jean-Marc qui devient de fait le coordinateur de l’aventure sportive. Déjà depuis avril, il a fallut se trouver des dossards, réfléchir au mode de déplacement, faire le tour des partants et accompagnateurs. En fait, ce sera 27 personnes a emmener… Oui, je sais, c’est pas la Bonne mère à marier (Phrase lunaire de XiXi Tong !).
+
+Bon, passons sur différents rebondissements qui égayent l’historique car je ne vais pas vous le faire en 12 volumes. 6 heures ce samedi 25 octobre 2008, pas de retardataires ! Génial, tout le monde dans les deux minibus et en route. Les petits yeux des récipiendaires en disent long sur le lever matinal mal à propos pour un week-end mais ils brillent cependant à l’envie de se retrouver sur la côte, dans quelques heures, au bord de mer avec une dizaine de degré de plus qu’à Dijon. Calme plat, ça roupille derrière. Bonjour Madame, au revoir madame, les machines à sous de l’autoroute nous allègent un peu de la monnaie du voyage. Petit arrêt après Lyon pour le petit déjeuner. Là, le téléphone du président se transforme en standard comme le QG d’un exercice militaire… Il sera tout au long du Week-end le centre névralgique de la campagne du sud-est.
+
+Déjà deuxième arrêt, reste plus que 100 bornes mais le soleil est déjà au rendez-vous. Chassé croisé entre les deux véhicules. Liaison téléphone avec les trois autres véhicules personnels qui nous suivent ou sont déjà sur place et arrivée estimée à 12h00 au pied de l’hôtel. La grande bleue est là, en bas, super. Nous y voici, Etap Hotel de La Ciotat, tout le monde descend ! Enfin ceux qu’on pas été tout droit…
+
+Tout le monde est enfin là. Prise en charge des chambres et rendez-vous presque instantané pour aller manger. Direction bord de mer pour repas tirés du sac pour certains et restaurant rapide pour les autres. Nous  accostons sur le bord de mer de La Ciotat, les uns sur la plage, les autres en terrasse… On est bien, hein Tintin ! Le soleil nous chauffe le visage, le clapotis des vagues renvoie à nos tympans le mot vacance et l’engouement ainsi que  les sourires de chacun laissent planer une certaine décontraction. Assis à coté de moi, un vieux vétéran pirate laisse échapper le mot. Celui qui traverse les embruns, celui qui réveille une bande de loup de mer partis depuis de longs mois, abandonnant femmes et enfants….. Bière !
+
+Et c’est parti pour le show, la rapidité du serveur n’a d’égal que la tchatche d’un pécheur de sardine marseillais et le croisement d’un escargot lancé à vive allure version taxi 18. On mange pas mal pour le prix mais à peine l’entrée servie l’avant-garde des « repastirésdusac » est déjà là pour se rendre compte du gouffre qu’il existe, en temps, entre le casse-croûte et le repas d’une table de 13 personnes au service. Finalement, ce sera 1H45 au lieu de seulement une heure accordée.
+
+Nous allons devoir aller chercher nos dossards maintenant, direction Marseille. Certaines femmes préfèrent rester à la plage… Las autres, direction Cassis. Je vous passe l’épisode de la recherche de Gas-oil pour vous parler de cette petite route qui descend sur Cassis, cette vue typiquement méditerranéenne puis ensuite celle qui rallie Cassis à Marseille en passant par celle qui nous a fait rire durant tout le trajet : La Gineste ! Des courbes suaves, de creux en bosses avantageuses, elles se présente à nous avec tous les atouts que nous pressentions (Dites voir, je m’égare…). En fait, cette belle route nationale devient la cible de toutes nos attentions de  coureurs. Chaque hectomètre est disséqué par des commentaires fusant de toute part… A ce moment, j’aurais voulu entendre ceux du minibus des hommes forts du groupe, derrière ! Et cette plongée sur Marseille, cette vue magnifique déjà agrémentée des banderoles de sponsors, des kilomètres inscrits, comme imprégnée de l’évènement. Le doute, l’envie, l’exaltation du lendemain, l’inquiétude devant ce mur de quelques kilomètres que nous devrions, demain, accompagné de quelques 15.000 collègues, gravir pour espérer jouir de l’ultime arrivée dans le petit port de Cassis. Bon, c’est pas tout ça mis faut trouver à se garer et récupérer les dossards…
