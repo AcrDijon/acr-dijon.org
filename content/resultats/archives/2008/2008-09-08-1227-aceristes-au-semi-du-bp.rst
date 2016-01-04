@@ -5,7 +5,7 @@ ACéRistes au semi du BP
 :category: Résultats
 :summary: ACéRistes au semi du BP
 
- Voici le classement des ACéRistes sur le semi marathon du Bien Public couru ce samedi 06 septembre sous une pluie battante. Même si certains courraient sous les couleurs d'une entreprise il font parti du team ACR Dijon.
+Voici le classement des ACéRistes sur le semi marathon du Bien Public couru ce samedi 06 septembre sous une pluie battante. Même si certains courraient sous les couleurs d'une entreprise il font parti du team ACR Dijon.
 
 - 20 01:18:03 AUDIN,Pierre V1M
 - 28 01:21:03 MANGELAERS-PIVOT,Vincent **1JUM**
