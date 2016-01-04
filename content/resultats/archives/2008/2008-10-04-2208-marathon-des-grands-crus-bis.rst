@@ -14,42 +14,39 @@ Vous pouvez retrouver le classement de chaque athlète du club dans le tableau s
 
 
 - BORNEL VERONIQUE
-Marathon - 04/10/08 - Arrivé(e) 50 eme sur 392 avec un temps de 03:09:56
-Soit 1 eme sur 21 dans la catégorie V1F
+  Marathon - 04/10/08 - Arrivé(e) 50 eme sur 392 avec un temps de 03:09:56
+  Soit 1 eme sur 21 dans la catégorie V1F
 	
 
 - ROZE FABRICE
-10km - 04/10/08 - Arrivé(e) 7 eme sur 417 avec un temps de 00:33:17
-Soit 6 eme sur 111 dans la catégorie SEM
+  10km - 04/10/08 - Arrivé(e) 7 eme sur 417 avec un temps de 00:33:17
+  Soit 6 eme sur 111 dans la catégorie SEM
 
 - PISANESCHI MATTHIEU
-10km - 04/10/08 Arrivé(e) 24 eme sur 417 avec un temps de 00:35:51
-Soit 1 eme sur 3 dans la catégorie JUM
+  10km - 04/10/08 Arrivé(e) 24 eme sur 417 avec un temps de 00:35:51
+  Soit 1 eme sur 3 dans la catégorie JUM
 	
-
 - PIVOT XAVIER
-10km - 04/10/08 Arrivé(e) 32 eme sur 417 avec un temps de 00:36:42
-Soit 1 eme sur 8 dans la catégorie CAM
+  10km - 04/10/08 Arrivé(e) 32 eme sur 417 avec un temps de 00:36:42
+  Soit 1 eme sur 8 dans la catégorie CAM
 
 - LE BOULANGER MICHEL
-10km - 04/10/08 Arrivé(e) 43 eme sur 417 avec un temps de 00:37:52
-Soit 6 eme sur 76 dans la catégorie V1M
+  10km - 04/10/08 Arrivé(e) 43 eme sur 417 avec un temps de 00:37:52
+  Soit 6 eme sur 76 dans la catégorie V1M
 	
-
 - WAGEMESTER INGA
-10km - 04/10/08 Arrivé(e) 44 eme sur 417 avec un temps de 00:37:56
-Soit 2 eme sur 45 dans la catégorie SEF
+  10km - 04/10/08 Arrivé(e) 44 eme sur 417 avec un temps de 00:37:56
+  Soit 2 eme sur 45 dans la catégorie SEF
 
 - NICOLAROOT FABRICE
-10km - 04/10/08 Arrivé(e) 102 eme sur 417 avec un temps de 00:42:31
-Soit 51 eme sur 111 dans la catégorie SEM
-	
+  10km - 04/10/08 Arrivé(e) 102 eme sur 417 avec un temps de 00:42:31
+  Soit 51 eme sur 111 dans la catégorie SEM
 
 - BELLEVILLE DIDIER
-10km - 04/10/08 Arrivé(e) 108 eme sur 417 avec un temps de 00:42:50
-Soit 16 eme sur 67 dans la catégorie V2M
+  10km - 04/10/08 Arrivé(e) 108 eme sur 417 avec un temps de 00:42:50 
+  Soit 16 eme sur 67 dans la catégorie V2M
 
 - HOUOT LYDIE / BOUCHER CHRISTOPHE
-Duo marathon - 04/10/08 Arrivé(e) 44 eme sur 124 avec un temps de 02:53:59
-Soit 10 eme sur 41 dans la catégorie MI
+  Duo marathon - 04/10/08 Arrivé(e) 44 eme sur 124 avec un temps de 02:53:59
+  Soit 10 eme sur 41 dans la catégorie MI
 	  
