@@ -5,6 +5,10 @@
 :category: Résultats
 :summary: 16th European Veterans Athletic Championships Stadia in Ljubljana
 
+Jacques PIVOT, aussitôt après avoir terminé le "Tour de la Serra" est parti à l'est, du coté de Ljubjana. Un petit périple d'un bon millier de kilomètres pour rejoindre la Slovénie où se déroulaient les championnats d' Europe vétérans. Sa course: Le marathon couru le 03 août... dans la catégorie des + de 70 ans...
+
+Voici ses commentaires et résultats.
+
 Impressions générales:
 
 Ambiance  toujours aussi conviviale, plus encore qu'à Clermont (davantage de familles, tribunes souvent bien remplies ). On retrouve souvent les mêmes athlètes, contents de se revoir avant et après les épreuves, mais qui luttent avec acharnement pendant. Organisation parfaite dans un cadre plus qu'agréable, sauf pour les épreuves de marche et marathon ( pour ce dernier couru sur des routes ouvertes à la circulation ). Température élevée, favorisant les performances sur les courtes distances, mais très handicapante pendant 42 km ( plus de 32°C à l'arrivée ).
