@@ -5,6 +5,8 @@ LA RONDE DES DEVINS A THUSY (Hte SAVOIE )
 :category: Résultats
 :summary: LA RONDE DES DEVINS A THUSY (Hte SAVOIE )
 
+**Pierre Merlin** se ballade toujours, avec dans sa besace le maillot orangé de l' ACéRiste vaillant. Voici le récit de sa dernière virée en baskets...
+
 " De nouveau en transit du coté d’Annecy, je consulte ma bible des courses, et me voila en ce très gris et frisquet dimanche matin, perdu dans un petit village de quelque centaines d’âmes du piémont Savoyard quelque part entre Annecy et Rumilly.
 
 
