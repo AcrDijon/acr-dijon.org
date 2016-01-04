@@ -5,7 +5,7 @@ Régis fait la Une du Progrès !
 :category: Résultats
 :summary: Régis fait la Une du Progrès !
 
-|httpidataover-blogcom0120862-dole_une_progres_p.jpg| 
+.. image:: http://assets.acr-dijon.org/progres.jpg
 
 **Régis Boucheseche**  a finalement terminé 14ème en 36'52" le 10KM remporté par le duciste Romain Vogt en 32'08".
 
