@@ -1,0 +1,22 @@
+C'est parti pour 2006
+=====================
+
+:date: 2005-09-08 00:00
+:category: Résultats
+:summary: C'est parti pour 2006
+
+`|C'est la RENTREE|`_ **La saison est officiellement lancée.**
+
+La prise ou le renouvellement des licences est possible dés aujourd'hui.
+
+**Rappel:**
+
+- la période de mutation se termine le 30 septembre
+
+- La licence 2005 reste valable jusqu'au 30 septembre mais les performances réalisées lors de compétitions durant ce mois ne seront pas prises en compte pour la saison 2006 si le renouvellement n'est pas effectué avant le 30 septembre.
+
+Les prochaines dates en ce qui concerne la piste ne sont  ... `en lire plus*`_
+
+.. |C'est la RENTREE| image:: http://assets.acr-dijon.org/old/httpffathleorgimagesactualitesespaces-act_4_12863_big.jpg
+.. _|C'est la RENTREE|: http://ligueauvergne.athle.com/asp/esp_actualites/act_dtl.asp?actid=12863
+.. _en lire plus*: http://ligueauvergne.athle.com/asp/esp_actualites/act_dtl.asp?actid=12863

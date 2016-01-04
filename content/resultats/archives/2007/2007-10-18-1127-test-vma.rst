@@ -1,0 +1,46 @@
+Test VMA
+========
+
+:date: 2007-10-18 11:27
+:category: Résultats
+:summary: Test VMA
+
+Comme nous vous l'avions annoncé, l'ACR Dijon organisera un test VMA lors des entraînements des jeudi 25 et mardi 30 octobre. Ils se dérouleront au Lac Kir lors des séances initiales, dès 18h30. Réservé aux adhérents en priorité, nous accepterons cependant quelques invités. Ceux-ci devront juste envoyer un petit mail pour s'inscrire.
+
+
+**Le 45-15 (Gacon)**
+
+
+**Objectifs du test :** Evaluer la VMA.
+
+
+**Matériel et mise en place :**
+
+
+- Une piste de 200m au moins.
+- Deux plots placés à 100m l'un de l'autre.
+- Les autres plots placés tous les 6.25m (voir schéma).
+- Un chronomètre et un sifflet.
+- Un tableau d'exploitation des résultats. `http://www.sport-performance.com/images/pdf/valeurs4515.pdf <http://www.sport-performance.com/images/pdf/valeurs4515.pdf>`_
+
+
+|httpwwwsport-performancecomimagesarticles-test-45-15.jpg|
+
+
+**Déroulement de l'épreuve :**
+
+
+- Il n'est pas nécessaire de s'échauffer, en effet le test est triangulaire (à intensité croissante par paliers) et les premières minutes sont plutôt "faciles". De plus, le sportif devra être le plus frais possible pour réaliser le test jusqu'au bout de ses possibilités.
+
+
+- Les paliers du test durent 1 minute décomposée de la façon suivante : 45 secondes de course, 15 secondes de marche.
+
+- La vitesse est imposée par la distance à parcourir en 45 secondes. Celle-ci augmente en effet de 6.25m à chaque palier, ce qui correspond à une augmentation de 0.5km/h par palier.
+
+- Ainsi lors du 1er palier, la distance à parcourir est de 100m, ce qui équivaut à une vitesse de 8km/h. - Une fois arrivé au plot, le sportif marche jusqu'au prochain plot placé 6.25m plus loin, puis repart dans l'autre sens (vers le point de départ) ce qui lui fait donc à parcourir 100 + 6.25 = 106.25m (8.5km/h).
+
+- Revenu au départ, le sportif marche sur place et repart une nouvelle fois dans l'autre sens, mais doit aller encore un plot plus loin (112.5m à parcourir). Le test continu ainsi sous cette forme.
+
+- Le sportif arrêtera le test lorsqu'il ne lui sera plus possible d'atteindre le plot suivant (une marge de 3-4m peut être autorisée à condition de valider réellement le palier suivant). On retiendra le dernier palier réalisé correctement (sans retard).
+
+.. |httpwwwsport-performancecomimagesarticles-test-45-15.jpg| image:: http://assets.acr-dijon.org/old/httpwwwsport-performancecomimagesarticles-test-45-15.jpg

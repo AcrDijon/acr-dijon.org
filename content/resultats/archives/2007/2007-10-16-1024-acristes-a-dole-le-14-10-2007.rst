@@ -1,0 +1,15 @@
+ACRistes à Dole le 14-10-2007
+=============================
+
+:date: 2007-10-16 10:24
+:category: Résultats
+:summary: ACRistes à Dole le 14-10-2007
+
+144 | `ROZE Fabrice`_      | SEM/71           | Acr Dijon  | **44'57''**
+
+.. _LESEUR Jany: javascript:bddThrowAthlete('resultats',%2013840,%2058)
+.. _VOGT Romain: javascript:bddThrowAthlete('resultats',%2091931,%2058)
+.. _LALIRE Paul: javascript:bddThrowAthlete('resultats',%2092085,%2058)
+.. _BOUCHESECHE Regis: javascript:bddThrowAthlete('resultats',%201934892,%2058)
+.. _CROTET Jeremy: javascript:bddThrowAthlete('resultats',%201576397,%2058)
+.. _ROZE Fabrice: javascript:bddThrowAthlete('resultats',%20416974,%2058)
