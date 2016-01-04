@@ -22,7 +22,18 @@ A savoir que le club a payé l'inscription, le repas et remboursera le déplacem
 
 
 
-792 | 01:32:34 | BONZON François          | ACR DIJON
+- 17 00:48:58 CROTET Jérémy ACR DIJON
+- 51 00:52:27 CROTET David ACR DIJON
+- 53 00:52:37 PISANESCHI Matthieu ACR DIJON
+- 66 00:53:33 MANGELAERS-PIVOT Vincent ACR DIJON
+- 92 00:55:10 RABIET Frédéric ACR DIJON
+- 247 01:01:48 CHIODIN Jean-Marc ACR DIJON
+- 310 01:04:24 BREGAND Alain ACR DIJON
+- 331 01:04:59 BELLEVILLE Didier ACR DIJON
+- 509 01:11:29 PIVOT Jacques ACR DIJON
+- 510 01:11:31 CROTET Florent N.L
+- 792 01:32:34 BONZON François ACR DIJON
+
 
 
 
