@@ -5,7 +5,25 @@ Demi finale des France de piste
 :category: Résultats
 :summary: Demi finale des France de piste
 
-13
+ Grégoire et Maxime Chevalier étaient en Lorraine, à Tomblaine, près de Nancy, ce dimanche soir pour honorer leurs qualifications aux Pré-France du 800 mètres piste. Après leur excellent  résultat des championnats de Bourgogne, l’idée était de voir jusqu’où ils pouvaient encore aller et bien sur d’envisager des meilleurs temps.
+
+C’est dans la sixième finale qu’ils ont pu se donner pleinement mais la chaleur en a fait souffrir plus d’un en ce dimanche après-midi. Avec une organisation un peu décevante, 45’ de retard et une course tactique, nos deux jeunes cadets étaient un peu déçu mais c’est le dur apprentissage du demi fond. Peut-être les retrouverons-nous ce jeudi sur le mille mètres de la soirée du DUC ?
+
+ 
+
+Tous les résultats de ces demi-finales avec le lien ci-dessous :
+
+http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=43&frmcompetition=027795&frmposition=4
+
+ 
+
+800m / TCM | M | Finale directe 6 | Chr : E
+
+- 1 2'01''65 BOURGEOIS Dimitri Ea Macon *
+- 5 2'07''05 **CHEVALIER Maxime Acr Dijon** 
+- 8 2'08''39 **CHEVALIER Gregoire Acr Dijon**
+
+  
 
 .. _http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=43&frmcompetition=027795&frmposition=4: http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=43&frmcompetition=027795&frmposition=4
 .. _BOURGEOIS Dimitri: javascript:bddThrowAthlete('resultats',%2064393,%2043)
