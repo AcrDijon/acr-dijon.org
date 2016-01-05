@@ -48,7 +48,7 @@ Dossard n° 2091
 Club : ACR DIJON
 Vitesse moyenne : 16,43085
 
--HEURET FABRICE 	Arrivé(e) 16 eme sur 716 avec un temps de 00:36:56
+- HEURET FABRICE 	Arrivé(e) 16 eme sur 716 avec un temps de 00:36:56
 Soit 10 eme sur 181 dans la catégorie SEM
 Dossard n° 1691
 Club : ACR DIJON
