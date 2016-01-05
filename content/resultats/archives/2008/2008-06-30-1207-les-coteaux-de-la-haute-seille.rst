@@ -5,6 +5,8 @@ Les Coteaux de la Haute Seille
 :category: Résultats
 :summary: Les Coteaux de la Haute Seille
 
+Pierre Merlin se trouvait du coté de Château chalon ce week-end. Petit récit de la course...
+
 "J’avais prévu de mettre une course en montagne à mon programme ce week-end, à défaut du Mont Blanc, ce fut plus prosaïquement Les Coteaux de la Haute Seille.
 
 
