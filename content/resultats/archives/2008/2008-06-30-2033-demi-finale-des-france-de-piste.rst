@@ -5,7 +5,7 @@ Demi finale des France de piste
 :category: Résultats
 :summary: Demi finale des France de piste
 
- Grégoire et Maxime Chevalier étaient en Lorraine, à Tomblaine, près de Nancy, ce dimanche soir pour honorer leurs qualifications aux Pré-France du 800 mètres piste. Après leur excellent  résultat des championnats de Bourgogne, l’idée était de voir jusqu’où ils pouvaient encore aller et bien sur d’envisager des meilleurs temps.
+Grégoire et Maxime Chevalier étaient en Lorraine, à Tomblaine, près de Nancy, ce dimanche soir pour honorer leurs qualifications aux Pré-France du 800 mètres piste. Après leur excellent  résultat des championnats de Bourgogne, l’idée était de voir jusqu’où ils pouvaient encore aller et bien sur d’envisager des meilleurs temps.
 
 C’est dans la sixième finale qu’ils ont pu se donner pleinement mais la chaleur en a fait souffrir plus d’un en ce dimanche après-midi. Avec une organisation un peu décevante, 45’ de retard et une course tactique, nos deux jeunes cadets étaient un peu déçu mais c’est le dur apprentissage du demi fond. Peut-être les retrouverons-nous ce jeudi sur le mille mètres de la soirée du DUC ?
 
