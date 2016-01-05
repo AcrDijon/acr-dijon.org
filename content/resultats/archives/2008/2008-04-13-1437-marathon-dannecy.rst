@@ -5,9 +5,7 @@ Marathon d'Annecy
 :category: Résultats
 :summary: Marathon d'Annecy
 
-Le site du Maraton d'Annecy: `http://www.marathon-annecy.com/`_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Un petit mot, c'est:
-`alain.bregand@neuf.fr`_
+.. image:: http://assets.acr-dijon.org/alain.JPG
 
-.. |httpidataover-blogcom0120862-dscn7375.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn7375.JPG
-.. _http://www.marathon-annecy.com/: http://www.marathon-annecy.com/
-.. _alain.bregand@neuf.fr: mailto:alain.bregand@neuf.fr
+Aprés avoir battu dernièrement son record sur le semi marathon (1h36' sur le circuit des championnats du monde de Clermont-Ferrand), Alain Brégand (V2M) vient de pulvériser son meilleur temps sur marathon, ce dimanche matin, à Annecy.
+3H30' (à sa montre) est son nouveau record. Son assiduité à l'entraînement et son serieux dans sa préparation fait de notre ACéRiste un modèle sportif, mais reste par sa courtoisie et sa bonne humeur, un athlète dont nous pouvons, ce jour, nommé en haut rang sur l'echelle de la persévérance. Même le président, à ce stade, fait "chapeau bas". Respect ! 
