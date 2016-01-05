@@ -5,6 +5,8 @@ l'Assaut des Mémises
 :category: Résultats
 :summary: l'Assaut des Mémises
 
+Pierre Merlin courait en savoie ce week-end aussi. Petit récit de son expérience... A défaut de dahut (cité dans son article) et comme le disait un de mes collègues, en suisse, lors de la Sierre-Zinal, c'est le genre de course où il faut être croiser avec un "bouquetin" pour gravir la caillasse et s'élever sur la montagne !!!
+
 Bonjour,
 Dans la série "l'ACR s'exporte"
 Week-end en Haute-Savoie pour un fête de famille, mais que faire quand on a des fourmis dans les jambes et qu' on a un peu marre des libations..?
@@ -17,3 +19,4 @@ Soudain c'est le sommet et une délicieuse descente de 1 km conduit à l'arriv
 Le reste, un refuge station d'arrivée "bistrot" d'un télécabine bien vu et bienvenu car il fait 6°C là-haut, remise des prix au chaud, rapide et très sympa, tiens on m'appelle : 3ème V3, on cite Dijon mais pas ACR, c'est pardonnable on est en Savoie..! Enfin pour terminer buffet sympa partagé entre coureurs,quelques randonneurs et les bénévoles.
 Il ne reste plus qu'à redescendre, Télécabine ou pédibus..? Allez soyons fou jusqu'au bout et à l'instar de quelques coureurs je choisis la marche cette fois, entrecoupée de quelques foulées endolories.
 Finallement quelle belle journée, et quelle chance ai-je de pouvoir encore faire ça à bientôt 65 balais...!
+
