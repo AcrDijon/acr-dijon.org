@@ -15,7 +15,7 @@ Commentaire d’un coureur de l’ACR Dijon.
 
 
 
-3     | `Eric DELAGE`_    | 0:34:36 | 17.341         | V1H
+
 
 
 
