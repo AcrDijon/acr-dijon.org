@@ -5,6 +5,17 @@ les ACéRistes à Gray - Classements 2008
 :category: Résultats
 :summary: les ACéRistes à Gray - Classements 2008
 
+Les boucles de la Sâone avaient lieu ce dimanche 16/03/2008. Quatre représentants du club ont fait le déplacement avec une première place pour le cadet Jérémy Crotet. De bons temps sur ce 10 km avec des courses de trés bon rang puisque nous retrouvons des kényans aux premières places. A noter la victoire d'un junior sur le 10 Km. Bravo à tous
+
+- 21 00:35:22.70 BOUCHESECHE  REGIS
+- 29 00:36:51.30 CROTET  DAVID
+- 33 00:37:10.15 CROTET  JÉRÉMY
+- 88 00:41:22.75 GOEURY  GERARD
+	
+
+
+
+
 Retrouvez les classements complets de Gray 2008 sur :
 
 
