@@ -17,4 +17,8 @@ Inga Wagemester (ACR Dijon) prend la sixième place chez les féminines. Christi
 Les clasements des Acéristes:
 
 
-138 | MARESCHAL Bernard  | 7ème V3M   | 49'26''
+- 3 	AUDIN Pierre 	1er    V1M 	35'08''
+- 85 	CHAMBIN     Daniel 	3ème V3M 	44'40''
+- 92 	MAGUER Jean-Claude 	5ème V3M 	45'02''
+- 109 	WAGEMESTER Inga 	2ème SF 	46'36''
+- 138 	MARESCHAL Bernard 	7ème V3M 	49'26''
