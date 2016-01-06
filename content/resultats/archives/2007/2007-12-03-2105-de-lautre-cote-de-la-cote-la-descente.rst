@@ -5,6 +5,8 @@ De l'autre coté de la côte !!! La descente
 :category: Résultats
 :summary: De l'autre coté de la côte !!! La descente
 
+Sébastien m'a fait part de sa folle épreuve en "côte" du Rhône... De Saint-Etienne à Lyon, la lumière descente d'une virée nocturne lui a masqué des descentes plus nombreuses que prévues... Mais, comme disait Pierre (pas Audin mais de Coubertin !) l'essentiel est de participer ! Au diable le flacon pourvu qu'on ait l'ivresse! Et pourtant la "descente" est un label ACRiste...
+
 Je suis bien naze...69 bornes de côtes et surtout de descentes !
 
 Plutôt usant, surtout avec la flotte tombée le jour même...que de piscines à traverser...bref, j'avais signé pour en baver, mais là, je suis vacciné pour le trail !
