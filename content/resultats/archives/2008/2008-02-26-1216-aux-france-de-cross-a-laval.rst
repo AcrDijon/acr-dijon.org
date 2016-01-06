@@ -1,9 +1,9 @@
-Aux &quot;France de Cross&quot; à Laval
-=======================================
+Aux France de Cross à Laval
+===========================
 
 :date: 2008-02-26 12:16
 :category: Résultats
-:summary: Aux &quot;France de Cross&quot; à Laval
+:summary: Aux France de Cross à Laval
 
 |httpwwwathlecomimagescompetitions-laval2008.jpg|
 
@@ -15,7 +15,18 @@ Voici la liste des athlètes:
 
 
 
-261 | `PIVOT Jacques`_            | Acr Dijon | V4 | M | X
+640 	MANGELAERS-PIVOT Vincent      	Acr Dijon      	JU 	M 	X
+503 	AUDIN Pierre     	Acr Dijon     	VE 	M 	X
+489 	BOURGEOIS Lionel 	Acr Dijon     	V2 	M 	
+X
+193 	BACONNET Gerard    	Acr Dijon     	V3 	M 	
+X
+194 	FRANCOIS Serge         	Acr Dijon     	V3 	M 	
+X
+262 	RABIET Jean-louis  	Acr Dijon     	V4 	M 	
+X
+261 	PIVOT Jacques  	Acr Dijon     	V4 	M 	
+X 
 
 
 Pendant ce temps, d'autres seront aux 10 km de Bletterans. Nous espérons avoir les classements dès lundi et pourquoi pas quelques photos.
