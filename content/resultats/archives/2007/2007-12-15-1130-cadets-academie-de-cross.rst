@@ -5,6 +5,10 @@ Cadets - Académie de cross
 :category: Résultats
 :summary: Cadets - Académie de cross
 
+ACADEMIE DE CROSS - 12/12/2007 à CHARBUY (89)
+
+Les championnats d'académie de Cross se sont déroulés ce mercredi 12 décembre à Charbuy dans l'Yonne. Une épreuve où nous retrouvons les mêmes jeunes qui participent généralement aux régionaux de cross qui auront lieu à Talant le 27 janvier 2008. Parmi les athlètes (Collègiens et lycéens) courraient les jeunes de notre club. Vous pouvez consulter les classements complets sur le site: http://www.unssdijon.com/R%E9sultats/2resultats-acad/2007-2008/CROSS.xls
+
 Classements des ACRistes:
 
 
