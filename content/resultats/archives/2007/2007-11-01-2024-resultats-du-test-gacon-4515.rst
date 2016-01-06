@@ -17,4 +17,50 @@ Un merci à malik Assadi (RUNNING CONSEIL) pour le prêt des cônes oranges bien
 A noter que les prochains tests pourraient se dérouler sur la piste Colette Besson sur lequel le club pourra prochainement s'entraîner les jeudi soirs de 18H30 à 21h00
 
 
-**Pierre**        | **21**
+Test n° 1 du jeudi 25/10/07 
+
+- François 	13.5
+- Déborah 	14.5
+- Sébastien 	15.5
+- Sandra 	15.5
+- Alain 	16
+- Véronique 	16.5
+- Yves 	16.5
+- Laurent 	16.5
+
+Test n° 2 du jeudi 25/10/07 
+
+- Maxime 	16
+- Mathieu 	17
+- Gérard 	17.5
+- Jérémie 	18.5
+- Stéphane 	18.5
+- Lionel 	19
+- Arnaud 	19
+- Xavier F. 	19.5
+- Fabrice 	20
+- Hassan 	20
+
+	
+
+Test n° 1 du mardi 30/10/07 
+
+- Aurélie 	14
+- Hélène 	15
+- Delphine 	15
+- Marie-Laure 	15.5
+- Patrick 	16
+- Didier R. 	16.5
+- Jean-Philippe 	16.5
+- Mattéo 	17
+- Joël 	17
+- Didier B. 	17
+- Alexandra 	17.5
+- Bruce 	18
+- Lionel 	19
+- Benoît 	19.5
+- Xavier M. 	20
+- Vincent M. 	21
+- Pierre 	21
+
+ 
