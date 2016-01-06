@@ -14,14 +14,5 @@ Vous pouvez voir l'ensemble des classements de chaque compétition et chaque cat
 `http://www.dbwma2007.org/results/atwma/2007/riccione0409200701/at/indexframe.htm <http://www.dbwma2007.org/results/atwma/2007/riccione0409200701/at/indexframe.htm>`_
 
 
-ITA | |httpwwwdbwma2007orgresultsatwmaimages-ita.gif| | ITA | |httpwwwdbwma2007orgresultsatwmaimages-ita.gif| | 1932 | **5:53:48**
 
-.. |httpwwwdbwma2007orgresultsatwmaimages-ger.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-ger.gif
-.. |httpwwwdbwma2007orgresultsatwmaimages-ita.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-ita.gif
-.. |httpwwwdbwma2007orgresultsatwmaimages-aut.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-aut.gif
-.. |httpwwwdbwma2007orgresultsatwmaimages-esp.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-esp.gif
-.. |httpwwwdbwma2007orgresultsatwmaimages-rus.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-rus.gif
-.. |httpwwwdbwma2007orgresultsatwmaimages-fra.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-fra.gif
-.. |httpwwwdbwma2007orgresultsatwmaimages-fin.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-fin.gif
-.. |httpwwwdbwma2007orgresultsatwmaimages-gbr.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-gbr.gif
-.. |httpwwwdbwma2007orgresultsatwmaimages-nzl.gif| image:: http://assets.acr-dijon.org/old/httpwwwdbwma2007orgresultsatwmaimages-nzl.gif
+
