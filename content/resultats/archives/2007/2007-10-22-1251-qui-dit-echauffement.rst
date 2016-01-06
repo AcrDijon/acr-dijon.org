@@ -1,9 +1,9 @@
-Qui dit &quot;échauffement&quot;...
-===================================
+Qui dit échauffement...
+=======================
 
 :date: 2007-10-22 12:51
 :category: Résultats
-:summary: Qui dit &quot;échauffement&quot;...
+:summary: Qui dit échauffement...
 
 **Phase d'échauffement**
 
@@ -26,4 +26,8 @@ Un rapide calcul des allures sur le tour du Lac Kir (3600 m) permet de se rendre
 
 **Tableau allure  sur tour du lac : 3600 M** 
 
-11 Km/h | 19'38''28
+- 8 Km/h 	27'00''
+- 9 Km/h 	24'00''
+- 10 Km/h 	21'36''10
+- 11 Km/h 	19'38''28
+
