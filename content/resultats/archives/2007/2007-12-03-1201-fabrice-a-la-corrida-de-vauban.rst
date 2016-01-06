@@ -1,9 +1,9 @@
-Fabrice à la &quot;Corrida de Vauban&quot;
-==========================================
+Fabrice à la Corrida de Vauban
+==============================
 
 :date: 2007-12-03 12:01
 :category: Résultats
-:summary: Fabrice à la &quot;Corrida de Vauban&quot;
+:summary: Fabrice à la Corrida de Vauban
 
 **Besançon le dimanche 02 décembre 2007**
 
