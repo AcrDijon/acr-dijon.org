@@ -12,4 +12,13 @@ La 30e Course de l'Escalade a fait le plein de participants samedi, battant un n
 Parmi eux, quelques Côte d’ Oriens ont pris de belles places d’honneurs :
 
 
-V4M | 7ème /60 | PIVOT | Jacques | (ACR Dijon)
+- V4M  7ème /60  PIVOT  Jacques  (ACR Dijon)
+- CAD A  6ème/275 MANGELAERS-PIVOT 	Vincent  (ACR Dijon)
+- CAD A 	22ème/275  PISANECHI 	Matthieu   	 (ACR Dijon)
+- CAD B 	13ème/403  	MANGELAERS-PIVOT 	 Xavier  (ACR Dijon)
+
+ 
+- Populaire 	  	MERLIN 	Ghislaine 	(Hauteville Les Dijon)
+- V2M  	15ème 	MERLIN 	 Pierre    (ACR Dijon)
+- SEM  	12ème   	DUPUIS 	Aurélien 	(LADOIX SERRIGNY)
+- V2F 	85ème    	DUPUIS Martine    (LADOIX SERRIGNY)
