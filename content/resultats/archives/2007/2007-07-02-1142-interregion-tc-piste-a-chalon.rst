@@ -13,5 +13,13 @@ Quoi qu'il en soit les cadets ont fait une belle saison en représentant le club
 
 Le classement des interrégions de Chalon.
 
+3 000m / CAM | M | Finale directe 1 | Chr : E
 
-8
+- 1 	9'02''13 	GUILLARD Colin 	Athletisme Metz Metropole* 	057 	LOR 	CAM/91 	  	726
+- 2 	9'15''98 	BOTTI Nicolas 	Fc Mulhouse 1893 	068 	ALS 	CAM/91 	  	660
+- 3 	9'17''33 	DUGENET Antoine 	Ga Haut-saonois (fc) 	070 	F-C 	CAM/90 	  	654
+- 4 	9'18''88 	**MANGELAERS-PIVOT Vincent 	Acr Dijon** 	021 	BOU 	CAM/90 	  	647
+- 5 	9'19''42 	MOUSSAOUI Mohammed 	R.e.s.d.a. Vosges * 	088 	LOR 	CAM/90 	  	644
+- 6 	9'49''42 	ZAMOLO Enzo 	Ac Centre Alsace 	067 	ALS 	CAM/91 	  	514
+- 7 	9'52''81 	PAILLOUX Simon 	Entente Chalon/saone Athl. 	071 	BOU 	CAM/90 	  	500
+- 8 	9'56''89 	**CROTET Jeremy 	Acr Dijon** 	021 	BOU 	CAM/91 	  	483
