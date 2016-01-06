@@ -5,7 +5,17 @@ ACRistes à Dole le 14-10-2007
 :category: Résultats
 :summary: ACRistes à Dole le 14-10-2007
 
-144 | `ROZE Fabrice`_      | SEM/71           | Acr Dijon  | **44'57''**
+ Classement des ACRistes aux 10 Km de Dole du 14-10-2007 
+ 
+- 1 	LESEUR Jany 	ESM/87 	Dole Ac	32'44''
+- 2 	VOGT Romain 	ESM/87 	Dijon Uc* 	32'51''
+- 3 	LALIRE Paul 	ESM/88 	Ac Chenove 	33'08''
+- 40 	BOUCHESECHE Regis 	SEM/75 	Acr Dijon 38'18''
+- 49 	CROTET Jeremy CAM/91 1er cadet 	Acr Dijon 	38'58''
+- 50 	CROTET David V1M/66 	Acr Dijon 38'59''
+- 143 	WAGEMESTER Inga 	SEF/80 	Acr Dijon 	44'57''
+- 144 	ROZE Fabrice 	SEM/71 	Acr Dijon 	44'57''
+
 
 .. _LESEUR Jany: javascript:bddThrowAthlete('resultats',%2013840,%2058)
 .. _VOGT Romain: javascript:bddThrowAthlete('resultats',%2091931,%2058)
