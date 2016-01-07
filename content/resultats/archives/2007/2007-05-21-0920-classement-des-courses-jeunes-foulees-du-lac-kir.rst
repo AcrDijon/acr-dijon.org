@@ -13,7 +13,7 @@ Classement Nom Prénom Temps Arrondi 1 DE ALMEIDA Arthur 00:03:59
 4 CLERIOT Thomas 00:04:05
 5 COELHO Valentin 00:04:06
 6 CHAVETIAS Pierric 00:04:10
-7 LE BOULANGER Pierre 00:04:12
+7 **LE BOULANGER Pierre** 00:04:12
 8 DETOURBET Valentin 00:04:13
 9 LACORDAIRE Killien 00:04:15
 10 CLERIOT Thibault 00:04:21
@@ -59,7 +59,7 @@ Classement Nom Prénom Temps Arrondi 1 DE ALMEIDA Arthur 00:03:59
 50 COUSIN Pierre 00:05:31
 51 VERGER Maxime 00:05:33
 52 BASSAND Céline 00:05:46
-53 RABIET Emma 00:06:00
+53 **RABIET Emma** 00:06:00
 54 LEFORT Emilie 00:06:05
 55 SAGRANGE Amélie 00:06:17
 56 FOUCHARD Oceane 00:06:19
@@ -70,10 +70,10 @@ Classement Nom Prénom Temps Arrondi 1 DE ALMEIDA Arthur 00:03:59
 61 FERDJANY Zoé 00:09:24
 Ab, DETOURBET Julien 00:00:00
 Ab, MATHIEU Cédric 00:00:00
-Ab, RABIET Léonie 00:00:00
+Ab, **RABIET Léonie** 00:00:00
 
 CLASSEMENT COURSE 2 - 2000 M 
-BENJAMINS - MINIMES Classement Nom Prénom Temps Arrondi 1 MANGELAERS PIVOT Xavier 00:06:08
+BENJAMINS - MINIMES Classement Nom Prénom Temps Arrondi 1 **MANGELAERS PIVOT Xavier** 00:06:08
 2 LACENAIRE Thibault 00:06:20
 3 CAMENEN Kévin 00:06:32
 4 GEVREY Alexis Mickael 00:06:38
@@ -90,7 +90,7 @@ BENJAMINS - MINIMES Classement Nom Prénom Temps Arrondi 1 MANGELAERS PIVOT Xavi
 15 BERGER Aurélie 00:08:00
 16 CLERIOT Pauline 00:08:03
 17 DROZ GREY Alan 00:08:26
-18 BORNEL Pérrrine 00:08:47
+18 **BORNEL Pérrrine** 00:08:47
 19 HUERTAS Guillaume 00:09:49
 20 SIRDEY Romain 00:09:53
 21 COURJE Sebastien 00:10:45
