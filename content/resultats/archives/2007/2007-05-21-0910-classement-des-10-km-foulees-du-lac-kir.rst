@@ -1,9 +1,9 @@
-Classement des 10 km &quot;Foulées du Lac Kir&quot;
-===================================================
+Classement des 10 km Foulées du Lac Kir
+=======================================
 
 :date: 2007-05-21 09:10
 :category: Résultats
-:summary: Classement des 10 km &quot;Foulées du Lac Kir&quot;
+:summary: Classement des 10 km Foulées du Lac Kir
 
 **CLASSEMENT COURSE 10 km** 
 Classement / Nom / Prénom /  Temps Arrondi 
