@@ -8,7 +8,8 @@ Boucles de la Saône - Gray
 Voici les classements des ACRistes qui étaient à Gray ce week-end...Temps froid, vent et pluie ont été également du parcours.
 
 
-**CLASSEMENT 10 Km** Class. -Temps -Nom -Categorie 
+**CLASSEMENT 10 Km**
+
 50-00:38:16.35 -`ZIMA  DOMINIQUE <http://www.le-sportif.com/exe/main_resultats_consult_detail_coursesapieds.asp?search_nom=&search_dossard=995&resep_id=3634&resep_rnd=%7B4A562C64%2D13FF%2D4C4F%2D8246%2D49B2B3CF6581%7D&resma_id=1228&resma_rnd=%7BAC3BCFBD%2D114A%2D4B15%2DA808%2D5A6D885363BC%7D&dis_id=%2D1&end=t>`_ -V1  (M)
 
 
@@ -25,3 +26,5 @@ Voici les classements des ACRistes qui étaient à Gray ce week-end...Temps froi
 
 
 **CLASSEMENT 21.100 km**
+
+138-01:29:40.60 -LE BOULANGER  MICHEL -V1  (M) 
