@@ -1,4 +1,4 @@
-Le MAG& met le feu aux poudres !!!
+Le MAG met le feu aux poudres !!!
 ==================================
 
 :date: 2007-01-23 14:52
