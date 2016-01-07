@@ -26,3 +26,18 @@ Madame, Monsieur,
 Il est bien regrettable que vous ayez l’incorrection de faire remarquer à certains coureurs l’absence de dossard. Pour ma part je pratique la course à pied depuis 20 ans et je n’ai pas eu l’impression de vous demander la charité en m’insérant dans votre course. Votre association devrait pourvoir s’interroger sur ce que l’on appel « l’esprit sportif ».
 
 Un coureur sans importance et fort déçu par votre comportement…
+
+
+Madame,
+Voila un mail qui ne manque pas d'incorrection !!!
+En effet, et je ne m'étendrais pas sur les faits qui vous pousse à nous envoyer ce message puisque en tant que responsable de l'organisation je n'ai pas été au courant de vos soucis, les 'Foulées du lac Kir" ont été organisé et géré par un club de course à pied. Chaque participant a payé son inscription et a eu droit au travail des bénévoles qui ont oeuvrés, depuis parfois de longues semaines, pour que cette épreuve ait lieu.
+Si vous avez courru sans dossard, alors que depuis de longs mois il est possible de s'inscrire à notre épreuve (Voir le jour même), nous ne voyons pas pourquoi vous devriez vous insérez dans une épreuve qui comporte un règlement et certaines règles.... Je ne vois pas, de plus,  en quoi la pratique de la course à pied depuis 20 ans vous donne plus de droits que les autres. Et encore mieux si vous avez osé passer la ligne d'arrivée avec les autres !!!
+Quant à l'esprit sportif, il y a des fois ou il faut aussi savoir se taire et ne pas trop en faire...permettez moi également de rajouter qu'il n'y a pas de coureurs sans importance et que le dernier a parfois bien plus de courage et de volonté que les plus entrainés !!!
+ 
+Par contre, si vous étiez juste là (sur le site et le tracé des 10 km) pour faire votre jogging, sans être au courant de la course,et que vous avez été prise pour un coureur de l'épreuve, je peux vous adresser toutes mes excuses.
+Cordialement,
+ 
+Jean-Marc CHIODIN
+Président de l'ACR Dijon et Responsable de l'organisation.
+06.25.91.16.64
+ 
