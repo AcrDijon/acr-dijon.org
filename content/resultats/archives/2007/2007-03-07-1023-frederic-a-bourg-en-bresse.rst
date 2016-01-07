@@ -8,7 +8,11 @@ Frédéric à Bourg en Bresse
 Frédéric Rabiet (ACR Dijon)  a couru ce samedi 03 mars le semi marathon de Bourg en Bresse. Il termine à la 105ème position d'un peloton de 1038 arrivants.
 
 
-**105**
+1/2 Marathon
+
+- 1 1h05'51'' qi TAMBWE PATRICK (COD)
+	
+- 105 1H27'27'' RABIET Frédéric ACR Dijon
 
 
 Un 10 Km était également organisé qui à vu 604 classés.
