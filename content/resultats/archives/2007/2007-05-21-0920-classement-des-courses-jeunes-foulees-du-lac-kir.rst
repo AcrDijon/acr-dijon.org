@@ -1,9 +1,9 @@
-Classement des courses jeunes &quot; Foulées du Lac Kir&quot;
-=============================================================
+Classement des courses jeunes Foulées du Lac Kir
+================================================
 
 :date: 2007-05-21 09:20
 :category: Résultats
-:summary: Classement des courses jeunes &quot; Foulées du Lac Kir&quot;
+:summary: Classement des courses jeunes Foulées du Lac Kir
 
 CLASSEMENT COURSE 1 - 1250 M 
 ECOLE ATHLETISME - POUSSINS 
