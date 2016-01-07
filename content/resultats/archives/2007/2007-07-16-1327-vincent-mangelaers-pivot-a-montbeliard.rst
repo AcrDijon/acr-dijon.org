@@ -13,7 +13,7 @@ Vincent Mangelaers-Pivot a représenté la région Bourgogne, et notre club, lor
 - 1 	9'31''87 	PIERRE Aurelien 	ALSACE 	068 	ALS 	ESM/86 	R2 	588
 - 2 	9'40''62 	MOUSSAOUI Mohammed 	LORRAINE 	088 	LOR 	CAM/90 	R3 	550
 - 3 	9'49''47 	BRIEL Guillaume 	BOURGOGNE 	071 	BOU 	ESM/86 	R3 	513
-- 4 	9'50''03 **	MANGELAERS-PIVOT Vincent** 	BOURGOGNE 	021 	BOU 	CAM/90 	R3 	511
+- 4 	9'50''03 **MANGELAERS-PIVOT Vincent** 	BOURGOGNE 	021 	BOU 	CAM/90 	R3 	511
 - 5 	10'04''18 	ABAKI Mehdi 	ALSACE 	067 	ALS 	ESM/87 	R3 	455
 - 6 	10'09''07 	WEBER Nicolas 	ALSACE 	067 	ALS 	CAM/91 	D1 	436
 - 7 	10'12''29 	FLECK Laurent 	ALSACE 	067 	ALS 	JUM/88 	  	424
@@ -45,31 +45,5 @@ Résultats Saison 2007
 - 14/10/2006 	10 km route 	Route 	27 	36:20 	  	R3 	  	Savigny les beaune
 - 17/09/2006 	10 km route 	Route 	24 	38:04 	  	D1 	  	Sennecey les dijon
 - 09/09/2006 	10 km route 	Route 	22 	36:28 	  	R3 	  	Dijon
-.. _PIERRE Aurelien: javascript:bddThrowAthlete('resultats', 30647, 0)
-.. _MOUSSAOUI Mohammed: javascript:bddThrowAthlete('resultats', 600656, 0)
-.. _BRIEL Guillaume: javascript:bddThrowAthlete('resultats', 695924, 0)
-.. _MANGELAERS-PIVOT Vincent: javascript:bddThrowAthlete('resultats', 620739, 0)
-.. _ABAKI Mehdi: javascript:bddThrowAthlete('resultats', 1058012, 0)
-.. _WEBER Nicolas: javascript:bddThrowAthlete('resultats', 90447, 0)
-.. _FLECK Laurent: javascript:bddThrowAthlete('resultats', 595406, 0)
-.. _ZAMOLO Enzo: javascript:bddThrowAthlete('resultats', 13410, 0)
-.. _ECKES Thomas: javascript:bddThrowAthlete('resultats', 603316, 0)
-.. _RITTER Patrick: javascript:bddThrowAthlete('resultats', 1074322, 0)
-.. _OBERT Mathieu: javascript:bddThrowAthlete('resultats', 13379, 0)
-.. _Montbéliard: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=66305&espace=0
-.. _Chalon-sur-saône: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=66335&espace=0
-.. _Dijon: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=66306&espace=0
-.. _Dijon #1: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=67599&espace=0
-.. _Dijon #2: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=69035&espace=0
-.. _Marsannay le bois: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=68672&espace=0
-.. _Ouges: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=63927&espace=0
-.. _Genlis: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=68437&espace=0
-.. _Bletterans: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=65313&espace=0
-.. _Vichy: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=61422&espace=0
-.. _Lons le saunier: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=61464&espace=0
-.. _Toucy: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=63538&espace=0
-.. _Chenove: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=64452&espace=0
-.. _Arnay le duc: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=62102&espace=0
-.. _Savigny les beaune: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=55625&espace=0
-.. _Sennecey les dijon: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=64307&espace=0
-.. _Dijon #3: http://bases.athle.com/asp.net/competitions.aspx?base=calendrier&id=55620&espace=0
+
+
