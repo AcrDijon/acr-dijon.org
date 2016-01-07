@@ -1,9 +1,9 @@
-Le &quot;Relais des Princes&quot; 2006
+Le Relais des Princes 2006
 ======================================
 
 :date: 2006-07-03 12:50
 :category: Résultats
-:summary: Le &quot;Relais des Princes&quot; 2006
+:summary: Le Relais des Princes 2006
 
 **Mis en ligne le Lundi, 3 juillet 2006** 3e relais des princes 
 Le running triple la mise 
