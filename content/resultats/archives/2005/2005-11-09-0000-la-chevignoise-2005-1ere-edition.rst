@@ -24,11 +24,11 @@ Organisation pointilleuse, parcours varié, 300 participants sur les deux course
 6 Romain Lelievre 37'30' 
 7 Fabrice Ledoux 38'06' 
 8 Jean-Luc Lepage 38'18' 
-9 Pierre Audin (ACR Dijon) 38'25' 51 Christine Clere 43'51' 
+9 **Pierre Audin (ACR Dijon)** 38'25' 51 Christine Clere 43'51' 
 65 Véronique Bornel 45'35' 
 70 Christine Petite 46'01' 
-97 Marie-Claude Paquot (ACR Dijon) 49'14' 
-197 Josette Lemarchand (ACR Dijon) 1h04'54'
+97 **Marie-Claude Paquot (ACR Dijon)** 49'14' 
+197 **Josette Lemarchand (ACR Dijon)** 1h04'54'
 
 .. |httpwwwlebienpubliccomphotos-journal-spop1303_091105.jpg| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop1303_091105.jpg
 
@@ -37,10 +37,10 @@ Organisation pointilleuse, parcours varié, 300 participants sur les deux course
 6000 M 
 1 Nicolas Mary 19'11' 
 2 Stéphane Girardot 19'59' 
-3 Fabrice Roze (ACR Dijon) 20'01' 
-17 Gérard Goeury (ACR Dijon) 22'36' 
-37 Bernard Mareschal (ACR Dijon) 26'19' 
-86 Josette Lemarchand (ACR Dijon) 35'57' 
+3 **Fabrice Roze (ACR Dijon)** 20'01' 
+17 **Gérard Goeury (ACR Dijon)** 22'36' 
+37 **Bernard Mareschal (ACR Dijon**) 26'19' 
+86 **Josette Lemarchand (ACR Dijon)** 35'57' 
 51e du scratch et première féminine, la coureuse d'Athlé 21 Christine Clère franchit la ligne main dans la main avec son coéquipier Denis Tyrode (photos B.L.) |httpwwwlebienpubliccomphotos-journal-spop1304_091105.jpg|
 
 .. |httpwwwlebienpubliccomphotos-journal-spop1304_091105.jpg| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop1304_091105.jpg
