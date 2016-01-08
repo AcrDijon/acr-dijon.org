@@ -22,4 +22,14 @@ Les temps pour l’ACR Dijon :
 .. |httpwwwbienpubliccomicons_edition-trans.gif| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomicons_edition-trans.gif
 
 
-1571 | CHIODIN
+- 1571 CHIODIN Jean-Marc 01h 30' 10"
+- 3182 KENNEL Joel 01h 36' 29"
+- 5055 MATHIEU Frederic 01h 41' 50"
+- 5779 SEGUIN Bernard 01h 43' 49"
+- 7328 SAYASEN Alain 01h 47' 33"
+- 9041 BUONOCORE Matteo 01h 51' 29"
+- 9601 BREGAND Alain 01h 52' 54"
+- 15380 CLERC Arlette 02h 08' 29"
+- 15387 COMTE Nathalie 02h 08' 31"
+
+ 
