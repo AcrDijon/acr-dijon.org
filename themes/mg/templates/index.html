@@ -36,7 +36,13 @@
 </p>
                 <section itemprop="articleBody">{{ last_article.content }}</section>
                 <a href="{{ SITEURL }}/{{ last_article.url }}#disqus_thread"></a>
-                <hr class="uk-article-divider">
+				<hr class="uk-article-divider">
+			    {% if ISSO_SERVER %}
+				<section id="isso-thread" data-isso-id="/{{last_article.url}}">
+				</section>
+			       <noscript>les commentaires de ce site utilisent javascript</noscript>
+			    {% endif %}
+
             </article>
  
 {% else %}
