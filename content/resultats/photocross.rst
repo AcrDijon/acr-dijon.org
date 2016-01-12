@@ -22,7 +22,7 @@ Album photo Départementaux de Cross 21
 
 .. image:: http://assets.acr-dijon.org/IMG4274.jpg
 
-*Les gros des troupes de l'ACR : en position d'observation... par l'arrière du peloton.*
+*Le gros des troupes de l'ACR : en position d'observation... par l'arrière du peloton.*
 
 .. image:: http://assets.acr-dijon.org/IMG4275.jpg
 
