@@ -1,10 +1,10 @@
 Fabrice et Joël autour d'un bouchon de champagne
 ================================================
 
-:date: 2015-11-12 15:20
+:date: 2010-10-03 15:20
 :category: Résultats
-:location: Arnay Le Duc
-:eventdate: 2015-11-11
+:location: Reims
+
 
 
 .. image:: http://assets.acr-dijon.org/champ.jpg
