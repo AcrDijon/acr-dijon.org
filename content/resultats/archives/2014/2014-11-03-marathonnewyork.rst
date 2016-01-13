@@ -1,7 +1,7 @@
 2 ACRistes étaient dimanche à New York
 ======================================
 
-:date: 2015-11-02
+:date: 2014-11-03
 :category: Résultats
 :location: NEW YORK
 :eventdate: 2014-11-02
