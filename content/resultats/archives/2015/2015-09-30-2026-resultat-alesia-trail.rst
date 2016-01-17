@@ -3,7 +3,7 @@ Résultat Alésia Trail
 
 :date: 2015-09-30 20:26
 :category: Résultats
-:summary: Résultat Alésia Trail
+:summary: Résultat Alésia Trail (dim 27/09/2015)
 
 |Résultat Alésia Trail|
 
