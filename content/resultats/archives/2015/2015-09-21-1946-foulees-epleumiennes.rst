@@ -3,7 +3,7 @@ Foulées Epleumiennes
 
 :date: 2015-09-21 19:46
 :category: Résultats
-:summary: Foulées Epleumiennes
+:summary: Foulées Epleumiennes (19/09/2015)
 
 |Foulées Epleumiennes|
 
@@ -26,7 +26,7 @@ Sur le 10 km :
 **David Crotet, 20ème en 38'38"**
 
 
-**JackyBaudry, 87ème en 44'10"**
+**Jacky Baudry, 87ème en 44'10"**
 
 
 **Jean Philippe Beuche, 141ème en 47'24"**
