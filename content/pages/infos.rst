@@ -16,7 +16,7 @@ un e-mail à: `contact@acr-dijon.org <mailto:contact@acr-dijon.org>`_
 - **Secrétaire** Laurent BERTHE - 03 80 42 13 60 / 06 86 89 33 61
 - **Secrétaire Adjointe** Claire TAINTURIER - 06 77 47 40 74
 - **Secrétaire Adjointe** Edith SANCHEZ - 06 32 17 66 21
-- **Chargé de Communication** Jean-Christophe DUBARD - 06 21 67 94 79
+- **Chargé de Communication (site internet)** Jean-Christophe DUBARD - 06 21 67 94 79
 - **Relations Partenaires** Eric MARILLIER - 06 26 02 18 85
 
 
