@@ -3,7 +3,7 @@ Résultat du 10 km, Semi et Marathon du Lubéron
 
 :date: 2015-10-05 16:43
 :category: Résultats
-:summary: Résultat du 10 km, Semi et Marathon du Lubéron
+:summary: Résultat du 10 km, Semi et Marathon du Lubéron (04/10/2015)
 
 |Grosse performance de Pierre Audin|
 
