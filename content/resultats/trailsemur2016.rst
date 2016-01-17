@@ -19,3 +19,5 @@ Victoire d'**Armand LUCAND (AC Chenôve)** en 31'39'' / 396 classés
 - 11e **Fabrice HEURET** en 37'30'' (**2eV1M**)
 - 90e **Adrien BRUNET** en 45'35''
 - 230e **Marie Laure LEONARD** en 53'47''
+
+Bravo à eux !
