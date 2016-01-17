@@ -3,7 +3,7 @@ Résultat du Week End
 
 :date: 2015-10-26 14:51
 :category: Résultats
-:summary: Résultat du Week End
+:summary: Résultat du Week End (dim 25.10.2015)
 
 |Résultat du Week End|
 
