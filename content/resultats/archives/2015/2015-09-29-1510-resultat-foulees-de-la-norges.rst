@@ -3,7 +3,7 @@ Résultat Foulées de la Norges
 
 :date: 2015-09-29 15:10
 :category: Résultats
-:summary: Résultat Foulées de la Norges
+:summary: Résultat Foulées de la Norges (dim 27/09/205)
 
 |David Dumont Photographe amateur|
 
