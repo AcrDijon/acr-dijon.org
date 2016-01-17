@@ -5,7 +5,7 @@ Résultat du Week End
 :category: Résultats
 :summary: Résultat du Week End
 
-10 km de Dole
+10 km de Dole (11/10/2015)
 
 
 - Florent CROTET, 101ème en 44'02" 
