@@ -3,7 +3,7 @@ Foulées du Pont de pierre
 
 :date: 2015-09-15 17:05
 :category: Résultats
-:summary: Foulées du Pont de pierre
+:summary: Foulées du Pont de pierre (12/09/2015)
 
 |Léonie Rabiet 1ère Benjamine|
 
