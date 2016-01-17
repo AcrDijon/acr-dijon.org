@@ -3,7 +3,7 @@ Résultat Trail du Bouton d'Or
 
 :date: 2015-11-03 14:19
 :category: Résultats
-:summary: Résultat Trail du Bouton d'Or
+:summary: Résultat Trail du Bouton d'Or (01.11.2015)
 
 |Résultat Trail du Bouton d'Or|
 
