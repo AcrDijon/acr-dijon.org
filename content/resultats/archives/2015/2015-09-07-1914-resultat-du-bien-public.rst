@@ -3,7 +3,7 @@ Résultat du Bien Public
 
 :date: 2015-09-07 19:14
 :category: Résultats
-:summary: Résultat du Bien Public
+:summary: Résultat du Bien Public (05/09/2015)
 
 |Résultat du Bien Public|
 
