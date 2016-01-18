@@ -19,8 +19,8 @@ Au programme, un terrain boueux et glissant avec un parcours pimenté de montée
 
 - 55e **David CROTET** en 41'50''
 - 74e **Eric MAREJUS** en 44'39''
-- 90e **Jean Christophe DUBARD** en 49'35''
-- 95e **Ismaël KHADIR** en 50'57''
-- 97e **Jean Claude MAGUER** en 52'51''
-- 98e **Manuel BARREIRA** en 52'52''
-- 100e **Talmi SIMEHA** en 58'54''
+- 90e **Jean Christophe DUBARD** en 49'32''
+- 95e **Ismaël KHADIR** en 50'50''
+- 97e **Jean Claude MAGUER** en 52'50''
+- 98e **Manuel BARREIRA** en 52'51''
+- 100e **Talmi SIMEHA** en 54'03''
