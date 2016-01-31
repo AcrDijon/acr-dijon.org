@@ -4,118 +4,83 @@
 <div class="uk-width-medium-4-5">
 
 {% if output_file == 'index.html' %}
-{% set last_article = articles[0] %}
-{% set home = hidden_pages[0] %}
+  {% set home = hidden_pages[0] %}
   <article class="uk-article" itemtype="http://schema.org/BlogPosting" itemscope="itemscope" itemprop="blogPost">
-	  <h2 class="uk-article-title" itemprop="name">{{ home.title }}</h2>
-      <p></p>
-      <section itemprop="articleBody">{{ home.content }}</section>
-                <hr class="uk-article-divider">
-            </article>
-
+   <h2 class="uk-article-title" itemprop="name">{{ home.title }}</h2>
+   <p></p>
+   <section itemprop="articleBody">{{ home.content }}</section>
+   <hr class="uk-article-divider">
+  </article>
+  {% for article in articles[:4] %}
   <article class="uk-article" itemtype="http://schema.org/BlogPosting" itemscope="itemscope" itemprop="blogPost">
-	  <a href="{{ SITEURL }}/{{ last_article.url }}" class="uk-article-title uk-link-muted" itemprop="name">{{ last_article.title }}</a>
+    <a href="{{ SITEURL }}/{{ article.url }}" class="uk-article-title uk-link-muted" itemprop="name">{{ article.title }}</a>
+    <p class="uk-article-meta">
+      {% if article.eventdate %}Événement du <time datetime="{{ article.eventdate }}" itemprop="eventDate">{{ article.eventdate | str2defaultformat }}</time> 
+      {% endif %}
+      {% if article.location %} à {{ article.location}} • {% endif %} 
+      Article écrit le <time datetime="{{ article.date.strftime('%Y-%m-%d') }}" itemprop="datePublished">{{ article.locale_date }}</time> 
+    </p>
 
-			  <p class="uk-article-meta">
-			  {% if last_article.eventdate %}
-			  Événement du <time datetime="{{ last_article.eventdate }}"
-			    itemprop="eventDate">{{ last_article.eventdate | str2defaultformat }}
-			  </time> 
-			  {% endif %}
-		      {% if last_article.location %}
-			  à {{ last_article.location}} •
-			  {% endif %}
-
-			  Article écrit le
-			  <time datetime="{{ last_article.date.strftime('%Y-%m-%d') }}" itemprop="datePublished">{{ last_article.locale_date }}</time> 
-
-			  {% if DISQUS_SITENAME %} <br class="uk-visible-small">
-
-
-			  {% endif %}</p>
-</p>
-                <section itemprop="articleBody">{{ last_article.content }}</section>
-                <a href="{{ SITEURL }}/{{ last_article.url }}#disqus_thread"></a>
-				<hr class="uk-article-divider">
-			    {% if ISSO_SERVER %}
-				<section id="isso-thread" data-isso-id="/{{last_article.url}}">
-				</section>
-			       <noscript>les commentaires de ce site utilisent javascript</noscript>
-			    {% endif %}
-
-            </article>
- 
+    <section itemprop="articleBody">{{ article.content }}</section>
+    <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread"></a>
+    <hr class="uk-article-divider">
+    {% if loop.index == 1 and ISSO_SERVER %}
+    <section id="isso-thread" data-isso-id="/{{article.url}}"></section>
+    <noscript>les commentaires de ce site utilisent javascript</noscript>
+    {% endif %}
+    </article>
+  {% endfor %}
 {% else %}
 
-{% if articles %}
 {% for article in articles_page.object_list %}
-    {% if loop.index == 1 %}
-      <article class="uk-article" itemtype="http://schema.org/BlogPosting" itemscope="itemscope" itemprop="blogPost">
-	  <a href="{{ SITEURL }}/{{ article.url }}" class="uk-article-title uk-link-muted" itemprop="name">{{ article.title }}</a>
+ {% if loop.index in (1, 2, 3, 4) %}
+  <article class="uk-article" itemtype="http://schema.org/BlogPosting" itemscope="itemscope" itemprop="blogPost">
+    <a href="{{ SITEURL }}/{{ article.url }}" class="uk-article-title uk-link-muted" itemprop="name">{{ article.title }}</a>
+    <p class="uk-article-meta">
+      {% if article.eventdate %}Événement du <time datetime="{{ article.eventdate }}" itemprop="eventDate">{{ article.eventdate | str2defaultformat }}</time> 
+      {% endif %}
+      {% if article.location %} à {{ article.location}} • {% endif %} 
+      Article écrit le <time datetime="{{ article.date.strftime('%Y-%m-%d') }}" itemprop="datePublished">{{ article.locale_date }}</time> 
+    </p>
 
-			  <p class="uk-article-meta">
-			  {% if article.eventdate %}
-			  Événement du <time datetime="{{ article.eventdate }}"
-			    itemprop="eventDate">{{ article.eventdate | str2defaultformat }}
-			  </time> 
-			  {% endif %}
-		      {% if article.location %}
-			  à {{ article.location}} •
-			  {% endif %}
-
-			  Article écrit le
-			  <time datetime="{{ article.date.strftime('%Y-%m-%d') }}" itemprop="datePublished">{{ article.locale_date }}</time> 
-
-			  {% if DISQUS_SITENAME %} <br class="uk-visible-small">
-
-
-			  {% endif %}</p>
-</p>
-                <section itemprop="articleBody">{{ article.content }}</section>
-                <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread"></a>
-                <hr class="uk-article-divider">
-            </article>
-    {% else %}
-        <article class="uk-article" itemtype="http://schema.org/BlogPosting" itemscope="itemscope" itemprop="blogPost">
-                <a href="{{ SITEURL }}/{{ article.url }}" class="uk-article-title uk-link-muted" itemprop="name">{{ article.title }}</a>
-				<p class="uk-article-meta">
-			  {% if article.eventdate %}
-			  Événement du <time datetime="{{ article.eventdate }}"
-			    itemprop="eventDate">{{ article.eventdate | str2defaultformat }}
-			  </time> 
-			  {% endif %}
-		      {% if article.location %}
-			  à {{ article.location}} •
-			  {% endif %}
-
-			  Article écrit le
-			  <time datetime="{{ article.date.strftime('%Y-%m-%d') }}" itemprop="datePublished">{{ article.locale_date }}</time> 
-			  {% if DISQUS_SITENAME %} <br class="uk-visible-small">
-
-			  {% endif %}</p>
-			  </p>
-
-			  {% if article.summary and article.summary != article.title %}
-			  <p class="uk-article-lead" itemprop="description">{{ article.summary|striptags }}</p>
-			  {% else %}
-			  <p>{{ ' '.join(article.content.split(' ')[0:75])|striptags }}...</p>
-              {% endif %}
-			   
-                <a href="{{ SITEURL }}/{{ article.url }}">Lire la suite</a>
-                <hr class="uk-article-divider">
-        </article>
+    <section itemprop="articleBody">{{ article.content }}</section>
+    <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread"></a>
+    <hr class="uk-article-divider">
+    {% if loop.index == 1 and ISSO_SERVER %}
+    <section id="isso-thread" data-isso-id="/{{article.url}}"></section>
+    <noscript>les commentaires de ce site utilisent javascript</noscript>
     {% endif %}
-
+  </article>
+ {% else %}
+   <article class="uk-article" itemtype="http://schema.org/BlogPosting" itemscope="itemscope" itemprop="blogPost">
+     <a href="{{ SITEURL }}/{{ article.url }}" class="uk-article-title uk-link-muted" itemprop="name">{{ article.title }}</a>
+     <p class="uk-article-meta">
+      {% if article.eventdate %}
+      Événement du <time datetime="{{ article.eventdate }}" itemprop="eventDate">{{ article.eventdate | str2defaultformat }}</time> 
+      {% endif %}
+      {% if article.location %} à {{ article.location}} • {% endif %}
+      Article écrit le <time datetime="{{ article.date.strftime('%Y-%m-%d') }}" itemprop="datePublished">{{ article.locale_date }}</time> 
+     </p>
+     {% if article.summary and article.summary != article.title %}
+      <p class="uk-article-lead" itemprop="description">{{ article.summary|striptags }}</p>
+     {% else %}
+      <p>{{ ' '.join(article.content.split(' ')[0:75])|striptags }}...</p>
+     {% endif %}
+     <a href="{{ SITEURL }}/{{ article.url }}">Lire la suite</a>
+     <hr class="uk-article-divider">
+     </article>
+  {% endif %}
 {% endfor %}
+
+
 {% if DEFAULT_PAGINATION  and articles_paginator.num_pages > 1 %}
-    <ul class="uk-pagination">
-        {% if articles_previous_page %}<li><a href="{{ SITEURL }}/{{ articles_previous_page.url }}"><i class="uk-icon-angle-double-left"></i></a></li>{% endif %}
-        {% if articles_previous_page %}<li><a href="{{ SITEURL }}/{{ articles_previous_page.url }}">{{ articles_previous_page.number }}</a></li>{% endif %}
-        <li class="uk-active"><span>{{ articles_page.number }}</span></li>
-        {% if articles_next_page %}<li><a href="{{ SITEURL }}/{{ articles_next_page.url }}"><i class="uk-icon-angle-double-right"></i></a></li>{% endif %}
-        {% if articles_next_page %}<li><a href="{{ SITEURL }}/{{ articles_next_page.url }}">{{ articles_next_page.number }}</a></li>{% endif %}
-    </ul>
-{% endif %}
+<ul class="uk-pagination">
+    {% if articles_previous_page %}<li><a href="{{ SITEURL }}/{{ articles_previous_page.url }}"><i class="uk-icon-angle-double-left"></i></a></li>{% endif %}
+    {% if articles_previous_page %}<li><a href="{{ SITEURL }}/{{ articles_previous_page.url }}">{{ articles_previous_page.number }}</a></li>{% endif %}
+    <li class="uk-active"><span>{{ articles_page.number }}</span></li>
+    {% if articles_next_page %}<li><a href="{{ SITEURL }}/{{ articles_next_page.url }}"><i class="uk-icon-angle-double-right"></i></a></li>{% endif %}
+    {% if articles_next_page %}<li><a href="{{ SITEURL }}/{{ articles_next_page.url }}">{{ articles_next_page.number }}</a></li>{% endif %}
+</ul>
 
 {% endif %}
 {% endif %}
