@@ -14,7 +14,7 @@ La course s'est déroulée sur une distance annoncée de 9,5km par les organisat
 
 Trois ACRistes ont participé à cette épreuve.
 
-**Emilie DERAIL** se classe 38e/82 au classement féminin.
+**Emilie DERAIL** se classe 24e/82 au classement féminin.
 
 **Béatrice DABROWSKI** et **Vincent BADET** se classent 10e/68 au classement par couple.
 
