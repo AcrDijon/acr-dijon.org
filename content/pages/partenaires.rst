@@ -64,3 +64,5 @@ Sponsors
 .. image:: http://assets.acr-dijon.org/barbarians.png
 
 .. image:: http://assets.acr-dijon.org/hertz.png
+
+.. image:: http://assets.acr-dijon.org/graymode.png
