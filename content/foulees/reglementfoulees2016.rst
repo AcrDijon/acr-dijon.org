@@ -2,7 +2,7 @@ Foulées du Lac Kir 2016/Réglement :
 ===================================
 
 :date: 2016-01-18 16:40
-:category: Foulées
+:category: Foulées du Lac Kir
 :location: DIJON
 :eventdate: 2016-04-16
 
