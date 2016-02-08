@@ -2,7 +2,7 @@
 ========================
 
 :date: 2015-04-22 14:33
-:category: Foulées
+:category: Foulées du Lac Kir
 :summary: 10ème Foulées du Lac Kir
 
 Après le vif succès de cette nouvelle édition, nous nous efforcerons de continuer de faire aussi bien, si ce n'est encore mieux pour la 11ème édition.

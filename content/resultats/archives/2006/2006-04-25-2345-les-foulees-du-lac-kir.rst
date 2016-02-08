@@ -2,7 +2,7 @@ Les foulées du Lac Kir
 ======================
 
 :date: 2006-04-25 23:45
-:category: Foulées
+:category: Foulées du Lac Kir
 :summary: Les foulées du Lac Kir
 
 `http://acr.dijon.monsite.wanadoo.fr/ <http://acr.dijon.monsite.wanadoo.fr/>`_
