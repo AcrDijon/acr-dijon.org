@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Equipe ACR'
 ALT_NAME = SITENAME = u'Association des Coureurs sur Route de Dijon'
 SITEURL = 'http://localhost:8000'
-PATH = 'content'
+PATH = u'content'
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'fr'
 
