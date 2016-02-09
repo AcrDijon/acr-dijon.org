@@ -27,7 +27,7 @@ Instances sportives
 
 .. image:: /theme/partenaires/comite21.png
 
-.. image:: /theme/partenaires/challenge.png
+.. image:: /theme/partenaires/Challenge-etoile-21.png
 
 
 Sponsors
