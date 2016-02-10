@@ -27,7 +27,7 @@ Instances sportives
 
 .. image:: /theme/partenaires/comite21.png
 
-.. image:: /theme/partenaires/challenge.png
+.. image:: http://assets.acr-dijon.org/etoile21.png
 
 
 Sponsors
