@@ -1,11 +1,11 @@
 Partenaires
 ===========
 
-:date: 2015-09-12 09:00
+:date: 12/09/2015
 :summary: Partenaires de l'ACR
 
-Partenaires institutionels
---------------------------
+Partenaires institutionnels
+---------------------------
 
 .. image:: /theme/partenaires/dijon.png
 
@@ -27,7 +27,7 @@ Instances sportives
 
 .. image:: /theme/partenaires/comite21.png
 
-.. image:: http://assets.acr-dijon.org/etoile21.png
+.. image:: http://assets.acr-dijon.org/etoile.png
 
 
 Sponsors
