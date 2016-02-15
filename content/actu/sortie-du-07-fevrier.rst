@@ -3,7 +3,7 @@ Sortie du 07 février
 
 :date: 2016-02-08 15:50
 :category: Actualités
-:location: 
+:location: Corcelles les Monts
 :eventdate: 07/02/2016
 
 **Sortie du dimanche 07 février**
