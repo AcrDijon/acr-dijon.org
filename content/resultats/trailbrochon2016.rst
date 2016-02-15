@@ -1,4 +1,4 @@
-Nigt & Run du Lycée Liégeard :
+Night & Run du Lycée Liégeard :
 ==============================
 
 :date: 2016-02-08 13:00
