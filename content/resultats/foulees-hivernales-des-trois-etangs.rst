@@ -4,7 +4,7 @@ Foulées hivernales des trois étangs
 :date: 2016-02-09 13:16
 :category: Résultats
 :location: Lamarche/Saône
-:eventdate: 07/02/2016
+:eventdate: 02/07/2016
 
 **Foulées hivernales des 3 étangs**
 
