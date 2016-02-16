@@ -1,8 +1,21 @@
 Info pratique
 =============
 
-:date: 2015-09-12 09:00
+:date: 09/12/2015
 :summary: Informations pratiques
+
+Adresse postale
+---------------
+
+ACR DIJON
+
+Maison des Associations
+
+Boîte VV7
+
+2, rue des Corroyeurs
+
+21068 DIJON Cedex
 
 Contacts
 --------
@@ -27,14 +40,16 @@ Adhésion
 La saison commence le 1er septembre. Pour s'inscrire à l'ACR,
 trois formules vous sont proposées :
 
-1. **Licence Performance** vous permet de participer aux championnats et
-   vous donne accès aux classements FFA (89 euros et 20 euros pour les catégories jusqu'à junior).
+# **Licence Performance** vous permet de participer aux championnats et
+  vous donne accès aux classements FFA (89 euros et 20 euros pour les catégories jusqu'à junior).
 
-2. **Licence Loisirs** vous permet de participer à toutes épreuves
-   -hors championnats- sans présenter de certificat médical (49 euros).
 
-3. **Adhésion simple** vous permet de pratiquer la course à pied en loisir, à
-   titre associatif (30 euros).
+# **Licence Loisirs** vous permet de participer à toutes épreuves
+  -hors championnats- sans présenter de certificat médical (49 euros).
+
+
+# **Adhésion simple** vous permet de pratiquer la course à pied en loisir, à
+  titre associatif (30 euros).
 
 Le prix de la licence catégories "jeunes" (jusqu'à junior) a été fixé à 20 euros pour
 la saison 2015-2016.
@@ -43,6 +58,3 @@ Un supplément de 5 euros est demandé aux nouveaux adhérents pour participer a
 du t-shirt du club qui est remis à chaque adhérent.
 
 `Bulletin d'inscription <http://assets.acr-dijon.org/bulletin-2015-2016.pdf>`_.
-
-
-
