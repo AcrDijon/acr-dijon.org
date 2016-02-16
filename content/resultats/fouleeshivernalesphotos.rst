@@ -1,5 +1,5 @@
-**Foulées hivernales des 3 étangs : photos**
-==========================================
+Foulées hivernales des 3 étangs : photos
+========================================
 
 :date: 2016-02-12 19:10
 :category: Résultats
