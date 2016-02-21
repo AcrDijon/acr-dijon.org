@@ -1,10 +1,10 @@
 Foulées Longviciennes
 =====================
 
-:date: 2015-07-02 15:20
+:date: 2014-07-02 15:20
 :category: Résultats
 :location: Longvic
-:eventdate: 2015-06-27
+:eventdate: 2014-06-27
 
 
 
