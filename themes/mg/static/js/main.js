@@ -12,4 +12,12 @@ $(document).ready(function() {
         'highlightEveryTerm': true,
         'contentLocation': '/tipue_search.json'
     });
+
+    $(".mg-header").backstretch([
+      "/theme/banner.jpg",
+      "/theme/banner2.jpg",
+      "/theme/banner3.jpg",
+      "/theme/banner4.jpg"], {duration: 3000, fade: 750}
+    );
+
 });
