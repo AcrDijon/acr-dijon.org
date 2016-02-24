@@ -1,7 +1,7 @@
 Trail de Pommard
 ================
 
-:date: 22/02/2016
+:date: 23/02/2016
 :category: Résultats
 :location: Pommard
 :eventdate: 21/02/2016
