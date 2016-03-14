@@ -42,7 +42,7 @@ TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
 FAVICON = 'favicon.ico'
 FAVICON_TYPE = 'image/vnd.microsoft.icon'
 
-FOOTER = "&copy; 2015 ACR Dijon. Tout droits réservés."
+FOOTER = "&copy; 2016 ACR Dijon. Tout droits réservés."
 
 SHARE = False
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'

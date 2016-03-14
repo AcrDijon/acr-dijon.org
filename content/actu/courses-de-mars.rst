@@ -1,10 +1,10 @@
 Courses de mars
 ===============
 
-:date: 29/02/2016
+:date: 2016-02-29
 :category: Actualités
 :location: 
-:eventdate: 29/02/2016
+:eventdate: 2016-02-29
 
 Dates des courses du mois de mars, en Côte d'Or et dans les départements voisins
 
@@ -19,6 +19,10 @@ http://www.lons-ac.fr/
 - dimanche 13 : **La Transmontagne / Chenôve** (trail 18/29km)
 
 http://adoc-chenove.org/index.php/fr/transmontagne
+
+- dimanche 13 : **Les Boucles de la Saône / Gray (70) (21km/10km)
+
+http://www.gray.fr/component/k2/item/88-les-boucles-de-la-saone-et-la-grayloise.html
 
 - samedi 19 : **10km et Semi-Marathon de Nuits St Georges** (route)
 
