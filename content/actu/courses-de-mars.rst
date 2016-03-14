@@ -20,7 +20,7 @@ http://www.lons-ac.fr/
 
 http://adoc-chenove.org/index.php/fr/transmontagne
 
-- dimanche 13 : **Les Boucles de la Saône / Gray (70) (21km/10km)
+- dimanche 13 : **Les Boucles de la Saône** / Gray (70) (21km/10km)
 
 http://www.gray.fr/component/k2/item/88-les-boucles-de-la-saone-et-la-grayloise.html
 
