@@ -1,7 +1,7 @@
 Courses et Résultats oubliés de janvier
 =======================================
 
-:date: 2016-03-14
+:date: 2016-03-13
 :category: Résultats
 :location: Zürich, Cernay la Ville
 :eventdate: 2016-01-01
