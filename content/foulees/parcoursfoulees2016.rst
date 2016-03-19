@@ -7,4 +7,7 @@ Foulées du Lac Kir 2016 / Parcours :
 :eventdate: 2016-04-16
 
 
+.. youtube:: mn4AnMri3dU
+
+
 .. image:: http://assets.acr-dijon.org/parcoursfoulees2016.png
