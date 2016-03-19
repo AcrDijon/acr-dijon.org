@@ -10,7 +10,7 @@ De Barcelone à Chenôve...en passant par Paris et Gray
 
 ----
 
-**Marathon de Barcelone**
+**Marathon de Barcelone :**
 
 **Frédéric Rabiet** était en Espagne, du côté de la capitale catalane, à l'occasion du Marathon.
 
@@ -20,14 +20,14 @@ Il boucle sa course en 3h29'30'', 3794e sur un peu plus de 20000 participants. T
 
 ----
 
-**Semi-Marathon de Paris**
+**Semi-Marathon de Paris :**
 
-Du côté de la capitale, c'est **Jean-Marc Delattre** et **Mikaël Marcaud** qui ont représenté notre club (à défaut d'en porter les couleurs...).
+Du côté de la capitale française, cette fois, c'est **Jean-Marc Delattre** et **Mikaël Marcaud** qui ont représenté notre club (à défaut d'en porter les couleurs...)
 
-- **Jean-Marc** se classe 4009e en 1h41'03''
-- **Mikaël** se classe 7024e en 1h48'31''
+- **Jean-Marc** se classe 3997e/temps réel : 1h36'02'' (3003e/temps officiel : 1h41'03'')
+- **Mikaël** se classe 7008e/temps réel : 1h41'32'' (4541e/temps officiel : 1h48'31'')
 
-37137 concurrents classés
+37025 concurrents classés
 
 .. image:: http://assets.acr-dijon.org/jmdparis16.jpg
 .. image:: http://assets.acr-dijon.org/mikaparis16.jpg
@@ -36,7 +36,7 @@ Du côté de la capitale, c'est **Jean-Marc Delattre** et **Mikaël Marcaud** qu
 
 ----
 
-**Les Boucles de la Saône / Gray (70)**
+**Les Boucles de la Saône / Gray (70) :**
 
 Plus proche de nous, **Michaël Alixant** participait au Semi-Marathon des **Boucles de la Saône** à **Gray**.
 
@@ -44,7 +44,7 @@ Il a terminé sa course en 1h48'16'', 158e/284. Course remportée par **Benoit F
 
 ----
 
-**Transmontagne / Chenôve**
+**Transmontagne / Chenôve :**
 
 **Vincent Lauvergne** participait, quant à lui, au trail de la **Transmontagne** entre **Pont de Pany** et **Chenôve** (29km), sur un parcours fortement modifié, par rapport aux précédentes éditions, avec un dénivelé plus réduit et qualifié de trop facile par notre spécialiste   de l'ultratrail...
 
@@ -55,4 +55,3 @@ Il termine en 3h04'18'' et se classe 92e/148 d'une course remportée par le duci
 ----
 
 **Bravo à tous pour leur effort et leur performance !**
-

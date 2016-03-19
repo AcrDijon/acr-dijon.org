@@ -33,7 +33,7 @@ Vainqueur : **Julien COLIN (Team COSTO)** en 56'39'' / 262 concurrents classés
 
 **Foulées Bletteranoises / Bletterans (39)** : 10km
 
-Dans le Jura, près de **Lons Le Saulnier**, quelques ACRistes ont participé aux traditionnlles **Foulées Bletteranoises**.
+Dans le Jura, près de **Lons Le Saulnier**, quelques ACRistes ont participé aux traditionnelles **Foulées Bletteranoises**.
 
 Course remportée par le burundais **Willy NDUWIMANA** en 30'54'' (316 concurrents classés)
 
@@ -54,7 +54,7 @@ Du côté de la course Benjamins/Minimes (2000m), **Zoé FANTON** se classe 20e/
 
 **Trail des Trois Châteaux / Le Creusot (71)**
 
-**Manuel LOPEZ-VARQUIEL** et **Vincent LAUVERGNE** étaient au **Creusot** pour y disputer le **Trail des 3 Chateaux**.
+**Manuel LOPEZ-VARQUIEL** et **Vincent LAUVERGNE** étaient au **Creusot** pour y disputer le **Trail des 3 Châteaux**.
 
 **Vincent** participait à une épreuve en 2 étapes : un 20km nocturne (417mD+) le samedi et un 35km (975mD+) le dimanche, terminant 48e/104 en 2h01'50'' le samedi, mais rétrogradant quelque peu, se classant 83e/94 en 5h01'51'' le lendemain. Au cumul, il se classe 76e/94 en 7h03'41'' (course gagnée par **François LACHAUX** en 4h37'25'').
 
