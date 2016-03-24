@@ -6,7 +6,7 @@ Semi-Marathon de Saint-Witz (95)
 :location: Saint-Witz
 :eventdate: 2016-03-12
 
-**Philippe Bassand** était dans le Val d'Oise ce samdi, où il a participé au Semi-Marathon de **Saint-Witz**.
+**Philippe Bassand** était dans le Val d'Oise ce samedi, où il a participé au Semi-Marathon de **Saint-Witz**.
 
 .. image:: http://assets.acr-dijon.org/stwitztopo.png
 
