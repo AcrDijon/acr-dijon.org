@@ -89,7 +89,7 @@ AUTHOR_SAVE_AS = ''
 DIRECT_TEMPLATES = ('index', 'search', 'tipue_search')
 PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
-FAVICON = 'favicon.ico'
+FAVICON = 'theme/favicon.ico'
 FAVICON_TYPE = 'image/vnd.microsoft.icon'
 
 FOOTER = "&copy; 2016 ACR Dijon. Tout droits réservés."
