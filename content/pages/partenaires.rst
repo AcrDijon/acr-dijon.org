@@ -1,7 +1,7 @@
 Partenaires
 ===========
 
-:date: 12/09/2015
+:date: 09/12/2015
 :summary: Partenaires de l'ACR
 
 Partenaires institutionnels
@@ -15,6 +15,7 @@ Partenaires institutionnels
 
 .. image:: http://assets.acr-dijon.org/cg.png
 
+.. image:: http://assets.acr-dijon.org/logoplombieres.png
 
 Instances sportives
 -------------------
