@@ -9,13 +9,15 @@ Partenaires institutionnels
 
 .. image:: /theme/partenaires/dijon.png
 
-.. image:: /theme/partenaires/bourgogne.png
-
 .. image:: /theme/partenaires/omsport.png
+
+.. image:: http://assets.acr-dijon.org/logoplombieres.png
+
+.. image:: /theme/partenaires/bourgogne.png
 
 .. image:: http://assets.acr-dijon.org/cg.png
 
-.. image:: http://assets.acr-dijon.org/logoplombieres.png
+
 
 Instances sportives
 -------------------
@@ -24,9 +26,9 @@ Instances sportives
 
 .. image:: /theme/partenaires/ffaregional.png
 
-.. image:: /theme/partenaires/jesuisuncoureur.png
-
 .. image:: /theme/partenaires/comite21.png
+
+.. image:: /theme/partenaires/jesuisuncoureur.png
 
 .. image:: http://assets.acr-dijon.org/etoile.png
 
@@ -67,3 +69,5 @@ Sponsors
 .. image:: http://assets.acr-dijon.org/hertz.png
 
 .. image:: http://assets.acr-dijon.org/graymode.png
+
+.. image:: http://assets.acr-dijon.org/quadijon.png
