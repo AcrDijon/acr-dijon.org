@@ -14,4 +14,4 @@ Foulées du Lac Kir 2016 / Parcours :
 
 - **Tracé de la course :**
 
-.. image:: http://assets.acr-dijon.org/parcoursfoulees2016.png
+.. openrunner:: 3473901
