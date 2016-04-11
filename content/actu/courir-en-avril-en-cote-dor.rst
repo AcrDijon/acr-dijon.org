@@ -20,6 +20,8 @@ http://lavoieromaine.e-monsite.com/
 
 http://www.le-sportif.com/calendrier/foulees-decathlon-quetigny-course-a-pied-09-04-2016.html
 
+*Course annulée !*
+
 - dimanche 10 : **Trail de la Chouette** / Dijon (11/29km)
 
 *Inscriptions closes !*
