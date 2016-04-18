@@ -7,29 +7,37 @@ Foulées du Lac Kir 2016
 :eventdate: 2016-04-16
 
 La pluie qui est tombée en abondance quasiment toute la journée
-a miraculeusement épargnée chacune des courses des Foulées
+a miraculeusement épargné chacune des courses des Foulées
 du Lac Kir 2016.
+
+Ce sont plus de 700 concurrents qui se sont élancés sur les deux courses adultes (5 et 10 km), ainsi que 80 sur les courses jeunes.
 
 **Chahid Khalid** et **Fettouma Brelaud** sont les gagnants du 10KM.
 **Marie-Charlotte Albejano** et **François Martin** s’adjugent le 5KM.
 
-Dans les courses enfant, **Théo Durand** et **Lola Bernardot** gagnent la
+Dans les courses enfants, **Théo Durand** et **Lola Bernardot** gagnent la
 course Poussins. **Constant Perrin** et **Alexandra Korolev** arrivent en
 tête de la course Benjamins/Minimes.
 
 Pour l'ACR Dijon,
 
-**Benjamins/Minimes**
+**Benjamins/Minimes** (2140m)
 
-- Léonie Rabiet - 22ème - 9'7"
+- **Léonie Rabiet** - 22ème - 9'07"
+- **Zoé Fanton** - 23ème - 9'12''
+- **Emma Fanton** - 30ème - 10'06''- **3èmeMIF**
+
+40 classés
 
 **10KM**
 
-- Frédéric Rabiet - 84ème - 41'35"
-- Alain Briot - 199ème - 46'57" - 1erV4
-- Jean-Claude Maguer - 260ème - 49'27" - 2èmeV4
+- **Frédéric Rabiet** - 84ème - 41'35"
+- **Alain Briot** - 199ème - 46'57" - **1erV4M**
+- **Jean-Claude Maguer** - 260ème - 49'27" - **2èmeV4M**
 
-Bravo à eux!
+594 classés
+
+**Bravo à eux!**
 
 Résultats complets:
 
@@ -39,7 +47,7 @@ Résultats complets:
 - `Course 10km <http://assets.acr-dijon.org/20160416_Scratch_10KM.pdf>`_
 
 
-Cliquez `ici <http://niko-ngoisque.blogspot.fr/2016/04/foulees-du-lac-kir-2016-les-photos.html>`_ pour retrouvez de nombreuses photos par Nicolas Goisque 
+Cliquez `ici <http://niko-ngoisque.blogspot.fr/2016/04/foulees-du-lac-kir-2016-les-photos.html>`_ pour retrouvez de nombreuses photos par Nicolas Goisque
 
 Un grand merci à tous les bénévoles qui ont affronté
 la pluie et la boue toute la journée pour assurer le succès de
