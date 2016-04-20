@@ -33,14 +33,14 @@ Course remportée par Sylvain MANGIN en 21'03'' / 94 concurrents classés
 
 - **Pierre AUDIN** : 7e en 38'39''
 - **Dominique ZIMA** : 16e en 40'55'' (**2eV2**)
-- **Michaël ALIXANT** : 78e en 48'08''
-- **Jean-Christophe DUBARD** : 80e en 48'24''
-- **Jérémie MAGUER** : 99e en 49'54''
-- **Sandrine FANTON** : 129e en 53'48''
-- **Eric CORDIER** : 137e en 55'05''
-- **Aurélie RAVAUD** : 176e en 1h00'12''
+- **Michaël ALIXANT** : 79e en 48'08''
+- **Jean-Christophe DUBARD** : 81e en 48'24''
+- **Jérémie MAGUER** : 100e en 49'54''
+- **Sandrine FANTON** : 130e en 53'48''
+- **Eric CORDIER** : 138e en 55'05''
+- **Aurélie RAVAUD** : 177e en 1h00'12''
 
-Course remportée par Nicolas JANDROT en 35'16'' / 208 concurrents classés
+Course remportée par Nicolas JANDROT en 35'16'' / 209 concurrents classés
 
 .. image:: http://assets.acr-dijon.org/dom.jpg
 
