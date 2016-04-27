@@ -16,4 +16,4 @@ Il a prévu un parcours en huit, avec dans sa première partie une boucle très 
 
 Pour ceux qui le souhaitent, il est proposé de se retrouver au parking du GEANT CASINO de FONTAINE LES DIJON, devant le magasin FEU VERT, à 9h15.
 Tél Benoît : 06 64 46 32 68
-(c'est le meme parcours que 1er dimanche d'avril perturbé par très mauvais temps).
+(c'est le meme parcours que le 1er dimanche d'avril perturbé par très mauvais temps).
