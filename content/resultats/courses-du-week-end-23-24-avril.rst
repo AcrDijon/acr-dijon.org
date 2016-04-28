@@ -40,7 +40,7 @@ Course remportée par Sébastien BIZARD en 1h38'02'' ; 1ere féminine : Cécile 
 
 **Foulées du Vernois / Remilly-Sur-Tille** (dimanche 24 avril)
 
-Les couleurs de l'ACR ont une nouvelle fois été bien représentées lors de cette deuxième édition des Foulées du Vernois, avec, certes seulement deux représentants, mais avec trois podiums à la clé !
+Les couleurs de l'ACR ont une nouvelle fois été bien représentées lors de cette deuxième édition des Foulées du Vernois, avec, certes seulement deux représentants, mais quatre podiums à la clé (un au scratch et 3 en catégories) !
 
 **10km :**
 

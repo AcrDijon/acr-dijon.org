@@ -29,7 +29,7 @@ Chrono du vainqueur : 2h13'27'' / 2098 concurrents classés
 
 Du côté de la Haute-Savoie, c'est **Michaël ALIXANT** qui s'est chargé de représenter l'ACR.
 
-Il a bouclé son marathon en 3h51'06'', victime de crampes dès le 22e kilomètre, se classant 1263e/2547(chrono du vainqueur : 2h12'38'').
+Il a bouclé son marathon en 3h51'06'', victime de crampes dès le 22e kilomètre, se classant 1263e/2547 (chrono du vainqueur : 2h12'38'').
 
 ****
 
