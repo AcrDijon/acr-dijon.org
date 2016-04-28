@@ -1,20 +1,20 @@
-Courses du week-end (23 & 24 avril)
-===================================
+Courses du week-end
+===================
 
 :date: 2016-04-28
 :category: Résultats
 :location: ARNAY-LE-DUC, REMILLY-SUR-TILLE, MONETEAU (89)
 :eventdate: 2016-04-23
 
-**Trail de l'Etang Fouché / Arnay-Le-Duc**
+**Trail de l'Etang Fouché / Arnay-Le-Duc** (samedi 23 avril)
 
 .. image:: http://assets.acr-dijon.org/trfouche161.jpg
 
 *...après l'effort...*
 
-Le froid et les chemins boueux et glissant ont accompagné les concurrents sur cette deuxième édition du Trail de Fouché, corsant la difficulté de parcours proposant un dénivelé modeste (168mD+ pour le 13km et 273mD+ pour le 23km).
+Le froid et les chemins boueux et glissants ont accompagné les concurrents sur cette deuxième édition du Trail de Fouché, corsant la difficulté de parcours proposant un dénivelé modeste (168mD+ pour le 13km et 273mD+ pour le 23km).
 
-Mais c'était sans compter l'initiative d'intervenants extérieurs, qui ne se sont pas fait connaître, ayant décidé de transformer une partie du parcours en course d'orientation... En effet, le parcours a été entièrement débalisé sur environ les 6 derniers kilomètres, engendrant quelques excursions erratiques pour un certain nombre de concurrents, avec au premier rang le large leader de la course, sur le 12km, **Armand LUCAND (AC Chenôve)**, qui a perdu plus de 10 minutes dans l'opération et a fini à la septième place...
+Mais c'était sans compter l'initiative d'intervenants extérieurs, qui ne se sont pas fait connaître, ayant décidé de transformer une partie du parcours en course d'orientation... En effet, le parcours a été entièrement débalisé sur environ les 6 derniers kilomètres, engendrant quelques excursions erratiques pour un certain nombre de concurrents, avec au premier rang le large leader de la course, sur la petite distance, **Armand LUCAND (AC Chenôve)**, qui a perdu plus de 10 minutes dans l'opération et a fini à la septième place...
 
 Les organisateurs, du fait de ces actes de malveillance, ont toutefois décidé de le récompenser comme vainqueur, sur le podium, au même titre que **Rémi POILLOT (Athlé 21)**, premier à franchir la ligne d'arrivée.
 
@@ -38,7 +38,7 @@ Course remportée par Sébastien BIZARD en 1h38'02'' ; 1ere féminine : Cécile 
 
 ****
 
-**Foulées du Vernois / Remilly-Sur-Tille**
+**Foulées du Vernois / Remilly-Sur-Tille** (dimanche 24 avril)
 
 Les couleurs de l'ACR ont une nouvelle fois été bien représentées lors de cette deuxième édition des Foulées du Vernois, avec, certes seulement deux représentants, mais avec trois podiums à la clé !
 
@@ -61,7 +61,7 @@ Course remportée par Benoît FEUCHOT (Les Furets d'Eiffage) en 18'07'' ; 1ere f
 
 ****
 
-**Semi-Marathon de Monéteau (89)**
+**Semi-Marathon de Monéteau (89)** (dimanche 24 avril)
 
 .. image:: http://assets.acr-dijon.org/moneteau2016.jpg
 
