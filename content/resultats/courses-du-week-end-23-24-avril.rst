@@ -69,4 +69,14 @@ Dans l'Yonne, près d'Auxerre, **Vincent LAUVERGNE** participait au semi-maratho
 
 ****
 
+**Trail du Mont Avril - Trail de la Côte chalonnaise** (71) (dimanche 24 avril)
+
+**Laurentine KLEIN**, devenue une insatiable traileuse, était à **Saint Désert** au **Trail du Mont Avril** (27km/831mD+).
+
+Victime de crampes qui l'ont fortement handicapée dans sa progression, elle a terminé 104e en 3h45'40'', mais consolée par une place de **2eESF** !
+
+Course remportée par Guillaume CROZET (NL) en 2h01'31'' ; 1ere féminine : Léa BERLAND (Assim Tyco) en 2h32'58'' / 105 concurrents classés
+
+****
+
 **Bravo à toutes et à tous, pour leurs performances et pour avoir représenté notre club !**
