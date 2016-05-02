@@ -1,67 +1,52 @@
 Courses du week-end
 ===================
 
-:date: 2016-03-07
+:date: 2016-05-02
 :category: Résultats
-:location: Plombières lès Dijon, Bletterans, Le Creusot
-:eventdate: 2016-03-06
+:location: CHENÔVE, GEVREY-CHAMBERTIN, MELUN-SENART
+:eventdate: 2016-05-01
 
-**Les coureurs de l'ACR sur tous les fronts...**
+**Les coureurs de l'ACR sur tous les fronts, ce week-end...**
 
-**Trail de la Pérouse / Plombières Lès Dijon**
+****
 
-Comme l'an passé, les épreuves du Trail de la Pérouse (13 et 26km) se sont disputées dans des conditions climatiques ardues. Les quelques valeureux ACRistes présents ont affronté le tracé de 13km (480mD+).
+**Meeting d'Athlétisme de CHENÔVE** (samedi 30/04)
 
-.. image:: http://assets.acr-dijon.org/per161.jpg
+**Mag'** s'est aligné sur la course de 3000m de cette compétition sur piste organisée par nos voisins de l'AC-CHENÔVE.
 
-Vainqueur : **Julien COLIN (Team COSTO)** en 56'39'' / 262 concurrents classés
+Il s'est classé 15e en 14'09''82 (course remportée par Romain PRUDON de l'AC-CHENÔVE, en 8'46''49
 
-- **Fabrice HEURET** : 20e en 1h03'16''
-- **Eric MAREJUS** : 74e en 1h13'34'' (**1erV3**)
-- **Gilles BECHARD** : 156e en 1h26'02''
-- **Jean Claude MAGUER** : 192e en 1h32'14'' (**2eV4**)
+.. image:: http://assets.acr-dijon.org/mag.jpg
 
-.. image:: http://assets.acr-dijon.org/per162.jpg
+*Mag' (archives ACR)*
 
-*Eric 1erV3*
+****
 
-.. image:: http://assets.acr-dijon.org/per163.jpg
+**Trail du TACOT / GEVREY-CHAMBERTIN**
 
-*Mag' 2eV4*
+.. image:: http://assets.acr-dijon.org/tacot161.JPG
 
-**********************************************************************
+Pour la dixième du Tacot, la pluie a épargné les concurrents, mais les précipitations abondantes de la veille et de la nuit précédente ont livré un parcours boueux, rendant les quelques descentes abruptes ponctuant le parcours, quelque peu acrobatiques et mettant à l'épreuve les capacités d'équilibriste de chacun...
 
-**Foulées Bletteranoises / Bletterans (39)** : 10km
+**Petit Tacot (14,3km/525mD+) :**
 
-Dans le Jura, près de **Lons Le Saulnier**, quelques ACRistes ont participé aux traditionnelles **Foulées Bletteranoises**.
+- **Dominique ZIMA** : 14e en 1h14'52'' (**1erV2M**)
+- **Fabrice HEURET** : 27e en 1h17'44''
+- **Christophe MIMEUR** : 115e en 1h29'06''
+- **Alain BRIOT** : 134e en 1h30'54'' (**1erV4M**)
+- **Jean-Christophe DUBARD** : 150e en 1h32'18''
 
-Course remportée par le burundais **Willy NDUWIMANA** en 30'54'' (316 concurrents classés)
+Course remportée par Chafik JBARI (AC-CHENÔVE) en 1h08'57'' ; 1ere féminine : Léa BERLAND (ASSIM-TYCO) en 1h18'29'' / 343 concurrents classés
 
-- 66e : **David CROTET** en 38'51''
-- 219e : **Sandrine FANTON** en 50'07'' (**3eV1**)
+Sur le Grand Tacot (29km/1200mD+) : Victoire de Benjamin PETITJEAN (DIJON SINGLETRACK) en 2h16'25'' ; 1ere féminine : Marion SAVOY (NL) en 3h09'02'' / 126 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/stapo16sand.jpg
+.. image:: http://assets.acr-dijon.org/tacot170.JPG
 
-*Sandrine aux Foulées épleumiennes 2015 (archives ACR)*
+*Dominique 1er V2* 
 
-Du côté de la course Benjamins/Minimes (2000m), **Zoé FANTON** se classe 20e/35 et **2e benjamine**, tandis qu' **Emma FANTON** se classe 25e et au pied du podium des minimes.
+.. image:: http://assets.acr-dijon.org/tacot171.JPG
 
-.. image:: http://assets.acr-dijon.org/zoe.jpg
+*Alain 1er V4*
 
-
-
-**********************************************************************
-
-**Trail des Trois Châteaux / Le Creusot (71)**
-
-**Manuel LOPEZ-VARQUIEL** et **Vincent LAUVERGNE** étaient au **Creusot** pour y disputer le **Trail des 3 Châteaux**.
-
-**Vincent** participait à une épreuve en 2 étapes : un 20km nocturne (417mD+) le samedi et un 35km (975mD+) le dimanche, terminant 48e/104 en 2h01'50'' le samedi, mais rétrogradant quelque peu, se classant 83e/94 en 5h01'51'' le lendemain. Au cumul, il se classe 76e/94 en 7h03'41'' (course gagnée par **François LACHAUX** en 4h37'25'').
-
-.. image:: http://assets.acr-dijon.org/manuel.jpg
-
-**Manuel**, de son côté, participait à l'épreuve de 22,7km (713mD+), ce dimanche, se classant 36e/208 en 2h13'07'' (course gagnée par **Baptiste DOMANICO (EA LE CREUSOT)** en 1h39'55''.
-
-**********************************************************************
 
 **Bravo à toutes et à tous pour leur participation et pour leurs performances !**
