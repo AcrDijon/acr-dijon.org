@@ -77,6 +77,8 @@ Victime de crampes qui l'ont fortement handicapée dans sa progression, elle a t
 
 Course remportée par Guillaume CROZET (NL) en 2h01'31'' ; 1ere féminine : Léa BERLAND (Assim Tyco) en 2h32'58'' / 105 concurrents classés
 
+.. image:: http://assets.acr-dijon.org/ma16laur.jpg
+
 ****
 
 **Bravo à toutes et à tous, pour leurs performances et pour avoir représenté notre club !**
