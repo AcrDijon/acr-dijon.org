@@ -8,6 +8,10 @@ Des nouvelles d'Alain
 
 **Alain BREGAND** poursuit son périple vers Saint-Jacques de Compostelle.
 
-Parti de Dijon le 2 mai, et confronté depuis à des conditions météorologiques capricieuses compliquant sa progression, il doit faire étape, ce dimanche, au Puy en Velay, espérant le retour à une météo plus clémente dans sa route vers les Pyrénées. 
+Parti de Dijon le 2 mai, et confronté depuis à des conditions météorologiques capricieuses compliquant sa progression, il doit faire étape, ce dimanche, au Puy en Velay, espérant le retour à une météo plus clémente dans sa route vers les Pyrénées.
 
 Il adresse ses salutations à tous les membres du club.
+
+.. image:: http://assets.acr-dijon.org/ab161.jpg
+
+*Sur le Chemin de Stevenson, un peu avant Monastier sur Gazeille*
