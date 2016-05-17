@@ -6,7 +6,7 @@
 :location: Salins les Bains (39)
 :eventdate: 2016-05-15
 
-Une grosse délégation d'ACRistes était présente pour la traditionnelle et réputée épreuve jurassienne. Cette année, la fraîcheur des températures était favorable aux bonnes performances chronométriques, ce dont nos athlètes ne se sont pas privés !
+Une grosse délégation d'ACRistes était présente pour la traditionnelle et réputée épreuve jurassienne de la "Montée du Poupet" (17,5km/697mD+). Cette année, la fraîcheur des températures était favorable aux bonnes performances chronométriques, ce dont nos athlètes ne se sont pas privés !
 
 .. image:: http://assets.acr-dijon.org/poupet2016.jpg
 
@@ -28,5 +28,7 @@ Une grosse délégation d'ACRistes était présente pour la traditionnelle et r�
 Course remportée par Willy NDUWIMANA en 59'45'' ; 1ere féminine : Dida NEGASA CHATTU en 1h06'19'' (10 au scratch)
 
 .. image:: http://assets.acr-dijon.org/poupetparcours.jpg
+
+.. image:: http://assets.acr-dijon.org/poupet-denivele.jpg
 
 **Bravo à eux !**
