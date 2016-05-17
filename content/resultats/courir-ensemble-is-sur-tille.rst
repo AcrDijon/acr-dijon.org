@@ -10,7 +10,7 @@ Un seul membre de l'ACR était présent à Is-Sur-Tille cette année, sur un par
 
 .. image:: http://assets.acr-dijon.org/is161.JPG
 
-**10,4km / 201mD+ :** 
+**10,4km / 201mD+ :**
 
 - **Jean-Christophe DUBARD** : 26e en 54'13''
 
@@ -20,5 +20,4 @@ Un seul membre de l'ACR était présent à Is-Sur-Tille cette année, sur un par
 
 *Après l'effort, le réconfort !*
 
-
-
+**Bravo à lui !**
