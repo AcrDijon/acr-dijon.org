@@ -12,4 +12,6 @@ Histoire de s'échauffer avant la Montée du Poupet, **Philippe BASSAND** a fait
 
 Il s'est classé 4253e parmi les 28920 participants à l'arrivée, en 1h19'42''.
 
+.. image:: http://assets.acr-dijon.org/bern163.jpg
+
 **Bravo à lui !**
