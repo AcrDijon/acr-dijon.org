@@ -14,7 +14,7 @@ Un seul membre de l'ACR était présent à Is-Sur-Tille cette année, sur un par
 
 - **Jean-Christophe DUBARD** : 26e en 54'13''
 
-67 concurrents classés / Victoire de Cédric BERNETTES en 39'23'' ; 1ere féminine : Charline TOUVREY en 45'12 (3e au scratch)
+67 concurrents classés / Victoire de Cédric BERNETTES en 39'23'' ; 1ere féminine : Charline TOUVREY en 45'12'' (3e au scratch)
 
 .. image:: http://assets.acr-dijon.org/is162.JPG
 
