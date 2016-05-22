@@ -25,7 +25,7 @@ Une grosse délégation d'ACRistes était présente pour la traditionnelle et r�
 - **Gilles BECHARD** : 832e en 1h54'01''
 - **Laurentine KLEIN** : 899e en 1h57'58''
 
-Course remportée par Willy NDUWIMANA en 59'45'' ; 1ere féminine : Dida NEGASA CHATTU en 1h06'19'' (10e au scratch)
+Course remportée par Willy NDUWIMANA en 59'45'' ; 1ere féminine : Dida NEGASA CHATTU en 1h06'19'' (10e au scratch) / 1024 concurrents classés
 
 .. image:: http://assets.acr-dijon.org/poupetparcours.jpg
 
