@@ -10,7 +10,7 @@ Foulée des Cochons
 
 .. image:: http://assets.acr-dijon.org/fdc161.jpg
 
-**10km :**
+**10km (10,141km/118mD+) :**
 
 - **Frédéric RABIET :** 38e en 41'56''
 - **Eric MAREJUS :** 64e en 43'35'' (**2eV3**)
@@ -26,7 +26,7 @@ Foulée des Cochons
 
 .. image:: http://assets.acr-dijon.org/fdc16.jpg
 
-**6km :**
+**6km (6,466km/76mD+) :**
 
 - **Bertrand BULLE : 3e** en 23'21'' (**1erSE**)
 - **Pierre AUDIN :** 4e en 23'45'' (**3eV1**)
@@ -35,7 +35,7 @@ Foulée des Cochons
 
 133 concurrents classés / Course remportée par Stéphane AGUIRRE en 22'36'' ; 1ere féminine : Marie Hélène TATTU en 27'14''
 
-**3km BE/MI :**
+**3km BE/MI (2,998km/33mD+) :**
 
 - **Zoé FANTON :** 28e en 13'07'' (**2eBE**)
 - **Emma FANTON :** 39e en 14'12''
