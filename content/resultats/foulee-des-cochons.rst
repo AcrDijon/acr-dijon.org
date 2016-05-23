@@ -24,6 +24,8 @@ Foulée des Cochons
 
 384 concurrents classés / Course remportée par Khalid CHAHID en 33'14'' ; 1ere féminine : Aurélie BIONDI en 44'59''
 
+.. image:: http://assets.acr-dijon.org/fdc16.jpg
+
 **6km :**
 
 - **Bertrand BULLE : 3e** en 23'21'' (**1erSE**)
