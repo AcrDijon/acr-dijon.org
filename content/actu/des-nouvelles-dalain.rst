@@ -11,3 +11,7 @@ Des nouvelles d'Alain
 Il a quitté Florac ce matin est devrait arriver à Saint-Jean du Gard demain soir.
 
 Il adresse ses salutations à l'ensemble des membres de l'ACR.
+
+.. image:: http://assets.acr-dijon.org/ab162.jpg
+
+*Le pont de Montvert, il y a deux jours*
