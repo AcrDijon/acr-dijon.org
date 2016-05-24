@@ -1,17 +1,13 @@
 Des nouvelles d'Alain
 =====================
 
-:date: 2016-05-15
+:date: 2016-05-24
 :category: Actualités
-:location: Le Puy en Velay
-:eventdate: 2016-05-15
+:location: Florac
+:eventdate: 2016-05-24
 
 **Alain BREGAND** poursuit son périple vers Saint-Jacques de Compostelle.
 
-Parti de Dijon le 2 mai, et confronté depuis à des conditions météorologiques capricieuses compliquant sa progression, il doit faire étape, ce dimanche, au Puy en Velay, espérant le retour à une météo plus clémente dans sa route vers les Pyrénées.
+Il a quitté Florac ce matin est devrait arriver à Saint-Jean du Gard demain soir.
 
-Il adresse ses salutations à tous les membres du club.
-
-.. image:: http://assets.acr-dijon.org/ab161.jpg
-
-*Sur le Chemin de Stevenson, un peu avant Monastier sur Gazeille*
+Il adresse ses salutations à l'ensemble des membres de l'ACR. 
