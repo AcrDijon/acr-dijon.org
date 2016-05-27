@@ -40,6 +40,8 @@ L'ACR à la Foulée des Cochons
 
 *Jean Louis 1erV4*
 
+**Podiums du 10km :**
+
 .. image:: http://assets.acr-dijon.org/fdc165.jpg
 
 *Eric 2eV3*
