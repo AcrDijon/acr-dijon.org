@@ -20,6 +20,8 @@ Les précipitations annoncées ont eu le bon goût de s'abstenir de leur présen
 
 *Passage de relais Vincent/Eric*
 
+**Classement des équipes de l'ACR** :
+
 - **Les Furieux de l'ACR** : **2e** en 2h44'03''
 - **Les Intrépides de l'ACR** : 5e en 3h09'36''
 - **Les Détendus de l'ACR** : 18e en 3h28'36''
