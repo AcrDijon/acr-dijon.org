@@ -60,12 +60,12 @@ Les précipitations annoncées ont eu le bon goût de s'abstenir de leur présen
 - 22 **Marie-Laure LEONARD** : 31'12'' (Eiffel Power)
 - 23 **Julia KOLMAKOVA** : 31'37'' (Les Playmates de l'ACR)
 - 24 **Sylvain SANCHEZ** : 31'45'' (Les Fracassés de l'ACR)
-- 25 **Stéphanie TERRAND** : 32'01'' (Les Playmates de l'ACR)
+- 25 **Sandrine FANTON** : 32'01'' (Les Playmates de l'ACR)
 - 26 **Emilie DERAIL** : 32'31'' (Les Chaux Patates)
 - 27 **Gilles BECHARD** : 32'50'' (Les Détendus de l'ACR)
 - 28 **Vincent MAUFOY** : 33'35'' (Les Fracassés de l'ACR)
 - 29 **Edith SANCHEZ** : 35'05'' (Les Playmates de l'ACR)
-- 30 **Sandrine FANTON** : 36'20'' (Les Playmates de l'ACR)
+- 30 **Stéphanie TERRRAND** : 36'20'' (Les Playmates de l'ACR)
 
 .. image:: http://assets.acr-dijon.org/chaux162.jpg
 
