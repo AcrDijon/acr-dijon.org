@@ -36,11 +36,11 @@ Les précipitations annoncées ont eu le bon goût de s'abstenir de leur présen
 
 **Relais individuels des ACRistes :**
 
-- 1 **Fabrice HEURET** : 22'29'' (Les Furieux de l'ACR)
+- 1 **Bertrand BULLE** : 22'29'' (Les Furieux de l'ACR)
 - 2 **Pierre AUDIN** : 22'34'' (Les Furieux de l'ACR)
 - 3 **Tarek ZIADE** : 22'37'' (Les Furieux de l'ACR)
 - 4 **Florian GUERRET** : 22'41'' (Les Furieux de l'ACR)
-- 5 **Bertrand BULLE** : 22'57'' (Les Furieux de l'ACR)
+- 5 **Fabrice HEURET** : 22'57'' (Les Furieux de l'ACR)
 - 6 **Dominique ZIMA** : 24'25'' (Les Furieux de l'ACR)
 - 7 **Vincent BADET** : 25'31'' (Les Intrépides de l'ACR)
 - 8 **Frédéric RABIET** : 25'40'' (Les Intrépides de l'ACR)
