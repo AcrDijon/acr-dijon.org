@@ -81,6 +81,6 @@ Les précipitations annoncées ont eu le bon goût de s'abstenir de leur présen
 
 Bravo à **Marie-Laure LEONARD** et à **Emilie DERAIL** pour leurs courses dans leurs équipes respectives !
 
-Un grand merci à **Pascal PIQUARD** et à **Fabien CHARPIN** pour s'être rendus disponibles pour compléter nos équipes.
+Un grand merci à **Pascal PIQUARD** (relais en 26'31'' / équipe des Intrépides) et à **Fabien CHARPIN** (relais en 30'44'' / équipe des Détendus) pour s'être rendus disponibles pour compléter nos équipes.
 
 **Enfin, un grand bravo à toutes et à tous, pour avoir contribué à la réussite de cette manifestation conviviale, avec le traditionnel et toujours très apprécié barbecue d'après course !**
