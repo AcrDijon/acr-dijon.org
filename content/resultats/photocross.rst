@@ -1,12 +1,12 @@
-Album photo Départementaux de Cross 21
-======================================
+Album photo et vidéo des Départementaux de Cross 21
+===================================================
 
-:date: 2016-01-12 21:50
+:date: 2016-01-12
 :category: Résultats
 :location: Dijon
 :eventdate: 2016-01-10
 
-**Retour en images sur les départementaux de cross à Dijon**
+**Retour en images, en photos et en vidéo, sur les départementaux de cross à Dijon**
 
 .. image:: http://assets.acr-dijon.org/IMG919.jpg
 
@@ -78,26 +78,6 @@ Album photo Départementaux de Cross 21
 
 .. image:: http://assets.acr-dijon.org/IMG4386.jpg
 
+**Visionnez aussi l'excellente vidéo réalisée par Eric NOVAT !** en cliquant sur le lien ci-dessous :
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.. youtube:: 2LOcit6hTq8
