@@ -31,7 +31,7 @@ Par ailleurs, des courses disputées par Alain, depuis qu'il a rejoint notre clu
 - le 2 avril : "Marathon de CHEVERNY" (Loir et Cher): 561e/1054 en 3h59'40''
 - le 10 avril : "Trail de BOLOGNE" (Haute Marne) / 12,5km : 87e/241 en 1h09'57'' et **1erV4**
 - le 24 avril : "Trail de la Liez" à PEIGNEY (Haute Marne) / 12km : 106e/240 en 1h14'04''et **1erV4**
-- le 5 mai : "Trail des 1000 Etangs" à RADDON et CHAPENDU / 14km : 82e/264 en 1h18'25'' et **1erV4**
+- le 5 mai : "Trail des 1000 Etangs" à RADDON et CHAPENDU (Haute Saône) / 14km : 82e/264 en 1h18'25'' et **1erV4**
 
 ****
 
