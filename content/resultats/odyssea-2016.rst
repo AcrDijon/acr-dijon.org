@@ -14,7 +14,7 @@ Pour cette épreuve destinée à recueillir des fonds pour la lutte contre le ca
 
 Nombre d'ACRistes ont répondu présent ce dimanche matin.
 
-Sauf omission, **Manuel BARREIRA**, **Laurent BERTHE**, **Charly FONTAINE**, **Julia KOLMAKOVA**, **Christophe MIMEUR**, **Christine PETITPERRIN**, **Benoît SUREAU**, **Claire TAINTURIER**, **Jean-Louis TOCK** et **Elisabeth VACCARO** ont participé au 10km. Tandis que **Vincent BADET**, **Jean-Christophe DUBARD**, **David LEPETIT**, **Soianrati M'COMBANI**, **Bertrand QUINTIN**, **Edith** et **Sylvain SANCHEZ**
+Sauf omission, **Manuel BARREIRA**, **Jacky BAUDRY**, **Laurent BERTHE**, **Charly FONTAINE**, **Julia KOLMAKOVA**, **Christophe MIMEUR**, **Christine PETITPERRIN**, **Benoît SUREAU**, **Claire TAINTURIER**, **Jean-Louis TOCK** et **Elisabeth VACCARO** ont participé au 10km. Tandis que **Vincent BADET**, **Jean-Christophe DUBARD**, **David LEPETIT**, **Soianrati M'COMBANI**, **Bertrand QUINTIN**, **Edith** et **Sylvain SANCHEZ**
 et **Talmi SIMEHA** étaient sur le 5km.
 
 **Bravo à toutes et à tous !**
