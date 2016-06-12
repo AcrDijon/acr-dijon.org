@@ -10,6 +10,6 @@ Beer Lovers' Marathon
 
 **Vincent LAUVERGNE** a disputé le "Beer Lovers' Marathon" à Liège, course festive, proposant une dégustation de bière à chacun des 20 ravitaillements disposés sur le parcours.
 
-Pour ses 40 ans, il a couru son 40e marathon, en 4h45 et 20 bières !
+Pour ses 40 ans, il a couru son 41e marathon, en 4h45 et 20 bières !
 
 **Bravo à lui !**
