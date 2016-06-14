@@ -6,7 +6,7 @@ Les Courants de la Liberté
 :location: CAEN
 :eventdate: 2016-06-14
 
-2 ACRistes se sont rendus à CAEN, pour participer aux "Courants de la Liberté", pour commémorer le Débarquement de Normandie de juin 1944.
+2 ACRistes se sont rendus à CAEN, pour participer aux "Courants de la Liberté".
 
 Sur le Marathon, **Vincent  G.I.' LAUVERGNE**  a couru en 4h34'49'' (temps réel : 4h33'41''), classé 1076e/1284 (1077e chrono) / chrono du vainqueur : 2h20'04''.
 
