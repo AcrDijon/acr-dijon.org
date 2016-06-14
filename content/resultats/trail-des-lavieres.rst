@@ -1,25 +1,17 @@
 Trail des Lavières
 ==================
 
-:date: 2016-06-14 13:27
+:date: 2016-06-14
 :category: Résultats
+:location: SAVIGNY LE SEC
+:eventdate: 2016-06-12
 
+**Juila KOLMAKOVA** était, cette année, seule représentante de notre club au "Trail des Lavières" de SAVIGNY LE SEC.
 
-Voici un exemple de texte.
+Elle s'est alignée sur le 25km (700mD+) qu'elle a terminé 70e/78 en 3h05'34'' / épreuve remportée par Régis REMOND (Semur Athlétisme Aventure) en 1h45'51'' ; 1ère féminine : Charline TOUVREY (NL) en 2h05'11'' (13e au scratch).
 
-**Texte en gras**
+.. image:: http://assets.acr-dijon.org/lavieres161.jpg
 
-*Texte en italique*
+*Départ tranquille en queue de peloton ; la course sera longue...* (photo "Le Bien-Public")
 
-Voici une liste:
-
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à elle !**
