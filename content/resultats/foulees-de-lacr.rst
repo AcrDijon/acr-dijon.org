@@ -65,4 +65,4 @@ Non pointé(e)s :
 
 .. image:: http://assets.acr-dijon.org/fouleeacr2016.jpg
 
-**Bravo à toute et à tous pour cette première réussie, en attendant une nouvelle édition l'année prochaine, on l'espère !**
+**Bravo à toutes et à tous pour cette première réussie, en attendant une nouvelle édition l'année prochaine, on l'espère !**
