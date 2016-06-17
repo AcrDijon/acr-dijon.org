@@ -28,7 +28,7 @@ Les précipitations annoncées ont eu le bon goût de s'abstenir de leur présen
 - **Les Fracassés de l'ACR** : 21e en 3h35'39''
 - **Les Playmates de l'ACR** : 33e en 3h54'54'' (**3e équipe féminine**)
 
-38 équipes classées / Victoire des "Minions" (ASPTT DIJON) en 2h37'19''
+38 équipes classées / Victoire des "Minions" (ASPTT DIJON) en 2h37'19'' ; 1ère équipe féminine : "Les Denisettes" (ASPTT DIJON) en 3h25'08'' (17e temps scratch).
 
 .. image:: http://assets.acr-dijon.org/chaux161.jpg
 
