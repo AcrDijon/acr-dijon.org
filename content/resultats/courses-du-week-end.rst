@@ -1,5 +1,5 @@
-Courses du week-end
-===================
+Courses du week-end (30 avril /1er mai)
+=======================================
 
 :date: 2016-05-02
 :category: Résultats

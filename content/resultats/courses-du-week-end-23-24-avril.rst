@@ -1,5 +1,5 @@
-Courses du week-end
-===================
+Courses du week-end (23 et 24 avril)
+====================================
 
 :date: 2016-04-28
 :category: Résultats
