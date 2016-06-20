@@ -1,5 +1,5 @@
-Crocofolies 2016
-================
+Crocofolie 2016
+===============
 
 :date: 2016-06-20
 :category: Résultats
@@ -26,6 +26,7 @@ Petite délégation de l'ACR pour cette édition 2016, pourtant marquée par des
 
 **26km :**
 
+- **Christophe PIGNET** : 2e en 1h52'35'' (**1erV2**)
 - **Dominique ZIMA** : 9e en 2h06'06'' (**2eV2**)
 
 79 concurrents classés / Victoire de Jonathan MEULLE en 1h51'14'' ; 1ère féminine : Charline TOUVREY en 2h05'08'' (8e au scratch).
