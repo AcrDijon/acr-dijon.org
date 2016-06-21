@@ -1,22 +1,26 @@
 Crocofolies 2015
 ================
 
-:date: 2015-06-22 08:40
+:date: 2015-06-22
 :category: Résultats
+:eventdate: 2016-06-21
+:location: 
 :summary: Crocofolies 2015
 
 |Crocofolies 2015|
 
 **24km**
+
 111 classés / 1er : **Benoit FEUCHOT** en 1h41'08''
 
 - 17      | **Dominique ZIMA**         | 1h58'29'' (**3eV2H**)
 - 18      | **Frédéric RABIET**        | 1h58'30''
 - 69      | **Eric MARILLIER**         | 2h19'08''
 - 93      | **Jean-Christophe DUBARD** | 2h29'06''
-- 94      | **Sylvain SANCHEZ**        | 2:29'19''   
+- 94      | **Sylvain SANCHEZ**        | 2:29'19''
 
 **10km**
+
 311 classés / 1er : **Vincent PIVOT** en 38'32''
 
 - 14      | **Fabrice HEURET**         | 42'31''
@@ -26,6 +30,7 @@ Crocofolies 2015
 - 149     | **Sandrine FANTON**        | 55'34''
 - 170     | **Jean Philippe BEUCHE**   | 57'17''
 - 215     | **Claire TAINTURIER**      | 1h03'42''
+- 216     | **Eric ISSASHABANI**       | 1h03'43''
 - 226     | **David LEPETIT**          | 1h04'05''
 - 300     | **Jean Louis RABIET**      | 1h13'59'' (**2eV4H**)
 
