@@ -34,6 +34,6 @@ L'ACR était bien représentée, quantitativement et qualitativement, pour cette
 
 .. image:: http://assets.acr-dijon.org/fl162.jpg
 
-*Le triplé gagnant au 1er tour*
+*Le triplé gagnant de l'ACR*
 
 **Bravo à toutes et à tous !**
