@@ -10,6 +10,7 @@
 
 L'ACR était bien représentée, quantitativement et qualitativement, pour cette 20e édition des "Foulées Longviciennes'', avec un joli triplé sur le 5 km !
 
+
 **5km :**
 
 - 1er : **Bertrand QUINTIN** : 17'39'' et **1erV1**
@@ -24,6 +25,10 @@ L'ACR était bien représentée, quantitativement et qualitativement, pour cette
 
 68 concurrents classés
 
+.. image:: http://assets.acr-dijon.org/fl162.jpg
+
+*Le triplé gagnant de l'ACR*
+
 **10km :**
 
 - 19e : **Pascal FLEURY** : 44'52'' et **1erV3**
@@ -32,8 +37,9 @@ L'ACR était bien représentée, quantitativement et qualitativement, pour cette
 
 85 concurrents classés / Victoire de Romain LELIEVRE (AC CHENÔVE) en 36'51''
 
-.. image:: http://assets.acr-dijon.org/fl162.jpg
+.. image:: http://assets.acr-dijon.org/fl163.jpg
 
-*Le triplé gagnant de l'ACR*
+*Un podium 100% ACR : la classe !*
+
 
 **Bravo à toutes et à tous !**
