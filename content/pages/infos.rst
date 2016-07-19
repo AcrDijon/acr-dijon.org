@@ -1,7 +1,7 @@
 Info pratique
 =============
 
-:date: 09/12/2015
+:date: 12/09/2015
 :summary: Informations pratiques
 
 Adresse postale
@@ -46,8 +46,10 @@ trois formules vous sont proposées :
 
 
 
+
 # **Licence Loisirs** vous permet de participer à toutes épreuves
   -hors championnats- sans présenter de certificat médical (49 euros).
+
 
 
 
@@ -61,4 +63,4 @@ la saison 2015-2016.
 Un supplément de 5 euros est demandé aux nouveaux adhérents pour participer aux frais
 du t-shirt du club qui est remis à chaque adhérent.
 
-`Bulletin d'inscription <http://assets.acr-dijon.org/adhesion-2016-2017.pdf>`_.
+`Bulletin d'inscription <http://assets.acr-dijon.org/adhesion20162017.pdf>`_.
