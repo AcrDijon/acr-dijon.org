@@ -1,25 +1,11 @@
 Des nouvelles d'Alain (épisode 5)
 =================================
 
-:date: 2016-07-19 17:38
+:date: 2016-07-19
 :category: Actualités
+:location: Espagne
+:eventdate: 2016-07-19
 
+**Alain BREGAND** arrive au bout de son périple. Son arrivée à SAINT JACQUES DE COMPOSTELLE est prévue ce jeudi.
 
-Voici un exemple de texte.
-
-**Texte en gras**
-
-*Texte en italique*
-
-Voici une liste:
-
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+Bravo à lui et bon retour parmi nous très prochaînement !
