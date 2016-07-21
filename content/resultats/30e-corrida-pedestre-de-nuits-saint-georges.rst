@@ -19,11 +19,11 @@ Le classement n'a pas été publié pour l'heure. Le classement et les chronos d
 - **Pascal FLEURY** : (**3eV3**)
 - **David LEPETIT** :
 - **Jean Christophe DUBARD** :
-- **Benoït SUREAU** :
+- **Benoit SUREAU** :
 - **Marie Laure LEONARD** : (**3eV1**)
 
 .. image:: http://assets.acr-dijon.org/cn162.jpg
 
-*Cours collectif de gestion d'allure de course par Benoît*
+*Cours collectif de gestion d'allure de course par Benoit*
 
 **Bravo aux participants !**
