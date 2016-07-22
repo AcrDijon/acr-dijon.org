@@ -6,24 +6,26 @@
 :location: NUITS SAINT GEORGES
 :eventdate: 2016-07-13
 
-Comme c'est devenue une tradition bien établie la veille de la fête nationale, la ville de Nuits Saint Georges accueillait en début de soirée la 30e édition de sa Corrida pédestre.
+Comme c'est devenue une tradition bien établie la veille de la fête nationale, la ville de Nuits Saint Georges a accueilli, en début de soirée, la 30e édition de sa Corrida pédestre.
 
 Sept ACRIstes se sont élancés à l'assaut des  trois tours du circuit à 20h30.
 
 .. image:: http://assets.acr-dijon.org/cn161.jpg
 
-Le classement n'a pas été publié pour l'heure. Le classement et les chronos des ACRistes seront reportés ci-dessous dès que disponibles.
+**9,8km :**
 
-- **Bertrand QUINTIN** :
-- **Vincent LAUVERGNE** :
-- **Pascal FLEURY** : (**3eV3**)
-- **David LEPETIT** :
-- **Jean Christophe DUBARD** :
-- **Benoit SUREAU** :
-- **Marie Laure LEONARD** : (**3eV1**)
+- **Bertrand QUINTIN** : 10e en 35'53''
+- **Vincent LAUVERGNE** : 45e en 41'14''
+- **Pascal FLEURY** : 48e en 41'29'' (**3eV3**)
+- **David LEPETIT** : 68e en 43'21''
+- **Jean Christophe DUBARD** : 81e en 44'56''
+- **Benoit SUREAU** : 82e en 44'57''
+- **Marie Laure LEONARD** : 100e en 48'02'' (**3eV1**)
+
+141 concurrents classés / Course remportée par Valentin CHARTIER (NL) en 32'28'' ; 1ère féminine : Léa BERLAND (NL) en 40'04'' (34e au scratch).
 
 .. image:: http://assets.acr-dijon.org/cn162.jpg
 
-*Cours collectif de gestion d'allure de course par Benoit*
+*Cours collectif de gestion d'allure par Benoit*
 
 **Bravo aux participants !**
