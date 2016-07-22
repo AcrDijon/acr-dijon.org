@@ -12,7 +12,7 @@ Sept ACRIstes se sont élancés à l'assaut des  trois tours du circuit à 20h30
 
 .. image:: http://assets.acr-dijon.org/cn161.jpg
 
-Le classement n'a pas été publié pour l'heure. Le classement et les chronos des ACRistes sera reporté ci-dessous dès que disponible.
+Le classement n'a pas été publié pour l'heure. Le classement et les chronos des ACRistes seront reportés ci-dessous dès que disponibles.
 
 - **Bertrand QUINTIN** :
 - **Vincent LAUVERGNE** :
