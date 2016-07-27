@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://acr-dijon.org'
+SITEURL = 'https://acr-dijon.org'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -23,5 +23,5 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 SOCIAL.append(('rss', SITEURL + '/' + FEED_ALL_ATOM))
-ISSO_SERVER = "http://acr-dijon.org/comments"
+ISSO_SERVER = "https://acr-dijon.org/comments"
 
