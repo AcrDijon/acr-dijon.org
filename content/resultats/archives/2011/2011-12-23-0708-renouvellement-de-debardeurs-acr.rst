@@ -19,4 +19,4 @@ Il est souhaitable que tous et toutes arborent nos couleurs lors des courses loc
 
 Le calendrier des manifestations 2012 verra le jour prochainement.
 
-.. |tous préparés à la gagne| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3350120862annecy-semi-et-marathon-2010-tous-prepares-a-la-gagne.JPG
+.. |tous préparés à la gagne| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3350120862annecy-semi-et-marathon-2010-tous-prepares-a-la-gagne.JPG

@@ -8,7 +8,7 @@ Courses du dimanche 17 avril
 
 **La Route du Louvre / Lille**
 
-.. image:: http://assets.acr-dijon.org/aflille2016.jpg
+.. image:: https://assets.acr-dijon.org/aflille2016.jpg
 
 Deux ACRistes se sont alignés sur le marathon au programme du jour.
 
@@ -17,7 +17,7 @@ Deux ACRistes se sont alignés sur le marathon au programme du jour.
 
 Chrono du vainqueur : 2h13'27'' / 2098 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/lille2016.jpg
+.. image:: https://assets.acr-dijon.org/lille2016.jpg
 
 *Philippe Bassand*
 
@@ -25,7 +25,7 @@ Chrono du vainqueur : 2h13'27'' / 2098 concurrents classés
 
 **Marathon d'ANNECY**
 
-.. image:: http://assets.acr-dijon.org/annecy2016.jpg
+.. image:: https://assets.acr-dijon.org/annecy2016.jpg
 
 Du côté de la Haute-Savoie, c'est **Michaël ALIXANT** qui s'est chargé de représenter l'ACR.
 
@@ -35,7 +35,7 @@ Il a bouclé son marathon en 3h51'06'', victime de crampes dès le 22e kilomètr
 
 **10km de CORA-CHOISEY**
 
-.. image:: http://assets.acr-dijon.org/cora2016.jpg
+.. image:: https://assets.acr-dijon.org/cora2016.jpg
 
 Trois ACRistes ont fait le déplacement du côté de Dole, à l'occasion des maintenant traditionnelles courses de CORA-CHOISEY.
 

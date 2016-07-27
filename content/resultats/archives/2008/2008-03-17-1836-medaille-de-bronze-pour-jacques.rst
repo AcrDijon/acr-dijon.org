@@ -15,12 +15,12 @@ Parti dans le peloton, c'est finalement à la 3ème place française que Jacques
 
 C'est finalement à la 12ème place des M70, à la 3ème fançaise que Jacques va terminer. mais cette 3ème française vaut aussi pour celle par équipe (puisque c'est les 3 meilleurs de chaque pays qui classent l'équipe). Une équipe de france des M70 qui finit sur la 3ème place du podium. Allemagne, Russie et France termine devant les Etats-Unis... Une médaille de Bronze. Bravo Jacques. 
 
-.. image:: http://assets.acr-dijon.org/Jacques.JPG
+.. image:: https://assets.acr-dijon.org/Jacques.JPG
 
 Les classements : `http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=024696&frmposition=2`_
 
-.. |httpwwwathlecomuploadactus-afficheclermont2008.jpg| image:: http://assets.acr-dijon.org/old/httpwwwathlecomuploadactus-afficheclermont2008.jpg
+.. |httpwwwathlecomuploadactus-afficheclermont2008.jpg| image:: https://assets.acr-dijon.org/old/httpwwwathlecomuploadactus-afficheclermont2008.jpg
 .. _|httpwwwathlecomuploadactus-afficheclermont2008.jpg|: http://www.clermont2008.com/
-.. |httpathlecomuploadssites001078perso-clermont_2008_logo_couleur_petit.jpg| image:: http://assets.acr-dijon.org/old/httpathlecomuploadssites001078perso-clermont_2008_logo_couleur_petit.jpg
-.. |undefined| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-jacques-pivot-v4m-2008.JPG
+.. |httpathlecomuploadssites001078perso-clermont_2008_logo_couleur_petit.jpg| image:: https://assets.acr-dijon.org/old/httpathlecomuploadssites001078perso-clermont_2008_logo_couleur_petit.jpg
+.. |undefined| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-jacques-pivot-v4m-2008.JPG
 .. _http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=024696&frmposition=2: http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=024696&frmposition=2

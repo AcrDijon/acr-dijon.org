@@ -10,4 +10,4 @@ Pour tout renseignement, contactez `Jean-marc.chiodin@wanadoo.fr <mailto:Jean-ma
 
 |httpidataover-blogcom0120862-equipes-relais-restos-du-coeur.jpg|
 
-.. |httpidataover-blogcom0120862-equipes-relais-restos-du-coeur.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-equipes-relais-restos-du-coeur.jpg
+.. |httpidataover-blogcom0120862-equipes-relais-restos-du-coeur.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-equipes-relais-restos-du-coeur.jpg

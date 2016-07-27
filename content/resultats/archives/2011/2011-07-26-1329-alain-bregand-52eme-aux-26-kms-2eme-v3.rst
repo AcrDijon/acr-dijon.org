@@ -13,4 +13,4 @@ Une très belle épreuve, un parcours équilibré et très attractif, mais aussi
 
 Source : `http://www.usvogissey.fr.st/ <http://www.usvogissey.fr.st/>`_
 
-.. |Alain| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom223x3000120862coursescourses-2011-alain.jpg
+.. |Alain| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom223x3000120862coursescourses-2011-alain.jpg

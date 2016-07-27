@@ -13,4 +13,4 @@ Notre ami, pour sa première expérience effectue **53,160 km** sur **une boucle
 
 |Benoit.jpg|
 
-.. |Benoit.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-benoit.jpg
+.. |Benoit.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-benoit.jpg

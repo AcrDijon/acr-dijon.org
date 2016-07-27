@@ -22,4 +22,4 @@ Un parcours vallonné et une météo assez clémente.
   	  	 
 - 1672 	Nathalie Dugardin 	06:55:16 
 
-.. |photo-maxime-jegat.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-photo-maxime-jegat.jpg
+.. |photo-maxime-jegat.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-photo-maxime-jegat.jpg

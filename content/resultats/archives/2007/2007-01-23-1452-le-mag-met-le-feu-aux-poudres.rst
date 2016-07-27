@@ -61,4 +61,4 @@ Bien entendu, un cross reste un cross et c'est dans la difficultés des différe
 
 Pour les plus jeunes, eh bien, il vous faudra attendre encore un peu ...a moins que vous abandonniez le plus beau des sports olympiques pour vous tourner vers le tennis, le football, le basket...
 
-.. |httpidataover-blogcom0120862bourgogne-2007-douches-a-toucy-_.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bourgogne-2007-douches-a-toucy-_.jpg
+.. |httpidataover-blogcom0120862bourgogne-2007-douches-a-toucy-_.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bourgogne-2007-douches-a-toucy-_.jpg

@@ -7,7 +7,7 @@ Rando Trail de Noël
 :eventdate: 2015-12-19
 
 
-.. image:: http://assets.acr-dijon.org/michelpledran.jpg
+.. image:: https://assets.acr-dijon.org/michelpledran.jpg
 
 
 **Michel LE BOULANGER** était à Plédran, dans les Côtes d'Armor, pour le Rando Trail de Noël, sur l'épreuve de 5km : 105 concurrents classés / Victoire de Thibault LE MEE, en 19'28''.

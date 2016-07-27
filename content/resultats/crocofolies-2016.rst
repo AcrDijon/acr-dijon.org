@@ -8,7 +8,7 @@ Crocofolie 2016
 
 Petite délégation de l'ACR pour cette édition 2016, pourtant marquée par des conditions météo plutôt clémentes...
 
-.. image:: http://assets.acr-dijon.org/croco161.jpg
+.. image:: https://assets.acr-dijon.org/croco161.jpg
 
 *Jean Louis et Mylène au départ du 10km*
 
@@ -31,7 +31,7 @@ Petite délégation de l'ACR pour cette édition 2016, pourtant marquée par des
 
 79 concurrents classés / Victoire de Jonathan MEULLE en 1h51'14'' ; 1ère féminine : Charline TOUVREY en 2h05'08'' (8e au scratch).
 
-.. image:: http://assets.acr-dijon.org/croco162.jpg
+.. image:: https://assets.acr-dijon.org/croco162.jpg
 
 *Dominique ZIMA à l'arrivée*
 
@@ -43,7 +43,7 @@ Petite délégation de l'ACR pour cette édition 2016, pourtant marquée par des
 
 - **Emma FANTON** : 15e en 15'55'' au pied du podium
 
-.. image:: http://assets.acr-dijon.org/croco163.jpg
+.. image:: https://assets.acr-dijon.org/croco163.jpg
 
 *Zoé en plein effort*
 

@@ -27,4 +27,4 @@ Vincent boucle ces **47 km** en **6h44'11"** , pour le classement, c'est loin d'
 
 **88ème sur 112 arrivants** . ( 330 au départ )
 
-.. |Montée vers l'église de Mirmande| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150331-ob_fa35e3_gopr0001.JPG
+.. |Montée vers l'église de Mirmande| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150331-ob_fa35e3_gopr0001.JPG

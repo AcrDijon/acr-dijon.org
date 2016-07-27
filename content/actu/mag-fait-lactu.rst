@@ -12,4 +12,4 @@ Mag' fait l'actu
 
 
 
-.. image:: http://assets.acr-dijon.org/MagcoachACR.jpg
+.. image:: https://assets.acr-dijon.org/MagcoachACR.jpg

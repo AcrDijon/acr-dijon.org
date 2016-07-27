@@ -37,5 +37,5 @@ Crocofolies 2015
 
 |Crocofolies 2015 #0|
 
-.. |Crocofolies 2015| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150622-ob_ef82ce_jean-louis1.jpg
-.. |Crocofolies 2015 #0| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150622-ob_e9d095_david2.jpg
+.. |Crocofolies 2015| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150622-ob_ef82ce_jean-louis1.jpg
+.. |Crocofolies 2015 #0| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150622-ob_e9d095_david2.jpg

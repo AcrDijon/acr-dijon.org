@@ -7,4 +7,4 @@ Remerciements...
 
 |httpidataover-blogcom0120862-zima.jpg|
 
-.. |httpidataover-blogcom0120862-zima.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-zima.jpg
+.. |httpidataover-blogcom0120862-zima.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-zima.jpg

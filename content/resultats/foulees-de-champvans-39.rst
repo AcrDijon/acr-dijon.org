@@ -15,6 +15,6 @@ Quatre ACRistes se sont rendus, ce lundi matin, près de Dole, à l'occasion des
  
 Course remportée par Jimmy BURRI (Racing Club Haut-Jura/Morez) en 34'59'' / 125 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/champvans2016.jpg
+.. image:: https://assets.acr-dijon.org/champvans2016.jpg
 
 Bravo à eux !

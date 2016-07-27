@@ -19,4 +19,4 @@ J’espère pouvoir passer quelques jours auprès de vous avant cela.
   
 
 
-.. |httpidataover-blogcom0120862-dscn6825.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn6825.jpg
+.. |httpidataover-blogcom0120862-dscn6825.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn6825.jpg

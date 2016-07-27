@@ -6,7 +6,7 @@ Trail de la Pérouse
 :location: PLOMBIERES LES DIJON
 :eventdate: 2015-03-01
 
-.. image:: http://assets.acr-dijon.org/perouse1.jpg
+.. image:: https://assets.acr-dijon.org/perouse1.jpg
 
 *David Lepetit*
 
@@ -18,7 +18,7 @@ Vincent Lauvergne en préparation des 100 km de Belvès fin avril s'est senti un
 
 84ème sur 190 en 2h34'50"
 
-.. image:: http://assets.acr-dijon.org/perouse2.jpg
+.. image:: https://assets.acr-dijon.org/perouse2.jpg
 
 *Eric Marillier*
 

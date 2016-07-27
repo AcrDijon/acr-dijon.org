@@ -6,7 +6,7 @@
 
 
 
-.. image:: http://assets.acr-dijon.org/blog.jpg
+.. image:: https://assets.acr-dijon.org/blog.jpg
 
 Avez-vous regardé le classement des "Top blogs" ce matin ? Votre blog acr.dijon.over-blog.com figure en 1092ème position ! Félicitations ! Il est donc visible sur le portail d'Overblog, au moins jusqu'au prochain classement, dans 15 jours, sur ces pages : http://www.over-blog.com/top.html
 

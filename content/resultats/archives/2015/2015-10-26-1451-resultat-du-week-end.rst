@@ -9,7 +9,7 @@ Résultat du Week End
 
 La CHEVIGNOISE : Chevigny-Saint-Sauveur 4,5 et 10 km (25/10/2015)
 
-.. image:: http://assets.acr-dijon.org/magchev15.jpg
+.. image:: https://assets.acr-dijon.org/magchev15.jpg
 
 4,5 km : (en fait 3,66 km suite à une erreur d'aiguillage d'un pilote de quad visiblement pressé d'en terminer et qui a oublié la boucle initiale)
 
@@ -25,7 +25,7 @@ La CHEVIGNOISE : Chevigny-Saint-Sauveur 4,5 et 10 km (25/10/2015)
 - Sandrine FANTON, 31ème en 16'29"  (1ere M1F)
 - Marie Laure LEONARD, 39ème en 17'48"  (2e SEF)
 
-.. image:: http://assets.acr-dijon.org/bertrandchev15.jpg
+.. image:: https://assets.acr-dijon.org/bertrandchev15.jpg
 
 **10 km :**  648 concurrents
 
@@ -40,7 +40,7 @@ La CHEVIGNOISE : Chevigny-Saint-Sauveur 4,5 et 10 km (25/10/2015)
 - Michaël ALIXANT, 579ème en 1h 02'09"** **(en mission accompagnement)**
 - Jean Louis RABIET, 630ème en 1h 06'47"** **(3e M4M)**
 
-.. image:: http://assets.acr-dijon.org/bertrandbchev15.jpg
+.. image:: https://assets.acr-dijon.org/bertrandbchev15.jpg
 
 **Marseille Cassis :**
 
@@ -54,9 +54,9 @@ La CHEVIGNOISE : Chevigny-Saint-Sauveur 4,5 et 10 km (25/10/2015)
 
 Félicitations à toutes et tous pour avoir montré nos couleurs
 
-.. |Résultat du Week End| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151026-ob_6b40ee_mag.jpg
-.. |Résultat du Week End #0| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151026-ob_90d006_bertrand.jpg
-.. |Résultat du Week End #1| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom200x150-ct149288520151026-ob_a3c996_1.jpg
-.. |Résultat du Week End #2| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom200x150-ct149288520151026-ob_ac3897_2.jpg
-.. |Résultat du Week End #3| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom200x150-ct149288520151026-ob_2bca4f_3.jpg
-.. |Résultat du Week End #4| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom600x450-ct149288520151026-ob_149cf6_4.jpg
+.. |Résultat du Week End| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151026-ob_6b40ee_mag.jpg
+.. |Résultat du Week End #0| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151026-ob_90d006_bertrand.jpg
+.. |Résultat du Week End #1| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom200x150-ct149288520151026-ob_a3c996_1.jpg
+.. |Résultat du Week End #2| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom200x150-ct149288520151026-ob_ac3897_2.jpg
+.. |Résultat du Week End #3| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom200x150-ct149288520151026-ob_2bca4f_3.jpg
+.. |Résultat du Week End #4| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom600x450-ct149288520151026-ob_149cf6_4.jpg

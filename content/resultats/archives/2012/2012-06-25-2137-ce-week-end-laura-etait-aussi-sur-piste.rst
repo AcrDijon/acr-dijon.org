@@ -25,4 +25,4 @@ Mal grès un chrono plus que correct, 1'08 pour Laura .
 
 Exercice de style assez difficile que les relais ou beaucoup se joue sur la passation du témoin.
 
-.. |Courses-2012-1227.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom333x5000120862coursescourses-2012-courses-2012-1227.JPG
+.. |Courses-2012-1227.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom333x5000120862coursescourses-2012-courses-2012-1227.JPG

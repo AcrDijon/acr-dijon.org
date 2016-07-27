@@ -9,15 +9,15 @@ Course des Sapins
 Huit ACRistes ont rallié SAULIEU pour la 20e édition de la Course des Sapins, marquée cette année par une affluence record (environ 930 participants)... ainsi que par des conditions météorologiques occasionnant un terrain gras et lourd...
 Pour cette édition anniversaire, l'inscription était gratuite, mais le sapin de Noël toujours remis à chaque concurrent.
 
-.. image:: http://assets.acr-dijon.org/sapins15.1.jpg
+.. image:: https://assets.acr-dijon.org/sapins15.1.jpg
 
-.. image:: http://assets.acr-dijon.org/sapins15ec1.jpg
+.. image:: https://assets.acr-dijon.org/sapins15ec1.jpg
 
-.. image:: http://assets.acr-dijon.org/sapins15ec2.jpg
+.. image:: https://assets.acr-dijon.org/sapins15ec2.jpg
 
 *Valentin en action*
 
-.. image:: http://assets.acr-dijon.org/sapins15.2.jpg
+.. image:: https://assets.acr-dijon.org/sapins15.2.jpg
 
 *Zoé (à droite) troisième des Benjamines*
 

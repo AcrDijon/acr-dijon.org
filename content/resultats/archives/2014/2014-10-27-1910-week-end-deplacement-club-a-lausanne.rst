@@ -35,4 +35,4 @@ Week end déplacement Club à Lausanne
 
 Félicitations à nos féminines pour nous avoir fait confiance pour leur 1er déplacement hors France.
 
-.. |Lausanne-2097.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom333x5000120862coursescourses-2015lausanne-lausanne-2097.JPG
+.. |Lausanne-2097.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom333x5000120862coursescourses-2015lausanne-lausanne-2097.JPG

@@ -7,7 +7,7 @@ Transvaal Trail :
 :eventdate: 2016-01-30
 
 
-.. image:: http://assets.acr-dijon.org/transvaaltrail2016.jpg
+.. image:: https://assets.acr-dijon.org/transvaaltrail2016.jpg
 
 Le samedi 30 janvier dernier, le **Groupe Scolaire Saint-Joseph** organisait la deuxième édition du **Transvaal Trail**, course festive et nocturne de "trail urbain" présentant une succession de parties de courses en extérieur, dans les parcs et dans les rues, et à l'intérieur des bâtiments scolaires de **Saint-Jo** et du **Castel**, ainsi que dans la caserne de pompiers, avec son lot d'escaliers à monter et descendre ou d'obstacles artificiels à franchir.
 La course s'est déroulée sur une distance annoncée de 9,5km par les organisateurs.

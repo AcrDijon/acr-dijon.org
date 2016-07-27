@@ -18,4 +18,4 @@ Nous aurons sûrement l'occasion de les croiser tous les trois lors de la course
 
 |httpidataover-blogcom0120862-image002.gif|
 
-.. |httpidataover-blogcom0120862-image002.gif| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-image002.gif
+.. |httpidataover-blogcom0120862-image002.gif| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-image002.gif

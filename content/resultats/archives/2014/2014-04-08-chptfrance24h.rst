@@ -14,7 +14,7 @@ Samedi 5 avril, 11 heure était donné le départ de ces 25ème championnat nati
 
 **Vincent Lauvergne** était notre seul représentant, parti rejoindre des amis pour faire quelques boucles d'un km afin de continuer sa préparation pour la Milkil au mois de juin. 
 
-.. image:: http://assets.acr-dijon.org/vincent.jpg
+.. image:: https://assets.acr-dijon.org/vincent.jpg
 
 90,1 km bouclé en 11h35, le rythme pour cet été commence à se définir.
 

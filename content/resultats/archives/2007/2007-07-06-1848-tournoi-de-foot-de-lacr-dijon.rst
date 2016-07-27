@@ -25,5 +25,5 @@ Le ballon taillé en silex sera amené par celui qui veut !!!
 
 `|httpimghebuscom20070619-070619083155_22.gif| <http://www.hebus.com/img-172724-.html>`_
 
-.. |httpidataover-blogcom0120862-terrain-de-foot-acr-dijon.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-terrain-de-foot-acr-dijon.jpg
-.. |httpimghebuscom20070619-070619083155_22.gif| image:: http://assets.acr-dijon.org/old/httpimghebuscom20070619-070619083155_22.gif
+.. |httpidataover-blogcom0120862-terrain-de-foot-acr-dijon.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-terrain-de-foot-acr-dijon.jpg
+.. |httpimghebuscom20070619-070619083155_22.gif| image:: https://assets.acr-dijon.org/old/httpimghebuscom20070619-070619083155_22.gif

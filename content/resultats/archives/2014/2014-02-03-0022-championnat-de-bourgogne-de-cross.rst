@@ -19,4 +19,4 @@ Sur le cross vétéran, **Eric Marejus** , notre nouvel adhérent réussi à dé
 
 Félicitation à eux deux.
 
-.. |P1010003| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2014departementaux-cross-p1010003.JPG
+.. |P1010003| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2014departementaux-cross-p1010003.JPG

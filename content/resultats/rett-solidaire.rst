@@ -10,6 +10,6 @@ A défaut de pouvoir participer au **Rêvereotrail** à **Pierrefontaine lès Va
 
 Ils ont parcouru 25km en trail en 2h40.
 
-.. image:: http://assets.acr-dijon.org/rett2016.jpg
+.. image:: https://assets.acr-dijon.org/rett2016.jpg
 
 **Bravo à eux !**

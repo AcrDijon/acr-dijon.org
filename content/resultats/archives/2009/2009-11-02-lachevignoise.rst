@@ -9,7 +9,7 @@ Résultats des acéristes à " La Chevignoise 2009
 Voici tous les chronos et places des acéristes à " La Chevignoise " . Sans oublier de parler des traditionnels habitués des podiums , je tenais personnellement par ce blog , dire un grand bravo à chaque participant de notre club car notre club était fort bien représenté en nombre sur les différentes distances .
 
 
-.. image:: http://assets.acr-dijon.org/chevignoise091.jpg
+.. image:: https://assets.acr-dijon.org/chevignoise091.jpg
 
 **Distance : 5,300 kms**
 
@@ -23,7 +23,7 @@ Voici tous les chronos et places des acéristes à " La Chevignoise " . Sans oub
 - 38  	RABIET  	FREDERIC  	23'47"  	13,37 
 - 75  	BORNEL  	PERRINE  	31'13"  	10,18  
 
-.. image:: http://assets.acr-dijon.org/chevignoise092.jpg
+.. image:: https://assets.acr-dijon.org/chevignoise092.jpg
 
 **Distance : 10 kms**
 

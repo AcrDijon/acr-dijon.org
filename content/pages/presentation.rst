@@ -4,7 +4,7 @@ Présentation ACR
 :date: 2015-09-12 09:00
 :summary: Le club de l'ACR et son fonctionnement
 
-.. image:: http://assets.acr-dijon.org/inscription.jpg
+.. image:: https://assets.acr-dijon.org/inscription.jpg
 
 
 L’ACR Dijon (Association des Coureurs sur Route), fondée en 1999, a fêté ses 15

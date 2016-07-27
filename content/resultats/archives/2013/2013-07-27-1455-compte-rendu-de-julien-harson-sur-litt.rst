@@ -79,8 +79,8 @@ Le soleil se couche. Je franchis la ligne d’arrivée après 15h02mn53s de cour
 
 |Julien-ITT.jpg|
 
-.. |100_0998.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013ice-trail-tarantaise-100_0998.JPG
-.. |100_1000.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013ice-trail-tarantaise-100_1000.JPG
-.. |100_1002.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013ice-trail-tarantaise-100_1002.JPG
-.. |100_1003.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013ice-trail-tarantaise-100_1003.JPG
-.. |Julien-ITT.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013ice-trail-tarantaise-julien-itt.jpg
+.. |100_0998.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013ice-trail-tarantaise-100_0998.JPG
+.. |100_1000.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013ice-trail-tarantaise-100_1000.JPG
+.. |100_1002.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013ice-trail-tarantaise-100_1002.JPG
+.. |100_1003.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013ice-trail-tarantaise-100_1003.JPG
+.. |Julien-ITT.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013ice-trail-tarantaise-julien-itt.jpg

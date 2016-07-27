@@ -33,4 +33,4 @@ Qualité de l'acceuil et convialité de l'évènement, on est bien loin de l'usi
 
 **Je pense y retourner l'année prochaine.**
 
-.. |profil Le Puy Firminy| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom229x3000120862coursescourses-2011-profil-le-puy-firminy.jpg
+.. |profil Le Puy Firminy| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom229x3000120862coursescourses-2011-profil-le-puy-firminy.jpg

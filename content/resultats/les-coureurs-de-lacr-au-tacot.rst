@@ -10,11 +10,11 @@ Les coureurs de l'ACR au Tacot
 
 **Dans les bois...**
 
-.. image:: http://assets.acr-dijon.org/tacot162.JPG
+.. image:: https://assets.acr-dijon.org/tacot162.JPG
 
 *Fabrice en tête des ACRistes*
 
-.. image:: http://assets.acr-dijon.org/tacot164.JPG
+.. image:: https://assets.acr-dijon.org/tacot164.JPG
 
 *Dominique ensuite*
 
@@ -22,22 +22,22 @@ Les coureurs de l'ACR au Tacot
 
 **...A l'arrivée**
 
-.. image:: http://assets.acr-dijon.org/tacot165.JPG
+.. image:: https://assets.acr-dijon.org/tacot165.JPG
 
 *Dominique : 14e au scratch et 1erV2*
 
-.. image:: http://assets.acr-dijon.org/tacot166.JPG
+.. image:: https://assets.acr-dijon.org/tacot166.JPG
 
 *Fabrice : 27e au scratch*
 
-.. image:: http://assets.acr-dijon.org/tacot167.JPG
+.. image:: https://assets.acr-dijon.org/tacot167.JPG
 
 *Christophe : 115e au scratch*
 
-.. image:: http://assets.acr-dijon.org/tacot168.JPG
+.. image:: https://assets.acr-dijon.org/tacot168.JPG
 
 *Alain : 134e au scratch et 1erV4*
 
-.. image:: http://assets.acr-dijon.org/tacot169.JPG
+.. image:: https://assets.acr-dijon.org/tacot169.JPG
 
 *Jean-Christophe : 150e au scratch*

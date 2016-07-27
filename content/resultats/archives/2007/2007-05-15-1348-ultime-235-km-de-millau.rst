@@ -19,4 +19,4 @@ Chapeau, Dédé !!!
 
 |httpdirectruninlivecomimclientgaleriephotos-459_0001_photo.jpg|
 
-.. |httpdirectruninlivecomimclientgaleriephotos-459_0001_photo.jpg| image:: http://assets.acr-dijon.org/old/httpdirectruninlivecomimclientgaleriephotos-459_0001_photo.jpg
+.. |httpdirectruninlivecomimclientgaleriephotos-459_0001_photo.jpg| image:: https://assets.acr-dijon.org/old/httpdirectruninlivecomimclientgaleriephotos-459_0001_photo.jpg

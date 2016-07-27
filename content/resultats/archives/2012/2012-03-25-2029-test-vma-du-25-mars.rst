@@ -37,5 +37,5 @@ Nicolas: 17,5 km/h
 
 Bertrand: 19,5 km/h
 
-.. |Les-misses-sont-un-peu-trop-rapides.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2012test-vma-les-misses-sont-un-peu-trop-rapides.JPG
-.. |Les-hommes-reprennent-la-donne.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2012test-vma-les-hommes-reprennent-la-donne.JPG
+.. |Les-misses-sont-un-peu-trop-rapides.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2012test-vma-les-misses-sont-un-peu-trop-rapides.JPG
+.. |Les-hommes-reprennent-la-donne.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2012test-vma-les-hommes-reprennent-la-donne.JPG

@@ -9,9 +9,9 @@ Trail du Plateau de Chenôve
 Toute petite représentation de l'ACR samedi, comparé à la participation massive de l'an dernier, pour la deuxième édition du Trail du Plateau de Chenôve, sur un parcours modifié et présentant un dénivelé un peu plus inportant (230 m par boucle de 8 km, contre 170 m l'an dernier).
 Cette année, l'épreuve présentait une course diurne pour le 8 km et une course nocturne pour le 16 km (deux boucles de 8 km).
 
-.. image:: http://assets.acr-dijon.org/PlChenôve151.jpg
+.. image:: https://assets.acr-dijon.org/PlChenôve151.jpg
 
-.. image:: http://assets.acr-dijon.org/PlChenôve152.jpg
+.. image:: https://assets.acr-dijon.org/PlChenôve152.jpg
 
 
 Trail Découverte (8km, 230m D+)

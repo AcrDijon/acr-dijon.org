@@ -30,4 +30,4 @@ Chez nos voisins franc-comtois
 
 Samedi 21 février : `La Rubatée blanche <http://sites.google.com/site/larubateeblanche/>`_
 
-.. |Marine.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015trail-de-semur-marine.jpg
+.. |Marine.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015trail-de-semur-marine.jpg

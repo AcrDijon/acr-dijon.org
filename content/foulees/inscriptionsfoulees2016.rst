@@ -14,4 +14,4 @@ Cliquez sur le lien : http://www.le-sportif.com/
 
 - Bulletin d'inscription papier :
 
-http://assets.acr-dijon.org/foulees2016.pdf
+https://assets.acr-dijon.org/foulees2016.pdf

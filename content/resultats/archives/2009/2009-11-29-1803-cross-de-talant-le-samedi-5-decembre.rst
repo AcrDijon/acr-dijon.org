@@ -31,4 +31,4 @@ IMPORTANT : une partie des inscriptions sera reversé au TELETHON 2009
 
 `flyer cross telethon de Talant 2009.pdf <http://dumontdavidactalant.hautetfort.com/media/02/01/1576785949.pdf>`_
 
-.. |IMG_0569.JPG| image:: http://assets.acr-dijon.org/old/httpdumontdavidactalanthautetfortcommedia0000-1948857131.JPG
+.. |IMG_0569.JPG| image:: https://assets.acr-dijon.org/old/httpdumontdavidactalanthautetfortcommedia0000-1948857131.JPG

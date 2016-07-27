@@ -7,7 +7,7 @@ Résultat de Courir pour Tom
 :eventdate: 2015-10
 
 
-.. image:: http://assets.acr-dijon.org/vaness.jpg
+.. image:: https://assets.acr-dijon.org/vaness.jpg
 
 
 

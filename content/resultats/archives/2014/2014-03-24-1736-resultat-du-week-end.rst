@@ -49,4 +49,4 @@ Résultat du Week End
 
 Photo des 10 km de Chalons :`http://studiomarks.fotoloft.fr/sport-aid-22435.html?nb=144 <http://studiomarks.fotoloft.fr/sport-aid-22435.html?nb=144>`_
 
-.. |Chalons.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom366x6000120862coursescourses-2014-chalons.jpg
+.. |Chalons.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom366x6000120862coursescourses-2014-chalons.jpg

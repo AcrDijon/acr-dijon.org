@@ -52,6 +52,6 @@ Résultat du Bien Public
 
 Félicitations à toutes et tous pour avoir montré nos couleurs en cette course de rentrée.
 
-.. |Résultat du Bien Public| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150907-ob_505d9c_11907763-10206303594282304-37668819822.jpg
-.. |Résultat du Bien Public #0| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150907-ob_484516_11951239-10206303593842293-77318295966.jpg
-.. |Résultat du Bien Public #1| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150907-ob_40da48_11949264-10207659092257910-86769058807.jpg
+.. |Résultat du Bien Public| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150907-ob_505d9c_11907763-10206303594282304-37668819822.jpg
+.. |Résultat du Bien Public #0| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150907-ob_484516_11951239-10206303593842293-77318295966.jpg
+.. |Résultat du Bien Public #1| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150907-ob_40da48_11949264-10207659092257910-86769058807.jpg

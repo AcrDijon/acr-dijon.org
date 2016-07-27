@@ -24,4 +24,4 @@ Je fait 36"49 et 34eme sur 376 arrivants.
 
 Parcours: `https://www.strava.com/activities/359369752 <https://www.strava.com/activities/359369752>`_
 
-.. |Avec la mer en arrière plan, et oui, il fait beau et chaud en Bretagne.| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150803-ob_a27382_tarek1.jpg
+.. |Avec la mer en arrière plan, et oui, il fait beau et chaud en Bretagne.| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150803-ob_a27382_tarek1.jpg

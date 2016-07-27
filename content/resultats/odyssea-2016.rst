@@ -8,7 +8,7 @@ ODYSSEA 2016
 
 Cette année, la vague rose d'ODYSSEA a délaissé les allées cavalières du Parc de la Colombière, pour la Place de la Libération et les rues du centre ville.
 
-.. image:: http://assets.acr-dijon.org/od16.jpg
+.. image:: https://assets.acr-dijon.org/od16.jpg
 
 Pour cette épreuve destinée à recueillir des fonds pour la lutte contre le cancer du sein, pas de chrono, ni de classement, l'essentiel est de participer.
 

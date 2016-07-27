@@ -6,7 +6,7 @@ Résultat Foulées de la Norges
 :location: Bretigny
 :eventdate: 
 
-.. image:: http://assets.acr-dijon.org/pierre.JPG
+.. image:: https://assets.acr-dijon.org/pierre.JPG
 
 - 1 	Stephane Claude 	00:34:52 	 
 - 2 	**Sedik Bendahmane** 	00:35:37 	**1er V1**

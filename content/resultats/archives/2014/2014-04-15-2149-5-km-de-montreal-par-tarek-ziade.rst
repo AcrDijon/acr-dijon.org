@@ -21,5 +21,5 @@ J'arrive 2ème sur 204 à 10 secondes du 1er avec un temps de 16'11"  - soit une
 
 https://`app.lap.io/event/2014-pycon-5k-charity-fun-run <http://app.lap.io/event/2014-pycon-5k-charity-fun-run>`_
 
-.. |Tarek-montreal.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-tarek-montreal.jpg
-.. |Tarek1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x3000120862coursescourses-2014-tarek1.jpg
+.. |Tarek-montreal.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-tarek-montreal.jpg
+.. |Tarek1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x3000120862coursescourses-2014-tarek1.jpg

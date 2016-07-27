@@ -34,4 +34,4 @@ Vétérans - 136 concurents
 .. _MANGELAERS-PIVOT Vincent: javascript:bddThrowAthlete('resultats',%20620739,%200)
 .. _AUDIN Pierre: javascript:bddThrowAthlete('resultats',%2032304,%200)
 .. _BENE Raphael: javascript:bddThrowAthlete('resultats',%2092120,%200)
-.. |DSCN5580.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862coursescourses-2011regionaux-cross-dscn5580.JPG
+.. |DSCN5580.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862coursescourses-2011regionaux-cross-dscn5580.JPG

@@ -12,7 +12,7 @@ Un dimanche à Montpellier, Paris ou Châlon Sur Saône
 
 Il est ainsi qualifié pour les **Championnats de France de Marathon**, qui se dérouleront à **Tours**, le 18 septembre ; le mimima qualificatif en catégorie V1M étant fixé à 3h05'00''.
 
-.. image:: http://assets.acr-dijon.org/brtdmtplr2016.jpg
+.. image:: https://assets.acr-dijon.org/brtdmtplr2016.jpg
 
 ****
 

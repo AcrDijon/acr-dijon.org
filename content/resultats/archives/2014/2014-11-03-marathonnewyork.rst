@@ -11,7 +11,7 @@
 - 17566 |	  13123 |	 543 	 | CHRISTIAN 	|  COTELLE
 - 29593 |	  20081 |	 2974  | 	BENOIT 	  |    TOCK
 
-.. image:: http://assets.acr-dijon.org/MarathonNewYork.jpg
+.. image:: https://assets.acr-dijon.org/MarathonNewYork.jpg
 
 - **Finish Time**  
 - 04:09:00 	

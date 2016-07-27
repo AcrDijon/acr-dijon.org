@@ -15,4 +15,4 @@ Coureur le plus régulier du club, toujours aux avant-postes, il est incontestab
 
 Bravo à toi et continue à nos côtés.
 
-.. |httpidataover-blogcom0120862foulees2009-pierre.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-pierre.jpg
+.. |httpidataover-blogcom0120862foulees2009-pierre.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-pierre.jpg

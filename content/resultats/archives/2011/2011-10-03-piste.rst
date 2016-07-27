@@ -12,4 +12,4 @@ Nous tenons à vous rappeler que jeudi 6 octobre sera l'occasion de notre derni�
 
 Comme durant tout l'été, l'échauffement se fera en rejoignant le stade. 
 
-.. image:: http://assets.acr-dijon.org/piste11.jpg
+.. image:: https://assets.acr-dijon.org/piste11.jpg

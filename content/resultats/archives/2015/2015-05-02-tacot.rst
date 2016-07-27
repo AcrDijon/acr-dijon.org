@@ -16,6 +16,6 @@ Trail du tacot
 
 **Eric Marillier**, 75ème en 2h46'26"
 
-.. image:: http://assets.acr-dijon.org/tacot.jpg
+.. image:: https://assets.acr-dijon.org/tacot.jpg
 
 *photo d'archive : Courir au Mont Afrique 2014*

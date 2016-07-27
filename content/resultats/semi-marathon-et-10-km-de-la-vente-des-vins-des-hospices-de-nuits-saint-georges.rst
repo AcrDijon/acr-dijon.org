@@ -12,7 +12,7 @@ L'ACR a répondu en nombre, sur les deux courses du jour, aussi bien sur le 10 k
 
 Saluons les belles performances d'**Alain Briot**, notre nouvel adhérent, 2e en catégorie V4, de **Valentin Frelet**, vainqueur en catégorie Junior (mais qui ne s'en est pas rendu compte et n'est pas resté à la remise des prix !), ou de **David Crotet**, sur le podium V2, sans oublier **Tarek**, 18e du semi-marathon.
 
-.. image:: http://assets.acr-dijon.org/nuits16.jpg
+.. image:: https://assets.acr-dijon.org/nuits16.jpg
 
 **10 km :**
 
@@ -46,11 +46,11 @@ Victoire de Thierry GUIBAULT (NL) en 32'37'' / 1584  classés
 
 Victoire de Philippe REMOND (NL) en 1h14'47'' / 1317 classés
 
-.. image:: http://assets.acr-dijon.org/valentinnuits16.jpg
+.. image:: https://assets.acr-dijon.org/valentinnuits16.jpg
 
 *Valentin : junior winner !*
 
-.. image:: http://assets.acr-dijon.org/davidnuits16.jpg
+.. image:: https://assets.acr-dijon.org/davidnuits16.jpg
 
 *David : à nouveau sur le podium !*
 

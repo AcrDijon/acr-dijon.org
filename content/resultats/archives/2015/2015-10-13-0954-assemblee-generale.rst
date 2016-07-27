@@ -25,4 +25,4 @@ En cas d'impossibilité d'assister, vous pouvez vous faire représenter par le p
 Merci d'avance pour votre présence nombreuse.
 Alain
 
-.. |Photo d'archive 2010| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151013-ob_965536_dsc-0518.JPG
+.. |Photo d'archive 2010| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151013-ob_965536_dsc-0518.JPG

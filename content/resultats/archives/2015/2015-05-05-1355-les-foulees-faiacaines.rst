@@ -12,4 +12,4 @@ Bouclant ce Semi-Marathon en 1h51'09" en essayant de respecter son allure Marath
 
 |Les Foulées Faïacaines...|
 
-.. |Les Foulées Faïacaines...| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150505-ob_91557f_img-2096.JPG
+.. |Les Foulées Faïacaines...| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150505-ob_91557f_img-2096.JPG

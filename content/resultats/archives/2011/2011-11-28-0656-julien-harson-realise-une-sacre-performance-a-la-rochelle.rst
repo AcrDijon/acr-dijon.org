@@ -16,5 +16,5 @@ Belle performance de Julien sur le Marathon de La Rochelle, dommage que seul le 
 
 Mais personnellement, tu sais que tu as réussi ton objectif et c'est l'essentiel.
 
-.. |Marathon-de-La-Rochelle.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011marathon-de-la-rochelle-marathon-de-la-rochelle.jpg
-.. |marathon de la Rochelle| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x2520120862coursescourses-2011marathon-de-la-rochelle-marathon-de-la-rochelle.jpg
+.. |Marathon-de-La-Rochelle.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011marathon-de-la-rochelle-marathon-de-la-rochelle.jpg
+.. |marathon de la Rochelle| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x2520120862coursescourses-2011marathon-de-la-rochelle-marathon-de-la-rochelle.jpg

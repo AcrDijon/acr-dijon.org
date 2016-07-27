@@ -30,4 +30,4 @@ Point possitif: je suis rassuré pour les longues distances à venir.
 
 L'important, c'est de savoir tirer profit de ces erreurs.
 
-.. |httpidataover-blogcom0120862photos-cerces2008.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-cerces2008.jpg
+.. |httpidataover-blogcom0120862photos-cerces2008.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-cerces2008.jpg

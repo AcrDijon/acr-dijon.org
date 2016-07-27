@@ -22,7 +22,7 @@ Nous lui souhaitons une bonne récupération et de bonnes vacances.
 
 |PICT0720.JPG|
 
-.. |CIMG0264| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013-cimg0264.JPG
-.. |PICT0709.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013-pict0709.JPG
-.. |PICT0719.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013-pict0719.JPG
-.. |PICT0720.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-pict0720.JPG
+.. |CIMG0264| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013-cimg0264.JPG
+.. |PICT0709.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013-pict0709.JPG
+.. |PICT0719.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013-pict0719.JPG
+.. |PICT0720.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-pict0720.JPG

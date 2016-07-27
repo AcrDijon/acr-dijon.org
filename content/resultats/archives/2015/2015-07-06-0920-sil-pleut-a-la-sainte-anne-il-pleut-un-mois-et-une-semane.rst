@@ -18,4 +18,4 @@ Dimanche 19 Juillet : `Trail de la vallée de l'ouche <http://valleedelouche.com
 
 Samedi 11 Juillet : `Foulée du chat perché <http://www.sortiradole.fr/agenda/fiche/les_foulees_du_chat_perche.html>`_  à Dole (12,5 km)
 
-.. |S'il pleut à la Sainte Anne, il pleut un mois et une semane| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150706-ob_96abf5_img-3580.JPG
+.. |S'il pleut à la Sainte Anne, il pleut un mois et une semane| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150706-ob_96abf5_img-3580.JPG

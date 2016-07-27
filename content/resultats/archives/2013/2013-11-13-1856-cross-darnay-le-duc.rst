@@ -16,4 +16,4 @@ Fidèle à son amour de Jeunesse...
 
 **Se classant 73ème sur 85 en 25'34"**
 
-.. |DSCF1011-1-.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2013-dscf1011-1-.JPG
+.. |DSCF1011-1-.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2013-dscf1011-1-.JPG

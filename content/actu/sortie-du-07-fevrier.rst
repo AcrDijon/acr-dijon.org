@@ -8,7 +8,7 @@ Sortie du 07 février
 
 **Sortie du dimanche 07 février**
 
-.. image:: http://assets.acr-dijon.org/clm2016.jpg
+.. image:: https://assets.acr-dijon.org/clm2016.jpg
 
 *Avec le sourire malgré la pluie*
 

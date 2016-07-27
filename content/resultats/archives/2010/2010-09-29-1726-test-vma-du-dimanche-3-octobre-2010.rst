@@ -13,4 +13,4 @@ Pour une bonne préparation de ce test, je vous remercie dans la mesure du possi
 Sportivement 
 A. BREGAND"
 
-.. |dscn6703.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862-dscn6703.jpg
+.. |dscn6703.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862-dscn6703.jpg

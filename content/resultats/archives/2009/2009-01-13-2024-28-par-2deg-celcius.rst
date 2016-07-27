@@ -9,4 +9,4 @@
 Enfin que de sympathiques sportifs dans une ambiance tout aussi sympathique.
 Vivement le soleil, quand même... GGRRRRrrrrrrrr !
 
-.. |httpfarm4staticflickrcom3151-3065410909_ba6b807b44.jpg| image:: http://assets.acr-dijon.org/old/httpfarm4staticflickrcom3151-3065410909_ba6b807b44.jpg
+.. |httpfarm4staticflickrcom3151-3065410909_ba6b807b44.jpg| image:: https://assets.acr-dijon.org/old/httpfarm4staticflickrcom3151-3065410909_ba6b807b44.jpg

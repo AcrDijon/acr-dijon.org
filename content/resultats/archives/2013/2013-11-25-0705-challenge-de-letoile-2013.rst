@@ -31,6 +31,6 @@ Félicitations à tous les 3 pour nous avoir représentés cette année.
 
 Une récompense des plus méritée pour leur combativité.
 
-.. |challenge-2013-006.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013challenge-etoile-2013-challenge-2013-006.JPG
-.. |DSCN9796.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013challenge-etoile-2013-dscn9796.JPG
-.. |DSCN9802.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013challenge-etoile-2013-dscn9802.JPG
+.. |challenge-2013-006.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013challenge-etoile-2013-challenge-2013-006.JPG
+.. |DSCN9796.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013challenge-etoile-2013-dscn9796.JPG
+.. |DSCN9802.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013challenge-etoile-2013-dscn9802.JPG

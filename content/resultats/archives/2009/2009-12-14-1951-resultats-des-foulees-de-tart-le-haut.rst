@@ -43,4 +43,4 @@ Ce week end avait lieu les traditionnelles foulées tartoises où 14 acéristes 
 
 BRAVO A TOUTES ET A TOUS POUR TOUS CES BONS RESULTATS
 
-.. |fabrice-en-plein-effort.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x201-ffffff0120862la-chevignoise-2009-fabrice-en-plein-effort.jpg
+.. |fabrice-en-plein-effort.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x201-ffffff0120862la-chevignoise-2009-fabrice-en-plein-effort.jpg

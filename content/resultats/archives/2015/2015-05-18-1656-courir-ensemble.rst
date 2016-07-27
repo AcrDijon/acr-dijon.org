@@ -21,4 +21,4 @@ Sur le 11 km, **David Lepetit**  confirme aussi que les entraînements paient e
 
 Félicitations à tous les 3
 
-.. |Courir ensemble| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150518-ob_2205c0_img-20150516-165036-21.jpg
+.. |Courir ensemble| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150518-ob_2205c0_img-20150516-165036-21.jpg

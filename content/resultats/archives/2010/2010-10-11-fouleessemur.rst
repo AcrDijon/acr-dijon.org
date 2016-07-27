@@ -16,7 +16,7 @@ Un peu moins de nos adhérents se rendirent là-bas.
 
 
 
-.. image:: http://assets.acr-dijon.org/semur.jpg
+.. image:: https://assets.acr-dijon.org/semur.jpg
 
 Semi Marathon de Semur :	  	  	 
   	  	  	  	 

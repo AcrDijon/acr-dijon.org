@@ -14,4 +14,4 @@ pour voir les partants du cross en M60 :
 `http://www.evaci2009.com/iscritti/M60.htm <http://www.evaci2009.com/iscritti/M60.htm>`_ 
 |httpidataover-blogcom0120862v-t-rans-dscn7364.JPG|
 
-.. |httpidataover-blogcom0120862v-t-rans-dscn7364.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862v-t-rans-dscn7364.JPG
+.. |httpidataover-blogcom0120862v-t-rans-dscn7364.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862v-t-rans-dscn7364.JPG

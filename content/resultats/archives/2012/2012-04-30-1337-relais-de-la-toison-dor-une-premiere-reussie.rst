@@ -19,4 +19,4 @@ Pendant six heures et même un peu plus, les équipes de six coureurs (mixtes ou
 
 Dans cet exercice de style, ce sont les coureurs de l’ACR Dijon qui ont remporté le relais de la Toison d’Or. L’équipe ACR’Solides a ainsi parcouru 92,4 km en 6’01’’52. En mixte, l’ASPTT atteint le même nombre de kilomètres, mais avec un temps supérieur (6’11’’49).
 
-.. |les-acr-solides-remportent-la-premiere-edition-du-relais-de| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x2370120862coursescourses-2012relais-toison-d-or-les-acr-solides-remportent-la-premiere-edition-du-relais-de.jpg
+.. |les-acr-solides-remportent-la-premiere-edition-du-relais-de| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x2370120862coursescourses-2012relais-toison-d-or-les-acr-solides-remportent-la-premiere-edition-du-relais-de.jpg

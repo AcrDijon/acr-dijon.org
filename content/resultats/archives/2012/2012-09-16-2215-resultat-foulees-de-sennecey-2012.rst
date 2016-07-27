@@ -48,5 +48,5 @@ Résultat des 6700m |Foulees-de-Sennecey-2695.JPG|
   	  	  	 
 - 265 	Marc Moselle 	01:11:33 	  
 
-.. |Foulees-de-Sennecey-2695.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom199x3000120862coursescourses-2012foulees-de-sennecey-foulees-de-sennecey-2695.JPG
-.. |Foulees-de-Sennecey-2703.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom199x3000120862coursescourses-2012foulees-de-sennecey-foulees-de-sennecey-2703.JPG
+.. |Foulees-de-Sennecey-2695.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom199x3000120862coursescourses-2012foulees-de-sennecey-foulees-de-sennecey-2695.JPG
+.. |Foulees-de-Sennecey-2703.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom199x3000120862coursescourses-2012foulees-de-sennecey-foulees-de-sennecey-2703.JPG

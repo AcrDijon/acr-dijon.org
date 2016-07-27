@@ -57,4 +57,4 @@ Crotet Florent ; Crotet David ; Crotet  Jérémy ; ZIMA Dominique ; CHIODIN 
 
 La liste sera mise à jour dans la page "**Tour de La Serra à Génod (39) - 25 juillet 2009** " (menu **Pages**  en haut à gauche).
 
-.. |httpidataover-blogcom0120862-profil-serra.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-profil-serra.jpg
+.. |httpidataover-blogcom0120862-profil-serra.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-profil-serra.jpg

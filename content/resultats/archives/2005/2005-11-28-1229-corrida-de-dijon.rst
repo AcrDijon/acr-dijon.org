@@ -26,5 +26,5 @@ LES CLASSEMENTS
 3300 m. - Benjamins : 1. K. Camenen (DUC Sombernon) 1312'; 2. Evert (DUC Sombernon) 1314'; 3. Crespi (DUC Sombernon) 1430'. Benjamines : 1. Bouam (DUC Sombernon) 1629'. Minimes G : 1. E. Lacouture 1203'; 2. Dufresnes (Dijon UC) 1246'; 3. Mangelaers-Pivot 1254'. 
 1000 m. - Mini-poussins : 1. Bidault (DUC Sombernon) ; 2. Muller ; 3. Ollier. Mini-poussines : 1. Bendjir ; 2. Fontaine ; 3. M. Ollier. Poussins : 1. Clerc (DUC Sombernon) ; 2. Goubard (DUC Sombernon) ; 3. F. Camenen.
 
-.. |httpwwwlebienpubliccomphotos-journal-spop1701_281105.jpg| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop1701_281105.jpg
-.. |httpwwwlebienpubliccomicons_edition-trans.gif| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomicons_edition-trans.gif
+.. |httpwwwlebienpubliccomphotos-journal-spop1701_281105.jpg| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop1701_281105.jpg
+.. |httpwwwlebienpubliccomicons_edition-trans.gif| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomicons_edition-trans.gif

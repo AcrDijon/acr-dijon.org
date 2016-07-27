@@ -49,5 +49,5 @@ Marathon Relais des Hautes Côtes
 
 **Félicitations à tous**
 
-.. |Marathon Relais des Hautes Côtes| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150610-ob_723cf4_img-3254.JPG
-.. |Marathon Relais des Hautes Côtes #0| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150610-ob_644414_mag.jpg
+.. |Marathon Relais des Hautes Côtes| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150610-ob_723cf4_img-3254.JPG
+.. |Marathon Relais des Hautes Côtes #0| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150610-ob_644414_mag.jpg

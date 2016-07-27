@@ -25,6 +25,6 @@ Didier Belleville
 
 Vice-Président de l’ACR Dijon.
 
-.. |P1040709.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014sortie-ecolo-p1040709.JPG
-.. |P1040710.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014sortie-ecolo-p1040710.JPG
-.. |P1040712.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014sortie-ecolo-p1040712.JPG
+.. |P1040709.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014sortie-ecolo-p1040709.JPG
+.. |P1040710.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014sortie-ecolo-p1040710.JPG
+.. |P1040712.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014sortie-ecolo-p1040712.JPG

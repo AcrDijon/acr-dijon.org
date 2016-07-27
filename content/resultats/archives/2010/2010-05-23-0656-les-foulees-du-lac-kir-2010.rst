@@ -39,7 +39,7 @@ Voici donc les classements de nos adhérents :
 
 |merci à tous les bénévoles|
 
-.. |en attente du départ course reine| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862foulees-du-lac-kir-2010-en-attente-du-depart-course-reine.JPG
-.. |Chahid Khalid à l'ouvrage| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862foulees-du-lac-kir-2010-chahid-khalid-a-l-ouvrage.JPG
-.. |départ 2| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862foulees-du-lac-kir-2010-depart-2.JPG
-.. |merci à tous les bénévoles| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1880120862foulees-du-lac-kir-2010-merci-a-tous-les-benevoles.JPG
+.. |en attente du départ course reine| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862foulees-du-lac-kir-2010-en-attente-du-depart-course-reine.JPG
+.. |Chahid Khalid à l'ouvrage| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862foulees-du-lac-kir-2010-chahid-khalid-a-l-ouvrage.JPG
+.. |départ 2| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862foulees-du-lac-kir-2010-depart-2.JPG
+.. |merci à tous les bénévoles| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1880120862foulees-du-lac-kir-2010-merci-a-tous-les-benevoles.JPG

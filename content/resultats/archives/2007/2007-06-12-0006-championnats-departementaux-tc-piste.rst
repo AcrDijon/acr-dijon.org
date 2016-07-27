@@ -99,5 +99,5 @@ Javelot (800 G) / TCM (09/06/2007) Finale directe 1
 
 6 LAUVERGNE Vincent 1000373 SEM /76 Acr Dijon 21 BOU **14m16** 131
 
-.. |httpidataover-blogcom0120862-depart-du-800-m-tc.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-depart-du-800-m-tc.jpg
-.. |httpidataover-blogcom0120862-seul-sur-3000-metres-en-9-43-98-1.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-seul-sur-3000-metres-en-9-43-98-1.jpg
+.. |httpidataover-blogcom0120862-depart-du-800-m-tc.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-depart-du-800-m-tc.jpg
+.. |httpidataover-blogcom0120862-seul-sur-3000-metres-en-9-43-98-1.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-seul-sur-3000-metres-en-9-43-98-1.jpg

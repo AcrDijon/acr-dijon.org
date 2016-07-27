@@ -18,4 +18,4 @@ Veuillez également trouver ci-dessous le lien pour les inscriptions pour le sem
 
 `http://www.marathon-annecy.com/pages/inscmarathon.php <http://www.marathon-annecy.com/pages/inscmarathon.php>`_
 
-.. |affiche2010| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom205x3000120862bertrand-affiche2010.gif
+.. |affiche2010| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom205x3000120862bertrand-affiche2010.gif

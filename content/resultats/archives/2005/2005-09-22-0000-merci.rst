@@ -16,18 +16,18 @@ Enfin, maintenant moi je finis les bouteilles tout seul devant mon écran et je 
 
 |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_655.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_588.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_573.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_594.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_05-smiley_709.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_085.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_079.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_086.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_045.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_049.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_044.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_046.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_078.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_045.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_086.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_058.gif|  |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_043.gif|
 
-.. |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_655.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_655.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_588.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_588.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_573.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_573.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_594.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_594.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_05-smiley_709.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_05-smiley_709.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_085.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_085.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_079.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_079.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_086.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_086.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_045.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_045.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_049.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_049.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_044.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_044.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_046.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_046.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_078.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_078.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_058.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_058.gif
-.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_043.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_043.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_655.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_655.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_588.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_588.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_573.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_573.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_594.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_04-smiley_594.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_05-smiley_709.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_05-smiley_709.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_085.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_085.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_079.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_079.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_086.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_086.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_045.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_045.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_049.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_049.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_044.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_044.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_046.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_046.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_078.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_078.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_058.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_058.gif
+.. |httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_043.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesperso_smileysmiley_01-smiley_043.gif

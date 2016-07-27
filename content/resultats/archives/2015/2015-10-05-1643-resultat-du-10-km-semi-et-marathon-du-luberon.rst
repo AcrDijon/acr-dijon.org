@@ -49,5 +49,5 @@ Frédéric Rabiet au départ
 
 Félicitations à tous, et tous nous remerciements à notre Président pour l'organisation de ce week end.
 
-.. |Grosse performance de Pierre Audin| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151005-ob_71c13a_1.jpg
-.. |Frédéric Rabiet au départ| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151005-ob_0d1c41_2.jpg
+.. |Grosse performance de Pierre Audin| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151005-ob_71c13a_1.jpg
+.. |Frédéric Rabiet au départ| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151005-ob_0d1c41_2.jpg

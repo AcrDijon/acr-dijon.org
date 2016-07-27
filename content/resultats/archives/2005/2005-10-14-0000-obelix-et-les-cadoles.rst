@@ -10,4 +10,4 @@ Je ne sais pas si notre animateur et amuseur "SM" peut demander à Vincent a quo
 
 Sans rancune et encore bravo.... |httpidataover-blogcom0120862-trail-des-cadoles-2005.jpg|
 
-.. |httpidataover-blogcom0120862-trail-des-cadoles-2005.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-trail-des-cadoles-2005.jpg
+.. |httpidataover-blogcom0120862-trail-des-cadoles-2005.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-trail-des-cadoles-2005.jpg

@@ -48,6 +48,6 @@ Sur la course des As, Sedik Bendahmane, Vincent Mangelaers Pivot, Kévin Fond, V
 
 |100_0175.JPG|
 
-.. |100 0172| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011foulee-du-pont-de-pierre-100_0172.JPG
-.. |100_0173.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011foulee-du-pont-de-pierre-100_0173.JPG
-.. |100_0175.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011foulee-du-pont-de-pierre-100_0175.JPG
+.. |100 0172| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011foulee-du-pont-de-pierre-100_0172.JPG
+.. |100_0173.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011foulee-du-pont-de-pierre-100_0173.JPG
+.. |100_0175.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011foulee-du-pont-de-pierre-100_0175.JPG

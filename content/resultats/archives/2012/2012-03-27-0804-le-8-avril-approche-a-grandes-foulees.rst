@@ -22,4 +22,4 @@ En plus, celle-ci pourrait faire pour certain une sortie extérieure, vous emmen
 
 C'est le week end pascal, donc possibilité de pique niquer tous ensemble à l'arrivée. Et nous aurons le lundi pour nous reposer.
 
-.. |La voie Romaine| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom214x3000120862coursescourses-2012affiche-la-voie-romaine.jpg
+.. |La voie Romaine| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom214x3000120862coursescourses-2012affiche-la-voie-romaine.jpg

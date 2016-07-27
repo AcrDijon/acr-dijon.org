@@ -16,4 +16,4 @@ Difficile après une absence de compétition de 2 mois de se retrouver à nouvea
 
 **Vincent**  termine à la **377ème**  places **sur 2417 arrivants**  en **1h52'35"**
 
-.. |Marvejols-Mende| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-marvejols-mende.jpg
+.. |Marvejols-Mende| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-marvejols-mende.jpg

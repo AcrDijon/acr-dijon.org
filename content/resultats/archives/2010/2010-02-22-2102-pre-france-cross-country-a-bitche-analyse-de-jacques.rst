@@ -40,8 +40,8 @@ Sur un parcours, boueux, enneigé, glacé, glissant ( Thomas en sait quelque cho
 
 |inter 5|
 
-.. |inter 2| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-2.JPG
-.. |inter 1| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-1.JPG
-.. |inter 3| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-3.JPG
-.. |inter 4| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-4.JPG
-.. |inter 5| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-5.JPG
+.. |inter 2| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-2.JPG
+.. |inter 1| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-1.JPG
+.. |inter 3| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-3.JPG
+.. |inter 4| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-4.JPG
+.. |inter 5| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-inter-5.JPG

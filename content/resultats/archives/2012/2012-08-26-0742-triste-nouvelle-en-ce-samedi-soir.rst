@@ -13,4 +13,4 @@ C'est en fin d'après midi que nous apprenons le décès du papa de Bertrand Qui
 
 Tous tes amis se joignent à moi, pour t'épauler comme il se doit.
 
-.. |carte-condoleances-aigle-dans-ciel.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom455x6000120862manifestation-divers-carte-condoleances-aigle-dans-ciel.jpg
+.. |carte-condoleances-aigle-dans-ciel.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom455x6000120862manifestation-divers-carte-condoleances-aigle-dans-ciel.jpg

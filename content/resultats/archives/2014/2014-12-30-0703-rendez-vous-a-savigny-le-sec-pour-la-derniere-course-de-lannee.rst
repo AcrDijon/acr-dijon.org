@@ -25,5 +25,5 @@ Rendez-vous à Savigny le Sec pour la dernière course de l'année
 
 |savigny1.jpg|
 
-.. |Tarek-copie-1.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015-tarek-copie-1.jpg
-.. |savigny1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x2800120862coursescourses-2015-savigny1.jpg
+.. |Tarek-copie-1.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015-tarek-copie-1.jpg
+.. |savigny1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x2800120862coursescourses-2015-savigny1.jpg

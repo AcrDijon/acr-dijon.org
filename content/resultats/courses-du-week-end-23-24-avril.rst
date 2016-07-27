@@ -8,7 +8,7 @@ Courses du week-end (23 et 24 avril)
 
 **Trail de l'Etang Fouché / Arnay-Le-Duc** (samedi 23 avril)
 
-.. image:: http://assets.acr-dijon.org/trfouche161.jpg
+.. image:: https://assets.acr-dijon.org/trfouche161.jpg
 
 *...après l'effort...*
 
@@ -32,7 +32,7 @@ temps du vainqueur : 53'31'' ; 1ere féminine : Annie TROUSSARD en 1h04'09'' (11
 
 Course remportée par Sébastien BIZARD en 1h38'02'' ; 1ere féminine : Cécile CLET en 1h49'30'' (13e au scratch) / 60 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/trfouche162.jpg
+.. image:: https://assets.acr-dijon.org/trfouche162.jpg
 
 *Edlalberto 3eV2*
 
@@ -55,7 +55,7 @@ Course remportée par Cédric BERNETTES en 36'13'' ; 1ere féminine : Pascaline 
 
 Course remportée par Benoît FEUCHOT (Les Furets d'Eiffage) en 18'07'' ; 1ere féminine : Camille RODET (DUC) en 24'06'' / 117 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/podvernois2016.jpg
+.. image:: https://assets.acr-dijon.org/podvernois2016.jpg
 
 *Tarek*
 
@@ -63,7 +63,7 @@ Course remportée par Benoît FEUCHOT (Les Furets d'Eiffage) en 18'07'' ; 1ere f
 
 **Semi-Marathon de Monéteau (89)** (dimanche 24 avril)
 
-.. image:: http://assets.acr-dijon.org/moneteau2016.jpg
+.. image:: https://assets.acr-dijon.org/moneteau2016.jpg
 
 Dans l'Yonne, près d'Auxerre, **Vincent LAUVERGNE** participait au semi-marathon de Monéteau, se classant 92e/634 en 1h32'34'' (temps du vainqueur : 1h11'24'')
 
@@ -77,7 +77,7 @@ Victime de crampes qui l'ont fortement handicapée dans sa progression, elle a t
 
 Course remportée par Guillaume CROZET (NL) en 2h01'31'' ; 1ere féminine : Léa BERLAND (Assim Tyco) en 2h32'58'' / 105 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/ma16laur.jpg
+.. image:: https://assets.acr-dijon.org/ma16laur.jpg
 
 ****
 

@@ -12,5 +12,5 @@ Un petit coucou de Marie-Pierre Limousy en direct de Dublin... `mp.limousy@yahoo
 
 |httpidataover-blogcom0120862-marie.jpg|
 
-.. |httpidataover-blogcom0120862-marie-2.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-marie-2.jpg
-.. |httpidataover-blogcom0120862-marie.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-marie.jpg
+.. |httpidataover-blogcom0120862-marie-2.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-marie-2.jpg
+.. |httpidataover-blogcom0120862-marie.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-marie.jpg

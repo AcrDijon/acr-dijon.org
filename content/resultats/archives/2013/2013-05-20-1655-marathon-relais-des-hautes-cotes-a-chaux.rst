@@ -46,4 +46,4 @@ Responsable sorties relais.
 
 Tél: 06 26 62 00 98
 
-.. |026| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2012marathon-relais-hautes-cotes-026.jpg
+.. |026| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2012marathon-relais-hautes-cotes-026.jpg

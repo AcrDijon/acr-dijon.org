@@ -12,4 +12,4 @@ Ambiance amicale et recherche de la fêve ont égayé l'après midi. La présenc
 
 |httpidataover-blogcom0120862galette-des-rois-14-01-2007-y-a-des-zozos-qui-font-coucou.jpg|
 
-.. |httpidataover-blogcom0120862galette-des-rois-14-01-2007-y-a-des-zozos-qui-font-coucou.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862galette-des-rois-14-01-2007-y-a-des-zozos-qui-font-coucou.jpg
+.. |httpidataover-blogcom0120862galette-des-rois-14-01-2007-y-a-des-zozos-qui-font-coucou.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862galette-des-rois-14-01-2007-y-a-des-zozos-qui-font-coucou.jpg

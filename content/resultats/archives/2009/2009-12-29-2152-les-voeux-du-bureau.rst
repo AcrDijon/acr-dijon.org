@@ -13,4 +13,4 @@ Au nom de tous les membres du bureau, je présente à tous les adhérents et leu
 
 **ALAIN**
 
-.. |meilleurs voeux 2010| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1950120862bertrand-meilleurs_voeux_2010.jpg
+.. |meilleurs voeux 2010| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1950120862bertrand-meilleurs_voeux_2010.jpg

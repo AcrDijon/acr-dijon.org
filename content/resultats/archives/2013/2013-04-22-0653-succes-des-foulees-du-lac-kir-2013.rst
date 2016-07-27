@@ -7,7 +7,7 @@ Succès des Foulées du Lac Kir 2013
 
 Samedi 20 avril, les Foulées du lac Kir étaient organisées par l’Association des Coureurs sur Route de Dijon. Le temps nuageux n’a pas fait peur aux plus de 600 coureurs venus pour disputer les 3 courses pour les jeunes et les adultes.
 
-.. image:: http://assets.acr-dijon.org/foulee13.jpg
+.. image:: https://assets.acr-dijon.org/foulee13.jpg
 
 Le départ du 10 000 mètres au bord du lac Kir ! (photo : Nicolas Goisque)
 
@@ -35,5 +35,5 @@ Les Foulées du lac Kir ont été une belle réussite pour les organisateurs de 
 
 Source : `Dijon SportNews <http://www.dijon-sportnews.fr/2013/04/22/succes-des-foulees-du-lac-kir-2013/64273/>`_
 
-.. |IMG_7320| image:: http://assets.acr-dijon.org/old/httpwwwdijon-sportnewsfrwp-contentuploads201304-img_7320-640x357.jpg
-.. |DSC_2769| image:: http://assets.acr-dijon.org/old/httpwwwdijon-sportnewsfrwp-contentuploads201304-dsc_2769.jpg
+.. |IMG_7320| image:: https://assets.acr-dijon.org/old/httpwwwdijon-sportnewsfrwp-contentuploads201304-img_7320-640x357.jpg
+.. |DSC_2769| image:: https://assets.acr-dijon.org/old/httpwwwdijon-sportnewsfrwp-contentuploads201304-dsc_2769.jpg

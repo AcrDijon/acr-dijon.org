@@ -43,4 +43,4 @@ Comme nous vous l'avions annoncé, l'ACR Dijon organisera un test VMA lors des e
 
 - Le sportif arrêtera le test lorsqu'il ne lui sera plus possible d'atteindre le plot suivant (une marge de 3-4m peut être autorisée à condition de valider réellement le palier suivant). On retiendra le dernier palier réalisé correctement (sans retard).
 
-.. |httpwwwsport-performancecomimagesarticles-test-45-15.jpg| image:: http://assets.acr-dijon.org/old/httpwwwsport-performancecomimagesarticles-test-45-15.jpg
+.. |httpwwwsport-performancecomimagesarticles-test-45-15.jpg| image:: https://assets.acr-dijon.org/old/httpwwwsport-performancecomimagesarticles-test-45-15.jpg

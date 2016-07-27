@@ -30,4 +30,4 @@ Afin de recenser les personnes qui seront présentes, **Jean-Claude MAGUER**  es
 
 Pour toute question éventuelle, adressez vous à un memebre du bureau.
 
-.. |httpidataover-blogcom0120862-foul-es-du-lac-kir.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-foul-es-du-lac-kir.jpg
+.. |httpidataover-blogcom0120862-foul-es-du-lac-kir.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-foul-es-du-lac-kir.jpg

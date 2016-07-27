@@ -23,5 +23,5 @@ Projets  :
 
 Sans doute arrêter ma courte "carrière internationale" (!), les jeunes vétérans me poussant vers la retraite! et dans l'immédiat, récupérer dans mon fauteuil, en regardant courir les autres ...à Pékin.
 
-.. |httpidataover-blogcom0120862-ljubjana.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-ljubjana.jpg
-.. |httpidataover-blogcom0120862-jacques-pivot-v4m-2008.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-jacques-pivot-v4m-2008.JPG
+.. |httpidataover-blogcom0120862-ljubjana.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-ljubjana.jpg
+.. |httpidataover-blogcom0120862-jacques-pivot-v4m-2008.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-jacques-pivot-v4m-2008.JPG

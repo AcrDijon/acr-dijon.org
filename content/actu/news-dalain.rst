@@ -10,6 +10,6 @@ Parti de DIJON le 2 mai, **Alain BREGAND** poursuit son périple vers SAINT JACQ
 
 Contrarié dans sa progression par des conditions météorologiques plutôt capricieuses, il doit faire escale au PUY EN VELAY, avant de reprendre sa route vers les Pyrénées.
 
-.. image:: http://assets.acr-dijon.org/ab161.jpg
+.. image:: https://assets.acr-dijon.org/ab161.jpg
 
 *sur le Chemin de STEVENSON*

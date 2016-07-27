@@ -22,4 +22,4 @@ J'ai eu la bonne surprise de croiser un Acérois en la personne de Lionel Bourge
 
 A + et bien sportivement à tous
 
-.. |httpidataover-blogcom0120862-pierre-merlin.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pierre-merlin.jpg
+.. |httpidataover-blogcom0120862-pierre-merlin.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pierre-merlin.jpg

@@ -22,5 +22,5 @@ S.C.
 
 PS: Nous tenons à remercier notre adhérente pour cette brève mettant en valeur les convictions qui sont au sein de notre club, la convivialité et le plaisir de se retrouver. J'espère que d'autres auront le plaisir de nous faire partager ce même plaisir en nous narrant nos sorties d'entraînements.
 
-.. |DSCN2625| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862entrainement2011-dscn2625.JPG
-.. |DSCN2626.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862entrainement2011-dscn2626.JPG
+.. |DSCN2625| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862entrainement2011-dscn2625.JPG
+.. |DSCN2626.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862entrainement2011-dscn2626.JPG

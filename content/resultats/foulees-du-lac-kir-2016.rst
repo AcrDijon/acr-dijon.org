@@ -41,10 +41,10 @@ Pour l'ACR Dijon,
 
 Résultats complets:
 
-- `Course Poussins <http://assets.acr-dijon.org/20160416_Scratch_POUSSINS.pdf>`_
-- `Course Benjamins/Minimes <http://assets.acr-dijon.org/20160416_Scratch_BENJ_MINIMES.pdf>`_
-- `Course 5km <http://assets.acr-dijon.org/20160416_Scratch_5KM.pdf>`_
-- `Course 10km <http://assets.acr-dijon.org/20160416_Scratch_10KM.pdf>`_
+- `Course Poussins <https://assets.acr-dijon.org/20160416_Scratch_POUSSINS.pdf>`_
+- `Course Benjamins/Minimes <https://assets.acr-dijon.org/20160416_Scratch_BENJ_MINIMES.pdf>`_
+- `Course 5km <https://assets.acr-dijon.org/20160416_Scratch_5KM.pdf>`_
+- `Course 10km <https://assets.acr-dijon.org/20160416_Scratch_10KM.pdf>`_
 
 
 Cliquez `ici <http://niko-ngoisque.blogspot.fr/2016/04/foulees-du-lac-kir-2016-les-photos.html>`_ pour retrouvez de nombreuses photos par Nicolas Goisque
@@ -53,10 +53,10 @@ Un grand merci à tous les bénévoles qui ont affronté
 la pluie et la boue toute la journée pour assurer le succès de
 l'épreuve.
 
-.. image:: http://assets.acr-dijon.org/acr-micro.jpg
+.. image:: https://assets.acr-dijon.org/acr-micro.jpg
 
 *L'équipe presque au complet*
 
-.. image:: http://assets.acr-dijon.org/stand.jpg
+.. image:: https://assets.acr-dijon.org/stand.jpg
 
 *Le stand ravito à l'arrivée avant le départ*

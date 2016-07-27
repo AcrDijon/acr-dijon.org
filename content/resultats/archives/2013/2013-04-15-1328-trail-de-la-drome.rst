@@ -17,4 +17,4 @@ Un trail bien organisé et bien fleché."
 
 J.Harson
 
-.. |photo.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom373x5000120862coursescourses-2013-photo.JPG
+.. |photo.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom373x5000120862coursescourses-2013-photo.JPG

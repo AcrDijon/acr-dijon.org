@@ -19,4 +19,4 @@ et surtout, cool sur les chocolats.
 
 Alain
 
-.. |DSCN7366.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862v-t-rans-dscn7366.JPG
+.. |DSCN7366.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862v-t-rans-dscn7366.JPG

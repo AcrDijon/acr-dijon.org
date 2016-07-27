@@ -30,4 +30,4 @@ En individuel, Brigitte Bec s'est imposée devant Mohamed Magroun. Le violent or
 Epreuve par équipes : 1. Nuits 1er cru ; 2. Running club Dijon ; 3. AC Talant.
 Epreuve individuel : 1. Brigitte Bec ; 2. Mohamed Magroun.
 
-.. | Pour la dernière édition des Six Heures de Ladoix, c'est Nuits qui s'est imposé (photo Jean-Luc Rousseau)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0805_110607.jpg
+.. | Pour la dernière édition des Six Heures de Ladoix, c'est Nuits qui s'est imposé (photo Jean-Luc Rousseau)| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0805_110607.jpg

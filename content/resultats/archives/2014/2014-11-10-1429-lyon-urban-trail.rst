@@ -27,4 +27,4 @@ et 120ème sur 476 SEF.
 
 Toutes nos félicitations,
 
-.. |LUT.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x2170120862coursescourses-2015-lut.jpg
+.. |LUT.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x2170120862coursescourses-2015-lut.jpg

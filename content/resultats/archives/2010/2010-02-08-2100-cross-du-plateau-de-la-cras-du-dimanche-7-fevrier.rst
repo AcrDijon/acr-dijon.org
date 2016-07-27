@@ -14,5 +14,5 @@ Après la victoire de Benjamin Petitjean , notre ami Xavier Mangelaers-Pivot est
 Quand à notre dernier représentant , en l'occurence Vincent Lauvergne , il fit comme à son habitude une belle promenade en 48 mns 55 s prenant la 37ème place du scratch .
 Ce cross n'est pas le plus facile de la région mais nos 3 représentants acéristes si sont une fois de plus bien comporter . BRAVO A EUX
 
-.. |xavier| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-xavier.jpg
-.. |stephane course| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-stephane-course.jpg
+.. |xavier| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-xavier.jpg
+.. |stephane course| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-stephane-course.jpg

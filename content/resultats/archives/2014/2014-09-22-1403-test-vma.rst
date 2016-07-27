@@ -10,4 +10,4 @@ Nous vous rappelons que nous vous proposons un Test VMA ce mardi en lieu et plac
 
 |Les hommes reprennent la donne|
 
-.. |Les hommes reprennent la donne| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862entrainement2012test-vma-les-hommes-reprennent-la-donne.JPG
+.. |Les hommes reprennent la donne| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862entrainement2012test-vma-les-hommes-reprennent-la-donne.JPG

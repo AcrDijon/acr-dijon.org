@@ -16,6 +16,6 @@ Si cela peut inpirer certains d'entre vous pour les années à venir.
 
 |Courses-2011-8628.JPG|
 
-.. |Courses-2011 8229| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2011-courses-2011-8229.JPG
-.. |Courses-2011-8415.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2011-courses-2011-8415.JPG
-.. |Courses-2011-8628.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011-courses-2011-8628.JPG
+.. |Courses-2011 8229| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2011-courses-2011-8229.JPG
+.. |Courses-2011-8415.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2011-courses-2011-8415.JPG
+.. |Courses-2011-8628.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011-courses-2011-8628.JPG

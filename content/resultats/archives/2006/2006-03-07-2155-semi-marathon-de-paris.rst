@@ -18,8 +18,8 @@ Pour autant, les Dijonnais ont pu apprécier, tout au long du parcours, une anim
 
 Les temps pour l’ACR Dijon :
 
-.. |httpwwwbienpubliccomphotos-journal-spop1210_070306.jpg| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-journal-spop1210_070306.jpg
-.. |httpwwwbienpubliccomicons_edition-trans.gif| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomicons_edition-trans.gif
+.. |httpwwwbienpubliccomphotos-journal-spop1210_070306.jpg| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-journal-spop1210_070306.jpg
+.. |httpwwwbienpubliccomicons_edition-trans.gif| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomicons_edition-trans.gif
 
 
 - 1571 CHIODIN Jean-Marc 01h 30' 10"

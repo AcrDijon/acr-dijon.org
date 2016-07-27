@@ -38,5 +38,5 @@ Chacun est content de sa performance dans notre petit groupe, et laisse envisage
 
 Résulat complet en cliquant `ici <http://savignytc.over-blog.com/article-resultats-corrida-des-lampions-2011-93073891.html>`_
 
-.. |Podium-Scrath.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011corrida-des-lampions-podium-scrath.JPG
-.. |Podium-Espoir.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011corrida-des-lampions-podium-espoir.JPG
+.. |Podium-Scrath.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011corrida-des-lampions-podium-scrath.JPG
+.. |Podium-Espoir.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011corrida-des-lampions-podium-espoir.JPG

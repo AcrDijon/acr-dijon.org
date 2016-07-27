@@ -6,7 +6,7 @@ Vincent au grand duché
 
 
 
-.. image:: http://assets.acr-dijon.org/vct.jpg
+.. image:: https://assets.acr-dijon.org/vct.jpg
 
 Vincent Lauvergne était ce week end du côté du grand duché du Luxembourg où il fit le marathon qui était composé d'environ 3000 participants .
 

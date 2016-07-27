@@ -22,4 +22,4 @@ Félicitation à**François Bonzon**  qui était sur le 15 km,  qui termine vi
 
 Bravo à vous quatre pour avoir montré avec brio les couleurs de notre club en ce samedi 28 mai.
 
-.. |Podium-Scratch.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2011utco-podium-scratch.JPG
+.. |Podium-Scratch.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2011utco-podium-scratch.JPG

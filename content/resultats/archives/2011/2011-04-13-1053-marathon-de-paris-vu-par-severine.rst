@@ -31,5 +31,5 @@ Moralité : ne jamais commencer à faire des marathons, fort risque de dépenda
 
 Séverine
 
-.. |MP1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862coursescourses-2011marathon-de-paris-mp1.jpg
-.. |MP2.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862coursescourses-2011marathon-de-paris-mp2.jpg
+.. |MP1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862coursescourses-2011marathon-de-paris-mp1.jpg
+.. |MP2.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862coursescourses-2011marathon-de-paris-mp2.jpg

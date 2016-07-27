@@ -13,5 +13,5 @@ Comme tous les ans, votre club organise un stage VMA au stade d'Epirey dimanche 
 Si vous souhaitez faire le point sur votre allure d'entrâinement, cette séance est faite pour vous. 
 
 
-.. image:: http://assets.acr-dijon.org/magpiste.JPG
+.. image:: https://assets.acr-dijon.org/magpiste.JPG
 

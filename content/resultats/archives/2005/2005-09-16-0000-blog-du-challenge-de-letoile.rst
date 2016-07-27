@@ -13,4 +13,4 @@ Eh oui, cela devait arriver...Le nouveau Blog sur le Challenge de l'étoile est 
 
 |httpgifstoutimagescomimagesespace-espace_009.gif|
 
-.. |httpgifstoutimagescomimagesespace-espace_009.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesespace-espace_009.gif
+.. |httpgifstoutimagescomimagesespace-espace_009.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesespace-espace_009.gif

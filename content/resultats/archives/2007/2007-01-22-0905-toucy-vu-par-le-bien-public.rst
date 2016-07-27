@@ -36,4 +36,4 @@ Alain Bulot (président de la Ligue de Bourgogne) : « C'est un parcours digne d
 Yoann Pinot (Dijon UC, vainqueur du cross court masculin) : « C'était dur ! Le parcours était difficile en raison de la boue. Les meilleurs n'étaient pas autant privilégiés que sur un parcours roulant. Du coup, tout le monde avait ses chances. C'est plus la volonté de chacun qui a fait la différence. Il ne fallait pas partir trop vite. »
 Sabrina Thériot (Dijon UC, première du cross court féminin) : « Je suis une coureuse de 1 500 mètres. J'ai fait cette course comme ça, pour me changer les idées. Je n'aime pas trop ce genre de parcours. Il fallait être forte dans la tête pour gagner. »
 
-.. | Le Dijonnais Emmanuel David n'a rien pu faire pour contrer l'offensive du Nivernais Antoine de Wilde| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2202_220107.jpg
+.. | Le Dijonnais Emmanuel David n'a rien pu faire pour contrer l'offensive du Nivernais Antoine de Wilde| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2202_220107.jpg

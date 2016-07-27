@@ -16,4 +16,4 @@ Ou tout simplement pour entretenir sa santé et respirer un peu d'air pur après
 
 Rendez-vous donc tous les mardi et jeudi à 18h30 au barrage du Lac Kir et le dimanche matin à 10h00 pour une sortie nature entre 1h30 et 2h00.
 
-.. |P1000618.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862entrainement2012-p1000618.JPG
+.. |P1000618.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862entrainement2012-p1000618.JPG

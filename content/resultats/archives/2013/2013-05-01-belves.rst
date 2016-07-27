@@ -7,7 +7,7 @@
 
 
 
-.. image:: http://assets.acr-dijon.org/daniel.jpg
+.. image:: https://assets.acr-dijon.org/daniel.jpg
 
 Notre ami, Daniel Chambin était samedi 27 avril sur la course open des Championnats de France et d'Europe de 100 km à Belvès.
 

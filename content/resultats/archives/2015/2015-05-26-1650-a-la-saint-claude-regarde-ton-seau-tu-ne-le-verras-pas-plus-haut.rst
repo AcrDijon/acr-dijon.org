@@ -39,6 +39,6 @@ Samedi 27 Juin : `10 km de Lons-le-Saunier <http://www.lons-ac.fr/>`_
 
 N'oubliez pas notre Barbecue Annuel le 3 Juillet
 
-.. |N'oubliez pas de vous inscrire avant le 30 juin au près d'Alain| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150526-ob_4615df_accueil2014.jpg
-.. |A la Saint Claude, regarde ton seau, Tu ne le verras pas plus haut...| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150526-ob_5cc92e_dsc-0951.JPG
-.. |N'oubliez pas notre Barbecue Annuel le 3 Juillet| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150526-ob_460c4d_dsc-0022.jpg
+.. |N'oubliez pas de vous inscrire avant le 30 juin au près d'Alain| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150526-ob_4615df_accueil2014.jpg
+.. |A la Saint Claude, regarde ton seau, Tu ne le verras pas plus haut...| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150526-ob_5cc92e_dsc-0951.JPG
+.. |N'oubliez pas notre Barbecue Annuel le 3 Juillet| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150526-ob_460c4d_dsc-0022.jpg

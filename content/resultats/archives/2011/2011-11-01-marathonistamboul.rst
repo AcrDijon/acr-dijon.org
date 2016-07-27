@@ -7,7 +7,7 @@ Vincent Xambeu au Marathon d'Istamboul
 
 
 
-.. image:: http://assets.acr-dijon.org/bosphore.jpg
+.. image:: https://assets.acr-dijon.org/bosphore.jpg
 
 Cette année, c’est dans l’autre ville aux sept collines que j’ai enfilé les baskets, avec pour originalité, de mettre à quelques minutes d’intervalle, un pied en Asie et l’autre en Europe…
 
@@ -31,7 +31,7 @@ C’est Byzance, pour sa luxure, ses éclats aux couleurs d’or !
 
 De quoi, nous donner envie de prendre la navette fluviale et de retourner sur la rive asiatique en pensant qu’il y a quelques années les anciens sultans empruntaient le même chemin sur une barque dorée… 
 
-.. image:: http://assets.acr-dijon.org/vincentxambeu.jpg
+.. image:: https://assets.acr-dijon.org/vincentxambeu.jpg
 
 Je suis très content car je suis passé au semi en 1h39 et j’ai à peu près tenu mon rythme jusqu’au bout, sachant que le finish est une montée de pratiquement 2 km
 

@@ -11,5 +11,5 @@ Huit  qualifiés aux  demi-finales des  championnats de  France de  Cross défen
 
 La  surprise pourrait  venir de  l’équipe des  cadets du  club. Vice  champions de  bourgogne, les  cinq garçons  aimeraient bien  être du  voyage pour  Vichy, lieu  des championnats  de France  du 04  mars. Vincent  Mangelaers- Pivot  (2ème à  Toucy), Jérémy  Crotet, Maxime  et Grégoire  Chevalier ainsi  que Xavier  Carpentier devront  terminer parmi  les six  premières formations  interrégionales pour  obtenir le  sésame…
 
-.. |http60gpovhnettoutlagraphapercugifdrapeaueurope-france.gif| image:: http://assets.acr-dijon.org/old/http60gpovhnettoutlagraphapercugifdrapeaueurope-france.gif
-.. |Asterix| image:: http://assets.acr-dijon.org/old/httpyvesmarsalfreefratoutgifsperson-yper_asterix24.gif
+.. |http60gpovhnettoutlagraphapercugifdrapeaueurope-france.gif| image:: https://assets.acr-dijon.org/old/http60gpovhnettoutlagraphapercugifdrapeaueurope-france.gif
+.. |Asterix| image:: https://assets.acr-dijon.org/old/httpyvesmarsalfreefratoutgifsperson-yper_asterix24.gif

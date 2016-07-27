@@ -7,7 +7,7 @@
 :eventdate: 2015-11-11
 
 
-.. image:: http://assets.acr-dijon.org/DSCN1552.jpg
+.. image:: https://assets.acr-dijon.org/DSCN1552.jpg
 
 3 Acristes se sont rendus ce 11 novembre à Arnay Le Duc, pour la 48e édition de ce cross toujours très prisé et très relevé en terme de participation.
 Tous trois se sont alignés sur l'épreuve de 5450m.

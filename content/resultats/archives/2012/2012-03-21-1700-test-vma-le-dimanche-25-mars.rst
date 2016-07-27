@@ -16,4 +16,4 @@ Nous vous proposons d'effectuer un Test le dimanche 25 Mars à 10h sur la piste 
 
 Cette fois-ci, le soleil sera au Rendez-vous...
 
-.. |Test VMA| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4380120862entrainement2011-test-vma.jpg
+.. |Test VMA| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4380120862entrainement2011-test-vma.jpg

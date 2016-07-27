@@ -7,7 +7,7 @@ Foulées Bletteranoises
 :eventdate: 2015-03-08
 
 
-.. image:: http://assets.acr-dijon.org/blettrans.jpg
+.. image:: https://assets.acr-dijon.org/blettrans.jpg
 
 Adrien Brunet
 

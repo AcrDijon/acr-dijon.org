@@ -19,4 +19,4 @@ Alors que la Chevignoise Alizée Gaillard s'imposait en cadettes, au milieu des 
 Enfin, les deux dernières courses - cadets et juniors - donnaient lieu à deux duels, aussi beaux en terme de performance qu'en terme de sportivité. Ils avaient déjà couru ensemble à Arnay, mais cette fois, Pierre-Antoine Machin, empêché par un point de côté dans le final, était obligé de s'incliner face à Jérémy Crotet qui avait troqué son maillot de l'ACR pour celui de Montchapet. Tandis que le triathlète de Chenôve, Fabien Vandeschrick, qui défendait les couleurs de Boivin, avait le dernier mot face au coureur de l'ACR Vincent Mangelaers-Pivot, représentant Charles-De Gaulle."
 Stéphan LETOURNEAU
 
-.. |LE BIEN PUBLIC - les dépêches| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomimg-logo.gif
+.. |LE BIEN PUBLIC - les dépêches| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomimg-logo.gif

@@ -30,7 +30,7 @@ Organisation pointilleuse, parcours varié, 300 participants sur les deux course
 97 **Marie-Claude Paquot (ACR Dijon)** 49'14' 
 197 **Josette Lemarchand (ACR Dijon)** 1h04'54'
 
-.. |httpwwwlebienpubliccomphotos-journal-spop1303_091105.jpg| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop1303_091105.jpg
+.. |httpwwwlebienpubliccomphotos-journal-spop1303_091105.jpg| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop1303_091105.jpg
 
 
 
@@ -43,4 +43,4 @@ Organisation pointilleuse, parcours varié, 300 participants sur les deux course
 86 **Josette Lemarchand (ACR Dijon)** 35'57' 
 51e du scratch et première féminine, la coureuse d'Athlé 21 Christine Clère franchit la ligne main dans la main avec son coéquipier Denis Tyrode (photos B.L.) |httpwwwlebienpubliccomphotos-journal-spop1304_091105.jpg|
 
-.. |httpwwwlebienpubliccomphotos-journal-spop1304_091105.jpg| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop1304_091105.jpg
+.. |httpwwwlebienpubliccomphotos-journal-spop1304_091105.jpg| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop1304_091105.jpg

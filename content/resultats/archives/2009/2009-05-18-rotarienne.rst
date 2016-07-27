@@ -7,7 +7,7 @@
 
 
 
-.. image:: http://assets.acr-dijon.org/jeremie.jpg
+.. image:: https://assets.acr-dijon.org/jeremie.jpg
 
 Cette 12e édition a tenu toutes ses promesses. Frédérique Desclerc s'impose devant Jean-Luc Lepage au terme d'une course animée. Valeureux, les Talantais complètent le palmarès.
 Hier matin, il se tenait au parc de la combe-à-la Serpent les traditionnelles foulées rotariennes.

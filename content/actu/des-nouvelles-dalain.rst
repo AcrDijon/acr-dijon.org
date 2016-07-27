@@ -12,6 +12,6 @@ Il a quitté Florac ce matin est devrait arriver à Saint-Jean du Gard demain so
 
 Il adresse ses salutations à l'ensemble des membres de l'ACR.
 
-.. image:: http://assets.acr-dijon.org/ab162.jpg
+.. image:: https://assets.acr-dijon.org/ab162.jpg
 
 *Le Pont de Montvert, il y a deux jours*

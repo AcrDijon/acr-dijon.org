@@ -6,7 +6,7 @@ Création du Site
 :summary: Bienvenue dans le nouveau site
 
 
-.. image:: http://assets.acr-dijon.org/nouvel-an.jpg
+.. image:: https://assets.acr-dijon.org/nouvel-an.jpg
 
 Bienvenue sur le nouveau site de l'ACR Dijon!
 

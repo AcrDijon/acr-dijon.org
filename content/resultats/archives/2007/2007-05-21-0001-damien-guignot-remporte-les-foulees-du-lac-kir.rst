@@ -10,4 +10,4 @@ Damien Guignot (Pass'running Dijon) a remporté samedi les "Foulées du Lac Kir"
 
 |httpidataover-blogcom0120862-damien-guignot-vainqueur-2007.jpg|
 
-.. |httpidataover-blogcom0120862-damien-guignot-vainqueur-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-damien-guignot-vainqueur-2007.jpg
+.. |httpidataover-blogcom0120862-damien-guignot-vainqueur-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-damien-guignot-vainqueur-2007.jpg

@@ -23,6 +23,6 @@ Course remportée par Benjamin PETITJEAN (DIJON SINGLETRACK) en 2h21'19'' / 173 
 
 Course remportée par Chafik JBARI (AC CHENÔVE) en 52'42'' / 288 classés
 
-.. image:: http://assets.acr-dijon.org/chouette2016.jpg
+.. image:: https://assets.acr-dijon.org/chouette2016.jpg
 
 **Bravo à tous les trois !**

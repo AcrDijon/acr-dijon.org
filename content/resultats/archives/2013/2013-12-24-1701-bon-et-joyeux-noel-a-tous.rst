@@ -7,4 +7,4 @@ Bon et joyeux Noël à tous
 
 |Noel1.jpg|
 
-.. |Noel1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom496x6000120862divers-noel1.jpg
+.. |Noel1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom496x6000120862divers-noel1.jpg

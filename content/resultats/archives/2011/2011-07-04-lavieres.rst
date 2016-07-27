@@ -7,7 +7,7 @@ Résultat Trail des lavières
 :eventdate: 2011-07-03
 
 
-.. image:: http://assets.acr-dijon.org/lavieres.JPG
+.. image:: https://assets.acr-dijon.org/lavieres.JPG
 
 
 **Résultat  10 km :**	  	  	 

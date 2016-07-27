@@ -39,4 +39,4 @@ Sedik se qualifie déjà pour les prochains championats de France de 10 km et Vi
 
 Tous les résultats `ici* <http://fouleesdulackir.over-blog.com/>`_ .
 
-.. |DSCN8011.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3740120862coursescourses-2012foulees-du-lac-kir-dscn8011.JPG
+.. |DSCN8011.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3740120862coursescourses-2012foulees-du-lac-kir-dscn8011.JPG

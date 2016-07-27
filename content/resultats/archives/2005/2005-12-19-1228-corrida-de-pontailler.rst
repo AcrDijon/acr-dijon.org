@@ -28,5 +28,5 @@ Féminines. - 6,6 km : 1. O. Clere-Kogout (DSA Besançon) 23'37'' ; 2. F. Brela
 
 |httpwwwlebienpubliccomicons_edition-trans.gif|
 
-.. |httpmemorix3sdvfrrealmediaadscreativesglobal-btn_publicite.gif| image:: http://assets.acr-dijon.org/old/httpmemorix3sdvfrrealmediaadscreativesglobal-btn_publicite.gif
-.. |httpwwwlebienpubliccomicons_edition-trans.gif| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomicons_edition-trans.gif
+.. |httpmemorix3sdvfrrealmediaadscreativesglobal-btn_publicite.gif| image:: https://assets.acr-dijon.org/old/httpmemorix3sdvfrrealmediaadscreativesglobal-btn_publicite.gif
+.. |httpwwwlebienpubliccomicons_edition-trans.gif| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomicons_edition-trans.gif

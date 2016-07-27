@@ -7,4 +7,4 @@ Meilleurs Voeux 2006
 
 |httpidataover-blogcom0120862-pfnouvelan005.jpg|
 
-.. |httpidataover-blogcom0120862-pfnouvelan005.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pfnouvelan005.jpg
+.. |httpidataover-blogcom0120862-pfnouvelan005.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pfnouvelan005.jpg

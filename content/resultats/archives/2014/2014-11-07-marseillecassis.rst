@@ -8,7 +8,7 @@ Cela s'est déroulé, il y a quelques temps...
 
 Sylvie Garcin, l'une de nos nombreuses nouvelles recrues de cette année participait à la Classique Marseille Cassis.
 
-.. image:: http://assets.acr-dijon.org/marseillecassis.jpg
+.. image:: https://assets.acr-dijon.org/marseillecassis.jpg
 
 Elle termine en 2h28'47" après avoir atteint le 10ème km en 1h20'19"...
 

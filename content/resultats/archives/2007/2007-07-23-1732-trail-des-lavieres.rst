@@ -11,7 +11,7 @@ Le Bien Public du lundi 23 juillet 2007 - Dijon
 Vassard plein d'opportunisme
 | Après les mésaventures de Raymond et Chahid, Vincent Vassard n'a pas laissé passer la chance qui s'offrait à lui (photos J.-P. M.)|
 
-.. | Après les mésaventures de Raymond et Chahid, Vincent Vassard n'a pas laissé passer la chance qui s'offrait à lui (photos J.-P. M.)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0602_230707.jpg
+.. | Après les mésaventures de Raymond et Chahid, Vincent Vassard n'a pas laissé passer la chance qui s'offrait à lui (photos J.-P. M.)| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0602_230707.jpg
 
 
 
@@ -24,4 +24,4 @@ Le pensionnaire d'Athlé 21 Vincent Vassard a fait preuve d'opportunisme pour ve
 
 | Cent dix participants ont pris le départ hier matin de la place de Savigny-le-Sec|
 
-.. | Cent dix participants ont pris le départ hier matin de la place de Savigny-le-Sec| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0601_230707.jpg
+.. | Cent dix participants ont pris le départ hier matin de la place de Savigny-le-Sec| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0601_230707.jpg

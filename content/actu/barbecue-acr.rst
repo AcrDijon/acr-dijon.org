@@ -10,6 +10,6 @@ Le vendredi 1er juillet, en début de soirée, l'ACR a organisé son traditionne
 
 
 
-.. image:: http://assets.acr-dijon.org/bbq2016.jpg
+.. image:: https://assets.acr-dijon.org/bbq2016.jpg
 
 *Comme à l'habitude, convivialité et bonne humeur de rigueur !*

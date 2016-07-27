@@ -25,4 +25,4 @@ Manuel Barreira dû s'arrêter suite à une mauvaise entorse. Eric Rossin bifurq
 
 Félicitation au Team Trail de l'ACR Dijon.
 
-.. |Trail-Ardechois.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2013trail-ardechois-trail-ardechois.jpg
+.. |Trail-Ardechois.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2013trail-ardechois-trail-ardechois.jpg

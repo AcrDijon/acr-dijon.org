@@ -33,4 +33,4 @@ Pierre Audin, Jean Philippe Beuche, Daniel Chambin et Jean Louis Rabiet (3ème V
 
 **Sandrine Fanton** , **258ème en 52'41"**
 
-.. |Adrien.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2015-adrien.jpg
+.. |Adrien.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2015-adrien.jpg

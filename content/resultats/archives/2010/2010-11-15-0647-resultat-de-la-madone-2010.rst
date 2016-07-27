@@ -20,5 +20,5 @@ Sur la longue distance, **Dominique**  termine  **19ème sur 277 en 1h05'05** .
 
 **Stéphane Bourlot** , **98ème en 1h16'16**  et **Alain B. 191ème en 1h25'26** .
 
-.. |_DSC6349.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3310120862courses-2010la-madonne-2010-_dsc6349.JPG
-.. |_DSC6310.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1990120862courses-2010la-madonne-2010-_dsc6310.JPG
+.. |_DSC6349.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3310120862courses-2010la-madonne-2010-_dsc6349.JPG
+.. |_DSC6310.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1990120862courses-2010la-madonne-2010-_dsc6310.JPG

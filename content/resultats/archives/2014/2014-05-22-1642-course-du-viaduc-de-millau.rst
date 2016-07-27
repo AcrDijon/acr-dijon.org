@@ -37,4 +37,4 @@ enfin **Christine Mathey**  (qui retrouve peu à peu ses sensations) est classé
 
 Félicitations à tous les 4.
 
-.. |acr.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3360120862coursescourses-2014-acr.jpg
+.. |acr.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3360120862coursescourses-2014-acr.jpg

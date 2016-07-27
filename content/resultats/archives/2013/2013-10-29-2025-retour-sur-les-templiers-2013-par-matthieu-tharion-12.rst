@@ -37,4 +37,4 @@ Je mange une dizaine de tartine de vache qui rit et descends 5 verres de coca. C
 
 Mon staff de choc n’ayant pu accéder au R3 du 46ème km à cause d’agents de sécurité à l’ouest, je reçois les consignes par SMS. « On t’attend au pont de Massebieau » qui est un point stratégique de la course permettant un ravitaillement sauvage (km 61) avant la terrible montée à la ferme du Cade, plus grosse difficulté du parcours. Très à l’aise dans les portions descendantes et sachant que la boucle est en bonne voie pour être bouclée, je lâche les chevaux et me fais plaisir.
 
-.. |Templier.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-templier.jpg
+.. |Templier.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-templier.jpg

@@ -7,7 +7,7 @@
 :eventdate: 2015-04-06
 
 
-.. image:: http://assets.acr-dijon.org/champvans.jpg
+.. image:: https://assets.acr-dijon.org/champvans.jpg
 
 *Podium par équipe*
 

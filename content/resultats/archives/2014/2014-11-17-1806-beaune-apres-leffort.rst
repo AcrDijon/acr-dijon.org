@@ -13,5 +13,5 @@ Après l'effort, et dans cette histoire, **Michel Leboulanger**  a été oublié
 
 |Michel.jpg|
 
-.. |Apres-l-effort.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2015beaune-apres-l-effort.jpg
-.. |Michel.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom205x3000120862coursescourses-2015beaune-michel.jpg
+.. |Apres-l-effort.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2015beaune-apres-l-effort.jpg
+.. |Michel.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom205x3000120862coursescourses-2015beaune-michel.jpg

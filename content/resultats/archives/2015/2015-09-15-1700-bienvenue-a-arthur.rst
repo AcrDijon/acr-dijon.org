@@ -24,4 +24,4 @@ Amitiés,
 
 Audrey et Jérémie
 
-.. |Bienvenue à Arthur| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150915-ob_24ad08_att1.png
+.. |Bienvenue à Arthur| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150915-ob_24ad08_att1.png

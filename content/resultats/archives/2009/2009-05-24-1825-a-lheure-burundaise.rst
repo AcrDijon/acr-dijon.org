@@ -12,4 +12,4 @@ Chez le féminines, à l'instar de ses compatriotes masculins, Francine Niyonizi
 
 Romain LELIEVRE (Le Bien Public, dimanche 24 mai 2009)
 
-.. |httpidataover-blogcom0120862foulees2009-bp_foulees_2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-bp_foulees_2009.jpg
+.. |httpidataover-blogcom0120862foulees2009-bp_foulees_2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-bp_foulees_2009.jpg

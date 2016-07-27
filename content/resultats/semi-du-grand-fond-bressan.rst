@@ -12,7 +12,7 @@ Il termine 30e/156 en 1h31'49''
 
 Bravo à lui !
 
-.. image:: http://assets.acr-dijon.org/fred08.jpg
+.. image:: https://assets.acr-dijon.org/fred08.jpg
 
 *Frédéric Rabiet (archives ACR)*
 

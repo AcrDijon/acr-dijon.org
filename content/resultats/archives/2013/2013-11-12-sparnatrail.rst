@@ -15,7 +15,7 @@ Après un repas bien mérité, je gonfle le matelas puis m'installe pour la nuit
 Depart.JPG6h, on se réveille, petit déjeuner succins dans la voiture, un gâteau de riz, 2 pains au chocolat, un pain viennois, une rations de Sportdéj et un café froid (putain de thermos, bon à jetter).
 
 
-.. image:: http://assets.acr-dijon.org/sparnatrail1.jpg
+.. image:: https://assets.acr-dijon.org/sparnatrail1.jpg
 
 La pluie se calme un peu, je rentre alors dans la halle des sports, et attend le briefing d'avant course (un café chaud, finalement la journée se passera peut être bien). David Soulier me reconnaît, tiens nous serons au moins 3 côte d'orien, tous 3 découvrant le parcours pour la 1ère fois.
 
@@ -31,7 +31,7 @@ Un peu trop plat au départ, les 5 kms avalé en moins de 25'. Après un aller-r
 
 On-commence-enfin-a-monter.JPG
 
-.. image:: http://assets.acr-dijon.org/sparnatrail2.jpg
+.. image:: https://assets.acr-dijon.org/sparnatrail2.jpg
 
 Les sentiers sont bien gras et détrempés. Le parcours commun entre les 2 distances jusqu'au 30ème km, mieux vaut être devant pour bénéficier quelques peu d'accroche. 2000 concurrents au départ des deux distances 30ème km en 3h10. Je maintiens le tempo. On quitte le parcours commun et on se retrouve vite esseulé...
 
@@ -49,7 +49,7 @@ Vers le 46ème km, une femme a installé une table avec un ravito improvisé dev
 
 Une glissade non maîtrisée vers le 50ème km me fait ralentir mon allure, la fatigue s'installe, les jambes deviennent lourdes, le vent de face depuis déjà 10 km commence à avoir raison de mon mental. Le rythme chute, l'impression d'avoir 15 kg sous chaque pied. 
 
-.. image:: http://assets.acr-dijon.org/sparnatrail3.jpg
+.. image:: https://assets.acr-dijon.org/sparnatrail3.jpg
 
 Finalement, nous ne seront que 350 arrivants sur cette édition sur un peu plus de 500 partants.
 Vincent Lauvergne termine  175ème en 6h41'01", fatigué mais bien comptant d'en avoir fini...Le verre de soupe fût des plus apprécié à l'arrivée. 

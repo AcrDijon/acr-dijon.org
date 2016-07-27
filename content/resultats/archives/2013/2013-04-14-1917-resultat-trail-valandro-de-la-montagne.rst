@@ -28,4 +28,4 @@ Un peu plus loin... **Véronique Bornel** **43ème en 1h39'33"**  (Le retour de 
 
 Le printemps est là, le pollen et ces allergènes aussi, mais cela ne nous empêche pas de nous retrouver entre amis pour une petite virée dans l'arrière côte Beaunoise.
 
-.. |Trail-de-la-montagne.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-trail-de-la-montagne.jpg
+.. |Trail-de-la-montagne.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-trail-de-la-montagne.jpg

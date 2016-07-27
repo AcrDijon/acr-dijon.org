@@ -16,4 +16,4 @@ CROSS DE 6 KM
 
 **1ER Vétéran 3**  malgré une contracture au mollet
 
-.. |Gerard.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015-gerard.jpg
+.. |Gerard.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015-gerard.jpg

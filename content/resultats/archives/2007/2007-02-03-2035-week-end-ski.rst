@@ -10,4 +10,4 @@ Week-end Ski
 
 Contact : Serge Francois 06.29.41.46.00 |httpidataover-blogcom0120862-dscn2195.jpg|
 
-.. |httpidataover-blogcom0120862-dscn2195.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2195.jpg
+.. |httpidataover-blogcom0120862-dscn2195.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2195.jpg

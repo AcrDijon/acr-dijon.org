@@ -13,5 +13,5 @@ aujourd'hui, pour un 5 km dans la ville.
 
 J'ai terminé 12eme sur 394 avec un temps de 18:23 - ce qui est pas mal, vu que j'avais une bonne crève  |httpfdataover-blogcompicssmiles-icon_wink.gif|
 
-.. |Tarek.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x6940120862coursescourses-2015-tarek.jpg
-.. |httpfdataover-blogcompicssmiles-icon_wink.gif| image:: http://assets.acr-dijon.org/old/httpfdataover-blogcompicssmiles-icon_wink.gif
+.. |Tarek.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x6940120862coursescourses-2015-tarek.jpg
+.. |httpfdataover-blogcompicssmiles-icon_wink.gif| image:: https://assets.acr-dijon.org/old/httpfdataover-blogcompicssmiles-icon_wink.gif

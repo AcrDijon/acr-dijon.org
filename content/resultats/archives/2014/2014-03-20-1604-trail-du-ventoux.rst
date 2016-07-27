@@ -16,4 +16,4 @@ Une belle promenade de 48 km avec 2300m de dénivelé +, effectué en un peu plu
 
 **Il termine 437ème**  sur 938 dont 350 abandons.
 
-.. |Trail-du-Mont-Ventoux.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x3180120862coursescourses-2014-trail-du-mont-ventoux.jpg
+.. |Trail-du-Mont-Ventoux.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x3180120862coursescourses-2014-trail-du-mont-ventoux.jpg

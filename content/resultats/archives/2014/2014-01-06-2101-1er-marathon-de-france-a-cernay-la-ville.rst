@@ -15,4 +15,4 @@ Gaetan Husson.
 
 Le 32ème Marathon officiel terminé.
 
-.. |100_1123.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2014-100_1123.JPG
+.. |100_1123.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2014-100_1123.JPG

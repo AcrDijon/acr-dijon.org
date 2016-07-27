@@ -7,7 +7,7 @@ Chevignoise 2010
 
 
 
-.. image:: http://assets.acr-dijon.org/chev101.jpg
+.. image:: https://assets.acr-dijon.org/chev101.jpg
 
 **Résultats du 5 km 128 arrivants**
 

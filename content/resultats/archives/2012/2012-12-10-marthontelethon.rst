@@ -9,7 +9,7 @@ Marathon du Téléthon
 
 Ce samedi, Christophe Mimeur était présent parmi la vingtaine de coureurs à Saint Apollinaire pour le départ du Marathon Téléthon entre Saint Apollinaire et Lamarches-sur-saône.
 
-.. image:: http://assets.acr-dijon.org/telethon12.JPG
+.. image:: https://assets.acr-dijon.org/telethon12.JPG
 
 Félicitation à lui pour avoir répondu présent à cet appel de générosité.
 

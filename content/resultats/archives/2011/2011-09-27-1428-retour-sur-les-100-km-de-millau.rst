@@ -25,4 +25,4 @@ Mal grès la déception qui est compréhensible après de telles séances d'entr
 
 Un grand remerciement à Isabelle et Mag pour leur soutient logistique. Leur dévouement n'est hélas pas assez reconnu et non récompensé puisque leurs coureurs durent abandonner avant la ligne d'arrivée.
 
-.. |P1000349.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2011100-km-de-millau-p1000349.JPG
+.. |P1000349.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2011100-km-de-millau-p1000349.JPG

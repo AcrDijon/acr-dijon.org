@@ -16,7 +16,7 @@ De Barcelone à Chenôve...en passant par Paris et Gray
 
 Il boucle sa course en 3h29'30'', 3794e sur un peu plus de 20000 participants. Temps du vainqueur : 2h09'31''
 
-.. image:: http://assets.acr-dijon.org/FredBarcelone2016.jpg
+.. image:: https://assets.acr-dijon.org/FredBarcelone2016.jpg
 
 ----
 
@@ -29,8 +29,8 @@ Du côté de la capitale française, cette fois, c'est **Jean-Marc Delattre** et
 
 37025 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/jmdparis16.jpg
-.. image:: http://assets.acr-dijon.org/mikaparis16.jpg
+.. image:: https://assets.acr-dijon.org/jmdparis16.jpg
+.. image:: https://assets.acr-dijon.org/mikaparis16.jpg
 
 *Jean-Marc (photo de gauche) et Mikaël (poto de droite)*
 
@@ -50,7 +50,7 @@ Il a terminé sa course en 1h48'16'', 158e/284. Course remportée par **Benoit F
 
 Il termine en 3h04'18'' et se classe 92e/148 d'une course remportée par le duciste **Emmanuel David** en 1h58'20''.
 
-.. image:: http://assets.acr-dijon.org/VincentTransmontagne2016.jpg
+.. image:: https://assets.acr-dijon.org/VincentTransmontagne2016.jpg
 
 ----
 

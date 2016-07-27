@@ -25,5 +25,5 @@ Tandis qu'un autre ACRiste était dans le Cher pour la 63ème éditions de la ra
 
 Félicitation à tout le monde, bon début de semaine
 
-.. |DSCN0012.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014-dscn0012.JPG
-.. |DSCN0017.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014-dscn0017.JPG
+.. |DSCN0012.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014-dscn0012.JPG
+.. |DSCN0017.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014-dscn0017.JPG

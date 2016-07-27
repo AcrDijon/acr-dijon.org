@@ -11,5 +11,5 @@ Semi Marathon de Paris, c'était le 3 mars dernier
 
 |SMP13-Pascal-04.JPG|
 
-.. |426574_472631619471066_1282189894_n.png| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2930120862coursescourses-2013semi-de-paris-426574_472631619471066_1282189894_n.png
-.. |SMP13-Pascal-04.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom146x3000120862coursescourses-2013semi-de-paris-smp13-pascal-04.JPG
+.. |426574_472631619471066_1282189894_n.png| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2930120862coursescourses-2013semi-de-paris-426574_472631619471066_1282189894_n.png
+.. |SMP13-Pascal-04.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom146x3000120862coursescourses-2013semi-de-paris-smp13-pascal-04.JPG

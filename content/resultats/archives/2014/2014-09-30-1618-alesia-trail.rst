@@ -34,11 +34,11 @@ sur 564 concurents
 
 sur 325 concurents
 
-.. image:: http://assets.acr-dijon.org/alesia14.jpg
+.. image:: https://assets.acr-dijon.org/alesia14.jpg
 
 **Sur le 51 km**  :
 
 Un irréductible romain, **93ème en 6h37'23"**  sur 182 concurents
 
-.. |trail-alesia-10.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862coursescourses-2015alesia-trail-alesia-10.jpg
-.. |Depart.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom168x3000120862coursescourses-2015alesia-depart.jpg
+.. |trail-alesia-10.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862coursescourses-2015alesia-trail-alesia-10.jpg
+.. |Depart.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom168x3000120862coursescourses-2015alesia-depart.jpg

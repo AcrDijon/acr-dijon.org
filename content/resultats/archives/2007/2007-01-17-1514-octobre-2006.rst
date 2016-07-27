@@ -135,5 +135,5 @@ Il avait terminé deuxième l'an dernier, mais cette fois-ci le coureur d'Athlé
 
 Merci de me signaler toute erreur ou omission. Les photos et récits de course sont les bienvenus !
 
-.. |httpidataover-blogcom0120862automne-2006-mangalers-norge06.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-mangalers-norge06.jpg
-.. |httpidataover-blogcom0120862automne-2006-jcmaguer-norge.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-jcmaguer-norge.jpg
+.. |httpidataover-blogcom0120862automne-2006-mangalers-norge06.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-mangalers-norge06.jpg
+.. |httpidataover-blogcom0120862automne-2006-jcmaguer-norge.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-jcmaguer-norge.jpg

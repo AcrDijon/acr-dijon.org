@@ -25,5 +25,5 @@ Pierre et Sedick se qualifient de bien belle façon.
 
 Elle se qualifie pour les France en effectuant une course tactique, restant dans l'avant garde du peloton en attendant son heure.
 
-.. |Manque de préparation pour certains| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2180120862coursescourses-2012demi-france-de-cross-manque-de-preparation-pour-certains.jpg
-.. |Un sourire qui en dit long| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012demi-france-de-cross-un-sourire-qui-en-dit-long.jpg
+.. |Manque de préparation pour certains| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2180120862coursescourses-2012demi-france-de-cross-manque-de-preparation-pour-certains.jpg
+.. |Un sourire qui en dit long| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012demi-france-de-cross-un-sourire-qui-en-dit-long.jpg

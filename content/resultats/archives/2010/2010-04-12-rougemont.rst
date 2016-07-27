@@ -7,7 +7,7 @@ Vincent aux 10 kms de Rougemont
 
 
 
-.. image:: http://assets.acr-dijon.org/vinrouge.jpg
+.. image:: https://assets.acr-dijon.org/vinrouge.jpg
 
 Vincent Mangelaers-Pivot disputait ce week end les rondes de Rougemont avec 50 arrivants sur la course reine des 10 kms qu'il disputait . Vincent finira 5ème au classement scratch toutes catégories mais terminera 1er de la catégorie espoirs masculins ! Tout cela dans un temps de 37 mns 24 secondes . BRAVO A LUI POUR CETTE BELLE PERFORMANCE
 

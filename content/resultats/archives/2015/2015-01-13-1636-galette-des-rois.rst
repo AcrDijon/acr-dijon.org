@@ -13,4 +13,4 @@ Toutes autres pâtisseries confectionnées par nos adhérents seront les bienven
 
 |galettedesrois|
 
-.. |galettedesrois| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x3920120862manifestation-divers-galettedesrois.jpg
+.. |galettedesrois| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x3920120862manifestation-divers-galettedesrois.jpg

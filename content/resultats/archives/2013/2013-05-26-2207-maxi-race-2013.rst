@@ -107,6 +107,6 @@ Un excellent week end entre amis partageant la même passion et les mêmes
 
 valeur de Trail.
 
-.. |100_0889.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013-100_0889.JPG
-.. |100_0877.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-100_0877.JPG
-.. |312295_10151634148819850_1002131791_n.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-312295_10151634148819850_1002131791_n.jpg
+.. |100_0889.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013-100_0889.JPG
+.. |100_0877.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-100_0877.JPG
+.. |312295_10151634148819850_1002131791_n.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-312295_10151634148819850_1002131791_n.jpg

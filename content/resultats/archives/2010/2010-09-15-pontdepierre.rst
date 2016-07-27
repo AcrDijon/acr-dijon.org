@@ -8,7 +8,7 @@ Les foulées du Pont de Pierre
 
 Ce week end avait lieu les foulées du Pont de Pierre à Sennecey les Dijon et c'est sous une pluie de podiums que l'ACR Dijon s'est illustré une fois de plus . Le 10 kms , épreuve reine de la journée a vu Pierre Audin se mêler à la lutte pour le podium scratch , Sophie Rabiet et Jacques Pivot auront également touchés l'argent tandis que Xavier Mangelaers-Pivot et Véronique Bornel se contenteront du bronze . A noter tout de même les excellents chronos de Vincent Lauvergne et Daniel Chambin hors podium . Voici les résultats de ce 10 kms . 
 
-.. image:: http://assets.acr-dijon.org/sennecey101.jpg
+.. image:: https://assets.acr-dijon.org/sennecey101.jpg
 
 - 6e 	**AUDIN PIERRE** 	35'19" 	**3e V1 M**
 - 31e 	**MANGELAERS-PIVOT XAVIER** 	41'08" 	**3e JU M**
@@ -26,7 +26,7 @@ résultats complets sur le lien suivant : http://bases.athle.com/asp.net/liste.a
 
 
 
-.. image:: http://assets.acr-dijon.org/sennecey102.jpg
+.. image:: https://assets.acr-dijon.org/sennecey102.jpg
 
 
 Les foulées du Pont de Pierre à Sennecey les Dijon avait réuni les adeptes du 10 kms mais également les amateurs de sprint avec ce 6 kms où Alison HOF fermera le classement des 54 arrivants . Mais il n'y aura pas de surprise sur cette course et l'ACR Dijon aura dominée de la tête et des épaules cette épreuve avec un Fabrice Heuret en pleine confiance suivis de ses deux dauphins tout aussi performant avec la paire Rabiet-Zima . Jean-Philippe Beuche , Sylvie Michelet et Jean-Louis Rabiet feront également bonne figure avec une nouvelle victoire du dernier dans sa catégorie .

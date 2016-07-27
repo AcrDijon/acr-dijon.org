@@ -6,16 +6,16 @@ Foulées du circuit Dijon-Prenois
 :location: Prenois
 :eventdate: 20/02/2016
 
-.. image:: http://assets.acr-dijon.org/prenois161.jpg
+.. image:: https://assets.acr-dijon.org/prenois161.jpg
 
 Cette année, ce n'est pas **Nuits Saint Georges** qui a ouvert la saison de courses sur routes, mais le circuit ordinairement réservé aux chevaux vapeur de **Prenois**, où se sont déroulées, ce samedi, les premières **Foulées du circuit Dijon-Prenois**, organisées par **Athletic Gym**.
 Cette première édition, qui devrait être suivie par d'autres, plébiscitée par l'ensemble des concurrents présents, fut marquée par des conditions climatiques plutôt difficiles (pluie, vent et froid). Ce sont un peu plus de 250 concurrents qui se sont élancés à l'assaut du très valloné circuit, bien connu des amateurs de sport auto et moto, pour une distance de **7,6km** (deux boucles de 3,8km).
 
-.. image:: http://assets.acr-dijon.org/prenois162.jpg
+.. image:: https://assets.acr-dijon.org/prenois162.jpg
 
 *Dure est la remontée de la ligne droite*
 
-.. image:: http://assets.acr-dijon.org/prenois163.jpg
+.. image:: https://assets.acr-dijon.org/prenois163.jpg
 
 L'humidité  a, de plus, causé un "bug" du système de chronométrage, qui s'est arrêté de fonctionner après l'arrivée du 29e concurrent, pour reprendre au passage du 188e arrivant, jusqu'au 254e et dernier. Du coup, il n'est pas possible de présenter le classement des 6 ACRistes présents, seul le premier ayant franchi la ligne d'arrivée avant la panne. Le seul élément disponible est le chrono réalisé par chacun (relevé par les participants eux-même), que j'ai agrémenté de la moyenne horaire, afin de faciliter la comparaison avec les bolides fréquentant habituellement l'endroit...
 

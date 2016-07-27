@@ -6,7 +6,7 @@ Résultat du Week End
 
 
 
-.. image:: http://assets.acr-dijon.org/vp.JPG
+.. image:: https://assets.acr-dijon.org/vp.JPG
 
 On commencera par une petite escapade à Génève pour la course de l'Escalade ou Vincent et Jacques Pivot ont pris part comme depuis de nombreuses années.
 Noyé parmi les 33717 concurrents de "l'Escalade " de Genève, Vincent MP a laissé 1073 hommes I(entre 18 et 29 ans ) derrière lui pour prendre une belle quatrième place de cette catégorie, après une course bien maîtrisée, dans la fraîcheur de la nuit genevoise. 

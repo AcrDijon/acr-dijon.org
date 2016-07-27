@@ -12,4 +12,4 @@ Ces trois derniers ne sont pas inconnus puisqu'ils avaient participé l'an derni
 
 |httpidataover-blogcom0120862departementaux-cross-2007-dscn6509.jpg|
 
-.. |httpidataover-blogcom0120862departementaux-cross-2007-dscn6509.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862departementaux-cross-2007-dscn6509.jpg
+.. |httpidataover-blogcom0120862departementaux-cross-2007-dscn6509.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862departementaux-cross-2007-dscn6509.jpg

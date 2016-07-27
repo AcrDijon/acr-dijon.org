@@ -7,7 +7,7 @@ Résultat Tacot 2013
 :eventdate: 2013-05-01
 
 
-.. image:: http://assets.acr-dijon.org/tacot13.JPG
+.. image:: https://assets.acr-dijon.org/tacot13.JPG
 
 Quelques grains de sables sont venus se glisser dans une organisation aussi bien rodé que celle de nos amis des Escargots 21.
 

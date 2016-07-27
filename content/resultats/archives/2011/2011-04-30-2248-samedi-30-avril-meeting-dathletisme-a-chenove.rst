@@ -19,4 +19,4 @@ ici
 
 Maintenant place à une récupération amplement méritée.
 
-.. |dscn6847.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862-dscn6847.jpg
+.. |dscn6847.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862-dscn6847.jpg

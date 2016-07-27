@@ -7,4 +7,4 @@ Remerciements....
 
 |httpidataover-blogcom0120862-guillaume-remerciements.png|
 
-.. |httpidataover-blogcom0120862-guillaume-remerciements.png| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-guillaume-remerciements.png
+.. |httpidataover-blogcom0120862-guillaume-remerciements.png| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-guillaume-remerciements.png

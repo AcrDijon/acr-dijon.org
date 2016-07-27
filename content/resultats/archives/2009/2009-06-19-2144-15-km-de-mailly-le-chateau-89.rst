@@ -12,4 +12,4 @@ Petit bémol à cette édition : le manque de soutien de la municipalité, qui p
 
 Y'aura-t'il une 8ème édition du quinze de Mailly ?
 
-.. |httpgfx2hotmailcommailw3ltremoticons-smile_sad.gif| image:: http://assets.acr-dijon.org/old/httpgfx2hotmailcommailw3ltremoticons-smile_sad.gif
+.. |httpgfx2hotmailcommailw3ltremoticons-smile_sad.gif| image:: https://assets.acr-dijon.org/old/httpgfx2hotmailcommailw3ltremoticons-smile_sad.gif

@@ -16,7 +16,7 @@ Courses du week-end (30 avril /1er mai)
 
 Il s'est classé 15e en 14'09''82 (course remportée par Romain PRUDON de l'AC-CHENÔVE, en 8'46''49
 
-.. image:: http://assets.acr-dijon.org/mag.jpg
+.. image:: https://assets.acr-dijon.org/mag.jpg
 
 *Mag' (archives ACR)*
 
@@ -24,7 +24,7 @@ Il s'est classé 15e en 14'09''82 (course remportée par Romain PRUDON de l'AC-C
 
 **Trail du TACOT / GEVREY-CHAMBERTIN** (dimanche 01/05)
 
-.. image:: http://assets.acr-dijon.org/tacot161.JPG
+.. image:: https://assets.acr-dijon.org/tacot161.JPG
 
 Pour la dixième du Tacot, la pluie a épargné les concurrents, mais les précipitations abondantes de la veille et de la nuit précédente ont livré un terrain boueux, rendant les quelques descentes abruptes ponctuant le parcours, quelque peu acrobatiques, mettant à l'épreuve les capacités d'équilibriste de chacun...
 
@@ -42,11 +42,11 @@ Course remportée par Chafik JBARI (AC-CHENÔVE) en 1h08'57'' ; 1ere féminine :
 
 Sur le Grand Tacot (29km/1200mD+) : Victoire de Benjamin PETITJEAN (DIJON SINGLETRACK) en 2h16'25'' ; 1ere féminine : Marion SAVOY (NL) en 3h09'02'' / 126 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/tacot170.JPG
+.. image:: https://assets.acr-dijon.org/tacot170.JPG
 
 *Dominique 1er V2*
 
-.. image:: http://assets.acr-dijon.org/tacot171.JPG
+.. image:: https://assets.acr-dijon.org/tacot171.JPG
 
 *Alain 1er V4*
 
@@ -54,7 +54,7 @@ Sur le Grand Tacot (29km/1200mD+) : Victoire de Benjamin PETITJEAN (DIJON SINGLE
 
 **Marathon de SENART** (dimanche 01/05)
 
-.. image:: http://assets.acr-dijon.org/senart2016.jpg
+.. image:: https://assets.acr-dijon.org/senart2016.jpg
 
 **Pierre AUDIN** était en région parisienne pour le Marathon de Sénart, qu'il a parcouru en 3h05'52'', 60e/1136 participants (chrono du vainqueur : 2h22'23'').
 

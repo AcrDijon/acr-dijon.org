@@ -30,4 +30,4 @@ Challenge des Clubs
 
 Vincent , quant à lui, enchaîne ce dimanche 7 juin avec les 70 km de la Transju'Trail. Reste encore `310 dossards disponibles <http://www.transjutrail.com/presentation-1-1.htm>`_ . Avis aux amateurs.
 
-.. |httpidataover-blogcom0120862photos-poupet2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-poupet2009.jpg
+.. |httpidataover-blogcom0120862photos-poupet2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-poupet2009.jpg

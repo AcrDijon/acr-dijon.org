@@ -16,4 +16,4 @@ Nous ne pouvons imaginer l'ambiance qu'il doit régner en ce moment sur Big Appl
 
 En espérant qu'il n'y est pas d'autres changements d'ici là.
 
-.. |009| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012marathon-relais-hautes-cotes-009.jpg
+.. |009| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012marathon-relais-hautes-cotes-009.jpg

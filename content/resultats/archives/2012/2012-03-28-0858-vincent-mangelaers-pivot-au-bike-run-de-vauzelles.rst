@@ -19,4 +19,4 @@ Le site de l'organisation étant encore un peu léger, je n'ai hélas aucune pho
 
 Photo d'archive
 
-.. |duathlon| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2011-duathlon.jpg
+.. |duathlon| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2011-duathlon.jpg

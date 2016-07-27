@@ -16,5 +16,5 @@ Notre nouvel adhérent **Manuel Lopez Varquiel, 68ème en 39'42"** . |P1000989|
 
 **Vincent Lauvergne** , **89ème en 43'26"** ; **Jean Marc Delattre** , **93ème en 44'47"**  et **Jean Claude Maguer** , **100ème en 48'20"**
 
-.. |P1000971| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014departementaux-cross-p1000971.JPG
-.. |P1000989| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014departementaux-cross-p1000989.JPG
+.. |P1000971| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014departementaux-cross-p1000971.JPG
+.. |P1000989| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2014departementaux-cross-p1000989.JPG

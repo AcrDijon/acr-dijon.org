@@ -16,4 +16,4 @@ Pierre est deuxième en partant de la gauche... Le gars avec les bouteilles !!!
 
 |httpidataover-blogcom0120862-pierre-merlin-25-04-2008.JPG|
 
-.. |httpidataover-blogcom0120862-pierre-merlin-25-04-2008.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pierre-merlin-25-04-2008.JPG
+.. |httpidataover-blogcom0120862-pierre-merlin-25-04-2008.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pierre-merlin-25-04-2008.JPG

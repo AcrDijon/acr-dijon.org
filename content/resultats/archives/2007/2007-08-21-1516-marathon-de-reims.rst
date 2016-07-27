@@ -18,5 +18,5 @@ Un **semi-marathon**  (**Départ**  : **10h05**  avenue Hoche près du Parc des 
 
 Si vous souhaitez également participer à cette épreuve, merci de contacter `Frédéric <mailto:f.rabiet@wanadoo.fr?subject=Participation%20au%20Marathon%20de%20Reims>`_ afin d'organiser au mieux le déplacement et l'hébergement.
 
-.. |httpidataover-blogcom0120862-reims-logo.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-reims-logo.jpg
-.. |httpidataover-blogcom0120862-reims-infos.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-reims-infos.jpg
+.. |httpidataover-blogcom0120862-reims-logo.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-reims-logo.jpg
+.. |httpidataover-blogcom0120862-reims-infos.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-reims-infos.jpg

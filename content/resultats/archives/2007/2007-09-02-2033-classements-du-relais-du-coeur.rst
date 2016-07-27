@@ -24,5 +24,5 @@ D'autres photos des ACéristes dans Albums photos à droite...
 |httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-les-equipes-au-relais-du-coeur-2007.jpg| 
 |httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-dscn6992.jpg|
 
-.. |httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-les-equipes-au-relais-du-coeur-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-les-equipes-au-relais-du-coeur-2007.jpg
-.. |httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-dscn6992.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-dscn6992.jpg
+.. |httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-les-equipes-au-relais-du-coeur-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-les-equipes-au-relais-du-coeur-2007.jpg
+.. |httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-dscn6992.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862relais-des-restos-du-coeur-2007-dscn6992.jpg

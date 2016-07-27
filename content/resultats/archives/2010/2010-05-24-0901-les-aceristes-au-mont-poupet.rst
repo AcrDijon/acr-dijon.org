@@ -10,4 +10,4 @@ les acéristes au mont Poupet
 
 BRAVO A TOUS LES TROIS
 
-.. |Chalon2009_0062.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862chalon2009-chalon2009_0062.jpg
+.. |Chalon2009_0062.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862chalon2009-chalon2009_0062.jpg

@@ -31,4 +31,4 @@ Voici donc tout fraîchement parus , les résultats de nos 9 acéristes présent
 
 BRAVO DONC A TOUS NOS ACERISTES POUR AVOIR BRAVER LE FROID ET ELIMINER SANS DOUTE LES PETITS EXCES DE NOEL
 
-.. |min image| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x3000120862bertrand-min_image.jpg
+.. |min image| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x3000120862bertrand-min_image.jpg

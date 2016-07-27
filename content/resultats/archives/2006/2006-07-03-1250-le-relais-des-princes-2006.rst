@@ -24,6 +24,6 @@ Classement. - Masculins. - 1. Running club dijonnais 1 (Romain Lelièvre, Chalid
 |httpwwwbienpubliccomphotos-journal-spop1203_030706.jpg| 
 Comme en 2005, Romain Lelièvre du Running-Club dijonnais s'adjuge une nouvelle victoire
 
-.. |httpwwwbienpubliccomphotos-journal-spop1202_030706.jpg| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-journal-spop1202_030706.jpg
-.. |httpwwwbienpubliccomicons_edition-trans.gif| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomicons_edition-trans.gif
-.. |httpwwwbienpubliccomphotos-journal-spop1203_030706.jpg| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-journal-spop1203_030706.jpg
+.. |httpwwwbienpubliccomphotos-journal-spop1202_030706.jpg| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-journal-spop1202_030706.jpg
+.. |httpwwwbienpubliccomicons_edition-trans.gif| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomicons_edition-trans.gif
+.. |httpwwwbienpubliccomphotos-journal-spop1203_030706.jpg| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-journal-spop1203_030706.jpg

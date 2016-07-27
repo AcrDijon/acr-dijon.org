@@ -22,5 +22,5 @@ Deux petites photos: Jérémy CROTET (1er cadet au BP) et Alexandre CHIODIN (1è
 
 |httpidataover-blogcom0120862-arfcoursebp61.jpg|
 
-.. |httpidataover-blogcom0120862-arfcoursebp36.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-arfcoursebp36.jpg
-.. |httpidataover-blogcom0120862-arfcoursebp61.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-arfcoursebp61.jpg
+.. |httpidataover-blogcom0120862-arfcoursebp36.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-arfcoursebp36.jpg
+.. |httpidataover-blogcom0120862-arfcoursebp61.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-arfcoursebp61.jpg

@@ -7,7 +7,7 @@ Samedi 8 juin...
 :eventdate: 2013-06-08
 
 
-.. image:: http://assets.acr-dijon.org/didier.jpg
+.. image:: https://assets.acr-dijon.org/didier.jpg
 
 Journée chargée pour l'ACR...
 
@@ -25,6 +25,6 @@ L'équipe Mixte composée de Béatrice Dabrowski (31'32"), Sylvie Michelet (34'3
 
 *********** 
 
-.. image:: http://assets.acr-dijon.org/Odyssea.jpg
+.. image:: https://assets.acr-dijon.org/Odyssea.jpg
 
 Un peu plus tard dans la soirée, une poignée d'ACRiste se rendèrent au Parc de la Colombière pour Odysséa (Sédik Bendhamane, Manuel Barreira, Christophe Mimeur, Nathalie Comte, Cécile Desande, etc...)

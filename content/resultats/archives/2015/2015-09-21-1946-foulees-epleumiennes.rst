@@ -38,6 +38,6 @@ Sur le 10 km :
 
 **Félicitations à tous**
 
-.. |Foulées Epleumiennes| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150923-ob_026aad_12.jpg
-.. |Foulées Epleumiennes #0| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150923-ob_68dfef_4.jpg
-.. |Foulées Epleumiennes #1| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150923-ob_3c7263_img-4046.JPG
+.. |Foulées Epleumiennes| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150923-ob_026aad_12.jpg
+.. |Foulées Epleumiennes #0| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150923-ob_68dfef_4.jpg
+.. |Foulées Epleumiennes #1| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150923-ob_3c7263_img-4046.JPG

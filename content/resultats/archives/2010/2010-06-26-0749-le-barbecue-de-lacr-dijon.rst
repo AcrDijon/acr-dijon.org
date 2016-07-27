@@ -25,6 +25,6 @@ Alain
 
 |barbecue 3|
 
-.. |barbecue 1| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862bertrand-bis-barbecue-1.JPG
-.. |barbecue 2| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862bertrand-bis-barbecue-2.JPG
-.. |barbecue 3| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862bertrand-bis-barbecue-3.JPG
+.. |barbecue 1| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862bertrand-bis-barbecue-1.JPG
+.. |barbecue 2| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862bertrand-bis-barbecue-2.JPG
+.. |barbecue 3| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862bertrand-bis-barbecue-3.JPG

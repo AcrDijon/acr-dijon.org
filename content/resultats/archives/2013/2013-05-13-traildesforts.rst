@@ -7,7 +7,7 @@ Trail des Forts du Grand Besançon
 
 
 
-.. image:: http://assets.acr-dijon.org/forts131.jpg
+.. image:: https://assets.acr-dijon.org/forts131.jpg
 
 Contre toute attente et malgrès les conseils et recommandations de ses proches.
 
@@ -21,7 +21,7 @@ Après un départ des plus raide, 150m+ en 600m, la pluie fit son apparition 15'
 Belle performance de ce jeune fou qui n'est pas sans me rappeler quelqu'un...
 Se classant 192ème sur 488 partants (415 à l'arrivée) en 6h03'41".
 
-.. image:: http://assets.acr-dijon.org/forts132.jpg
+.. image:: https://assets.acr-dijon.org/forts132.jpg
 
 D'un autre côté, Vincent Lauvergne, un peu émoussé par les 110 km du 4 mai dernier et gêné pendant 3 heures par sa vue dû se contenter de la 339ème place en 7h00'12", 1' de perdue à 600m de l'arrivée suite à erreur de parcours.
 

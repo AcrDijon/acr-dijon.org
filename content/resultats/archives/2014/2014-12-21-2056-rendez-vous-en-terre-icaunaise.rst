@@ -19,4 +19,4 @@ Un très beau parcours sinueux dans le centre ville d'Auxerre, avec pleins de re
 
 |Corrida-d-Auxerre.jpg|
 
-.. |Corrida-d-Auxerre.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3250120862coursescourses-2015-corrida-d-auxerre.jpg
+.. |Corrida-d-Auxerre.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3250120862coursescourses-2015-corrida-d-auxerre.jpg

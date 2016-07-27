@@ -15,6 +15,6 @@ Bravo aux vainqueurs Burundais avec nouveaux records de l'épreuve à la clé et
 
 |httpidataover-blogcom0120862foulees2009-image_205.jpg|  |httpidataover-blogcom0120862foulees2009-image_209.jpg|
 
-.. |httpidataover-blogcom0120862foulees2009-image_207.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-image_207.jpg
-.. |httpidataover-blogcom0120862foulees2009-image_205.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-image_205.jpg
-.. |httpidataover-blogcom0120862foulees2009-image_209.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-image_209.jpg
+.. |httpidataover-blogcom0120862foulees2009-image_207.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-image_207.jpg
+.. |httpidataover-blogcom0120862foulees2009-image_205.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-image_205.jpg
+.. |httpidataover-blogcom0120862foulees2009-image_209.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862foulees2009-image_209.jpg

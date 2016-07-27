@@ -27,4 +27,4 @@ Sandrine Fanton aux Foulées des cochons
 
 Merci à Jean Christophe pour ce récit.
 
-.. |Sandrine Fanton aux Foulées des cochons| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150717-ob_e14ad3_img-2842.JPG
+.. |Sandrine Fanton aux Foulées des cochons| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150717-ob_e14ad3_img-2842.JPG

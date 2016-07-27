@@ -14,7 +14,7 @@ Une météo magnifique, des records féminins et masculins fabuleux, des anonyme
 La quasi totalité des participants ont bravé la Gineste, mais j'aurai aussi une pensée émue, pour ces coureurs qui ne l'ont pas vaincu; qui ne la vaincront jamais plus. La Gineste, c'est aussi ses drames malheureusement, qui nous rappellent sans cesse l'exigence de notre sport. 
 
 
-.. image:: http://assets.acr-dijon.org/mc11.JPG
+.. image:: https://assets.acr-dijon.org/mc11.JPG
 
 
 FEMMES

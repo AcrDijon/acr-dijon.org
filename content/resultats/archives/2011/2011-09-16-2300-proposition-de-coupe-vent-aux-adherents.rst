@@ -16,4 +16,4 @@ Nous vous proposons en attendant la réception des débardeurs aux couleurs du c
 
 Les personnes intéressées ont jusqu'au 15 octobre pour se faire connaitre au près d'Alain ou de Mag pendant les entraînements ou en m'envoyant un mail avec leur taille.
 
-.. |coupe-vent-decathlon.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011divers-coupe-vent-decathlon.jpg
+.. |coupe-vent-decathlon.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011divers-coupe-vent-decathlon.jpg

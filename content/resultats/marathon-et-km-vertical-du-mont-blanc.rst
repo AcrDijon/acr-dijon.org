@@ -12,7 +12,7 @@ Vendredi, Kévin s'est attaqué au "Km Vertical du Mont Blanc" (3,8km avec 1000m
 
 Il a bouclé son run en 1h13'25'', se classant 423e/566 / Course remportée par le Norvégien Stian ANGERMUND-VIK en 35'51''.
 
-.. image:: http://assets.acr-dijon.org/mb161.jpg
+.. image:: https://assets.acr-dijon.org/mb161.jpg
 
 *Il a fallu souffrir pour gagner sa médaille de finisher !*
 
@@ -22,7 +22,7 @@ Elle s'est classée 2020e/2045 en 9h32'40'', arrivant à surmonter ses douleurs 
 
 Epreuve remportée par Cédric FLEURETON en 4h04'23'' ; 1ère féminine : Ida NILSSON (Suède) en 4h46'18'' (39e au scratch).
 
-.. image:: http://assets.acr-dijon.org/mb162.jpg
+.. image:: https://assets.acr-dijon.org/mb162.jpg
 
 *Après l'effort, le réconfort !*
 

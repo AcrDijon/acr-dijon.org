@@ -10,7 +10,7 @@ Montée du Puy de Dome
 
 Il s'est classé 208e/391 en 1h53'36'' (chrono du vainqueur : 1h16'24'').
 
-.. image:: http://assets.acr-dijon.org/chf.jpg
+.. image:: https://assets.acr-dijon.org/chf.jpg
 
 *Charly au Semi Marathon de Nuits-Saint-Georges 2016 (archives ACR)*
 

@@ -31,5 +31,5 @@ Petite représentation sur cette 2ème course sur route, les amateurs de bitumes
 
 |IMGP0856|
 
-.. |IMGP0874| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201310-km-de-chalons-imgp0874.JPG
-.. |IMGP0856| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201310-km-de-chalons-imgp0856.JPG
+.. |IMGP0874| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201310-km-de-chalons-imgp0874.JPG
+.. |IMGP0856| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201310-km-de-chalons-imgp0856.JPG

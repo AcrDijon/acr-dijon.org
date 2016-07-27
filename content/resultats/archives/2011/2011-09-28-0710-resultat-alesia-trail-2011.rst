@@ -19,4 +19,4 @@ Cette année, seule Véronique Bornel était présente sur la longue distance.
 - 90 	ROSIER Didier 	Nuits course à pied 	07:39:08 	38 V1H
 
 
-.. |Véro| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011utco-vero.JPG
+.. |Véro| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011utco-vero.JPG

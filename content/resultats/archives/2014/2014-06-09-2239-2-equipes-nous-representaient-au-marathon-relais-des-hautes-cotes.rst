@@ -13,4 +13,4 @@ Félicitations à nos 2 équipes, la première constituée de **Fabrice Heuret**
 
 La seconde composée de **Christian Cotelle** , **Sylvie Michelet** , **Marie Laure Léonard** , **Christophe Mimeur** , **Philippe Bassand**  et **Didier Belleville**  termine brillament 16ème en**3h54'31"**
 
-.. |P1000043.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2014-p1000043.JPG
+.. |P1000043.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2014-p1000043.JPG

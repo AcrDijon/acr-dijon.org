@@ -11,4 +11,4 @@ Renseignements et bulletin d'inscription sur le site de l'`Entente Athlétique M
 
 `Télécharger la plaquette de la course au format pdf <http://ddata.over-blog.com/xxxyyy/0/12/08/62/EAM-2009.pdf>`_ .
 
-.. |httpidataover-blogcom0120862photos-semimacon2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-semimacon2009.jpg
+.. |httpidataover-blogcom0120862photos-semimacon2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-semimacon2009.jpg

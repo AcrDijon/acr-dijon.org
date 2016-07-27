@@ -19,4 +19,4 @@ Tous les 3 termine 1er de leur catégorie.
 
 Félicitations
 
-.. |307.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2015-307.JPG
+.. |307.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2015-307.JPG

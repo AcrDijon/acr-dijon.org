@@ -22,4 +22,4 @@ http:`//bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace
 
 ainsi que les photos prises par notre prestataire NikoPhot :`http://niko-ngoisque.blogspot.fr/2014/04/course-adrien-alix-remporte-les-foulees.html <http://niko-ngoisque.blogspot.fr/2014/04/course-adrien-alix-remporte-les-foulees.html>`_
 
-.. |Départ| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x2810120862coursescourses-2014foulee-du-lac-depart.JPG
+.. |Départ| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x2810120862coursescourses-2014foulee-du-lac-depart.JPG

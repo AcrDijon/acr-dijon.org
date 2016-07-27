@@ -16,4 +16,4 @@ Plus d'infos sur leur site Web: `http://www.mosnac16.fr/mosnacotoise . <http://w
 
 *A saisir rapidement.*
 
-.. |P1010230.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862courses-p1010230.jpg
+.. |P1010230.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862courses-p1010230.jpg

@@ -48,4 +48,4 @@ Notons la présence de notre poussine, **Léonie Rabiet**  toujours en forme.
 
   
 
-.. |Courses-2014-0167.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-courses-2014-0167.JPG
+.. |Courses-2014-0167.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-courses-2014-0167.JPG

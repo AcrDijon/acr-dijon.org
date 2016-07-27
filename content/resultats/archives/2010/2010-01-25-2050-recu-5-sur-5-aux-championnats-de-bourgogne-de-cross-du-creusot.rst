@@ -89,5 +89,5 @@ VETERANS HOMMES – 9 010 m
 
 RETROUVEZ DES A PRESENT EN ALBUM PHOTOS " Régionaux cross 2010 " LES PHOTOS SOUVENIRS DE CETTE BELLE JOURNEE
 
-.. |DSC02825| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-dsc02825.jpg
-.. |DSC02828| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-dsc02828.jpg
+.. |DSC02825| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-dsc02825.jpg
+.. |DSC02828| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862bertrand-dsc02828.jpg

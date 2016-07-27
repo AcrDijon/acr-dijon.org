@@ -20,7 +20,7 @@ Dimanche, c'était la "Course Nature de la Montagne de la Roche" à BOURGUIGNON 
 
 Il s'y est classé 71e/155 en 1h12'36'' et **1erV4** / chrono du vainqueur : 51'17''.
 
-.. image:: http://assets.acr-dijon.org/blm16.jpg
+.. image:: https://assets.acr-dijon.org/blm16.jpg
 
 *Alain BRIOT au centre, 1erV4*
 

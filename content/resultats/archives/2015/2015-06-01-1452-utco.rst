@@ -8,7 +8,7 @@ Ultra Trail de Côte d'Or
 
 Belle prestation du club en ce samedi après midi, nos adhérents se sont retrouvés toujours avec bonne humeur au départ des 9, 15 et 30 km.
 
-.. image:: http://assets.acr-dijon.org/utco151.jpg
+.. image:: https://assets.acr-dijon.org/utco151.jpg
 
 *Au départ du 30km*
 
@@ -22,7 +22,7 @@ Belle prestation du club en ce samedi après midi, nos adhérents se sont retrou
 
 - Eric Marillier, 161ème en 3h12'38"
 
-.. image:: http://assets.acr-dijon.org/utco152.jpg
+.. image:: https://assets.acr-dijon.org/utco152.jpg
 
 **15km**
 

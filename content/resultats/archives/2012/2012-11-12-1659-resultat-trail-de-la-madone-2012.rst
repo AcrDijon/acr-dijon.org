@@ -48,4 +48,4 @@ Published by ACR Dijon - dans Résultats et classements.
 commenter cet article
 Advertisement
 
-.. |madone| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-madone.jpg
+.. |madone| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-madone.jpg

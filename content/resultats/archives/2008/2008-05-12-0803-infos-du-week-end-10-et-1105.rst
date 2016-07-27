@@ -32,4 +32,4 @@ Männer Altstad Grand-Prix (4,7km) - 4394 arrivants
 
 |httpidataover-blogcom0120862-vincentberne2008.JPG|
 
-.. |httpidataover-blogcom0120862-vincentberne2008.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-vincentberne2008.JPG
+.. |httpidataover-blogcom0120862-vincentberne2008.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-vincentberne2008.JPG

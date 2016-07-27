@@ -37,4 +37,4 @@ Résultat du week end
 
 Photo d'archive : Semi de Nuits Saint Georges
 
-.. |DSC00038-001.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom334x5000120862coursescourses-2013-dsc00038-001.JPG
+.. |DSC00038-001.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom334x5000120862coursescourses-2013-dsc00038-001.JPG

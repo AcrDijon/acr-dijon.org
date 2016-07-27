@@ -42,4 +42,4 @@ Une poignée d'ACRistes étaient présents sur les 2 distances proposées :
 
 |Moi.jpg|
 
-.. |Moi.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015-moi.jpg
+.. |Moi.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015-moi.jpg

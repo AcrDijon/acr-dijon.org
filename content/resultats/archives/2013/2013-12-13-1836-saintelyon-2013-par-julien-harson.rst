@@ -64,6 +64,6 @@ Points négatifs :
 
 Egalement présent **Matthieu Tharion**  qui boucle celle-ci en **9h38'40"**  à la **1105 ème**  place sur 5089.
 
-.. |1ere-photo.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1830120862coursescourses-2013sainte-1ere-photo.jpg
-.. |2ème photo| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2080120862coursescourses-2013sainte-2eme-photo.jpg
-.. |3eme-photo.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2230120862coursescourses-2013sainte-3eme-photo.jpg
+.. |1ere-photo.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1830120862coursescourses-2013sainte-1ere-photo.jpg
+.. |2ème photo| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2080120862coursescourses-2013sainte-2eme-photo.jpg
+.. |3eme-photo.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2230120862coursescourses-2013sainte-3eme-photo.jpg

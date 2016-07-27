@@ -13,4 +13,4 @@ Cela fait déjà 1 mois qu'Alain est parti en direction de Santiago...
 
 Après un passage par Estaing, une halte à Cahors un peu tardive le priva d'un confit de canard revigorant. Il se rapproche de St-Jean Pied de Port marquant la frontière franco-ibérique.
 
-.. |St-Jacques.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-st-jacques.jpg
+.. |St-Jacques.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-st-jacques.jpg

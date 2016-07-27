@@ -16,5 +16,5 @@ Tous les classements des courses du Bien Public 2005 sont sur le site de la ligu
 
 Et bon courage pour ceux qui préparent le marathon de Marsannay !
 
-.. |httpwwwlebienpubliccomicons_edition-logo_bp.gif| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomicons_edition-logo_bp.gif
-.. |httpgifstoutimagescomimagesfleches-fleche_111.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagesfleches-fleche_111.gif
+.. |httpwwwlebienpubliccomicons_edition-logo_bp.gif| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomicons_edition-logo_bp.gif
+.. |httpgifstoutimagescomimagesfleches-fleche_111.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagesfleches-fleche_111.gif

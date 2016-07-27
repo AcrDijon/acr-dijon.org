@@ -14,4 +14,4 @@ Il a terminé 8e/135 et **1erV3** en 43'42'' / course remportée par son fils Be
 
 **Bravo à lui !**
 
-.. image:: http://assets.acr-dijon.org/mot16.jpg
+.. image:: https://assets.acr-dijon.org/mot16.jpg

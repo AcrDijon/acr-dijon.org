@@ -8,7 +8,7 @@ La Madone
 
 Velars-Sur-Ouche (8 et 14 km)
 
-.. image:: http://assets.acr-dijon.org/madone2015.jpg
+.. image:: https://assets.acr-dijon.org/madone2015.jpg
 
 6 Acristes ont répondu présent à l'appel de la Madone ce matin, sous le soleil,
 pour les traditionnelles courses de Velars-Sur-Ouche.

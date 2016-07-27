@@ -31,7 +31,7 @@ X
 
 Pendant ce temps, d'autres seront aux 10 km de Bletterans. Nous espérons avoir les classements dès lundi et pourquoi pas quelques photos.
 
-.. |httpwwwathlecomimagescompetitions-laval2008.jpg| image:: http://assets.acr-dijon.org/old/httpwwwathlecomimagescompetitions-laval2008.jpg
+.. |httpwwwathlecomimagescompetitions-laval2008.jpg| image:: https://assets.acr-dijon.org/old/httpwwwathlecomimagescompetitions-laval2008.jpg
 .. _MANGELAERS-PIVOT Vincent: javascript:bddThrowAthlete('resultats',%20620739,%200)
 .. _AUDIN Pierre: javascript:bddThrowAthlete('resultats',%2032304,%200)
 .. _BOURGEOIS Lionel: javascript:bddThrowAthlete('resultats',%2097492,%200)

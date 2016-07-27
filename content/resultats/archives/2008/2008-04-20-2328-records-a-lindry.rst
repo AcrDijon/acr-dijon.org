@@ -8,7 +8,7 @@ Records à Lindry...
 |httpidataover-blogcom0120862-lindry-2008.JPG|
 
 .. _http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=1&frmcompetition=024667: http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=1&frmcompetition=024667
-.. |httpidataover-blogcom0120862-lindry-2008.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-lindry-2008.JPG
+.. |httpidataover-blogcom0120862-lindry-2008.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-lindry-2008.JPG
 
 Championnat de Bourgogne de 15 Km Route - Lindry (89)
 

@@ -18,4 +18,4 @@
 
 `Le classement complet au format pdf <http://ddata.over-blog.com/xxxyyy/0/12/08/62/RDR09-resultats.pdf>`_
 
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0036.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0036.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0036.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0036.jpg

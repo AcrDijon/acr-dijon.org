@@ -19,4 +19,4 @@ Si vous êtes intéressés par l'une de ces courses, inscrivez-vous au près d'A
 
 Sportivement, l'ACR Dijon.
 
-.. |bandeau.png| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x1410120862coursescourses-2012marathon-du-luberon-bandeau.png
+.. |bandeau.png| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x1410120862coursescourses-2012marathon-du-luberon-bandeau.png

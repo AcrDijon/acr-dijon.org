@@ -35,8 +35,8 @@ Merc à David Dumont pour les images suivantes...
 
 |httpidataover-blogcom0120862-vincent-cras-2007.jpg|
 
-.. | Après sa démonstration hier sur le plateau de la Cras, le néo-Semurois Pascal Hays s'inscrit comme l'un des futurs grands spécialistes du cross dans la région (photos B. L.)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2204_050207.jpg
-.. | Le Dijonnais Khalid Chahid, à droite, a vite lâché prise. A gauche, la Chenevelière Frédérique Geymon a écrasé la course féminine| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2203_050207.jpg
-.. |httpidataover-blogcom0120862-marie-claude-cras-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-marie-claude-cras-2007.jpg
-.. |httpidataover-blogcom0120862-xavier-cras-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-xavier-cras-2007.jpg
-.. |httpidataover-blogcom0120862-vincent-cras-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-vincent-cras-2007.jpg
+.. | Après sa démonstration hier sur le plateau de la Cras, le néo-Semurois Pascal Hays s'inscrit comme l'un des futurs grands spécialistes du cross dans la région (photos B. L.)| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2204_050207.jpg
+.. | Le Dijonnais Khalid Chahid, à droite, a vite lâché prise. A gauche, la Chenevelière Frédérique Geymon a écrasé la course féminine| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2203_050207.jpg
+.. |httpidataover-blogcom0120862-marie-claude-cras-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-marie-claude-cras-2007.jpg
+.. |httpidataover-blogcom0120862-xavier-cras-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-xavier-cras-2007.jpg
+.. |httpidataover-blogcom0120862-vincent-cras-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-vincent-cras-2007.jpg

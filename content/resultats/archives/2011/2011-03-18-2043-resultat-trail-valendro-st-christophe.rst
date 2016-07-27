@@ -31,5 +31,5 @@ Même si leur chronos ne sont pas à la hauteur de leur espérance, il est à no
 .. _PETITJEAN Benjamin: javascript:bddThrowAthlete('resultats',%2091846,%200)
 .. _LAUVERGNE Vincent: javascript:bddThrowAthlete('resultats',%20877950,%200)
 .. _BORNEL Veronique: javascript:bddThrowAthlete('resultats',%20183739,%200)
-.. |Trail-Valendro.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom195x3000120862coursescourses-2011trail-valendro-st-christophe-trail-valendro.jpg
-.. |Véro 2| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom210x3000120862coursescourses-2011trail-valendro-st-christophe-vero-2.jpg
+.. |Trail-Valendro.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom195x3000120862coursescourses-2011trail-valendro-st-christophe-trail-valendro.jpg
+.. |Véro 2| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom210x3000120862coursescourses-2011trail-valendro-st-christophe-vero-2.jpg

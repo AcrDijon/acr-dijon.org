@@ -28,4 +28,4 @@ Le restaurant est le Sagittaire 15 rue de la Liberté à Semur. Ce restaurant es
 
 **La réservation s'effectuera entre 20h30 et 21h00**
 
-.. |Semur.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015-semur.jpg
+.. |Semur.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015-semur.jpg

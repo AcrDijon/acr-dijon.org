@@ -22,5 +22,5 @@ Marc cognard  president du challenge a tout bien animé au micro en presence de
 
 **Le  rendez vous est  pris pour l'année prochaine:**
 
-.. |DSCN5339.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4490120862courses-2010challengeetoile-2010-dscn5339.JPG
-.. |DSCN5327.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3740120862courses-2010challengeetoile-2010-dscn5327.JPG
+.. |DSCN5339.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4490120862courses-2010challengeetoile-2010-dscn5339.JPG
+.. |DSCN5327.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3740120862courses-2010challengeetoile-2010-dscn5327.JPG

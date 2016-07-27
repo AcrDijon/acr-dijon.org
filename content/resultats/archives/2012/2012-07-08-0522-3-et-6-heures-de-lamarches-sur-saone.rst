@@ -25,5 +25,5 @@ L'intervention fut rapide, mais notre adhérent sombrant dans l'inconscience fut
 
 Nous reviendrons sur les résultats de cette épreuve, mais nous lui souhaitons un prompt rétablissement.
 
-.. |photo-andre-kotyla.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012ronde-des-etangs-photo-andre-kotyla.jpg
-.. |l-hydratation-etait-indispensable-compte-tenu-de-la-chaleur.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3790120862coursescourses-2012ronde-des-etangs-l-hydratation-etait-indispensable-compte-tenu-de-la-chaleur.jpg
+.. |photo-andre-kotyla.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012ronde-des-etangs-photo-andre-kotyla.jpg
+.. |l-hydratation-etait-indispensable-compte-tenu-de-la-chaleur.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3790120862coursescourses-2012ronde-des-etangs-l-hydratation-etait-indispensable-compte-tenu-de-la-chaleur.jpg

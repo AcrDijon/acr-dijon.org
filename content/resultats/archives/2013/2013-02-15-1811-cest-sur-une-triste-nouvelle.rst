@@ -21,4 +21,4 @@ Alain.
 
 La cérémonie aura lieu à Semur en Auxois mardi 19 février à 15 h 00."
 
-.. |Décès| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom221x3000120862diversdeces-deces.jpg
+.. |Décès| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom221x3000120862diversdeces-deces.jpg

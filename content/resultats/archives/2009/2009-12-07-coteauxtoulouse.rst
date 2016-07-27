@@ -6,7 +6,7 @@ Vincent Lauvergne dans les côteaux toulousains
 :location: Montlaur
 
 
-.. image:: http://assets.acr-dijon.org/vct.jpg
+.. image:: https://assets.acr-dijon.org/vct.jpg
 
 Tous les différents tests, examens et analyses subient cette semaine pour trouver la cause de ce dérèglement n'apportèrent jusqu'à aujourd'hui pas le moindre indice de réponse.
 

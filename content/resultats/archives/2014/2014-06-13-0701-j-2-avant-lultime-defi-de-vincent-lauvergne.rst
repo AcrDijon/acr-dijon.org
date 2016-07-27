@@ -16,4 +16,4 @@ Vous pourez suivre sa progression ainsi que celles des 36 concurrents au départ
 
 `https://sw3.solustop.com/index.php?get=yJ52TJxAGQejDDaB77nuy7cxLRURxZHl <https://sw3.solustop.com/index.php?get=yJ52TJxAGQejDDaB77nuy7cxLRURxZHl>`_
 
-.. |432_20111021225754_1000CarteFrance.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x6020120862coursescourses-2014-432_20111021225754_1000cartefrance.jpg
+.. |432_20111021225754_1000CarteFrance.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x6020120862coursescourses-2014-432_20111021225754_1000cartefrance.jpg

@@ -40,4 +40,4 @@ Krosa signifie crâne en cambodgien.
 
 |httpidataover-blogcom0120862-dscn5864.jpg|
 
-.. |httpidataover-blogcom0120862-dscn5864.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn5864.jpg
+.. |httpidataover-blogcom0120862-dscn5864.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn5864.jpg

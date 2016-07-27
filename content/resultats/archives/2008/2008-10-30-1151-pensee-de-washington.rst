@@ -11,8 +11,8 @@ Pensée de Washington...
 
 On y trouve également quantité de grands musées, notamment le long du `National Mall`_ , et la bibliothèque nationale des États-Unis, la `Bibliothèque du Congrès`_ .
 
-.. |Localisation de Washington, D.C.| image:: http://assets.acr-dijon.org/old/httpuploadwikimediaorgwikipediacommonsthumbdd2dc_locator_map_with_state_names_w_usmappng-240px-dc_locator_map_with_state_names_w_usmap.png
-.. |Sceau de Washington, D.C.| image:: http://assets.acr-dijon.org/old/httpuploadwikimediaorgwikipediacommonsthumb442seal-dcpng-100px-seal-dc.png
+.. |Localisation de Washington, D.C.| image:: https://assets.acr-dijon.org/old/httpuploadwikimediaorgwikipediacommonsthumbdd2dc_locator_map_with_state_names_w_usmappng-240px-dc_locator_map_with_state_names_w_usmap.png
+.. |Sceau de Washington, D.C.| image:: https://assets.acr-dijon.org/old/httpuploadwikimediaorgwikipediacommonsthumb442seal-dcpng-100px-seal-dc.png
 .. _|Localisation de Washington, D.C.|  |Sceau de Washington, D.C.|: http://srv05.admin.over-blog.com/wiki/Image:DC_locator_map_with_state_names_w_usmap.png
 .. _capitale: http://srv05.admin.over-blog.com/wiki/Capitale
 .. _États-Unis: http://srv05.admin.over-blog.com/wiki/%C3%89tats-Unis

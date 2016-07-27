@@ -54,4 +54,4 @@ Félicitations à tous, et plus particulièrement à Sandrine 1ère V1 Femme sur
 
 Félicitations à tous, et plus particulièrement à Sandrine 1ère V1 Femme sur le 8 km
 
-.. |Courses-2311.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom333x5000120862courses-courses-2311.JPG
+.. |Courses-2311.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom333x5000120862courses-courses-2311.JPG

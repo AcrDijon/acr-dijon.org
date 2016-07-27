@@ -17,6 +17,6 @@ La prise ou le renouvellement des licences est possible dés aujourd'hui.
 
 Les prochaines dates en ce qui concerne la piste ne sont  ... `en lire plus*`_
 
-.. |C'est la RENTREE| image:: http://assets.acr-dijon.org/old/httpffathleorgimagesactualitesespaces-act_4_12863_big.jpg
+.. |C'est la RENTREE| image:: https://assets.acr-dijon.org/old/httpffathleorgimagesactualitesespaces-act_4_12863_big.jpg
 .. _|C'est la RENTREE|: http://ligueauvergne.athle.com/asp/esp_actualites/act_dtl.asp?actid=12863
 .. _en lire plus*: http://ligueauvergne.athle.com/asp/esp_actualites/act_dtl.asp?actid=12863

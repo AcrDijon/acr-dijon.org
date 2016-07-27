@@ -10,5 +10,5 @@ Félicitation à notre ami Lionel qui une nouvelle fois réussit l'exploit de bo
 
 13h30, une vrai joie pour ce spécialiste de la piste. 
 
-.. image:: http://assets.acr-dijon.org/lionel.jpg
+.. image:: https://assets.acr-dijon.org/lionel.jpg
 

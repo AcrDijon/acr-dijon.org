@@ -45,4 +45,4 @@ Afin d'organiser au mieux ce déplacement et la journée, merci de me signaler l
 
 Prévoir le pique-nique pour le déjeuner du samedi et un couchage pour la nuit du samedi au dimanche.
 
-.. |httpidataover-blogcom0120862-profil-serra.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-profil-serra.jpg
+.. |httpidataover-blogcom0120862-profil-serra.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-profil-serra.jpg

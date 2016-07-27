@@ -16,4 +16,4 @@ Rendez-vous tous les dimanche à 9h00 au barrage du Lac Kir.Possibilté pour cer
 
 Pour ceux et celles préférant une sortie moins technique, le groupe de 10 heures sera toujours la pour votre plus grand plaisir.
 
-.. |Vincent3| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011trail-des-forts-de-besancon-vincent3.JPG
+.. |Vincent3| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011trail-des-forts-de-besancon-vincent3.JPG

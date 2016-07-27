@@ -7,7 +7,7 @@
 :eventdate: 2015-12-13
 
 
-.. image:: http://assets.acr-dijon.org/Chatilloncr2015.jpg
+.. image:: https://assets.acr-dijon.org/Chatilloncr2015.jpg
 
 2 Acristes se sont rendus  à **Chatillon Sur Seine**, pour participer au cross du Téléthon, là où se dérouleront les Championnats de Bourgogne de cross 2016 (et non 2015 comme indiqué sur l'affichette).
 

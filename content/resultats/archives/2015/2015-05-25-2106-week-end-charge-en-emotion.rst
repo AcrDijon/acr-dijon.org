@@ -46,6 +46,6 @@ Félicitations à eux.
 
 Après de telles émotions, une fondue sera la bienvenue
 
-.. |L'objectif d'1h20' maîtrisé pour Fabrice| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150525-ob_0f8d28_img-8891.jpg
-.. |Avant l'effort| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150525-ob_f48d67_11377266-10207167872181829-21800323955.jpg
-.. |Après de telles émotions, une fondue sera la bienvenue| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150525-ob_d1d67e_10411834-10207167866221680-47180976640.jpg
+.. |L'objectif d'1h20' maîtrisé pour Fabrice| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150525-ob_0f8d28_img-8891.jpg
+.. |Avant l'effort| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150525-ob_f48d67_11377266-10207167872181829-21800323955.jpg
+.. |Après de telles émotions, une fondue sera la bienvenue| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150525-ob_d1d67e_10411834-10207167866221680-47180976640.jpg

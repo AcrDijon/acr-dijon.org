@@ -23,4 +23,4 @@ Pour l’ACR Dijon,
 
 Jean-Marc CHIODIN
 
-.. |httpidataover-blogcom0120862-2.gif| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-2.gif
+.. |httpidataover-blogcom0120862-2.gif| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-2.gif

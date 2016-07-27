@@ -10,14 +10,14 @@ Jacques Pivot m'a fait passer les informations concernant les statistiques à ce
 
 |httpidataover-blogcom0120862-challenge-cross.jpg|
 
-.. |httpidataover-blogcom0120862-challenge-cross.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-challenge-cross.jpg
+.. |httpidataover-blogcom0120862-challenge-cross.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-challenge-cross.jpg
 
 
 |httpidataover-blogcom0120862-classement-cross-2007.jpg|
 
-.. |httpidataover-blogcom0120862-classement-cross-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-classement-cross-2007.jpg
+.. |httpidataover-blogcom0120862-classement-cross-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-classement-cross-2007.jpg
 
 
 |httpidataover-blogcom0120862-classement-club.jpg|
 
-.. |httpidataover-blogcom0120862-classement-club.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-classement-club.jpg
+.. |httpidataover-blogcom0120862-classement-club.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-classement-club.jpg

@@ -13,4 +13,4 @@ Par ailleurs, Jean-Christophe Dubard se classe 293e en 48'52 et Thomas Paget 304
 
 Bravo à tous les 4 pour nous avoir représenté.
 
-.. |P1000704| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012relais-toison-d-or-p1000704.JPG
+.. |P1000704| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012relais-toison-d-or-p1000704.JPG

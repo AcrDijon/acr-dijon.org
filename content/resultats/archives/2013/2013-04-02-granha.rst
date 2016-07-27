@@ -7,7 +7,7 @@ Résultat Trail du Grand Hâ
 
 
 
-.. image:: http://assets.acr-dijon.org/Ha.jpg
+.. image:: https://assets.acr-dijon.org/Ha.jpg
 
 118 coureurs pour ce 2ème Trails du Challenge Bourgogne Esprit Nature.
 

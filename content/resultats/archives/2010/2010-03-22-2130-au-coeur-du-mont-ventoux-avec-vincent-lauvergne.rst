@@ -34,4 +34,4 @@ Résultat: je termine 559 ème sur 616 en 6h53'  avec une entorse à la cheville
 
 Cela me ferait très plaisir d'accompagner Bertrand sur ces traces dans la nature sauvage mais me demande bien si c'est un Trail pour lui car les pentes sont très raides et les descentes usantes et très techniques, difficile de trouver un temps de repos, l'attention doit être présente du début à la fin. Mais si il décide de le faire tranquille histoire de passer du temps dans un cadre magnifique, je suis partant.
 
-.. |Logo-ventoux.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom353x5002294922-logo-ventoux.jpg
+.. |Logo-ventoux.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom353x5002294922-logo-ventoux.jpg

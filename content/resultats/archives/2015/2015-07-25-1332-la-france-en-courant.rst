@@ -25,4 +25,4 @@ Les coureurs et leurs accompagnateurs rejoindront ensuite la salle du Polygone, 
 
 Les sportifs locaux sont invités à constituer des équipes et rejoindre les relayeurs au départ de Seurre à mi-parcours vers 10 h.
 
-.. |Equipe Dominique Chauvelier| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150725-ob_d0fbbf_fec.jpg
+.. |Equipe Dominique Chauvelier| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150725-ob_d0fbbf_fec.jpg

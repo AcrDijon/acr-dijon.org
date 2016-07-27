@@ -14,6 +14,6 @@ Course remportée par **Augusto GOMES** en 1h03'18''
 
 Bravo à elle !
 
-.. image:: http://assets.acr-dijon.org/snlaur16.jpg
+.. image:: https://assets.acr-dijon.org/snlaur16.jpg
 
 *Laurentine à l'arrivée*

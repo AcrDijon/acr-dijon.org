@@ -13,4 +13,4 @@ Cross de Mirebeau
 
 Encore toutes nos félicitations.
 
-.. |P1000605| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011cross-de-talant-p1000605.JPG
+.. |P1000605| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011cross-de-talant-p1000605.JPG

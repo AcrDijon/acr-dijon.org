@@ -8,6 +8,6 @@ Trail de la montagne de la roche à Bourguignon les Morey (70)
 
 Dimanche 5 juin, Jean Louis Rabiet s'offre un podium de plus à son grand palmares.
 
-.. image:: http://assets.acr-dijon.org/jl.jpg
+.. image:: https://assets.acr-dijon.org/jl.jpg
 
 Ce dernier week end j'ai pris part à la 4ième édition du trail de la Montagne de la Roche à Bourguignon les Morey (70), trail de 13,5 km corsé, j'ai terminé 2 ieme  v4 en 1 h31 mn59

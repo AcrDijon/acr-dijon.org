@@ -7,7 +7,7 @@ Podium ACéRiste à Genève (Suisse)
 :eventdate: 2015-11-11
 
 
-.. image:: http://assets.acr-dijon.org/jeremygeneve.jpg
+.. image:: https://assets.acr-dijon.org/jeremygeneve.jpg
 
 
 

@@ -26,5 +26,5 @@ Cela ne se voit pas forcément, mais il s'éclate comme un ado notre Jean Christ
 
 **Félicitations à tous les 5**
 
-.. |JC.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015course-des-sapins-jc.jpg
-.. |image1.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2015course-des-sapins-image1.JPG
+.. |JC.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2015course-des-sapins-jc.jpg
+.. |image1.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2015course-des-sapins-image1.JPG

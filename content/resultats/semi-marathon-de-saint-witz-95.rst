@@ -8,12 +8,12 @@ Semi-Marathon de Saint-Witz (95)
 
 **Philippe Bassand** était dans le Val d'Oise ce samedi, où il a participé au Semi-Marathon de **Saint-Witz**.
 
-.. image:: http://assets.acr-dijon.org/stwitztopo.png
+.. image:: https://assets.acr-dijon.org/stwitztopo.png
 
 622 classés / Course remportée par **Mehdi Akaouch** (AS Pierrefite) en 1h11'05''
 
 Performances de Philippe ci dessous :
 
-.. image:: http://assets.acr-dijon.org/stwitz2016.jpg
+.. image:: https://assets.acr-dijon.org/stwitz2016.jpg
 
 **Bravo à lui !**

@@ -39,4 +39,4 @@ Très belle performance de **Pierre Audin, 19ème en 2h54'33"**
 
 - **Tarek Ziadé, 71ème en 1h56'55"**
 
-.. |Résultat du week end en bref| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150413-ob_aa5df9_photo-philippe-trias.jpg
+.. |Résultat du week end en bref| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150413-ob_aa5df9_photo-philippe-trias.jpg

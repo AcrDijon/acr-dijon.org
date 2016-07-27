@@ -13,4 +13,4 @@ Organisées par le Magasin DECATHLON de Quétigny, les Foulées DECATHLON se son
 Partenaire de cette opération, notre club a démontré une efficacité et une disponibilité particulièrement appréciée par les organisateurs. Un grand merci aux Acéristes présents dès 8 h 15 sur le site, d'autant que les conditions athmosphèriques "frisquettes" incitaient plutôt à une douillette grasse matinée.
 Rendez-vous est d'ores et déjà donné pour la prochaine édition. 
 
-.. image:: http://assets.acr-dijon.org/fouleesdecathlon.JPG
+.. image:: https://assets.acr-dijon.org/fouleesdecathlon.JPG

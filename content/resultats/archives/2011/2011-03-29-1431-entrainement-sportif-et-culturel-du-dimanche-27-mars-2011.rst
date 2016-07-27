@@ -25,4 +25,4 @@ Encore une sortie enrichissante qui nous a permis de bien décompresser, bonne s
 
 |photo-Severine.png| S.C.
 
-.. |photo-Severine.png| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-photo-severine.png
+.. |photo-Severine.png| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-photo-severine.png

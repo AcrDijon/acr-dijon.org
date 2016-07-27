@@ -12,7 +12,7 @@ Les participants ont joué le jeu et, pour la plupart, se sont livrés à fond, 
 
 Si la participation des coureurs était nécessaire à la réussite de l'événement, n'oublions pas ceux qui ont assuré la logistique : **Mag'**, **Didier Belleville**, **Jean Louis Rabiet**, **Benoît Sureau** et **Eric Marillier**, pour le fléchage du parcours, le signalement, le chronométrage, le pointage, les photos, le ravitaillement et, bien entendu, les encouragements !
 
-.. image:: http://assets.acr-dijon.org/fouleeacr161.jpg
+.. image:: https://assets.acr-dijon.org/fouleeacr161.jpg
 
 *Le départ vient d'être donné ! Tout le monde est là ?*
 
@@ -44,7 +44,7 @@ Non pointé(e)s :
 
 
 
-.. image:: http://assets.acr-dijon.org/fouleeacr162.jpg
+.. image:: https://assets.acr-dijon.org/fouleeacr162.jpg
 
 *Claire, toujours le sourire dans l'effort !*
 
@@ -63,6 +63,6 @@ Non pointé(e)s :
 - **Aurélie RAVAUD** et **Sandrine CABIJOS** : 31'30''
 
 
-.. image:: http://assets.acr-dijon.org/fouleeacr2016.jpg
+.. image:: https://assets.acr-dijon.org/fouleeacr2016.jpg
 
 **Bravo à toutes et à tous pour cette première réussie, en attendant une nouvelle édition l'année prochaine, on l'espère !**

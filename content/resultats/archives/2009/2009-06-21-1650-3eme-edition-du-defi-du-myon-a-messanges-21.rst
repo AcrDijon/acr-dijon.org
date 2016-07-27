@@ -27,5 +27,5 @@ Très belle journée.
 
 >>> `tous les classements sur le blog de Côte et Sport <http://cote-et-sport.over-blog.com/>`_
 
-.. |httpidataover-blogcom0120862photos-myon2009bp.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-myon2009bp.jpg
-.. |httpidataover-blogcom0120862photos-myon2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-myon2009.jpg
+.. |httpidataover-blogcom0120862photos-myon2009bp.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-myon2009bp.jpg
+.. |httpidataover-blogcom0120862photos-myon2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-myon2009.jpg

@@ -44,4 +44,4 @@ L'association ou le club le plus représenté se verra remettre une coupe.
 De nombreux lots seront tirés au sort pendant la remise des résultats.
 VIII - Tout concurrent reconnaît avoir pris connaissance du présent règlement et en accepter toutes les clauses.
 
-.. |httpidataover-blogcom0120862-pub_lac_lir.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pub_lac_lir.jpg
+.. |httpidataover-blogcom0120862-pub_lac_lir.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pub_lac_lir.jpg

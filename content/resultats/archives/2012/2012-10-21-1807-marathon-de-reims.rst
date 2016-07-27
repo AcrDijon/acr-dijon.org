@@ -16,4 +16,4 @@ Notre ami finit 587ème sur 883 concurents en 4h14'03" (temps officiel)
 
 |ratj1.jpg|
 
-.. |ratj1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4280120862coursescourses-2012-ratj1.jpg
+.. |ratj1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4280120862coursescourses-2012-ratj1.jpg

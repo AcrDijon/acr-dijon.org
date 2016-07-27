@@ -42,6 +42,6 @@ Il se classe cependant 75ème sur 83, écopant de la pénalité maximum pour la 
 
 |Trail-des-3-chateaux.jpg|
 
-.. |Bletterans-0395.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013bletterans-bletterans-0395.JPG
-.. |Bletterans-0391.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013bletterans-bletterans-0391.JPG
-.. |Trail-des-3-chateaux.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2020120862coursescourses-2013-trail-des-3-chateaux.jpg
+.. |Bletterans-0395.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013bletterans-bletterans-0395.JPG
+.. |Bletterans-0391.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2013bletterans-bletterans-0391.JPG
+.. |Trail-des-3-chateaux.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2020120862coursescourses-2013-trail-des-3-chateaux.jpg

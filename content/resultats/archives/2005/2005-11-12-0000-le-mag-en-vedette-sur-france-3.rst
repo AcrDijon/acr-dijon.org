@@ -14,4 +14,4 @@ Quoiqu'il en soit, mon bon Jean-claude, nous t'en voulons pas et je suis sûr qu
 
 Quelqu'un me disait hier qu'on entendait souvent parler de l' ACR Dijon...sûrement car il y a des passionnés comme toi dans les pelotons et autour des évènements du coin...Rassures moi, "Mag", tu avais bien le maillot du club pour la télévision...
 
-.. |httpidataover-blogcom0120862le-bien-public-2005-j-claude-maguer.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862le-bien-public-2005-j-claude-maguer.jpg
+.. |httpidataover-blogcom0120862le-bien-public-2005-j-claude-maguer.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862le-bien-public-2005-j-claude-maguer.jpg

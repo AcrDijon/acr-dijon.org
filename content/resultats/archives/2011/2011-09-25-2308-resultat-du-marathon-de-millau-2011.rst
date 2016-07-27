@@ -16,4 +16,4 @@ Notre adhérent Franck Jouffroy est celui qui s'en tire le mieux de ce week end
 
 Quand à **Didier** , il lutta dans la souffrance pour boucler ce Marathon en **4h36'48"** .
 
-.. |Didier et Franck| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3260120862coursescourses-2011100-km-de-millau-didier-et-franck.jpg
+.. |Didier et Franck| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3260120862coursescourses-2011100-km-de-millau-didier-et-franck.jpg

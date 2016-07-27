@@ -22,7 +22,7 @@ Une fois n'est pas coutûme, Jean Louis réussi brillament.
  2ème V4.
  
  
-.. image:: http://assets.acr-dijon.org/jlr.JPG
+.. image:: https://assets.acr-dijon.org/jlr.JPG
 
 
 - 1 	29'48'' 	NDUWIMANA Willy (BDI) 	As Rispoli Villeurbanne

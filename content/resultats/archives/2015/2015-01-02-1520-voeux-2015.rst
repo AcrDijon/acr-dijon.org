@@ -22,4 +22,4 @@ Alors Bonne Année 2015
 
 **Alain**
 
-.. |voeux-copie-1| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom400x5660120862coursescourses-2015-voeux-copie-1.jpg
+.. |voeux-copie-1| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom400x5660120862coursescourses-2015-voeux-copie-1.jpg

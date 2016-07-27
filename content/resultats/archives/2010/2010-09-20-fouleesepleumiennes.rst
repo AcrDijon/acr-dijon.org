@@ -8,7 +8,7 @@ Foulées épleumiennes à St Apollinaire / résultats
 :eventdate: 2010-09-18
 
 
-.. image:: http://assets.acr-dijon.org/stapo10.jpg
+.. image:: https://assets.acr-dijon.org/stapo10.jpg
 
   
 

@@ -10,4 +10,4 @@ Pour la course de l'escalade, attention reste 2 jours
 
 Rendez vous vite sur leur site en cliquant `ici <http://www.escalade.ch/cms/>`_ .
 
-.. |bandeau-escalade.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x1400120862affiche-bandeau-escalade.jpg
+.. |bandeau-escalade.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x1400120862affiche-bandeau-escalade.jpg

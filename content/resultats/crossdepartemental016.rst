@@ -7,7 +7,7 @@ Départementaux de Cross 21
 :eventdate: 2016-01-10
 
 
-.. image:: http://assets.acr-dijon.org/IMG4381.jpg
+.. image:: https://assets.acr-dijon.org/IMG4381.jpg
 
 C'est sur le campus universitaire de **Dijon**, à côté du **Stade Colette Besson**, que se sont déroulés, cette année, les **Championnats Départementaux de Cross Country**.
 

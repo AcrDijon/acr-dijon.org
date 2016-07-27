@@ -37,4 +37,4 @@ Présence vivement souhaitée .
 
 Apéritif dînatoire en fin de séance .
 
-.. |reunion.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2230120862bertrand-reunion.jpg
+.. |reunion.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2230120862bertrand-reunion.jpg

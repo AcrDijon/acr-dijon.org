@@ -127,7 +127,7 @@ Victoire chez les minimes de Xavier MANGELAERS-PIVOT qui a parcouru les 2 400 m 
 
 Merci de me signaler toute erreur ou omission. Les photos et récits de course sont les bienvenus !
 
-.. |httpidataover-blogcom0120862automne-2006-bienpublic2006_5.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-bienpublic2006_5.jpg
-.. |httpidataover-blogcom0120862automne-2006-bienpublic06-3.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-bienpublic06-3.jpg
-.. |httpidataover-blogcom0120862automne-2006-bienpublic06-2.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-bienpublic06-2.jpg
-.. |httpidataover-blogcom0120862automne-2006-bienpublic06-6.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-bienpublic06-6.jpg
+.. |httpidataover-blogcom0120862automne-2006-bienpublic2006_5.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-bienpublic2006_5.jpg
+.. |httpidataover-blogcom0120862automne-2006-bienpublic06-3.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-bienpublic06-3.jpg
+.. |httpidataover-blogcom0120862automne-2006-bienpublic06-2.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-bienpublic06-2.jpg
+.. |httpidataover-blogcom0120862automne-2006-bienpublic06-6.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-bienpublic06-6.jpg

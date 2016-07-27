@@ -16,6 +16,6 @@ Toutes nos pensées se tournent vers notre très cher Jean-Louis pour le souteni
 
 Le bureau de l'ACR
 
-.. image:: http://assets.acr-dijon.org/ajl.jpg
+.. image:: https://assets.acr-dijon.org/ajl.jpg
 
 *Andrée et Jean-Louis*

@@ -13,4 +13,4 @@ Dans la course minimes, Xavier prend une méritante 2ème place, à 2 petites se
 
 |httpidataover-blogcom0120862-genod-2007.jpg|
 
-.. |httpidataover-blogcom0120862-genod-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-genod-2007.jpg
+.. |httpidataover-blogcom0120862-genod-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-genod-2007.jpg

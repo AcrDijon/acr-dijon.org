@@ -15,4 +15,4 @@ L’inscription à la Pasta Party peut se faire soit en ligne, en même temps qu
 
 Contact : Fred
 
-.. |httpidataover-blogcom0120862-logo_annecy.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-logo_annecy.jpg
+.. |httpidataover-blogcom0120862-logo_annecy.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-logo_annecy.jpg

@@ -15,4 +15,4 @@ L'ACR y avait un stand,tenu par des membres du bureau et autres adhérents volon
 
 |P10505121.JPG|
 
-.. |P10505121.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862courses-p10505121.JPG
+.. |P10505121.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862courses-p10505121.JPG

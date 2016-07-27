@@ -22,5 +22,5 @@ Tous les renseignements en contactant Jean-Marc CHIODIN au 06.25.91.16.64
 
 |httpidataover-blogcom0120862-affiche-championnats-cross.jpg|
 
-.. |httpidataover-blogcom0120862-affiche-2.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-affiche-2.jpg
-.. |httpidataover-blogcom0120862-affiche-championnats-cross.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-affiche-championnats-cross.jpg
+.. |httpidataover-blogcom0120862-affiche-2.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-affiche-2.jpg
+.. |httpidataover-blogcom0120862-affiche-championnats-cross.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-affiche-championnats-cross.jpg

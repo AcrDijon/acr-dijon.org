@@ -32,4 +32,4 @@ et **Marie Laure Léonard** , **26ème en 26'19"**  sur 73 classés.
 
 Félicitations à tous
 
-.. |L'entraînement finit toujours par payer.| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150428-ob_85415c_img-20150426-1325001.jpg
+.. |L'entraînement finit toujours par payer.| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150428-ob_85415c_img-20150426-1325001.jpg

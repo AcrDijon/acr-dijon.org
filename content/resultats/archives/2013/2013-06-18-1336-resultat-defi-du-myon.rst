@@ -22,4 +22,4 @@ Résultat Défi du Myon
   	  	  	 
 - 108 	Nicolas Nectoux 	01:46:05 	
 
-.. |mangelaers-pivot-a-garde-une-vingtaine-de-secondes-d-avance.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-mangelaers-pivot-a-garde-une-vingtaine-de-secondes-d-avance.jpg
+.. |mangelaers-pivot-a-garde-une-vingtaine-de-secondes-d-avance.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-mangelaers-pivot-a-garde-une-vingtaine-de-secondes-d-avance.jpg

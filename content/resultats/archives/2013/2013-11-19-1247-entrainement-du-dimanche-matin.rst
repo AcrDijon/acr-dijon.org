@@ -13,4 +13,4 @@ C'est dans le plus grand sérieux que nos adhérents se sont aventurés sur la L
 
 En attendant vous retrouver nombreux le samedi 7 décembre pour la course des lumières organisée par l'AC Talant.
 
-.. |DSCN9764.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2013-dscn9764.JPG
+.. |DSCN9764.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2013-dscn9764.JPG

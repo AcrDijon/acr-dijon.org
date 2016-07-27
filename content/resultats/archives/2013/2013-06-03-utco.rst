@@ -5,7 +5,7 @@ UTCO
 :category: Résultats
 :location: Marsannay La Côte
 
-.. image:: http://assets.acr-dijon.org/utco13.jpg
+.. image:: https://assets.acr-dijon.org/utco13.jpg
 
 105 km 	  	 
   	  	  	 

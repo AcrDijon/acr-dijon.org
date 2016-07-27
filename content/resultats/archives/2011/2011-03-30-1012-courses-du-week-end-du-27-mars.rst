@@ -88,6 +88,6 @@ Lire dès ce soir sur son blog le commentaire de Bertrand sur sa course.
 
 Bravos et félicitations à tous.
 
-.. |Chalon2009_0303.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2430120862chalon2009-chalon2009_0303.jpg
-.. |Trail-du-Ventoux.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2340120862coursescourses-2011trail-du-ventoux-trail-du-ventoux.JPG
-.. |Chalon2009_0066.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862chalon2009-chalon2009_0066.jpg
+.. |Chalon2009_0303.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2430120862chalon2009-chalon2009_0303.jpg
+.. |Trail-du-Ventoux.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2340120862coursescourses-2011trail-du-ventoux-trail-du-ventoux.JPG
+.. |Chalon2009_0066.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862chalon2009-chalon2009_0066.jpg

@@ -13,6 +13,6 @@ Ceux qui souhaitent plus de détails peuvent obtenir les informations auprés de
 
 |httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg|  |httpidataover-blogcom0120862tenues-acr-dijon-2007-shorty-timer-acr-dijon.jpg|  |httpidataover-blogcom0120862tenues-acr-dijon-2007-veste-coupe-vent-na-o-acr-dijon.jpg|
 
-.. |httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg
-.. |httpidataover-blogcom0120862tenues-acr-dijon-2007-shorty-timer-acr-dijon.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862tenues-acr-dijon-2007-shorty-timer-acr-dijon.jpg
-.. |httpidataover-blogcom0120862tenues-acr-dijon-2007-veste-coupe-vent-na-o-acr-dijon.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862tenues-acr-dijon-2007-veste-coupe-vent-na-o-acr-dijon.jpg
+.. |httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg
+.. |httpidataover-blogcom0120862tenues-acr-dijon-2007-shorty-timer-acr-dijon.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862tenues-acr-dijon-2007-shorty-timer-acr-dijon.jpg
+.. |httpidataover-blogcom0120862tenues-acr-dijon-2007-veste-coupe-vent-na-o-acr-dijon.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862tenues-acr-dijon-2007-veste-coupe-vent-na-o-acr-dijon.jpg

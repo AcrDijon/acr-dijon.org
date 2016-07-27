@@ -21,4 +21,4 @@ Nous espérons vous compter parmi les 700 coureurs le 11 octobre.
 
 **Daniel HRZINA pour L'équipe d'organisation**
 
-.. |httpidataover-blogcom0120862photos-logo_dac.gif| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-logo_dac.gif
+.. |httpidataover-blogcom0120862photos-logo_dac.gif| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-logo_dac.gif

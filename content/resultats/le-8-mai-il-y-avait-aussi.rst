@@ -8,7 +8,7 @@ Le 8 mai, il y avait aussi...
 
 **Semi-Marathon de TROYES (10)**
 
-.. image:: http://assets.acr-dijon.org/smtroyes16.jpg
+.. image:: https://assets.acr-dijon.org/smtroyes16.jpg
 
 Deux membres de notre club se sont rendus dans l'Aube, pour le Semi-Marathon de Troyes.
 

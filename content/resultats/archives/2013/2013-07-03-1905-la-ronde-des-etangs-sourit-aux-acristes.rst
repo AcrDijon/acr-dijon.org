@@ -40,4 +40,4 @@ A noter que votre présence nous permet de gagner le Challenge du nombre.
 
 PS : Si vous souhaitez cette photo ou d'autres, n'hésitez pas à aller faire un tour sur le site de Nicolas Goisque ( `http://niko-ngoisque.blogspot.fr/ <http://niko-ngoisque.blogspot.fr/>`_ ).
 
-.. |Lamarche.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2013-lamarche.jpg
+.. |Lamarche.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2013-lamarche.jpg

@@ -10,7 +10,7 @@ Marathon du Vignoble d'Alsace
 
 Il s'est classé 138e/811 en 3h52'26'' (chrono du vainqueur : 2h48'35'').
 
-.. image:: http://assets.acr-dijon.org/alsace2016.jpg
+.. image:: https://assets.acr-dijon.org/alsace2016.jpg
 
 *Philippe et sa foulée aérienne*
 

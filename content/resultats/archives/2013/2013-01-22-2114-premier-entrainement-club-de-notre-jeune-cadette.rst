@@ -22,5 +22,5 @@ Notre jeune cadette s'est rapidement soudée, puis a apprécié l'esprit qui rè
 
 |Séance d'étirement|
 
-.. |100 0743| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2013-100_0743.JPG
-.. |Séance d'étirement| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2720120862entrainement2013-seance-d-etirement.jpg
+.. |100 0743| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2013-100_0743.JPG
+.. |Séance d'étirement| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2720120862entrainement2013-seance-d-etirement.jpg

@@ -16,4 +16,4 @@ Benoit, quand à lui à une fracture de la rotule, aux arrêts pendant 1 mois.
 
 Ce début de saison commence déjà fort, mais cela ne nous empêche pas de continuer courir. On pense bien à vous, revenez au meilleur de votre forme.
 
-.. |Relais Morre Besancon 08| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4090120862photos-relais-morre-besancon-08.jpg
+.. |Relais Morre Besancon 08| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4090120862photos-relais-morre-besancon-08.jpg

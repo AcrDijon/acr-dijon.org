@@ -103,6 +103,6 @@ TOUTES PERSONNES SOUFFRANTES D'ALTRUISME AIGU OU ATTEINTES D'HUMANISME PRONONCE 
 
 L'intégralité des dons sera reversée à l'Association Française contre les Myopathies ( A.F.M)
 
-.. |httpidataover-blogcom0120862bertrand-telethon-logo.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-telethon-logo.jpg
-.. |httpidataover-blogcom0120862bertrand-telethon-recherche.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-telethon-recherche.jpg
-.. |httpidataover-blogcom0120862bertrand-telethon-1.gif| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-telethon-1.gif
+.. |httpidataover-blogcom0120862bertrand-telethon-logo.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-telethon-logo.jpg
+.. |httpidataover-blogcom0120862bertrand-telethon-recherche.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-telethon-recherche.jpg
+.. |httpidataover-blogcom0120862bertrand-telethon-1.gif| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-telethon-1.gif

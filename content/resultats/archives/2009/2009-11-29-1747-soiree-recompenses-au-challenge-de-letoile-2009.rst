@@ -42,6 +42,6 @@ Pour les amateurs de photos , retrouvez les photos souvenirs de cette soirée en
 |httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-podium-jeunes.jpg| 
 |httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-pierre-podium-v-t-ran-1.jpg|
 
-.. |httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-tout-le-monde-coute.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-tout-le-monde-coute.jpg
-.. |httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-podium-jeunes.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-podium-jeunes.jpg
-.. |httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-pierre-podium-v-t-ran-1.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-pierre-podium-v-t-ran-1.jpg
+.. |httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-tout-le-monde-coute.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-tout-le-monde-coute.jpg
+.. |httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-podium-jeunes.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-podium-jeunes.jpg
+.. |httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-pierre-podium-v-t-ran-1.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862r-compenses-du-challenge-de-l-toile-2009-pierre-podium-v-t-ran-1.jpg

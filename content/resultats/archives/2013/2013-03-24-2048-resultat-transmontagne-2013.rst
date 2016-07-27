@@ -61,6 +61,6 @@ Transmontagne 26 km
 
 |Vannessa|
 
-.. |guillaume| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom233x3000120862coursescourses-2013transmontagne-guillaume.jpg
-.. |Matthieu et moi au départ| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom246x3000120862coursescourses-2013transmontagne-matthieu-et-moi-au-depart.jpg
-.. |Vannessa| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2850120862coursescourses-2013transmontagne-vannessa.jpg
+.. |guillaume| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom233x3000120862coursescourses-2013transmontagne-guillaume.jpg
+.. |Matthieu et moi au départ| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom246x3000120862coursescourses-2013transmontagne-matthieu-et-moi-au-depart.jpg
+.. |Vannessa| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2850120862coursescourses-2013transmontagne-vannessa.jpg

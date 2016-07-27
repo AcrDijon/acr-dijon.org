@@ -47,5 +47,5 @@ Semi de Beaune
 
 Félicitations à tous.
 
-.. |Jean-Louis.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x2810120862coursescourses-2015beaune-jean-louis.jpg
-.. |Marine| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x2810120862coursescourses-2015beaune-marine.jpg
+.. |Jean-Louis.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x2810120862coursescourses-2015beaune-jean-louis.jpg
+.. |Marine| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x2810120862coursescourses-2015beaune-marine.jpg

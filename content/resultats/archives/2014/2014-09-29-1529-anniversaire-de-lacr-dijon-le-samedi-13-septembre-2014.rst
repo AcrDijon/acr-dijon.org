@@ -22,4 +22,4 @@ Cette excellente soirée s’est poursuivie par la présentation des superbes da
 
 Enfin, le directeur du cabaret a remercié tous les convives et les a invités à profiter de la scène pour d’abord, côtoyer les artistes et ensuite, danser jusqu’à la fermeture effective de l’établissement à 2 heures du matin.
 
-.. |didier| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4350120862coursescourses-2014-didier.jpg
+.. |didier| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4350120862coursescourses-2014-didier.jpg

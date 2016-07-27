@@ -25,4 +25,4 @@ Retour au barrage.
 
 Remerciement aux 2 co-organisateurs de cette sortie d'environ 16 km.
 
-.. |DSCN2626| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862entrainement2011-dscn2626.JPG
+.. |DSCN2626| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862entrainement2011-dscn2626.JPG

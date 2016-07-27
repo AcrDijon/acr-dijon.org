@@ -47,14 +47,14 @@ Classement individuel de Tous les ACRistes (186 concurrents au total)
 
 
 
-.. image:: http://assets.acr-dijon.org/hautescotes111.JPG
+.. image:: https://assets.acr-dijon.org/hautescotes111.JPG
 
 1ère place pour l'équipe mixte ACR'Affinity
 
 (Romain Marteau, Alxandra Poli, Sophie Rabiet, Séverine Colliot, Grégory Mathon et Christophe Melot) 
 
 
-.. image:: http://assets.acr-dijon.org/hautescotes112.JPG
+.. image:: https://assets.acr-dijon.org/hautescotes112.JPG
 
 2ème place pour l'ACR'Express
 

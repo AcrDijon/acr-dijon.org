@@ -25,4 +25,4 @@ Félicitations à nos 6 ACRistes qui ont brillament couru ce " Cross " de Beaune
 
 |Courses-2015-2463.JPG|
 
-.. |Courses-2015-2463.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2015-courses-2015-2463.JPG
+.. |Courses-2015-2463.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2015-courses-2015-2463.JPG

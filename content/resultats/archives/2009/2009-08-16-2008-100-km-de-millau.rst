@@ -9,4 +9,4 @@
 
 Contact sur le blog ou auprès de `Vincent <mailto:antonymontana2@orange.fr>`_ .
 
-.. |httpidataover-blogcom0120862photos-100kmmillau2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-100kmmillau2009.jpg
+.. |httpidataover-blogcom0120862photos-100kmmillau2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-100kmmillau2009.jpg

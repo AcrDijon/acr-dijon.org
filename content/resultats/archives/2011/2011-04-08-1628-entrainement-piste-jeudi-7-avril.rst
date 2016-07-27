@@ -25,5 +25,5 @@ Merci à la Municipalité de Plombières-les-Dijon, et bien sûr aux acèristes 
 
 Alain
 
-.. |P1030529.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2011piste-p1030529.jpg
-.. |P1030556| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2011piste-p1030556.jpg
+.. |P1030529.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2011piste-p1030529.jpg
+.. |P1030556| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862entrainement2011piste-p1030556.jpg

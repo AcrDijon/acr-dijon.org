@@ -43,4 +43,4 @@ Corrida de Chaussin :
 
 **Jérémie Maguer** , **29ème en 21'55"**  et **Gérard Goeury** , **34ème en 23'10" et 2ème V3**
 
-.. |1796481_379184828914149_7864550232567597489_n.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3950120862coursescourses-2015-1796481_379184828914149_7864550232567597489_n.jpg
+.. |1796481_379184828914149_7864550232567597489_n.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3950120862coursescourses-2015-1796481_379184828914149_7864550232567597489_n.jpg

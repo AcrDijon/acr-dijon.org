@@ -25,5 +25,5 @@ Jean-Paul MARCHAND
 5 km. - Hommes : 1. Bigaret ; 2. Panetier ; 3. Bilon. Femmes : 1.Clerc ; 2. Brelaud ; 3. Mazoyer et Margarito.
 10 km. - Hommes : 1. Petitjean ; 2. Lahrifi ; 3. Korolev ; 4. Rémond R. ; 5. Vassard. Femmes : 1. Clément ; 2. Colabella ; 3. Jaffory.
 
-.. | Les femmes furent à l'honneur pour ce grand événement que constitue la lutte contre le cancer (photos Arnaud Finistre)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1004_250607.jpg
-.. | Sur 10 km, la lutte a été serrée parmi les favoris. Le Russe Dimitri Korolev (dossard 1463) est ici suivi par le vainqueur Benjamin Petitjean (deuxième en partant de la droite)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1005_250607.jpg
+.. | Les femmes furent à l'honneur pour ce grand événement que constitue la lutte contre le cancer (photos Arnaud Finistre)| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1004_250607.jpg
+.. | Sur 10 km, la lutte a été serrée parmi les favoris. Le Russe Dimitri Korolev (dossard 1463) est ici suivi par le vainqueur Benjamin Petitjean (deuxième en partant de la droite)| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1005_250607.jpg

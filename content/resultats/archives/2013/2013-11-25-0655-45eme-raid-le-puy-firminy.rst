@@ -30,4 +30,4 @@ Les descentes vont s'avérer un véritable calvaire. Pouvant à peine poser le p
 
 Objectif atteint.
 
-.. |Raid-Le-Puy-Firminy.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-raid-le-puy-firminy.jpg
+.. |Raid-Le-Puy-Firminy.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-raid-le-puy-firminy.jpg

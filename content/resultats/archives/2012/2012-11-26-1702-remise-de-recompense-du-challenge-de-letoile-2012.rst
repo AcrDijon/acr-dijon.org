@@ -28,4 +28,4 @@ Félicitations à tous les participants et particulièrement aux 6 athlètes du 
 
 **Jacques Pivot 2ème V4**
 
-.. |DSCN8814| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2012challenge-etoile-dscn8814.JPG
+.. |DSCN8814| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2012challenge-etoile-dscn8814.JPG

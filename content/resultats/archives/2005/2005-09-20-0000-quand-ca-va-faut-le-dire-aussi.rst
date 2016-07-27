@@ -19,4 +19,4 @@ En tout cas, le groupe est bien sympathique et la bonne humeur règne.
 
 Alors , continuons comme celà...
 
-.. |httpimageslegifcomlocalsportathletisme-09e6a4080876f3d70b05529e43b45b7a.php| image:: http://assets.acr-dijon.org/old/httpimageslegifcomlocalsportathletisme-09e6a4080876f3d70b05529e43b45b7a.php
+.. |httpimageslegifcomlocalsportathletisme-09e6a4080876f3d70b05529e43b45b7a.php| image:: https://assets.acr-dijon.org/old/httpimageslegifcomlocalsportathletisme-09e6a4080876f3d70b05529e43b45b7a.php

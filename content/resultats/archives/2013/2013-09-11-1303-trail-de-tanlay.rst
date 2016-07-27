@@ -19,4 +19,4 @@ Podium pour notre adhérent pour finir dernier de ce Trail des plus sympa dans l
 
 A découvrir...
 
-.. |Trail-de-Tanlay.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862coursescourses-2013-trail-de-tanlay.jpg
+.. |Trail-de-Tanlay.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862coursescourses-2013-trail-de-tanlay.jpg

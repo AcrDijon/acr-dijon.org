@@ -41,4 +41,4 @@ Fabrice HEURET. ACR Dijon
 
 On compte sur Vous, alors si vous voulez profiter de la chaleureuse ambiance et de la convivialité qui sont les faire valoir de notre club...Nous sommes certains que vous serez des notres.
 
-.. |Sortie Marathon Relais| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150515-ob_5f0c13_img-0663.JPG
+.. |Sortie Marathon Relais| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150515-ob_5f0c13_img-0663.JPG

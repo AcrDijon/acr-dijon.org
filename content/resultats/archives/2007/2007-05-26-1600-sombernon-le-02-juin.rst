@@ -14,5 +14,5 @@ Allez nombreux sur les parcours mis en place par le DUC Sombernon...
 
 |httpidataover-blogcom0120862-sombernon-2007.jpg|
 
-.. |httpidataover-blogcom0120862-sombernon-2007-2.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-sombernon-2007-2.jpg
-.. |httpidataover-blogcom0120862-sombernon-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-sombernon-2007.jpg
+.. |httpidataover-blogcom0120862-sombernon-2007-2.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-sombernon-2007-2.jpg
+.. |httpidataover-blogcom0120862-sombernon-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-sombernon-2007.jpg

@@ -137,6 +137,6 @@ N'hésitez pas à nous transmettre vos résultats, photos et récits de course.
 
 **A venir ... le bilan des courses régionales**
 
-.. |httpidataover-blogcom0120862automne-2006-millau100.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-millau100.jpg
-.. |httpidataover-blogcom0120862automne-2006-millau-seb.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-millau-seb.jpg
-.. |httpidataover-blogcom0120862automne-2006-jp-larochelle.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-jp-larochelle.jpg
+.. |httpidataover-blogcom0120862automne-2006-millau100.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-millau100.jpg
+.. |httpidataover-blogcom0120862automne-2006-millau-seb.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-millau-seb.jpg
+.. |httpidataover-blogcom0120862automne-2006-jp-larochelle.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-jp-larochelle.jpg

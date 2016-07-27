@@ -47,4 +47,4 @@ Semi et marathon d'Annecy 2010
 
 RETROUVEZ QUELQUES PHOTOS EN ALBUM PHOTOS PRISES PAR MAHFOUD
 
-.. |tous préparés à la gagne| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862annecy-semi-et-marathon-2010-tous-prepares-a-la-gagne.JPG
+.. |tous préparés à la gagne| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862annecy-semi-et-marathon-2010-tous-prepares-a-la-gagne.JPG

@@ -29,5 +29,5 @@ Féliciations à tous les 3.
 
 |10 km de Courir en Bourgogne du Sud|
 
-.. |José Kolton guide Sylvain Fanton| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150505-ob_1d4a9f_1.jpg
-.. |10 km de Courir en Bourgogne du Sud| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150505-ob_7993f9_2.jpg
+.. |José Kolton guide Sylvain Fanton| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150505-ob_1d4a9f_1.jpg
+.. |10 km de Courir en Bourgogne du Sud| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150505-ob_7993f9_2.jpg

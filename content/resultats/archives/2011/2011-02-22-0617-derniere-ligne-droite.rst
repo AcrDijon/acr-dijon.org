@@ -22,4 +22,4 @@ Que pouvons nous espérer de plus de la place de ces coureurs émerites taillés
 
 "Je suis fier de pouvoir les côtoyer au quotidien, ceux qui marqueront à jamais, les anales du Cross en Bourgogne."
 
-.. |DSCN5546| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862coursescourses-2011regionaux-cross-dscn5546.JPG
+.. |DSCN5546| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862coursescourses-2011regionaux-cross-dscn5546.JPG

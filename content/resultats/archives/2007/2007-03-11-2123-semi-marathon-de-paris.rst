@@ -19,4 +19,4 @@ Classement scratch : 1. J. MAREGU (SH) Kenya 1h00’22 ‘’. 2. S. KIPLAGAT (
 
 
 
-.. |httpidataover-blogcom0120862-dscn0011.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn0011.jpg
+.. |httpidataover-blogcom0120862-dscn0011.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn0011.jpg

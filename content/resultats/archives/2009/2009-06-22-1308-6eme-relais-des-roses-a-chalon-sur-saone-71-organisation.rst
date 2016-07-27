@@ -29,4 +29,4 @@ NB: le barbecue du relais des Hautes-Côtes de Nuits a été offert par le club.
 
 `N'hésitez pas à contacter Alain par mail. <mailto:alain.bregand@neuf.fr>`_
 
-.. |httpidataover-blogcom0120862-1676265.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-1676265.jpg
+.. |httpidataover-blogcom0120862-1676265.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-1676265.jpg

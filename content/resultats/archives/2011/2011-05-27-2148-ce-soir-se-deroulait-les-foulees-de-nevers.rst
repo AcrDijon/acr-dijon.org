@@ -24,4 +24,4 @@ Club : Acr Dijon
 
 Un podium régional puisque c'est `Olivier URLACHER <http://www.topchrono.biz/fiche_resultat.php?idc=5511&nom=URLACHER&prenom=Olivier>`_ de l'AC Chenove qui s'impose en 16'32 devant `Quentin NAUDIN <http://www.topchrono.biz/fiche_resultat.php?idc=5511&nom=NAUDIN&prenom=Quentin>`_ de l'Entente Athle 58 en 16'36, **Guillaume BRAQUE** (Non licencié) termine ce podium en 16'53
 
-.. |vivement l'arrivée| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862annecy-semi-et-marathon-2010-vivement-l-arrivee.JPG
+.. |vivement l'arrivée| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862annecy-semi-et-marathon-2010-vivement-l-arrivee.JPG

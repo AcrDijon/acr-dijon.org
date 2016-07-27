@@ -12,4 +12,4 @@ DIMANCHE 6 juin   à partir de 10 h PISTE DU COMPLEXE SPORTIF D' EPIREY aura 
 
 **N'hésitez pas à venir nombreux pour ce test .**
 
-.. |httpidataover-blogcom0120862-fin-du-800-m.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-fin-du-800-m.jpg
+.. |httpidataover-blogcom0120862-fin-du-800-m.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-fin-du-800-m.jpg

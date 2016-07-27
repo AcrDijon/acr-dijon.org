@@ -10,4 +10,4 @@ Une nouvelle commande est déjà lancée... Votre bulletin de commande devra par
 
 |httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg|
 
-.. |httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg
+.. |httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862tenues-acr-dijon-2007-maillot-acr-dijon.jpg

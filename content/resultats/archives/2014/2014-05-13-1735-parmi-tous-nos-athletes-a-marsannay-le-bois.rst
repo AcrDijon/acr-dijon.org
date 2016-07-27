@@ -16,4 +16,4 @@ Développant de réelles capacités pour ce genre d'exercice, gageons que sa car
 
 **Véronique**  tourne la page Course à pied de la plus belle des manières en terminant **3ème féminine**  et **1ère Vétéranne**  sur le **6 km en 29'05"**
 
-.. |Veronique.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-veronique.jpg
+.. |Veronique.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-veronique.jpg

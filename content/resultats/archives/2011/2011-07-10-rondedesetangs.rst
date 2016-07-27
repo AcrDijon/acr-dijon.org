@@ -18,7 +18,7 @@ Sur les 6 heures, l'équipe composée de Fabrice Heuret, Dominique Zima et Fréd
 
 En individuel, Benoit Goffette, bien qu'en récupération de son premier 100 km la semaine dernière à Chateau Chinon en 8h25 s'impose logiquement avec un peu plus de 70 km. 
 
-.. image:: http://assets.acr-dijon.org/6h2010.jpg
+.. image:: https://assets.acr-dijon.org/6h2010.jpg
 
 
 De son côté Vincent Lauvergne termine 4ème avec un peu moins de 60 km suivi de Daniel Chambin 5ème avec un peu plus de 50 km.

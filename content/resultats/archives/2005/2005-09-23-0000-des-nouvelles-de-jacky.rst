@@ -13,4 +13,4 @@ Donc, à vos plumes et stylos. Et pourquoi pas le téléphone. Pour ceux qui vou
 
 Donc, bon courage à Jacky et reviens trés vite parmi nous. |httpgifstoutimagescomimageschaussures-chaussure_006.gif|
 
-.. |httpgifstoutimagescomimageschaussures-chaussure_006.gif| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimageschaussures-chaussure_006.gif
+.. |httpgifstoutimagescomimageschaussures-chaussure_006.gif| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimageschaussures-chaussure_006.gif

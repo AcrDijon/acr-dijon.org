@@ -16,4 +16,4 @@ Championnat de France de 10 km
 
 Temps sec, plutôt frais, belle organisation, les conditions idéales pour améliorer mon temps. Une expérience très agréable.
 
-.. |France-de-10-km.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2014-france-de-10-km.jpg
+.. |France-de-10-km.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2014-france-de-10-km.jpg

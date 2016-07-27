@@ -49,4 +49,4 @@ Les conditions climatiques semblent être particulièrement orageuses ce jour.
 
 Nous lui adressons tout notre soutien moral pour cette fin de course qui sera certainement la partie la plus difficile à gèrer.
 
-.. |Dernière heure| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-derniere-heure.jpg
+.. |Dernière heure| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-derniere-heure.jpg

@@ -22,4 +22,4 @@ Véronique revient donc bien dans les compétitions après quelques aléas en ju
 
 **BRAVO POUR CE JOLI PODIUM**
 
-.. |Véronique| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862foulees-des-cochons-2010-veronique.JPG
+.. |Véronique| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862foulees-des-cochons-2010-veronique.JPG

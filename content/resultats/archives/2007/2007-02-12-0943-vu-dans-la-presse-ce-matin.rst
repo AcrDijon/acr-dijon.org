@@ -36,5 +36,5 @@ Cross court : 1. Salvati (Ga H-S FC), 13'10'' ; 2. Salah (Pays de Colmar), 13'
 Vétérans : 1. Tayss (Sarreguemines), 33'25'' ; 2. Jechoux (Co Haute-Moselotte), 33'31''. 3. Zouhair (ASPTT Strasbourg), 33'46''.
 Espoirs-seniors-vétérans : 1. Foulouh (Metz), 36''31 ; 2. Bagy (Metz), 36'41'' ; 3. David (Dijon UC), 36'47'' ; 4. De Wilde (AO Nivernaise), 37'06''.
 
-.. | Deuxièmes l'année dernière, les Chenevelières sont cette fois montées sur la plus haute marche du podium (photo SDR)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2001_120207.jpg
-.. | Les cadets de l'ACR Dijon ont pris la sixième et dernière place qualificative pour les championnats de France| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2002_120207.jpg
+.. | Deuxièmes l'année dernière, les Chenevelières sont cette fois montées sur la plus haute marche du podium (photo SDR)| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2001_120207.jpg
+.. | Les cadets de l'ACR Dijon ont pris la sixième et dernière place qualificative pour les championnats de France| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2002_120207.jpg

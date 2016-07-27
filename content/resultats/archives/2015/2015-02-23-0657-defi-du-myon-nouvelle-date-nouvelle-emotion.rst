@@ -58,4 +58,4 @@ On ne peut qu'en redemander.
 
 Le Rendez-vous est donné dimanche prochain à Plombières sur le Trail de la Pérouse...
 
-.. |Defi-du-Myon-2575-copie-1.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom333x5000120862coursescourses-2015defi-du-myon-defi-du-myon-2575-copie-1.JPG
+.. |Defi-du-Myon-2575-copie-1.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom333x5000120862coursescourses-2015defi-du-myon-defi-du-myon-2575-copie-1.JPG

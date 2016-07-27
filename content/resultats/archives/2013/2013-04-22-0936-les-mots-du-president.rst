@@ -28,6 +28,6 @@ Remercions aussi nos partenaires, ceux qui nous soutiennent depuis 8 ans déjà 
 
 Alain
 
-.. |DSCN9095.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013foulees-du-lac-kir-dscn9095.JPG
-.. |DSCN9099.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013foulees-du-lac-kir-dscn9099.JPG
-.. |DSCN9119.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013foulees-du-lac-kir-dscn9119.JPG
+.. |DSCN9095.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013foulees-du-lac-kir-dscn9095.JPG
+.. |DSCN9099.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013foulees-du-lac-kir-dscn9099.JPG
+.. |DSCN9119.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013foulees-du-lac-kir-dscn9119.JPG

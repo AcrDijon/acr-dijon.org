@@ -36,7 +36,7 @@ Président de l'ACR Dijon
 
 06.43.09.62.31
 
-.. |Marseille-Cassis Classique Internationale| image:: http://assets.acr-dijon.org/old/httpwwwmarseille-cassiscomimages-logo.jpg
+.. |Marseille-Cassis Classique Internationale| image:: https://assets.acr-dijon.org/old/httpwwwmarseille-cassiscomimages-logo.jpg
 .. _|Marseille-Cassis Classique Internationale|: http://www.marseille-cassis.com/
 .. _http://www.marseille-cassis.com/: http://www.marseille-cassis.com/
-.. |filef-logo20acr20dijon.GIF| image:: http://assets.acr-dijon.org/old/filef-logo20acr20dijon.GIF
+.. |filef-logo20acr20dijon.GIF| image:: https://assets.acr-dijon.org/old/filef-logo20acr20dijon.GIF

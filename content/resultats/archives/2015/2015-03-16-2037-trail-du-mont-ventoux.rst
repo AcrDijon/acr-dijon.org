@@ -21,4 +21,4 @@ J'ai comme l'impression qu'il manque de temps pour s'entraîner depuis sa migrat
 
 Félicitations et bonne récupération.
 
-.. |Trail du Mont Ventoux| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150316-ob_695b5a_mont-ventoux.jpg
+.. |Trail du Mont Ventoux| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150316-ob_695b5a_mont-ventoux.jpg

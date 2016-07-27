@@ -26,11 +26,11 @@ Encore merci à mahfoud de prendre toutes ces photos et de les mettre gracieusem
 
 |httpidataover-blogcom0120862chalon2009-chalon2009_0087.jpg|  |httpidataover-blogcom0120862chalon2009-chalon2009_0076.jpg|  |httpidataover-blogcom0120862chalon2009-chalon2009_0575.jpg|  |httpidataover-blogcom0120862chalon2009-chalon2009_0092.jpg|
 
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0050.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0050.jpg
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0028.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0028.jpg
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0071.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0071.jpg
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0019.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0019.jpg
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0087.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0087.jpg
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0076.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0076.jpg
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0575.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0575.jpg
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0092.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0092.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0050.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0050.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0028.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0028.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0071.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0071.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0019.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0019.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0087.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0087.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0076.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0076.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0575.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0575.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0092.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0092.jpg

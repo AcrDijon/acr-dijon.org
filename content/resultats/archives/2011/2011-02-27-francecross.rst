@@ -8,11 +8,11 @@ Championnats de France de Cross-Country 2011 – Paray le Monial
 
 Face aux meilleurs spécialistes Français de la discipline, cinq Acéristes ont disputé ce jour les Championnats de France de Cross Country.
 
-.. image:: http://assets.acr-dijon.org/paraymag.JPG
+.. image:: https://assets.acr-dijon.org/paraymag.JPG
 
 Le parcours proposé sur le site de l'hippodrome de Paray-Le- Monial offrait un tracé particulièrement sélectif fait de lignes droites, bosses et nombreuses relances le tout dans des conditions d'adhérence que les récentes pluies ont rendu souvent aléatoires. 
 
-.. image:: http://assets.acr-dijon.org/paraymagetserge.JPG
+.. image:: https://assets.acr-dijon.org/paraymagetserge.JPG
 
 Un immense Bravo donc à Pierre Audin,  Gérard Baconnet, Raphaël Béné, Serge François et Jean-Claude Maguer pour s'être lancés dans la bagarre avec courage et opiniâtreté. La discipline est ingrate, et leur engagement mérite tout notre respect.
 
@@ -28,7 +28,7 @@ Déception pour Raphael Béné "A mon message, il m'a seulement répondu qu'il �
 
 Certainement qu'il n'avait réussi à palier entièrement ses ennuis de santé. 
 
-.. image:: http://assets.acr-dijon.org/paraypierre.JPG
+.. image:: https://assets.acr-dijon.org/paraypierre.JPG
 
  
 **V2,3,4 :**  6570 m  	 

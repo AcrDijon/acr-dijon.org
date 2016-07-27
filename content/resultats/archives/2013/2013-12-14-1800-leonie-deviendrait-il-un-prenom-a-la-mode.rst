@@ -13,4 +13,4 @@ Léonie deviendrait-il un prénom à la mode?
 
 **Séverine et Christophe**
 
-.. |Leonie.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom337x6000120862coursescourses-2013-leonie.jpg
+.. |Leonie.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom337x6000120862coursescourses-2013-leonie.jpg

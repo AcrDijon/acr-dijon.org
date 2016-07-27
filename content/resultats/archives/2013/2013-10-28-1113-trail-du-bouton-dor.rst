@@ -34,4 +34,4 @@ Vincent Mangelaers Pivot, Stéphane Bourlot et Jacques Pivot  sur le 10 km. (294
 
 **Crédit photos : David Dumont et** `http://niko-ngoisque.blogspot.fr <http://niko-ngoisque.blogspot.fr/>`_
 
-.. |Belle représentation des ACRistes| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom437x6000120862coursescourses-2013-belle-representation-des-acristes.jpg
+.. |Belle représentation des ACRistes| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom437x6000120862coursescourses-2013-belle-representation-des-acristes.jpg

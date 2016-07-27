@@ -35,6 +35,6 @@ Vincent
 
 |httpidataover-blogcom0120862bertrand-budapest-vincent-piscine.jpg|
 
-.. |httpidataover-blogcom0120862bertrand-budapest.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-budapest.jpg
-.. |httpidataover-blogcom0120862bertrand-vincent-marathon-budapest.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-vincent-marathon-budapest.jpg
-.. |httpidataover-blogcom0120862bertrand-budapest-vincent-piscine.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-budapest-vincent-piscine.jpg
+.. |httpidataover-blogcom0120862bertrand-budapest.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-budapest.jpg
+.. |httpidataover-blogcom0120862bertrand-vincent-marathon-budapest.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-vincent-marathon-budapest.jpg
+.. |httpidataover-blogcom0120862bertrand-budapest-vincent-piscine.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-budapest-vincent-piscine.jpg

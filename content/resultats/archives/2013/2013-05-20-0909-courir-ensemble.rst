@@ -16,5 +16,5 @@ Pour les personnes que nous aurions oubliées, félicitations à elles...
 
 |Fred.jpg|
 
-.. |Sedik.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1980120862coursescourses-2013courir-ensemble-sedik.jpg
-.. |Fred.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1980120862coursescourses-2013courir-ensemble-fred.jpg
+.. |Sedik.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1980120862coursescourses-2013courir-ensemble-sedik.jpg
+.. |Fred.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1980120862coursescourses-2013courir-ensemble-fred.jpg

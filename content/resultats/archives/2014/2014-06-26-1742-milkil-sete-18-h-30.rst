@@ -21,4 +21,4 @@ Chapeau bas devant Vincent et Daniel.
 
 Pour l'anecdote : Classement :Daniel 23ème, Vincent 24 ème sur 38 coureurs au départ
 
-.. |Trail du Grand Hâ| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-trail-du-grand-ha.jpg
+.. |Trail du Grand Hâ| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-trail-du-grand-ha.jpg

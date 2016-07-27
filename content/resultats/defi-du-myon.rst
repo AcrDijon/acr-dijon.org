@@ -10,7 +10,7 @@ Cette année, les deux courses au programme du **Défi du Myon** se sont déroul
 
 Tous les ACRistes présents se sont alignés sur l'épreuve courte, soit en individuel, soit en duo.
 
-.. image:: http://assets.acr-dijon.org/myon161.jpg
+.. image:: https://assets.acr-dijon.org/myon161.jpg
 
 **10,8km/250mD+** : Victoire de **Benoît FEUCHOT (Courir à Sennecey)** en 45'47''/133 concurrents classés
 
@@ -22,6 +22,6 @@ Tous les ACRistes présents se sont alignés sur l'épreuve courte, soit en indi
 
 - **Marie Laure LEONARD** et **David LEPETIT** concourraient en catégorie duo. Ils terminent respectivement en 1h13'24'' et 1h13'26'', 10e/15.
 
-.. image:: http://assets.acr-dijon.org/myon162.jpg
+.. image:: https://assets.acr-dijon.org/myon162.jpg
 
 Bravo à eux !

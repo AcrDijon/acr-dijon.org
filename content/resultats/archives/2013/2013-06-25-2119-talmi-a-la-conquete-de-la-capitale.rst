@@ -11,4 +11,4 @@ Bonjour. Dimanche 23, étant à Paris, j'ai participé à la course des 10 km de
 
 J'ai beaucoup apprécié ces conditions qui m'ont permis de réaliser mon meilleur temps : j'espérais passer sous les 46 minutes, je suis arrivé en moins de 45, c'est très agréable.
 
-.. |Talmi.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-talmi.jpg
+.. |Talmi.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-talmi.jpg

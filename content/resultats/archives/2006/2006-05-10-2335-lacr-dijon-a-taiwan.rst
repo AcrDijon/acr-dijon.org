@@ -35,5 +35,5 @@ Si tu la sens, "Alain pars dont"!!!
 
 ...Joël |httpidataover-blogcom0120862-dscn5864.jpg|  |httpidataover-blogcom0120862-dscn5859.jpg|
 
-.. |httpidataover-blogcom0120862-dscn5864.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn5864.jpg
-.. |httpidataover-blogcom0120862-dscn5859.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn5859.jpg
+.. |httpidataover-blogcom0120862-dscn5864.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn5864.jpg
+.. |httpidataover-blogcom0120862-dscn5859.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn5859.jpg

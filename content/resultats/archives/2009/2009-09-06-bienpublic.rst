@@ -7,7 +7,7 @@ Course du BP (suite)
 :eventdate: 2009-09-05
 
 
-.. image:: http://assets.acr-dijon.org/bp091.jpg
+.. image:: https://assets.acr-dijon.org/bp091.jpg
 
 Une ébauche de classement des ACéRistes forcément incomplet et ceux sur le site du BP ne mentionnent pas les clubs...
 
@@ -19,7 +19,7 @@ A noter les abandons de Fabrice, Mahfoud et Lucie sur le 10 KM. Espérons que ce
 
 Crédit photos (avec mes remerciements) : David Dumont 
 
-.. image:: http://assets.acr-dijon.org/bp092.jpg
+.. image:: https://assets.acr-dijon.org/bp092.jpg
 
 Semi-marathon 
 
@@ -36,7 +36,7 @@ Semi-marathon
 - 378 **Alexandra Poli** 1h51'43"
 - 520 **Delphine Pavan** 2h11'00"
 
-.. image:: http://assets.acr-dijon.org/bp093.jpg
+.. image:: https://assets.acr-dijon.org/bp093.jpg
 
 10 KM
 
@@ -66,7 +66,7 @@ Semi-marathon
 - 949 **Karen Guimaraes** 0h58'40"
 - 979 **Isabelle Chanez** 0h59'32"
 
-.. image:: http://assets.acr-dijon.org/bp094.jpg
+.. image:: https://assets.acr-dijon.org/bp094.jpg
 
-.. image:: http://assets.acr-dijon.org/bp095.jpg
+.. image:: https://assets.acr-dijon.org/bp095.jpg
 

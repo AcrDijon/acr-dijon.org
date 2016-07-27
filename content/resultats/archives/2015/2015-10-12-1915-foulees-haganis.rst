@@ -15,4 +15,4 @@ Foulées Haganis
 
 Félicitations
 
-.. |Foulées Haganis| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151012-ob_90c325_12088346-1645679892371615-634006487008.jpg
+.. |Foulées Haganis| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151012-ob_90c325_12088346-1645679892371615-634006487008.jpg

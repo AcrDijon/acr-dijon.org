@@ -13,4 +13,4 @@ Une très très bonne ambiance et une belle organisation de la soirée par Méga
 
 Nous remercions **Manuel Barreira**  pour l'organisation de cette soirée.
 
-.. |1453271_544887972267261_576295316_n.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2013-1453271_544887972267261_576295316_n.jpg
+.. |1453271_544887972267261_576295316_n.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2013-1453271_544887972267261_576295316_n.jpg

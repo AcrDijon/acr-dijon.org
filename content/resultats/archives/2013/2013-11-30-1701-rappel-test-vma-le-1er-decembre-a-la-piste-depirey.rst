@@ -16,4 +16,4 @@ Un petit groupe de 15 à 20 personnes serait des plus intéressants...
 
 Alors hésitez pas à venir.
 
-.. |Les hommes reprennent la donne| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862entrainement2012test-vma-les-hommes-reprennent-la-donne.JPG
+.. |Les hommes reprennent la donne| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862entrainement2012test-vma-les-hommes-reprennent-la-donne.JPG

@@ -25,5 +25,5 @@ Un grand merci à toutes et tous pour votre présence.
 
 Place désormais aux choses sérieuses : entraînements et courses ; bonne saison sportive à tous les ACRistes.
 
-.. |DSCN8941.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-dscn8941.JPG
-.. |DSCN8952.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-dscn8952.JPG
+.. |DSCN8941.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-dscn8941.JPG
+.. |DSCN8952.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-dscn8952.JPG

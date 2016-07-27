@@ -35,4 +35,4 @@ Vincent
 
 PS : la première photo c'était au 38km, avec 2 potes qui ont fait 500m avec moi pour m'encourager... ça fait beaucoup de bien !
 
-.. |38ème km| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862marathonmunich-2010-38eme-km.JPG
+.. |38ème km| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862marathonmunich-2010-38eme-km.JPG

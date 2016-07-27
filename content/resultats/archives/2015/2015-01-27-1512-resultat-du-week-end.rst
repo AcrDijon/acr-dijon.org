@@ -29,4 +29,4 @@ Une vigilance accrue en fin de parcours à cause des voitures, scooters et vélo
 
 Il boucle son 37ème Marathon en **3h46'56"**  à la **298ème**  sur 741 arrivants
 
-.. |William-et-moi-a-l-arrivee.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom450x6000120862coursescourses-2015marrakech-william-et-moi-a-l-arrivee.jpg
+.. |William-et-moi-a-l-arrivee.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom450x6000120862coursescourses-2015marrakech-william-et-moi-a-l-arrivee.jpg

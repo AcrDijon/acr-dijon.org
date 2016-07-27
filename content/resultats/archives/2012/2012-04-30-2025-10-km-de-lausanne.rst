@@ -13,5 +13,5 @@ Le maillot de l'ACR s'est fait une petite place à la une du journal local de di
 
 |DSC03225.JPG|
 
-.. |lausanne.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2012lausanne-lausanne.jpg
-.. |DSC03225.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012lausanne-dsc03225.JPG
+.. |lausanne.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2012lausanne-lausanne.jpg
+.. |DSC03225.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012lausanne-dsc03225.JPG

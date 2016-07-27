@@ -13,4 +13,4 @@ Encore un nouveu succès de participation, 141 concurents au départ de ce trail
 
 **Vincent Lauvergne** , **43ème en 1h10'59"** .
 
-.. |Trail-du-Grand-Ha.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom272x3000120862coursescourses-2014-trail-du-grand-ha.jpg
+.. |Trail-du-Grand-Ha.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom272x3000120862coursescourses-2014-trail-du-grand-ha.jpg

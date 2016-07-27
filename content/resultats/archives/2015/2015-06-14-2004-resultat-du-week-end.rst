@@ -50,6 +50,6 @@ Départ du Trail des Lavières
 
 **David Lepetit, 81ème en 59'39"**
 
-.. |Les bottines à Nevers| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150614-ob_136c77_laurence.jpg
-.. |10 km l'équipe| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150614-ob_e666c6_mickael-et-les-10-km-de-l-equipe.jpg
-.. |Départ du Trail des Lavières| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150614-ob_004dad_depart.jpg
+.. |Les bottines à Nevers| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150614-ob_136c77_laurence.jpg
+.. |10 km l'équipe| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150614-ob_e666c6_mickael-et-les-10-km-de-l-equipe.jpg
+.. |Départ du Trail des Lavières| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150614-ob_004dad_depart.jpg

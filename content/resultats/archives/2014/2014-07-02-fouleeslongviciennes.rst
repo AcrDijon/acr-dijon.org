@@ -11,7 +11,7 @@ Foulées Longviciennes
 3 ACRistes étaient à Longvic pour cette nouvelle édition.
 Félicitations à Jean Philippe, Jean Christophe et Jacques pour leurs prestations.
 
-.. image:: http://assets.acr-dijon.org/longvic141.jpg
+.. image:: https://assets.acr-dijon.org/longvic141.jpg
 
 
 

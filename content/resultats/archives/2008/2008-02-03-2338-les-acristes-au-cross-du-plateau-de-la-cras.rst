@@ -7,4 +7,4 @@ Les ACRistes au cross du plateau de la Cras
 
 |httpidataover-blogcom0120862-plateau-de-la-cras-2008.jpg|
 
-.. |httpidataover-blogcom0120862-plateau-de-la-cras-2008.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-plateau-de-la-cras-2008.jpg
+.. |httpidataover-blogcom0120862-plateau-de-la-cras-2008.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-plateau-de-la-cras-2008.jpg

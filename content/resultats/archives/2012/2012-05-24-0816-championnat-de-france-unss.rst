@@ -19,6 +19,6 @@ Son chrono de 5’22’’94 à 27’’ de la première reflète la qualité de
 
 |P1000904.JPG|
 
-.. |P1000898.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-p1000898.JPG
-.. |P1000902.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-p1000902.JPG
-.. |P1000904.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862coursescourses-2012-p1000904.JPG
+.. |P1000898.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-p1000898.JPG
+.. |P1000902.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-p1000902.JPG
+.. |P1000904.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862coursescourses-2012-p1000904.JPG

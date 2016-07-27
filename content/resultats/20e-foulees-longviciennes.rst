@@ -6,7 +6,7 @@
 :location: LONGVIC
 :eventdate: 2016-06-24
 
-.. image:: http://assets.acr-dijon.org/fl161.jpg
+.. image:: https://assets.acr-dijon.org/fl161.jpg
 
 L'ACR était bien représentée, quantitativement et qualitativement, pour cette 20e édition des "Foulées Longviciennes'', avec un joli triplé sur le 5 km !
 
@@ -25,7 +25,7 @@ L'ACR était bien représentée, quantitativement et qualitativement, pour cette
 
 68 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/fl162.jpg
+.. image:: https://assets.acr-dijon.org/fl162.jpg
 
 *Le triplé gagnant de l'ACR*
 
@@ -37,7 +37,7 @@ L'ACR était bien représentée, quantitativement et qualitativement, pour cette
 
 85 concurrents classés / Victoire de Romain LELIEVRE (AC CHENÔVE) en 36'51''
 
-.. image:: http://assets.acr-dijon.org/fl163.jpg
+.. image:: https://assets.acr-dijon.org/fl163.jpg
 
 *Un podium 100% ACR : la classe !*
 

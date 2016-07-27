@@ -15,6 +15,6 @@ Une belle victoire pour Xavier Mangelaers-Pivot en minime. Une belle cinquième 
 
 |httpidataover-blogcom0120862-xavier-crocofolies.jpg|
 
-.. |httpidataover-blogcom0120862-crocofolies-pour-matteo.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-crocofolies-pour-matteo.jpg
-.. |httpidataover-blogcom0120862-pierre-crocofolies.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pierre-crocofolies.jpg
-.. |httpidataover-blogcom0120862-xavier-crocofolies.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-xavier-crocofolies.jpg
+.. |httpidataover-blogcom0120862-crocofolies-pour-matteo.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-crocofolies-pour-matteo.jpg
+.. |httpidataover-blogcom0120862-pierre-crocofolies.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pierre-crocofolies.jpg
+.. |httpidataover-blogcom0120862-xavier-crocofolies.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-xavier-crocofolies.jpg

@@ -7,8 +7,8 @@ Classements La Chevignoise du club...
 
 |httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif|  |httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif|  |httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif| | | Ils étaient près de 350 au départ de la dernière course de la Chevignoise (photos G. S.)| | |httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif|  |httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif|  |httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif|
 
-.. |httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif| image:: http://assets.acr-dijon.org/old/httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif
-.. | Ils étaient près de 350 au départ de la dernière course de la Chevignoise (photos G. S.)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2001_051107.jpg
+.. |httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif| image:: https://assets.acr-dijon.org/old/httpcoursesdanslecoinchez-alicefrpot2006-courir20dans20les20coins.gif
+.. | Ils étaient près de 350 au départ de la dernière course de la Chevignoise (photos G. S.)| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop2001_051107.jpg
 
 2000 Mètres
 

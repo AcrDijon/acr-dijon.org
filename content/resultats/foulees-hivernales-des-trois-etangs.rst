@@ -10,7 +10,7 @@ Foulées hivernales des trois étangs
 
 Ce dimanche, s'est déroulée la deuxième édition des **Foulées hivernales des 3 étangs** à **Lamarche/Saône**, sur un parcours proposant, pour l'essentiel des parties sur chemin et sur herbe, rendu lourd par les précipitations matinales.
 
-.. image:: http://assets.acr-dijon.org/lam161.jpg
+.. image:: https://assets.acr-dijon.org/lam161.jpg
 
 **7,75km** (Hommes jusqu'à V3)
 
@@ -31,11 +31,11 @@ Course remportée par **Charline TOUVREY** en 21'07''
 
 41 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/lam163.jpg
+.. image:: https://assets.acr-dijon.org/lam163.jpg
 
 *David 1erV2*
 
-.. image:: http://assets.acr-dijon.org/lam164.jpg
+.. image:: https://assets.acr-dijon.org/lam164.jpg
 
 *Gérard 3eV3*
 
@@ -44,6 +44,6 @@ Course remportée par **Charline TOUVREY** en 21'07''
 - 1ere **Zoé FANTON** : 6'12''
 - 3e **Emma FANTON** : 6'24''
 
-.. image:: http://assets.acr-dijon.org/lam162.jpg
+.. image:: https://assets.acr-dijon.org/lam162.jpg
 
 Bravo à toutes et à tous !

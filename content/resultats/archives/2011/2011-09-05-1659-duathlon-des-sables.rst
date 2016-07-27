@@ -38,4 +38,4 @@ Vincent réalise une nouvelle performance en terminant 29ème Sénior, la catég
 
 ﻿ "Et on vient me dire que je suis Barge quand je vais 2 compét, le même week end, je vais commencer à croire que le prénom y est pour quelques chose"
 
-.. |duathlon-copie-1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2011-duathlon-copie-1.jpg
+.. |duathlon-copie-1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862coursescourses-2011-duathlon-copie-1.jpg

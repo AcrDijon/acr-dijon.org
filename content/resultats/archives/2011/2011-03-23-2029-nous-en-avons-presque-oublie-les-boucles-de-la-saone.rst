@@ -16,4 +16,4 @@ Résultat complet `ici <http://bases.athle.com/asp.net/liste.aspx?frmbase=result
 
 |Vincent-acc-l-re.jpg|
 
-.. |Vincent-acc-l-re.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3350120862la-chevignoise-2009-vincent-acc-l-re.jpg
+.. |Vincent-acc-l-re.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3350120862la-chevignoise-2009-vincent-acc-l-re.jpg

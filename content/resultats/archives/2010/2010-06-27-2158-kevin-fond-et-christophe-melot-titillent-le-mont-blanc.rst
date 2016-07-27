@@ -10,5 +10,5 @@ Ce week end avait lieu le trés difficile marathon du Mont Blanc qui avec ses 22
 
 BRAVO A TOUS LES DEUX POUR AVOIR PORTER NOS COULEURS AU SOMMET DE CE BEAU MARATHON
 
-.. |Kévin s'arrache| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862meuilley-2010-kevin-s-arrache.JPG
-.. |Chalon2009_0057.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862chalon2009-chalon2009_0057.jpg
+.. |Kévin s'arrache| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862meuilley-2010-kevin-s-arrache.JPG
+.. |Chalon2009_0057.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862chalon2009-chalon2009_0057.jpg

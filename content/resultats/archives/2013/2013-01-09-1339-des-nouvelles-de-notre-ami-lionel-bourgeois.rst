@@ -15,4 +15,4 @@ Il a rejoint le Morvan où il entame une tranquille convalescence, avec l'espoir
 
 Nous lui adressons tous nos voeux de bon rétablissement."
 
-.. |DSCN7184| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom399x6000120862coursescourses-2011100-km-de-millau-dscn7184.jpg
+.. |DSCN7184| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom399x6000120862coursescourses-2011100-km-de-millau-dscn7184.jpg

@@ -9,5 +9,5 @@ Eric Renvoisé nous a mis en ligne ses photos des
 Championnats de Bourgogne de Cross de Chevenon...
 Voici le diaporama en 102 photos . `http://picasaweb.google.fr/ericrenv1963/010209Chevenon58#slideshow/5299733026897670706`_
 
-.. |httpidataover-blogcom0120862-juniors-gar-ons-2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-juniors-gar-ons-2009.jpg
+.. |httpidataover-blogcom0120862-juniors-gar-ons-2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-juniors-gar-ons-2009.jpg
 .. _http://picasaweb.google.fr/ericrenv1963/010209Chevenon58#slideshow/5299733026897670706: http://picasaweb.google.fr/ericrenv1963/010209Chevenon58#slideshow/5299733026897670706

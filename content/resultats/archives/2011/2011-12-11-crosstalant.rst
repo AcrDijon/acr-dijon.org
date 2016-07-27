@@ -13,13 +13,13 @@ Elody Fillon était notre première représente, et un nouveau podium à la clé
 
 Chez les féminine, seul Arlette nous représenta, n'écoutant que son mérite puisque c'est bien loin d'être sa spécialité. 
 
-.. image:: http://assets.acr-dijon.org/crosstalant111.JPG
+.. image:: https://assets.acr-dijon.org/crosstalant111.JPG
 
 Dans la course phare de ce dimanche après midi, nous retrouverons Sedik (alias Sonic pur certain), Raphael Béné, David Crotet, Vincent Lauvergne, Jean Paul Lelong, Jean Philippe Beuche, Alain Bregand et Jean Claude Maguer.
 
 Chez les Vétéran, nouveau podium de Sedik qui termine 2ème à 44s du 1er V1, Raphael Béné termine ce poidum.  
 
-.. image:: http://assets.acr-dijon.org/crosstalant112.JPG
+.. image:: https://assets.acr-dijon.org/crosstalant112.JPG
 
 De bonnes promesses pour les prochains championnats de cross:
 

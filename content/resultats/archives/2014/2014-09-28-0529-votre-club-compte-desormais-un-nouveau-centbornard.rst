@@ -13,4 +13,4 @@ Félicitations à notre Vice Président qui est arrivé au bout de son challenge
 
 En attendant son compte rendu pour le ressenti sur cet effort hors norme.
 
-.. |Millau.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x1700120862coursescourses-2015-millau.jpg
+.. |Millau.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x1700120862coursescourses-2015-millau.jpg

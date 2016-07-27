@@ -5,9 +5,9 @@ Relais des roses
 :category: Résultats
 :summary: Relais des roses
 
-.. image:: http://assets.acr-dijon.org/roses081.jpg
+.. image:: https://assets.acr-dijon.org/roses081.jpg
 
-.. image:: http://assets.acr-dijon.org/roses082.jpg
+.. image:: https://assets.acr-dijon.org/roses082.jpg
 
 Relais des roses (Chalon Sur Saône)
 
@@ -42,6 +42,6 @@ Temps de chaque relais (6 km) pour les 12 AcéRistes sur 453 coureurs :
 
 |httpidataover-blogcom0120862-dscn7566.jpg|
 
-.. |httpidataover-blogcom0120862-relais-des-roses-dernier-tour.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-relais-des-roses-dernier-tour.jpg
-.. |httpidataover-blogcom0120862-dscn7551.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn7551.jpg
-.. |httpidataover-blogcom0120862-dscn7566.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn7566.jpg
+.. |httpidataover-blogcom0120862-relais-des-roses-dernier-tour.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-relais-des-roses-dernier-tour.jpg
+.. |httpidataover-blogcom0120862-dscn7551.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn7551.jpg
+.. |httpidataover-blogcom0120862-dscn7566.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn7566.jpg

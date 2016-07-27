@@ -22,4 +22,4 @@ Belle prestation également de **David Crotet**  qui termine **11ème en 20'06"*
 
 Crédit photo : Kévin Fond
 
-.. |arnay le duc| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2012-arnay-le-duc.jpg
+.. |arnay le duc| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2012-arnay-le-duc.jpg

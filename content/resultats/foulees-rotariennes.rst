@@ -22,7 +22,7 @@ Si les conditions météorologiques maussades de ce dimanche matin ont douché l
 
 85 participants / Victoire de Cédric BERNETTES en 38'39'' ; 1ère féminine : Marion LEROY (ASPTT DIJON) en 46'51''.
 
-.. image:: http://assets.acr-dijon.org/rotarienne2016.jpg
+.. image:: https://assets.acr-dijon.org/rotarienne2016.jpg
 
 *La dream team de l'ACR*
 

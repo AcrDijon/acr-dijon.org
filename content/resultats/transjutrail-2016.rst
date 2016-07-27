@@ -12,7 +12,7 @@ Il a terminé en 12h29'23, se classant 349e/464.
 
 Epreuve remportée par Aurélien PATOZ (Team INTERSPORT PONTARLIER) en 6h37'37''.
 
-.. image:: http://assets.acr-dijon.org/transju2016.jpg
+.. image:: https://assets.acr-dijon.org/transju2016.jpg
 
 *MOREZ (Jura) vue d'en haut*
 

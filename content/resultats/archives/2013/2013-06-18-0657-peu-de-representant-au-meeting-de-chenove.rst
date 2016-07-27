@@ -28,4 +28,4 @@ Terminant dernier en 12'24"5.
 
 Avec grande difficulté, Vincent passe sous les 13' après un départ hallucinant 42" au 200m.
 
-.. |Meeting-chenove.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-meeting-chenove.jpg
+.. |Meeting-chenove.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-meeting-chenove.jpg

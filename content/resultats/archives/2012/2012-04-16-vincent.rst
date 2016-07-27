@@ -5,4 +5,4 @@
 :category: Actualités
 
 
-.. image:: http://assets.acr-dijon.org/vmp.jpg
+.. image:: https://assets.acr-dijon.org/vmp.jpg

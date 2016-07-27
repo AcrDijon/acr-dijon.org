@@ -7,7 +7,7 @@ Le 1er janvier avec l'ACR
 
 
 
-.. image:: http://assets.acr-dijon.org/1janvier2015.jpg
+.. image:: https://assets.acr-dijon.org/1janvier2015.jpg
 
 
 A peine l'année s'achève-t-elle, qu'il faut déjà penser à préparer la suivante...

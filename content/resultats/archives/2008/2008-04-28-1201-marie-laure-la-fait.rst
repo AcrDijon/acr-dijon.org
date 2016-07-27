@@ -17,4 +17,4 @@ Nos deux marathoniens, Joël et Sébastien, ont terminé dans des temps raisonna
 - 1573 CHAMPMARTIN SEBASTIEN 4:18:06 ACR Dijon
  
 
-.. |httpidataover-blogcom0120862-logodate08.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-logodate08.jpg
+.. |httpidataover-blogcom0120862-logodate08.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-logodate08.jpg

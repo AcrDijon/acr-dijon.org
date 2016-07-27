@@ -48,4 +48,4 @@ Course n° 4 - Course courte 4,4 kms
 
 107 classés. 
 
-.. image:: http://assets.acr-dijon.org/fred08.jpg
+.. image:: https://assets.acr-dijon.org/fred08.jpg

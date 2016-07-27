@@ -6,7 +6,7 @@ Vertigo 2016
 :location: COURBEVOIE (92)
 :eventdate: 2016-05-20
 
-.. image:: http://assets.acr-dijon.org/first16.jpg
+.. image:: https://assets.acr-dijon.org/first16.jpg
 
 *Une fois en haut, la capitale tu admireras*
 

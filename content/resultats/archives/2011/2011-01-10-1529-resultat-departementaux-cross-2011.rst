@@ -52,7 +52,7 @@ Cross SE-ES-VE-V1-V2-V3-V4 /M - 9030m Nevers
 
 Crédit Photos Alain B.
 
-.. |Xavier1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2011departementaux-cross-xavier1.jpg
-.. |Depart1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2011departementaux-cross-depart1.jpg
+.. |Xavier1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2011departementaux-cross-xavier1.jpg
+.. |Depart1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2011departementaux-cross-depart1.jpg
 .. _Cross SE-ES-VE-V1-V2-V3-V4 /M - 9030m Nevers: javascript:openrec('http://www.athle.com/dev/ffa/recordCompet.aspx?num=065042&epreuve=001&sexe=M&serie=Cross%20SE-ES-VE-V1-V2-V3-V4%20/M%20-%209030m%20CC')
 .. _MANGELAERS-PIVOT Vincent: javascript:bddThrowAthlete('resultats',%20620739,%200)

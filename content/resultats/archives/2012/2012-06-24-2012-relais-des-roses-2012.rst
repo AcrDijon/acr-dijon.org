@@ -28,6 +28,6 @@ Félicitation à vous tous pour cette cohésion et cette solidarité que l'on ai
 
 |Relais-des-Roses-0918.JPG| Retrouvez les photos de la journée prises par Mahf en cliquant `ici* <http://acr.dijon.over-blog.com/album-2083702.html>`_ .
 
-.. |Relais-des-Roses-0951.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862coursescourses-2012relais-des-roses-relais-des-roses-0951.JPG
-.. |Relais-des-Roses-0878.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862coursescourses-2012relais-des-roses-relais-des-roses-0878.JPG
-.. |Relais-des-Roses-0918.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom276x3000120862coursescourses-2012relais-des-roses-relais-des-roses-0918.JPG
+.. |Relais-des-Roses-0951.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862coursescourses-2012relais-des-roses-relais-des-roses-0951.JPG
+.. |Relais-des-Roses-0878.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862coursescourses-2012relais-des-roses-relais-des-roses-0878.JPG
+.. |Relais-des-Roses-0918.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom276x3000120862coursescourses-2012relais-des-roses-relais-des-roses-0918.JPG

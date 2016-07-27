@@ -16,4 +16,4 @@ Nous organisions un Test VMA sur la piste d'Epirey.
 
 Pour info : Vanessa  et Mag 16 km/h, Marie Estelle 16,5 km/h, Talmi, Franck et Didier 17 km/h, Bertrand B., Betrand Q., Romain et Julien 19,5 km/h.
 
-.. |P1040417| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2012test-vma-p1040417.JPG
+.. |P1040417| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2012test-vma-p1040417.JPG

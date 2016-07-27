@@ -42,4 +42,4 @@ retrouvez dès ce jour le classement officiel du 22 km conptant pour la coupe de
 
 * `je l'ai fait l'année ... <javascript:void(0);>`_ strauss - 18/06/2007 je l'ai fait l'année dernière et je ne me suis pas trompé une fois.Moi aussi je me suis trompé cette année, je pense que quelques flèches au sol quand il y a un virage à 90° seront utilesq l'année prochaine ... C'est un trail très sympa à faire ...
 
-.. |httpwwwbienpubliccomphotos-spop0801_180607.jpg| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0801_180607.jpg
+.. |httpwwwbienpubliccomphotos-spop0801_180607.jpg| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0801_180607.jpg

@@ -7,4 +7,4 @@ Si certains d'entres vous sont intéréssés
 
 |Marathon-des-Sables.jpg|
 
-.. |Marathon-des-Sables.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom424x6000120862coursescourses-2014-marathon-des-sables.jpg
+.. |Marathon-des-Sables.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom424x6000120862coursescourses-2014-marathon-des-sables.jpg

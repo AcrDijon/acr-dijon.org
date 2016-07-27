@@ -19,4 +19,4 @@ Ce vendredi soir se déroulait à Sennecey la cérémonie de récompense du Chal
 
 Félicitations à tous.
 
-.. |Recompense.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3740120862coursescourses-2014-recompense.jpg
+.. |Recompense.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3740120862coursescourses-2014-recompense.jpg

@@ -13,4 +13,4 @@ Les brefs du week end.
 
 De son côté, **Alexandra Poli termine 1ère Espoir en 1h16'33"**  à la 150ème place sur 479 à la 2ème course des crêtes (Course nature de la Ciotat, 15 km).
 
-.. |100 0687| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012chevignoise-100_0687.JPG
+.. |100 0687| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012chevignoise-100_0687.JPG

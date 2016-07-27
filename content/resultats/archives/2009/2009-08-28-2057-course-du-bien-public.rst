@@ -22,4 +22,4 @@ Course du Bien Public
 
 `Plus de renseignement sur le site de la course... <http://course.bienpublic.com/spip.php?rubrique1>`_
 
-.. |httpidataover-blogcom0120862photos-bp_2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-bp_2009.jpg
+.. |httpidataover-blogcom0120862photos-bp_2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-bp_2009.jpg

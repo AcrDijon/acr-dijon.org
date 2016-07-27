@@ -8,7 +8,7 @@ Foulée des Cochons
 
 15 ACRistes étaient présents, toutes catégories confondues, pour la 15e édition de la "Foulée des Cochons" à Marsannay le Bois, avec une belle récolte de podiums à la clé !
 
-.. image:: http://assets.acr-dijon.org/fdc161.jpg
+.. image:: https://assets.acr-dijon.org/fdc161.jpg
 
 **10km (10,141km/118mD+) :**
 
@@ -24,7 +24,7 @@ Foulée des Cochons
 
 384 concurrents classés / Course remportée par Khalid CHAHID en 33'14'' ; 1ere féminine : Aurélie BIONDI en 44'59''
 
-.. image:: http://assets.acr-dijon.org/fdc16.jpg
+.. image:: https://assets.acr-dijon.org/fdc16.jpg
 
 **6km (6,466km/76mD+) :**
 

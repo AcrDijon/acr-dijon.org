@@ -16,4 +16,4 @@ A noter la victoire de Régis Roux (Endurance 72).
 
 Le classement complet sur le lien suivant :
 
-.. |httpidataover-blogcom0120862-logotransmontagne.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-logotransmontagne.jpg
+.. |httpidataover-blogcom0120862-logotransmontagne.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-logotransmontagne.jpg

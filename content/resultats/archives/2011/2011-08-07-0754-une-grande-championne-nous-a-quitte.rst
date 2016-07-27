@@ -19,4 +19,4 @@ Licencié au Dijon Triathlon et domiciliée près d'Auxonne, victime d'une crise
 
 Au revoir Gaby, tu nous manqueras tous.
 
-.. |Gaby.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862divers-gaby.jpg
+.. |Gaby.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862divers-gaby.jpg

@@ -6,7 +6,7 @@ Meilleurs Voeux
 
 
 
-.. image:: http://assets.acr-dijon.org/voeux2009.jpg
+.. image:: https://assets.acr-dijon.org/voeux2009.jpg
 
 Je vous souhaîte à tous une bonne année 2009.
 Que tout vos voeux se réalisent.

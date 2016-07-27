@@ -7,10 +7,10 @@ Sortie de noel au centre ville en entrainement du dimanche matin..15 km avec rav
 
 
 
-.. image:: http://assets.acr-dijon.org/acr12151.jpg
-.. image:: http://assets.acr-dijon.org/acr12152.jpg
-.. image:: http://assets.acr-dijon.org/acr12153.jpg
-.. image:: http://assets.acr-dijon.org/acr12154.jpg
-.. image:: http://assets.acr-dijon.org/acr12155.jpg
-.. image:: http://assets.acr-dijon.org/acr12156.jpg
+.. image:: https://assets.acr-dijon.org/acr12151.jpg
+.. image:: https://assets.acr-dijon.org/acr12152.jpg
+.. image:: https://assets.acr-dijon.org/acr12153.jpg
+.. image:: https://assets.acr-dijon.org/acr12154.jpg
+.. image:: https://assets.acr-dijon.org/acr12155.jpg
+.. image:: https://assets.acr-dijon.org/acr12156.jpg
 

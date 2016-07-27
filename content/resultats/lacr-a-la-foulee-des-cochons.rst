@@ -10,43 +10,43 @@ L'ACR à la Foulée des Cochons
 
 **En course :**
 
-.. image:: http://assets.acr-dijon.org/fdc20161.jpg
+.. image:: https://assets.acr-dijon.org/fdc20161.jpg
 
 *Bertrand (sa moitié gauche) et Pierre juste après le départ*
 
-.. image:: http://assets.acr-dijon.org/fdc20162.jpg
+.. image:: https://assets.acr-dijon.org/fdc20162.jpg
 
 *Votre scribe un peu après la mi-course*
 
-.. image:: http://assets.acr-dijon.org/fdc20163.jpg
+.. image:: https://assets.acr-dijon.org/fdc20163.jpg
 
 *Mag' et Charly font course commune*
 
 **Podiums du 6km :**
 
-.. image:: http://assets.acr-dijon.org/fdc20164.jpg
+.. image:: https://assets.acr-dijon.org/fdc20164.jpg
 
 *Bertrand 1er Sénior*
 
-.. image:: http://assets.acr-dijon.org/fdc167.jpg
+.. image:: https://assets.acr-dijon.org/fdc167.jpg
 
 *et 3e au scratch*
 
-.. image:: http://assets.acr-dijon.org/fdc163.jpg
+.. image:: https://assets.acr-dijon.org/fdc163.jpg
 
 *Pierre 3eV1*
 
-.. image:: http://assets.acr-dijon.org/fdc164.jpg
+.. image:: https://assets.acr-dijon.org/fdc164.jpg
 
 *Jean Louis 1erV4*
 
 **Podiums du 10km :**
 
-.. image:: http://assets.acr-dijon.org/fdc165.jpg
+.. image:: https://assets.acr-dijon.org/fdc165.jpg
 
 *Eric 2eV3*
 
-.. image:: http://assets.acr-dijon.org/fdc166.jpg
+.. image:: https://assets.acr-dijon.org/fdc166.jpg
 
 *Alain et Mag' monopolisent le podium V4*
 

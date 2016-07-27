@@ -7,7 +7,7 @@ Trail du Vieux Semur
 :eventdate: 2016-01-16
 
 
-.. image:: http://assets.acr-dijon.org/semur2016(2).jpg
+.. image:: https://assets.acr-dijon.org/semur2016(2).jpg
 
 *Fabrice 2eV1*
 

@@ -8,7 +8,7 @@ Courir Ensemble / IS SUR TILLE
 
 Un seul membre de l'ACR était présent à Is-Sur-Tille cette année, sur un parcours largement modifié par rapport aux éditions précédentes, sensiblement raccourci, offrant un profil plus accidenté et donc moins roulant, et ce d'autant plus que les abondantes précipitations de la veille ont rendu gras les chemins et sentiers empruntés.
 
-.. image:: http://assets.acr-dijon.org/is161.JPG
+.. image:: https://assets.acr-dijon.org/is161.JPG
 
 **10,4km / 201mD+ :**
 
@@ -16,7 +16,7 @@ Un seul membre de l'ACR était présent à Is-Sur-Tille cette année, sur un par
 
 67 concurrents classés / Victoire de Cédric BERNETTES en 39'23'' ; 1ere féminine : Charline TOUVREY en 45'12'' (3e au scratch)
 
-.. image:: http://assets.acr-dijon.org/is162.JPG
+.. image:: https://assets.acr-dijon.org/is162.JPG
 
 *Après l'effort, le réconfort !*
 

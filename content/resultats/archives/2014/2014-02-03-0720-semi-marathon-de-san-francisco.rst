@@ -28,4 +28,4 @@ Très content d'avoir eu l'opportunité de faire cette course, qui me donne un t
 A bientôt 
 Tarek
 
-.. |Tarek.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x4090120862coursescourses-2014-tarek.jpg
+.. |Tarek.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x4090120862coursescourses-2014-tarek.jpg

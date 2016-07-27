@@ -26,4 +26,4 @@ les 10 derniers ont été fait à fond (7.5km/h de moyenne).  Sinon Amiens est 
 
 maintenant repos parce que je ne peux plus bouger...
 
-.. |100 km de la Somme| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151012-ob_bbbd89_imgp3372.jpg
+.. |100 km de la Somme| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151012-ob_bbbd89_imgp3372.jpg

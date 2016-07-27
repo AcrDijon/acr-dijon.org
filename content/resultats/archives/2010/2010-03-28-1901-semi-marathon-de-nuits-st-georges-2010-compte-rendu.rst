@@ -57,4 +57,4 @@ résultats complets de ces courses sur le lien suivant : http://www.semi-nuits-s
 **BRAVO POUR TOUS CES BONS RESULTATS** 
 résultats complets de ces courses sur le lien suivant : `http://www.semi-nuits-st-georges.com/2010/resultats.htm <http://www.semi-nuits-st-georges.com/2010/resultats.htm>`_ #
 
-.. |fabrice en plein effort| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862bertrand-fabrice-en-plein-effort.JPG
+.. |fabrice en plein effort| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862bertrand-fabrice-en-plein-effort.JPG

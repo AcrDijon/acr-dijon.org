@@ -7,10 +7,10 @@ Photos du Ski
 
 |httpidataover-blogcom0120862-dscn2187.jpg|  |httpidataover-blogcom0120862-dscn2190.jpg|  |httpidataover-blogcom0120862-dscn2191.jpg|  |httpidataover-blogcom0120862-dscn2192.jpg|  |httpidataover-blogcom0120862-dscn2195.jpg|  |httpidataover-blogcom0120862-dscn2197.jpg|  |httpidataover-blogcom0120862-dscn2200.jpg|
 
-.. |httpidataover-blogcom0120862-dscn2187.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2187.jpg
-.. |httpidataover-blogcom0120862-dscn2190.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2190.jpg
-.. |httpidataover-blogcom0120862-dscn2191.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2191.jpg
-.. |httpidataover-blogcom0120862-dscn2192.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2192.jpg
-.. |httpidataover-blogcom0120862-dscn2195.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2195.jpg
-.. |httpidataover-blogcom0120862-dscn2197.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2197.jpg
-.. |httpidataover-blogcom0120862-dscn2200.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2200.jpg
+.. |httpidataover-blogcom0120862-dscn2187.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2187.jpg
+.. |httpidataover-blogcom0120862-dscn2190.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2190.jpg
+.. |httpidataover-blogcom0120862-dscn2191.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2191.jpg
+.. |httpidataover-blogcom0120862-dscn2192.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2192.jpg
+.. |httpidataover-blogcom0120862-dscn2195.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2195.jpg
+.. |httpidataover-blogcom0120862-dscn2197.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2197.jpg
+.. |httpidataover-blogcom0120862-dscn2200.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn2200.jpg

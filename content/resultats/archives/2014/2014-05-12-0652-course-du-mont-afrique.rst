@@ -13,4 +13,4 @@ Course du Mont Afrique
 
 |Course-du-Mont-Afrique.jpg|
 
-.. |Course-du-Mont-Afrique.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2014-course-du-mont-afrique.jpg
+.. |Course-du-Mont-Afrique.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2014-course-du-mont-afrique.jpg

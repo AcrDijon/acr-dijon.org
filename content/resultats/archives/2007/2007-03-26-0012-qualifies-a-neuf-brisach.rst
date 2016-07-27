@@ -19,4 +19,4 @@ Ci-dessous,  Jean-Claude maguer vient de passer le premier relais à Dominique 
 
 |httpidataover-blogcom0120862-relais-ekiden-9brisach-2007.jpg|
 
-.. |httpidataover-blogcom0120862-relais-ekiden-9brisach-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-relais-ekiden-9brisach-2007.jpg
+.. |httpidataover-blogcom0120862-relais-ekiden-9brisach-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-relais-ekiden-9brisach-2007.jpg

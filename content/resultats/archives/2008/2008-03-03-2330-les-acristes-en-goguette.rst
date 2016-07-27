@@ -23,7 +23,7 @@ Foulées Bletteranoises
 
 `http://lonsac.free.fr/Result%20Bletterans%202008%20foul.pdf`_
 
-.. |Semi-marathon de Paris 2008 - 16e édition| image:: http://assets.acr-dijon.org/old/httpwwwparismarathoncomsemi2008frimages-visuel_2008.jpg
+.. |Semi-marathon de Paris 2008 - 16e édition| image:: https://assets.acr-dijon.org/old/httpwwwparismarathoncomsemi2008frimages-visuel_2008.jpg
 .. _http://www.semideparis.com/2008/fr/resumeSEMI-fr.html: http://www.semideparis.com/2008/fr/resumeSEMI-fr.html
-.. |httplonsacfreefr-divers20logoclub.gif| image:: http://assets.acr-dijon.org/old/httplonsacfreefr-divers20logoclub.gif
+.. |httplonsacfreefr-divers20logoclub.gif| image:: https://assets.acr-dijon.org/old/httplonsacfreefr-divers20logoclub.gif
 .. _http://lonsac.free.fr/Result%20Bletterans%202008%20foul.pdf: http://lonsac.free.fr/Result%20Bletterans%202008%20foul.pdf

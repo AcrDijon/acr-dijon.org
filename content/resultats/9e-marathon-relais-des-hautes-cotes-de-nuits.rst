@@ -10,13 +10,13 @@ Cette année, c'était autour du village de CHAUX, d'accueillir le "Marathon Rel
 
 Les précipitations annoncées ont eu le bon goût de s'abstenir de leur présence, laissant place à un temps sec et chaud !
 
-.. image:: http://assets.acr-dijon.org/chaux164.jpg
+.. image:: https://assets.acr-dijon.org/chaux164.jpg
 
 *Soua et Charly avant le départ*
 
 38 équipes ont répondu à l'appel de l'équipe organisatrice de NUITS COURSE A PIED, dont 5 équipes de l'ACR.
 
-.. image:: http://assets.acr-dijon.org/chaux163.jpg
+.. image:: https://assets.acr-dijon.org/chaux163.jpg
 
 *Passage de relais Vincent/Eric*
 
@@ -30,7 +30,7 @@ Les précipitations annoncées ont eu le bon goût de s'abstenir de leur présen
 
 38 équipes classées / Victoire des "Minions" (ASPTT DIJON) en 2h37'19'' ; 1ère équipe féminine : "Les Denisettes" (ASPTT DIJON) en 3h25'08'' (17e temps scratch).
 
-.. image:: http://assets.acr-dijon.org/chaux161.jpg
+.. image:: https://assets.acr-dijon.org/chaux161.jpg
 
 *Les Furieux de l'ACR 2e au scratch*
 
@@ -67,7 +67,7 @@ Les précipitations annoncées ont eu le bon goût de s'abstenir de leur présen
 - 29 **Edith SANCHEZ** : 35'05'' (Les Playmates de l'ACR)
 - 30 **Stéphanie TERRRAND** : 36'20'' (Les Playmates de l'ACR)
 
-.. image:: http://assets.acr-dijon.org/chaux162.jpg
+.. image:: https://assets.acr-dijon.org/chaux162.jpg
 
 *Les Playmates de l'ACR à l'arrivée, 3e équipe féminine au classement*
 

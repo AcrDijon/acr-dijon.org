@@ -17,4 +17,4 @@ Belle performance de notre athlète.
 
 **13** | **POLI** | **ALEXANDRA** | **2** | **1:23:18.79** | 11               | 0:14:22.4    | 3,1
 
-.. |20130709_091524_accueil.png| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3790120862coursescourses-2014-20130709_091524_accueil.png
+.. |20130709_091524_accueil.png| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3790120862coursescourses-2014-20130709_091524_accueil.png

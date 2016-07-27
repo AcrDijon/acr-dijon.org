@@ -8,7 +8,7 @@ Foulées brazéennes
 
 L'ACR a répondu en nombre à l'appel des organisateurs de ces premières **Foulées brazéennes**, sur les différentes distances au programme du jour.
 
-.. image:: http://assets.acr-dijon.org/acrbrazey.jpg
+.. image:: https://assets.acr-dijon.org/acrbrazey.jpg
 
 Cette manifestation, organisée pour sensibiliser et récolter des fonds pour la lutte contre la mucoviscidose, a connu un bel engouement pour cette première édition, on l'imagine destinée à être reconduite.
 
@@ -21,11 +21,11 @@ Les organisateurs ont proposé aux concurrents de jolis parcours tracés dans le
 
 Course remportée par Sylvain MANGIN en 21'03'' / 94 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/david.jpg
+.. image:: https://assets.acr-dijon.org/david.jpg
 
 *David*
 
-.. image:: http://assets.acr-dijon.org/magbraz.jpg
+.. image:: https://assets.acr-dijon.org/magbraz.jpg
 
 *Mag'*
 
@@ -42,7 +42,7 @@ Course remportée par Sylvain MANGIN en 21'03'' / 94 concurrents classés
 
 Course remportée par Nicolas JANDROT en 35'16'' / 209 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/dom.jpg
+.. image:: https://assets.acr-dijon.org/dom.jpg
 
 *Dominique 2eV2*
 
@@ -53,11 +53,11 @@ Course remportée par Nicolas JANDROT en 35'16'' / 209 concurrents classés
 
 Course remportée par Nathan DORAS en 11'20'' / 25 concurrents classés
 
-.. image:: http://assets.acr-dijon.org/zoebraz.jpg
+.. image:: https://assets.acr-dijon.org/zoebraz.jpg
 
 *Zoé*
 
-.. image:: http://assets.acr-dijon.org/emma.jpg
+.. image:: https://assets.acr-dijon.org/emma.jpg
 
 *Emma*
 

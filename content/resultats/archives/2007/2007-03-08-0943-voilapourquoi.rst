@@ -18,7 +18,7 @@ Encore BRAVO, Vincent, Maxime, Grégoire et Xavier (Sans oublier Jérémy)...
 
 |httpidataover-blogcom0120862-acr-dijon-cadet-2.jpg|  |httpidataover-blogcom0120862-acr-dijon-cadet-3.jpg|
 
-.. |httpidataover-blogcom0120862-acr-dijon-cadet-4.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-cadet-4.jpg
-.. |httpidataover-blogcom0120862-acr-dijon-cadet-1.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-cadet-1.jpg
-.. |httpidataover-blogcom0120862-acr-dijon-cadet-2.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-cadet-2.jpg
-.. |httpidataover-blogcom0120862-acr-dijon-cadet-3.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-cadet-3.jpg
+.. |httpidataover-blogcom0120862-acr-dijon-cadet-4.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-cadet-4.jpg
+.. |httpidataover-blogcom0120862-acr-dijon-cadet-1.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-cadet-1.jpg
+.. |httpidataover-blogcom0120862-acr-dijon-cadet-2.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-cadet-2.jpg
+.. |httpidataover-blogcom0120862-acr-dijon-cadet-3.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-cadet-3.jpg

@@ -7,7 +7,7 @@ Résultat SaintéLyon 2011
 
 
 
-.. image:: http://assets.acr-dijon.org/vincesaintelyon.JPG
+.. image:: https://assets.acr-dijon.org/vincesaintelyon.JPG
 
 C'est sur une contre performance que Vincent Lauvergne boucle cette édition 2011 de la Saintélyon. Parti avec prudence sur les 20 premiers kms, il commença à prendre son rythme vers le 25ème km.
 

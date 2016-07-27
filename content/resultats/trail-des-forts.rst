@@ -14,6 +14,6 @@ Sur la distance de 48 km, **Christophe PIGNET** s'est classé 26e/543 en 5h09'14
 
 **Bravo à eux !**
 
-.. image:: http://assets.acr-dijon.org/anse2015bertrand.jpg
+.. image:: https://assets.acr-dijon.org/anse2015bertrand.jpg
 
 *Bertrand à l'arrivée du Trail de la Roche d'Anse 2015 (archives ACR)*

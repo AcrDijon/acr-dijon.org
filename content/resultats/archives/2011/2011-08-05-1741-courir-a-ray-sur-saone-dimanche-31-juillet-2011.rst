@@ -19,4 +19,4 @@ Toutes nos félicitations à ce coureur qui passera, nous l'espérons dans la ca
 
 Source : `http://www.ray-sur-saone-70.fr/course.html <http://www.ray-sur-saone-70.fr/course.html>`_
 
-.. |Courir-a-Ray-sur-saone.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2011-courir-a-ray-sur-saone.jpg
+.. |Courir-a-Ray-sur-saone.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2011-courir-a-ray-sur-saone.jpg

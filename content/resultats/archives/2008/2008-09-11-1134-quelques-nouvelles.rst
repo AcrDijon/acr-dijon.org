@@ -26,4 +26,4 @@ Mes coordonnées sont les suivantes : MOUILLON Marjorie,7 route de Ventenac,1120
 
 Quant aux autres, ceux qui sont partis sans nous dire au revoir, je leur souhaîte une bonne continuation sportive et plein de bons moments
 
-.. |httpflashimgclub-internetfrflasheditor-smiley_au_revoir_anime.gif| image:: http://assets.acr-dijon.org/old/httpflashimgclub-internetfrflasheditor-smiley_au_revoir_anime.gif
+.. |httpflashimgclub-internetfrflasheditor-smiley_au_revoir_anime.gif| image:: https://assets.acr-dijon.org/old/httpflashimgclub-internetfrflasheditor-smiley_au_revoir_anime.gif

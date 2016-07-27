@@ -13,4 +13,4 @@ Plus d'information sur le blog : `http://challenge.etoile.21.over-blog.com/ <htt
 
 |httpidataover-blogcom0120862-composition-challenge-etoile-2007.jpg|
 
-.. |httpidataover-blogcom0120862-composition-challenge-etoile-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-composition-challenge-etoile-2007.jpg
+.. |httpidataover-blogcom0120862-composition-challenge-etoile-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-composition-challenge-etoile-2007.jpg

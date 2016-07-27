@@ -13,4 +13,4 @@ http://`www.dijon-sportnews.fr/2015/02/24/un-mardi-un-club-lacr-dijon/103198/ <h
 
 |DSCN0620|
 
-.. |DSCN0620| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2015trail-de-la-madone-dscn0620.JPG
+.. |DSCN0620| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862coursescourses-2015trail-de-la-madone-dscn0620.JPG

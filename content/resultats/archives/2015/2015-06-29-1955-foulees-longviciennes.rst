@@ -18,5 +18,5 @@ Foulées longviciennes
 
 |Foulées longviciennes #0|
 
-.. |Foulées longviciennes| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150629-ob_219f70_bertrand.jpg
-.. |Foulées longviciennes #0| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150629-ob_f40d9c_jacques.jpg
+.. |Foulées longviciennes| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150629-ob_219f70_bertrand.jpg
+.. |Foulées longviciennes #0| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150629-ob_f40d9c_jacques.jpg

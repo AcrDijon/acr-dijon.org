@@ -19,4 +19,4 @@ Alors, à l’aube de cette année  2012,  au nom des membres du bureau de l�
 
 Alain
 
-.. |Bonne Année| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3500120862manifestation-divers-bonne-annee.jpg
+.. |Bonne Année| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3500120862manifestation-divers-bonne-annee.jpg

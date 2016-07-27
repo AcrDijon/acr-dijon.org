@@ -16,4 +16,4 @@ Ne vous trompez pas, nous avons le sourire mais nous sommes figés par le froid,
 
 Tout le monde s'en sort bien même si Vanessa avait quelques difficultés à suivre ce matin. Faut dire que tu es tombé avec des baroudeurs ce matin.
 
-.. |Sortie-Perouse.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2012entrainement-sortie-perouse.jpg
+.. |Sortie-Perouse.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4500120862coursescourses-2012entrainement-sortie-perouse.jpg

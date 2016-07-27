@@ -19,4 +19,4 @@ Il n'y aura pas de marathon des Grands-Crus en 2007. L'information qui circulait
 En revanche, rien ne dit que le dix kilomètres, organisé par l'AC Chenôve et plus connu sous l'appellation de « Course des Vignes », ne se poursuive pas cette année. Affaire à suivre.
 J.-Y. R.
 
-.. |httpwwwbienpubliccomphotos-spop0905_200207.jpg| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0905_200207.jpg
+.. |httpwwwbienpubliccomphotos-spop0905_200207.jpg| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0905_200207.jpg

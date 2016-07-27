@@ -27,4 +27,4 @@ Sur le 10 km remporté par Romain Lelièvre en 34'49"
 
 **Jean Louis Rabiet, 197ème en 1h05'49"**
 
-.. |Léonie Rabiet 1ère Benjamine| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150915-ob_9071a5_wp-20150912-16-08-19-pro.jpg
+.. |Léonie Rabiet 1ère Benjamine| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150915-ob_9071a5_wp-20150912-16-08-19-pro.jpg

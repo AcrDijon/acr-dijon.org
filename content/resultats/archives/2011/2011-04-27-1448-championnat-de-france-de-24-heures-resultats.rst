@@ -28,5 +28,5 @@ Nous leur transmettons nos admiratives félicitations, et nos souhaits de tranqu
 
 Alain
 
-.. |24-heures3.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201124-heures-de-sene-24-heures3.JPG
-.. |24-heures2.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201124-heures-de-sene-24-heures2.JPG
+.. |24-heures3.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201124-heures-de-sene-24-heures3.JPG
+.. |24-heures2.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201124-heures-de-sene-24-heures2.JPG

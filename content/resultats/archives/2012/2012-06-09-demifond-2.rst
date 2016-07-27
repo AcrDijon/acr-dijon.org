@@ -7,7 +7,7 @@ Résultat Soirée Demi-Fond à Chenove
 :eventdate: 2012-06-08
 
 
-.. image:: http://assets.acr-dijon.org/vincentetmag.jpg
+.. image:: https://assets.acr-dijon.org/vincentetmag.jpg
 
 Sur le 800m: Elody réussit une belle seconde place en 2'37"2 tandis que Vincent Lauvergne boucle le sien en 2'37"9
 
@@ -18,7 +18,7 @@ Sur le 800m: Elody réussit une belle seconde place en 2'37"2 tandis que Vincent
 Sur le 3000m: Vincent Lauvergne s'élance à nouveau afin d'accompagner notre coach, ils terminent respectivement en 11'37"5 et 13'48"4. 
 
 
-.. image:: http://assets.acr-dijon.org/vincentpiste.jpg
+.. image:: https://assets.acr-dijon.org/vincentpiste.jpg
 
 Sur le 5000m: C'est au tour de Vincent Mangelaers Pivot de montrer ses capacités, en effectuant celui-ci en 17'15"7.
 

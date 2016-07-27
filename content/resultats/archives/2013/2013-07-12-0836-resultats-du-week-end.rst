@@ -82,6 +82,6 @@ Clt .. Temps ............ Nom ...................... Club
 
 |trail2.jpg|
 
-.. |1-copie-1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x2380120862-1-copie-1.jpg
-.. |trail.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x2980120862-trail.jpg
-.. |trail2.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom270x3000120862-trail2.jpg
+.. |1-copie-1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x2380120862-1-copie-1.jpg
+.. |trail.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x2980120862-trail.jpg
+.. |trail2.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom270x3000120862-trail2.jpg

@@ -58,6 +58,6 @@ Un petit contingent d'ACRiste se retrouvèrent ensuite pour une pause festive de
 
 Félicitations à tous...
 
-.. |fab.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1980120862coursescourses-2015trail-de-semur-fab.jpg
-.. |trail-du-vieux-semur-photo-philippe-bruchot--3-.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2320120862coursescourses-2015trail-de-semur-trail-du-vieux-semur-photo-philippe-bruchot-3-.jpg
-.. |biere| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3300120862coursescourses-2015trail-de-semur-biere.jpg
+.. |fab.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1980120862coursescourses-2015trail-de-semur-fab.jpg
+.. |trail-du-vieux-semur-photo-philippe-bruchot--3-.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2320120862coursescourses-2015trail-de-semur-trail-du-vieux-semur-photo-philippe-bruchot-3-.jpg
+.. |biere| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3300120862coursescourses-2015trail-de-semur-biere.jpg

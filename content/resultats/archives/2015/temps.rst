@@ -9,7 +9,7 @@ Les Couloirs du Temps 7 et 14 km
 Trois explorateurs de l'ACR se sont élancés dans les Couloirs du Temps (7km) vendredi soir, pour cette nouvelle course urbaine nocturne, parcourant couloirs, escaliers, et divers lieux ordinairement inaccessibles...
 Heureusement, tous trois en sont revenus. L'histoire ne dit pas si d'autres concurrents se sont égarés en chemin... 
 
-.. image:: http://assets.acr-dijon.org/cdt15.jpg
+.. image:: https://assets.acr-dijon.org/cdt15.jpg
 
 250 concurrents classés / Victoire de **Baptiste PETIN** (Non Licencié) en 25'30''
 

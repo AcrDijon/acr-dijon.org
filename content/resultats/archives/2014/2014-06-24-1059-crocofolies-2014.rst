@@ -94,5 +94,5 @@ Bravo à tous.
 
 D'autres photos sont disponibles sur l'album "CROCOS 2014' .
 
-.. |IMG_0140-copie-1.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1990120862-img_0140-copie-1.JPG
-.. |IMG 0111| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1990120862-img_0111.JPG
+.. |IMG_0140-copie-1.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1990120862-img_0140-copie-1.JPG
+.. |IMG 0111| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1990120862-img_0111.JPG

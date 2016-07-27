@@ -9,4 +9,4 @@ Les Foulées de la Norge (Brétigny, 3 octobre 2009)
 
 4 podiums et 2 victoires pour l'ACR Dijon !!
 
-.. image:: http://assets.acr-dijon.org/bretigny2009.jpg
+.. image:: https://assets.acr-dijon.org/bretigny2009.jpg

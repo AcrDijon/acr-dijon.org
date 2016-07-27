@@ -11,4 +11,4 @@ A noter la participation de plus de 16.000 concurrents sur les 4 épreuves du jo
 
 Photo des championnat de Côte d'Or de cross...depuis les cheveux sont tombés pour aller plus vite !!! |httpidataover-blogcom0120862departementaux-cross-2007-dscn6519.jpg|
 
-.. |httpidataover-blogcom0120862departementaux-cross-2007-dscn6519.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862departementaux-cross-2007-dscn6519.jpg
+.. |httpidataover-blogcom0120862departementaux-cross-2007-dscn6519.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862departementaux-cross-2007-dscn6519.jpg

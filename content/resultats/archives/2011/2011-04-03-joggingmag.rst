@@ -7,7 +7,7 @@ kevin Fond en pleine page dans Jogging International du mois
 
 Félicitations à lui et merci pour cette belle promotion de l'ACR.
 
-.. image:: http://assets.acr-dijon.org/kevinjog.jpg
+.. image:: https://assets.acr-dijon.org/kevinjog.jpg
 
 C'est avec plaisir que nous constatons la pésence de Kévin Fond en pleine page dans le magazine Jogging International.
 

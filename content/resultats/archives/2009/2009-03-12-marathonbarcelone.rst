@@ -15,4 +15,4 @@ A part ça, nous étions 9700 inscrits… ce qui constitue déjà une belle affl
 
 Le vainqueur met 2h14, plus qu’espéré par les organisateurs, de mon coté je réalise 3h29’31’’en temps réel et 3h31’32’’ en temps officiel ce qui me vaut de me classer 2471ème  au général   et 478ème dans ma catégorie intitulée là bas V45M ..." 
 
-.. image:: http://assets.acr-dijon.org/ericmathey.jpg
+.. image:: https://assets.acr-dijon.org/ericmathey.jpg

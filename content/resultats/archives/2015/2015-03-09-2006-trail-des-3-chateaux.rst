@@ -19,7 +19,7 @@ Par contre, le dimanche fut une toute autre histoire, les jambes tournent beauco
 
 **47ème** sur 102 en 4h14'11"
 
-.. image:: http://assets.acr-dijon.org/3chateaux.jpg
+.. image:: https://assets.acr-dijon.org/3chateaux.jpg
 
 Sébastien Bonnot dit le Clown du Team Solidai'Run
 
@@ -40,4 +40,4 @@ Au final, **Vincent**  termine **41ème sur 102**  sur le Combiné.
 
 et **Vincent Lauvergne, 41ème**
 
-.. |Sébastien Bonnot dit le Clown du Team Solidai'Run| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150309-ob_c6ba12_les-participants-decouvrent-ce-dimanch.jpg
+.. |Sébastien Bonnot dit le Clown du Team Solidai'Run| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150309-ob_c6ba12_les-participants-decouvrent-ce-dimanch.jpg

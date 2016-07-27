@@ -10,4 +10,4 @@ Grace nottament aux bons classements des deux meilleurs cadets de notre club, l'
 
 |httpidataover-blogcom0120862-genod-par-equipe-2007.png|
 
-.. |httpidataover-blogcom0120862-genod-par-equipe-2007.png| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-genod-par-equipe-2007.png
+.. |httpidataover-blogcom0120862-genod-par-equipe-2007.png| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-genod-par-equipe-2007.png

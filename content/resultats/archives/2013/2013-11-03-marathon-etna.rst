@@ -13,6 +13,6 @@ belles courses. Seul regret : avoir coincé alors que j'étais 5eme. Repos avant
 
 dernier objectif, la saintélyon, et la trêve hivernale. 
 
-.. image:: http://assets.acr-dijon.org/Julienetna.jpg
+.. image:: https://assets.acr-dijon.org/Julienetna.jpg
 
 Grosse performance de Julien Harson qui confirme une grand année 2013.

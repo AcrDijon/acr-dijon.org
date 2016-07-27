@@ -41,4 +41,4 @@ Trail de 23 kms ( 300 arrivants ) :
 Bravo à Daniel pour sa 1ère place en V3M
 Bravo également à Véronique pour sa 1ère place en V1F mais aussi par sa belle 3ème place au scratch féminin
 
-.. |httpidataover-blogcom0120862bertrand-index_clip_image001.gif| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-index_clip_image001.gif
+.. |httpidataover-blogcom0120862bertrand-index_clip_image001.gif| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bertrand-index_clip_image001.gif

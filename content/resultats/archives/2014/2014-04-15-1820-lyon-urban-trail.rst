@@ -19,4 +19,4 @@ plus difficile que je ne l'imaginais. Foutus escaliers, je prendrai l'ascenseur
 
 demain !
 
-.. |Lut.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-lut.jpg
+.. |Lut.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014-lut.jpg

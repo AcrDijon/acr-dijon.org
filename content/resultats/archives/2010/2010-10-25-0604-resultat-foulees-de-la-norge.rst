@@ -34,4 +34,4 @@ Bravo à vous tous pour vos performances, le rendez-vous est donné maintenant �
 - 139 	Manuel Barreira 	00:49:27 	
 - 176 	Jacques Pivot 	00:53:31 	2 V4M
 
-.. |IMGP6641| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom398x6000120862courses-2010foulees-de-la-norge-imgp6641.JPG
+.. |IMGP6641| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom398x6000120862courses-2010foulees-de-la-norge-imgp6641.JPG

@@ -15,4 +15,4 @@ Vincent profitera de la Corrida de Nuits-Saint-Georges le lendemainpour faire sa
 
 **Bon week-end dans les Hautes-Alpes !!**
 
-.. |httpidataover-blogcom0120862photos-trail2008-copie-1.gif| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-trail2008-copie-1.gif
+.. |httpidataover-blogcom0120862photos-trail2008-copie-1.gif| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-trail2008-copie-1.gif

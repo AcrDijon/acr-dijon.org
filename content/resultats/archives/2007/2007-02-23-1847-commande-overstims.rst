@@ -16,4 +16,4 @@ Je serai présent mardi et jeudi aux entrainements, avec le prospectus d' Overs
 
 PS : Pour info,.... je ne touche aucune commission ! Pas de bol !
 
-.. |httpidataover-blogcom0120862divers-overstim.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862divers-overstim.jpg
+.. |httpidataover-blogcom0120862divers-overstim.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862divers-overstim.jpg

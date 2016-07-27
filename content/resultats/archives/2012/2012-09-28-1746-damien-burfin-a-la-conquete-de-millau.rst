@@ -19,4 +19,4 @@ Nouvauté de cette année, vous pourrez suivre son évolution dès le départ à
 
 Nous lui adressons tous nos encouragements...
 
-.. |298234_2256931835457_1670312364_n.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012-298234_2256931835457_1670312364_n.jpg
+.. |298234_2256931835457_1670312364_n.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012-298234_2256931835457_1670312364_n.jpg

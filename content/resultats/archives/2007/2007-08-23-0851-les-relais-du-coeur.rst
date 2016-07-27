@@ -10,4 +10,4 @@ Les adhérents désirant faire une ou plusieurs équipes pour le relais des rest
 
 |httpidataover-blogcom0120862-affiche-relais-2007.jpg|
 
-.. |httpidataover-blogcom0120862-affiche-relais-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-affiche-relais-2007.jpg
+.. |httpidataover-blogcom0120862-affiche-relais-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-affiche-relais-2007.jpg

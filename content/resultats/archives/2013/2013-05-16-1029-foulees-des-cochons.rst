@@ -44,4 +44,4 @@ Pour cette nouvelle épreuve du Challenge de l'étoile 2013, de nombreux ACRiste
   	  	  	 
 - 94 	Janick Lerat
 
-.. |Podium-Cochons.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-podium-cochons.jpg
+.. |Podium-Cochons.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-podium-cochons.jpg

@@ -8,6 +8,6 @@ Prévoir lampe frontale (la piste est éclairée, mais pas le parcours d'échauf
 RV parking du stade (face au bâtiment STAPS) chaque jeudi (départ échauffement à 18h30 précises).
 Prendre contact préalablement avec **Bertrand Quintin** : 06 87 50 30 69
 
-.. image:: http://assets.acr-dijon.org/piste.jpg
+.. image:: https://assets.acr-dijon.org/piste.jpg
 
 Venez nombreux !

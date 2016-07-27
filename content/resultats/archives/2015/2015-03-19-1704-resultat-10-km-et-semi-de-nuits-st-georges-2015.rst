@@ -52,4 +52,4 @@ Félicitations à tous
 
 
 
-.. |Didier Belleville et Talmi Simeha sur les 10 km de Nuits St Georges| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150319-ob_c4fbd3_talmi.jpg
+.. |Didier Belleville et Talmi Simeha sur les 10 km de Nuits St Georges| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150319-ob_c4fbd3_talmi.jpg

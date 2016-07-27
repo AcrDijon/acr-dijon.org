@@ -13,4 +13,4 @@ Fabrice Heuret, Pierre Audin, Lionel Bourgeois et Xavier François...BRAVO
 
 |httpidataover-blogcom0120862-acr-dijon-force-one.jpg|
 
-.. |httpidataover-blogcom0120862-acr-dijon-force-one.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-force-one.jpg
+.. |httpidataover-blogcom0120862-acr-dijon-force-one.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-acr-dijon-force-one.jpg

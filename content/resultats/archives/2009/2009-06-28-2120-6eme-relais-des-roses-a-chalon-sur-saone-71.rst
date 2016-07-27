@@ -43,5 +43,5 @@ Karen et les garçons jouent avec de l'eau comme à la plage. Bref il temps de r
 
 Résultats complets et détails à venir...
 
-.. |httpidataover-blogcom0120862photos-roses2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-roses2009.jpg
-.. |httpidataover-blogcom0120862photos-roses2009_eac.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-roses2009_eac.jpg
+.. |httpidataover-blogcom0120862photos-roses2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-roses2009.jpg
+.. |httpidataover-blogcom0120862photos-roses2009_eac.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-roses2009_eac.jpg

@@ -7,7 +7,7 @@ Foulées de la Voie Bleue
 :eventdate: 2015-08-30
 
 
-.. image:: http://assets.acr-dijon.org/voiebleue2015.jpg
+.. image:: https://assets.acr-dijon.org/voiebleue2015.jpg
 
 143 concurrents classés.
 

@@ -7,7 +7,7 @@ Résultat Trail de Sombernon
 
 
 
-.. image:: http://assets.acr-dijon.org/sombernon.JPG
+.. image:: https://assets.acr-dijon.org/sombernon.JPG
 
 L'heure des moissons n'est pas encore venu, et l'ACR démontre une fois de plus son potentiel au niveau local.
 
@@ -19,7 +19,7 @@ Samedi soir se courait le Trail de Sombernon ou 92 concurents se retrouvèrent s
 
 9 ACRistes étaient présent sur ces deux courses. 
 
-.. image:: http://assets.acr-dijon.org/sombernon2.JPG
+.. image:: https://assets.acr-dijon.org/sombernon2.JPG
 
 - 1 	47:18:00 	PETITJEAN Benjamin 	  	 
 - 2 	49:08:00 	BERNETTES Cedric 	Autun Triathlon 	 
@@ -34,7 +34,7 @@ Samedi soir se courait le Trail de Sombernon ou 92 concurents se retrouvèrent s
   	  	  	  	 
 - 65 	01:30:14 	GRIFFON Serge 	Ac Talant 	
 
-.. image:: http://assets.acr-dijon.org/sombernon3.JPG
+.. image:: https://assets.acr-dijon.org/sombernon3.JPG
 
 - 1 	25:28:00 	**AUDIN Pierre** 	Acr Dijon 	**1er V1**
 - 2 	26:05:00 	CHAFFANGEON Olivier 	Ac Chenôve 	 
@@ -48,5 +48,5 @@ Samedi soir se courait le Trail de Sombernon ou 92 concurents se retrouvèrent s
   				
 - 27 	44:12:00 	MERCUSOT Jean-yves
 
-.. image:: http://assets.acr-dijon.org/sombernon4.JPG
+.. image:: https://assets.acr-dijon.org/sombernon4.JPG
 

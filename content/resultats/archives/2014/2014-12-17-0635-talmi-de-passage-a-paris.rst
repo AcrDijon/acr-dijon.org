@@ -15,4 +15,4 @@ J’y ai retrouvé des amis parisiens, c’était sympa.
 
 J’ai bien porté le maillot du club et j’ai fini 10ème V3M sur 49 et 290ème sur 1380 au total.
 
-.. |Vincennes-10h28C1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862coursescourses-2015-vincennes-10h28c1.jpg
+.. |Vincennes-10h28C1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom375x5000120862coursescourses-2015-vincennes-10h28c1.jpg

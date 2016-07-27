@@ -13,4 +13,4 @@ Armelle était cette nuit sur la Saintésprint
 
 Félicitations
 
-.. |Armelle Sainté| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x3300120862coursescourses-2015-armelle-sainte.jpg
+.. |Armelle Sainté| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x3300120862coursescourses-2015-armelle-sainte.jpg

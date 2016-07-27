@@ -16,4 +16,4 @@ De plus, il serait possible le soir de se faire un resto ( Choucroute  pour réc
 
 `|httpwwwmarathonbourgogneorgimagesmenu-logo.jpg| <http://www.marathonbourgogne.org/index.htm>`_
 
-.. |httpwwwmarathonbourgogneorgimagesmenu-logo.jpg| image:: http://assets.acr-dijon.org/old/httpwwwmarathonbourgogneorgimagesmenu-logo.jpg
+.. |httpwwwmarathonbourgogneorgimagesmenu-logo.jpg| image:: https://assets.acr-dijon.org/old/httpwwwmarathonbourgogneorgimagesmenu-logo.jpg

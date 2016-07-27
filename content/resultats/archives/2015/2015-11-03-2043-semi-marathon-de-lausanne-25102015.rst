@@ -15,4 +15,4 @@ Bravo à elle
 
 |Semi-Marathon de Lausanne / 25.10.2015|
 
-.. |Semi-Marathon de Lausanne / 25.10.2015| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151103-ob_c8fcb0_5603549-p.jpg
+.. |Semi-Marathon de Lausanne / 25.10.2015| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520151103-ob_c8fcb0_5603549-p.jpg

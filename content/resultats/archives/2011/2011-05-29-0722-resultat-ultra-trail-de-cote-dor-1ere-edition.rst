@@ -53,7 +53,7 @@ Résultat Ultra Trail de Côte d'Or, 1ère édition
 
 Toutes les photos disponibles dans l'Album `UTCO <http://acr.dijon.over-blog.com/album-1886738.html>`_
 
-.. |Vero-et-Lionel-Bornel.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2011utco-vero-et-lionel-bornel.JPG
-.. |Gerard-Baconnet.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011utco-gerard-baconnet.JPG
-.. |Alain Pardon| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011utco-alain-pardon.JPG
-.. |Francois.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011utco-francois.JPG
+.. |Vero-et-Lionel-Bornel.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2011utco-vero-et-lionel-bornel.JPG
+.. |Gerard-Baconnet.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011utco-gerard-baconnet.JPG
+.. |Alain Pardon| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011utco-alain-pardon.JPG
+.. |Francois.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2011utco-francois.JPG

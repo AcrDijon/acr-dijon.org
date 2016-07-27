@@ -10,4 +10,4 @@ L'ACR Dijon était bel et bien de la fête lors de l'inauguration du nouveau Sta
 
 |httpidataover-blogcom0120862-dscn6692.jpg|
 
-.. |httpidataover-blogcom0120862-dscn6692.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn6692.jpg
+.. |httpidataover-blogcom0120862-dscn6692.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn6692.jpg

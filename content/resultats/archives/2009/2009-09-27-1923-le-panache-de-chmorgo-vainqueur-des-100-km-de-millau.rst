@@ -52,4 +52,4 @@ Maintenant c'est de la récupération. Et après ?
 J'ai 44 ans, je suis de Mèze, sur l'étang de Thau. Demain je me repose et lundi je suis à la chasse. Après on verra.
 `LaDepeche.fr <http://www.ladepeche.fr/article/2009/09/27/681468-Le-panache-de-Ch-Morgo-vainqueur-des-100-km-de-Millau.html>`_ , dimanche 27 septembre 2009
 
-.. |httpidataover-blogcom0120862photos-millau_2009.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-millau_2009.jpg
+.. |httpidataover-blogcom0120862photos-millau_2009.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862photos-millau_2009.jpg

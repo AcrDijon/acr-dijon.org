@@ -17,4 +17,4 @@ Le nouveau débardeur sera remis aux participants (échange pour les adhérents 
 
 Et suite à désistement, 2 voire 3 coureurs peuvent se proposer pour suppléer à ces retraits. Contacter Fabrice dès que possible pour les Acéristes intéressés.
 
-.. |Relais-des-Roses 0306| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862coursescourses-2011relais-des-roses-relais-des-roses-0306.JPG
+.. |Relais-des-Roses 0306| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862coursescourses-2011relais-des-roses-relais-des-roses-0306.JPG

@@ -16,4 +16,4 @@ L'année dernière, Kévin endossait la responsabilité de me remplacer sur ce M
 
 Courage dans l'ascension de la Flégère, et pense à la pression qui t'attend au sommet.
 
-.. |profilMarathon.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4340120862coursescourses-2011marathon-du-mont-blanc-profilmarathon.jpg
+.. |profilMarathon.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4340120862coursescourses-2011marathon-du-mont-blanc-profilmarathon.jpg

@@ -16,4 +16,4 @@ Félicitation à notre championne multi-sport.
 
 Son équipe se classe 4ème sur 21, la prochaine fois, ce sera le podium.
 
-.. |Hannibal| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom640x4800120862courses-hannibal.jpg
+.. |Hannibal| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom640x4800120862courses-hannibal.jpg

@@ -27,4 +27,4 @@ Remercions l'organisation Cote et Sport pour cette initiative, et n'oubliez pas 
   	  	 
 - 435 	Sarah Michel 	2h43'09"
 
-.. |P1000104.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-p1000104.JPG
+.. |P1000104.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2012-p1000104.JPG

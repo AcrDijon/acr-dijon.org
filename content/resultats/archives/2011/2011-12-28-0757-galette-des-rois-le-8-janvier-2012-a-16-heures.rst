@@ -16,4 +16,4 @@ C'est dans ces moments de convivialité que nous retrouvons toutes les valeurs q
 
 L'équipe du bureau de l'ACR.
 
-.. |galettedesrois| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4000120862manifestation-divers-galettedesrois.jpg
+.. |galettedesrois| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4000120862manifestation-divers-galettedesrois.jpg

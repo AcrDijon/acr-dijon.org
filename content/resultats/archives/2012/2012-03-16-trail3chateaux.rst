@@ -7,7 +7,7 @@ Résultat Trail des 3 chateaux
 :eventdate: 2012-03-11
 
 
-.. image:: http://assets.acr-dijon.org/v3c1.JPG  
+.. image:: https://assets.acr-dijon.org/v3c1.JPG  
 
 
 Cela se déroulait les 10 et 11 Mars au Creusot. Un trail nocturne de 20 km le samedi (650m +) suivi d'un trail de 35 km le lendemain (1000m +).
@@ -24,7 +24,7 @@ Parti redécouvrir ce trail en guisse d'entraînement, Vincent Lauvergne s'offri
 
 Un départ prudent le samedi soir mais une contre performance suite à des crampes d'estomac au 10ème km.
 
-.. image:: http://assets.acr-dijon.org/v3c2.JPG
+.. image:: https://assets.acr-dijon.org/v3c2.JPG
 
 - 1 	Stéphane Maure 	01:26:15 	1/88 	02:40:50 	1/82 	04:07:05
 - 2 	Jean Yves Moissonnier 	01:27:37 	2/88 	02:46:01 	3/82 	04:13:48

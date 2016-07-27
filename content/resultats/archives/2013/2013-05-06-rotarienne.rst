@@ -7,7 +7,7 @@ Foulée Rotarienne
 
 
 
-.. image:: http://assets.acr-dijon.org/lolo1.JPG
+.. image:: https://assets.acr-dijon.org/lolo1.JPG
 
 Une dizaine d'ACRistes présents hier aux Foulées Rotarienne.
 
@@ -31,7 +31,7 @@ Il n'a donc pas accompli le circuit exact, (motif de sa disqualification) mais a
 
 Le responsable de la décision a formulé des excuses à Sédik, mais rien n'a été communiqué de façon officielle.
 
-.. image:: http://assets.acr-dijon.org/lolo2.JPG
+.. image:: https://assets.acr-dijon.org/lolo2.JPG
 
 A l’issue de cette épreuve, j’apporte à Sédik BENDHAMANE tout mon soutien et le soutien de l’ACR DIJON.
 

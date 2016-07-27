@@ -19,4 +19,4 @@ Anthony PROST
 |httpidataover-blogcom0120862-jacques-pivot-bien-public-2007.jpg| 
 Jacques Pivot a profité du semi du Bien Public pour peaufiner sa condition avant le Mondial vétérans prévu le week-end prochain en Italie (photo A. P.)
 
-.. |httpidataover-blogcom0120862-jacques-pivot-bien-public-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-jacques-pivot-bien-public-2007.jpg
+.. |httpidataover-blogcom0120862-jacques-pivot-bien-public-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-jacques-pivot-bien-public-2007.jpg

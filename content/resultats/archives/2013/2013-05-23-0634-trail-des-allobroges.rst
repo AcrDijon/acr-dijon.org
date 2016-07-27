@@ -31,5 +31,5 @@ En bas, on longe le Brevon. On entend la sono et les spectateurs, on aperçoit l
 
 Je termine ce trail en 9h49 mn, 107ème sur 238 (326 inscrits, beaucoup d'abandons apparemment) :  satisfait de ce premier gros trail de montagne et rassuré par rapport à mon objectif de la saison, l'ITT à Val d'Isère en juillet. Seul regret : ne pas avoir fait le "vrai" parcours.
 
-.. |Trail-des-allobroges 1929| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3730120862coursescourses-2013trail-des-allobroges-trail-des-allobroges-1929.JPG
-.. |Trail-des-allobroges-0918.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2013trail-des-allobroges-trail-des-allobroges-0918.JPG
+.. |Trail-des-allobroges 1929| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3730120862coursescourses-2013trail-des-allobroges-trail-des-allobroges-1929.JPG
+.. |Trail-des-allobroges-0918.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3330120862coursescourses-2013trail-des-allobroges-trail-des-allobroges-0918.JPG

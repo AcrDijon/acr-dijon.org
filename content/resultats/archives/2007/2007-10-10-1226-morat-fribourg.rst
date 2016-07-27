@@ -22,4 +22,4 @@ pour les curieux: `http://www.morat-fribourg.ch/francais/default.aspx <http://ww
 
 `|Profile| <http://www.morat-fribourg.ch/cgi-bin/redir.aspx?url=www.reygrafik.ch>`_
 
-.. |Profile| image:: http://assets.acr-dijon.org/old/httpwwwmorat-fribourgchimagesplan-murten_profil.gif
+.. |Profile| image:: https://assets.acr-dijon.org/old/httpwwwmorat-fribourgchimagesplan-murten_profil.gif

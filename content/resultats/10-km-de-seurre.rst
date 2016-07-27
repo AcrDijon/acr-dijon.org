@@ -15,7 +15,7 @@ Course remportée par Benoît FEUCHOT en 34'34'' / 126 concurrents classés
 - 55e : **Michaël ALIXANT** : 46'42''
 - 60e : **Alain BRIOT** : 48'01'' (**1erV4M**)
 
-.. image:: http://assets.acr-dijon.org/bertrand&tarek.jpg
+.. image:: https://assets.acr-dijon.org/bertrand&tarek.jpg
 
 *Bertrand et Tarek*
 

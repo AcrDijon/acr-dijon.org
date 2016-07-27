@@ -55,5 +55,5 @@ Les résultats:
 
 ...Bonne récup à toutes et à tous et à mardi !
 
-.. |httpidataover-blogcom0120862-nuits-vainqueurs.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-nuits-vainqueurs.jpg
-.. |httpidataover-blogcom0120862-nuits-seb.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-nuits-seb.jpg
+.. |httpidataover-blogcom0120862-nuits-vainqueurs.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-nuits-vainqueurs.jpg
+.. |httpidataover-blogcom0120862-nuits-seb.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-nuits-seb.jpg

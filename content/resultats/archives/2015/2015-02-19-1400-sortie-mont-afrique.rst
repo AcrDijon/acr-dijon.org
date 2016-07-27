@@ -16,4 +16,4 @@ Rendez-vous à 9h20 au Lac, puis direction Corcelles pour le tour du Mont Afriqu
 
 Puis on se retrouve tous ensuite autour d'un vin chaud, prévoir 3€ par personne.
 
-.. |13_vin.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom373x5000120862coursescourses-2015affiche-13_vin.jpg
+.. |13_vin.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom373x5000120862coursescourses-2015affiche-13_vin.jpg

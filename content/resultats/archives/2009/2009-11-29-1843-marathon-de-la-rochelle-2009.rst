@@ -32,5 +32,5 @@ Didier BELLEVILLE et Vincent LAUVERGNE étaient ce week end présents sur le tr�
 
 *BRAVO A TOUS LES DEUX !*
 
-.. |httpidataover-blogcom0120862chalon2009-photo-159.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-photo-159.jpg
-.. |httpidataover-blogcom0120862chalon2009-chalon2009_0105.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0105.jpg
+.. |httpidataover-blogcom0120862chalon2009-photo-159.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-photo-159.jpg
+.. |httpidataover-blogcom0120862chalon2009-chalon2009_0105.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862chalon2009-chalon2009_0105.jpg

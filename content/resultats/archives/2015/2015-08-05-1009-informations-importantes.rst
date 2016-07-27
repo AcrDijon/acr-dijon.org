@@ -29,4 +29,4 @@ Du coup la licence 2015 n'est pas valable pour l'inscription au BP. Il serait ut
 
 Toutefois, compte tenu des vacances et d'un délai d'obtention le renouvellement de la licence 2015/2016, il sera certainement préférable de présenter un certificat médical au moment de cette inscription.
 
-.. |informations importantes| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150805-ob_7ee4cd_wp-20150705-10-22-22-pro.jpg
+.. |informations importantes| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150805-ob_7ee4cd_wp-20150705-10-22-22-pro.jpg

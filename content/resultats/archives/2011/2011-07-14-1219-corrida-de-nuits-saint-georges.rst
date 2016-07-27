@@ -28,4 +28,4 @@ Romain Marteau, après un départ encore trop rapide, réussi à passer sous les
 
 Encore bravo à vous tous, repos et vacances sont au programme de tous maintenant...
 
-.. |P7190019.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862divers-p7190019.JPG
+.. |P7190019.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862divers-p7190019.JPG

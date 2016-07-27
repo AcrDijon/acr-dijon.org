@@ -10,7 +10,7 @@ Comme c'est devenue une tradition bien établie la veille de la fête nationale,
 
 Sept ACRIstes se sont élancés à l'assaut des  trois tours du circuit à 20h30.
 
-.. image:: http://assets.acr-dijon.org/cn161.jpg
+.. image:: https://assets.acr-dijon.org/cn161.jpg
 
 **9,8km :**
 
@@ -24,7 +24,7 @@ Sept ACRIstes se sont élancés à l'assaut des  trois tours du circuit à 20h30
 
 141 concurrents classés / Course remportée par Valentin CHARTIER (NL) en 32'28'' ; 1ère féminine : Léa BERLAND (NL) en 40'04'' (34e au scratch).
 
-.. image:: http://assets.acr-dijon.org/cn162.jpg
+.. image:: https://assets.acr-dijon.org/cn162.jpg
 
 *Cours collectif de gestion d'allure par Benoit*
 

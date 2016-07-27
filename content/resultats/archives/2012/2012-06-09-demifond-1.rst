@@ -7,7 +7,7 @@ Un 800m inter-génération
 :eventdate: 2012-06-08
 
 
-.. image:: http://assets.acr-dijon.org/elody.jpg
+.. image:: https://assets.acr-dijon.org/elody.jpg
 
 Hier à 20 heure sur la soirée piste de Chenove s'élançèrent 2 ACRistes sur le 800m.
 
@@ -19,7 +19,7 @@ Hier à 20 heure sur la soirée piste de Chenove s'élançèrent 2 ACRistes sur 
 
 Comme nous pouvons nous y attendre, notre jeune cadette aura été la plus rapide. 
 
-.. image:: http://assets.acr-dijon.org/vincepiste.jpg
+.. image:: https://assets.acr-dijon.org/vincepiste.jpg
 
 Que de souvenirs et de nostalgie pour Vincent Lauvergne qui foula la piste de Chenove, pour effectuer un 800m, 20 ans plus tard.
 Confirmation, je me sens bien trop vieux pour ce genre d'exercice qui demande une telle intensité.

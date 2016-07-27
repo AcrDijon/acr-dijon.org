@@ -8,7 +8,7 @@ LE LION - Déplacement club
 Participation de l'ACR Dijon à la 24ème édition de cette course de prestige le **dimanche 23 septembre 2007** |Le plan de la course| 
 14h30 : Semi Marathon International le Lion label IAAF
 
-.. |Le plan de la course| image:: http://assets.acr-dijon.org/old/httpwwwlelionorgpic-plan.png
+.. |Le plan de la course| image:: https://assets.acr-dijon.org/old/httpwwwlelionorgpic-plan.png
 
 
 

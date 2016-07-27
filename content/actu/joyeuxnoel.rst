@@ -9,4 +9,4 @@ Joyeux Noël
 **Joyeux Noël à toutes et à tous !!!**
 
 
-.. image:: http://assets.acr-dijon.org/courseperesnoel.jpg
+.. image:: https://assets.acr-dijon.org/courseperesnoel.jpg

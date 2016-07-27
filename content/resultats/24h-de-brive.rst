@@ -12,4 +12,4 @@ Les 5 et 6 mai, se déroulaient les Championnats de France de 24h, à Brive la G
 
 **Bravo à lui !**
 
-.. image:: http://assets.acr-dijon.org/24hbrive2016.jpg
+.. image:: https://assets.acr-dijon.org/24hbrive2016.jpg

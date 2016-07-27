@@ -25,4 +25,4 @@ Elite  (187 classés )  6 ième  Vincent Mangelaers-Pivot
 
 BRAVO A VOUS TOUS EN ESPERANT QUE CES BONS RESULTATS FERONT APPARAITRE DE NOUVEAUX CROSS-MANS OU CROSS-WOMANS DE L'ACR DIJON POUR LES CROSS FUTURS
 
-.. |Lionel s'arrache| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862regionaux-cross-2010-cross-12.jpg
+.. |Lionel s'arrache| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862regionaux-cross-2010-cross-12.jpg

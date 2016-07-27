@@ -10,4 +10,4 @@ Des nouvelles d'Alain (épisode 3)
 
 Il était hier matin près de Saint Guilhem le Désert, d'où il a pris la photo ci-dessous.
 
-.. image:: http://assets.acr-dijon.org/ab163.jpg
+.. image:: https://assets.acr-dijon.org/ab163.jpg

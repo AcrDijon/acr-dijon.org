@@ -30,4 +30,4 @@
 
 |Mont-Poupet.jpg|
 
-.. |Mont-Poupet.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3450120862coursescourses-2013-mont-poupet.jpg
+.. |Mont-Poupet.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3450120862coursescourses-2013-mont-poupet.jpg

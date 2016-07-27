@@ -18,4 +18,4 @@ Nous sommes à mi-parcours et il prend ces 80 km en région parisienne comme sa 
 
 751ème au 20ème km, il commence alors sa remontée pour finir **488ème en 9h11'52"**  sur 1559 arrivants. Plus de 2500 concurrents au départ.
 
-.. |Dans la petite côte juste après le 1er Ravitaillement| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150323-ob_445e2f_moi.jpg
+.. |Dans la petite côte juste après le 1er Ravitaillement| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150323-ob_445e2f_moi.jpg

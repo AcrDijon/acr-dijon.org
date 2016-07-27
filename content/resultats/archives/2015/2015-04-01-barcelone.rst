@@ -12,7 +12,7 @@ Engagé sur le marathon de Barcelone, Bertrand maitrise son allure de bout en bo
 
 La présence durant toute la course à ses côtés d’une marathonienne Mexicaine semble avoir motivé Bertrand mais son esprit Chevaleresque le prive peut-être sur la fin de passer sous la barre des 3 h 10. 
 
-.. image:: http://assets.acr-dijon.org/barcelone.jpg
+.. image:: https://assets.acr-dijon.org/barcelone.jpg
 
 Une nouvelle médaille bien méritée.
 

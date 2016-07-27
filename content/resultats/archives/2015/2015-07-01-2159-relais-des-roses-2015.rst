@@ -48,5 +48,5 @@ Notre équipe féminine
 - **Sylvie MICHELET**        | 32:46
 - **Laurence CARRIE**        | 33:19
 
-.. |Notre équipe masculine| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150701-ob_08355a_img-3595.JPG
-.. |Notre équipe féminine| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150701-ob_431ddf_img-3610.JPG
+.. |Notre équipe masculine| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150701-ob_08355a_img-3595.JPG
+.. |Notre équipe féminine| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150701-ob_431ddf_img-3610.JPG

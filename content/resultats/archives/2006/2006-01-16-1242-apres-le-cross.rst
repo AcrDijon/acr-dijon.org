@@ -65,9 +65,9 @@ Equipes. - 1. Dijon UC 15 points ; 2. 2. AC Chenôve 24 ; Dijon UC 2 46.
 
 © Copyright Le Bien Public
 
-.. |httpmemorixsdvfrrealmediaadscreativesdefault-empty.gif| image:: http://assets.acr-dijon.org/old/httpmemorixsdvfrrealmediaadscreativesdefault-empty.gif
+.. |httpmemorixsdvfrrealmediaadscreativesdefault-empty.gif| image:: https://assets.acr-dijon.org/old/httpmemorixsdvfrrealmediaadscreativesdefault-empty.gif
 .. _|httpmemorixsdvfrrealmediaadscreativesdefault-empty.gif|: http://memorix.sdv.fr/RealMedia/ads/click_lx.ads/www.bienpublic.com/sports/1050624976/Position2/default/empty.gif/63333231613632383433633633623730
-.. |httpwwwlebienpubliccomphotos-journal-spop2204_160106.jpg| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop2204_160106.jpg
-.. |httpwwwlebienpubliccomicons_edition-trans.gif| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomicons_edition-trans.gif
-.. |httpwwwlebienpubliccomphotos-journal-spop2205_160106.jpg| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop2205_160106.jpg
-.. |httpwwwlebienpubliccomphotos-journal-spop2206_160106.jpg| image:: http://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop2206_160106.jpg
+.. |httpwwwlebienpubliccomphotos-journal-spop2204_160106.jpg| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop2204_160106.jpg
+.. |httpwwwlebienpubliccomicons_edition-trans.gif| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomicons_edition-trans.gif
+.. |httpwwwlebienpubliccomphotos-journal-spop2205_160106.jpg| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop2205_160106.jpg
+.. |httpwwwlebienpubliccomphotos-journal-spop2206_160106.jpg| image:: https://assets.acr-dijon.org/old/httpwwwlebienpubliccomphotos-journal-spop2206_160106.jpg

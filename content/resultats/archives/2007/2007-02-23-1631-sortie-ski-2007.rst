@@ -49,9 +49,9 @@ C'est année encore, nous avons passé un très bon week-end grâce à la qualit
 
 Certains auraient même cru voir la Bête des Vosges dans les bois entre Gérardmer et La Bresse ...
 
-.. |httpidataover-blogcom0120862ski-2007-dsc00048.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00048.jpg
-.. |httpidataover-blogcom0120862ski-2007-dsc00052.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00052.jpg
-.. |httpidataover-blogcom0120862ski-2007-dsc00050.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00050.jpg
-.. |httpidataover-blogcom0120862ski-2007-dsc00063.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00063.jpg
-.. |httpidataover-blogcom0120862ski-2007-dsc00055.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00055.jpg
-.. |httpidataover-blogcom0120862ski-2007-dsc00062.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00062.jpg
+.. |httpidataover-blogcom0120862ski-2007-dsc00048.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00048.jpg
+.. |httpidataover-blogcom0120862ski-2007-dsc00052.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00052.jpg
+.. |httpidataover-blogcom0120862ski-2007-dsc00050.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00050.jpg
+.. |httpidataover-blogcom0120862ski-2007-dsc00063.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00063.jpg
+.. |httpidataover-blogcom0120862ski-2007-dsc00055.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00055.jpg
+.. |httpidataover-blogcom0120862ski-2007-dsc00062.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862ski-2007-dsc00062.jpg

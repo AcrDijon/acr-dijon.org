@@ -20,4 +20,4 @@ ainsi que les photos de l'évènement en cliquant ci-dessous :
 
 `http://niko-ngoisque.blogspot.fr/2015/04/tres-gros-succes-populaire-pour-les.html​ <http://niko-ngoisque.blogspot.fr/2015/04/tres-gros-succes-populaire-pour-les.html>`_
 
-.. |10ème Foulées du Lac Kir| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150422-ob_1a08aa_chaid1.jpg
+.. |10ème Foulées du Lac Kir| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150422-ob_1a08aa_chaid1.jpg

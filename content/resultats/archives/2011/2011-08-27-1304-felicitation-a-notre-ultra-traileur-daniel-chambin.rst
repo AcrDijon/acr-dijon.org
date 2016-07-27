@@ -16,4 +16,4 @@ Notre ami termine 1152ème sur 1471 en 21h37'45" et 16ème V3 sur 35.
 
 L'année prochaine, tu m'accompagnes sur l'UTMB.
 
-.. |SDC12369| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201148-heures-antibes-sdc12369.JPG
+.. |SDC12369| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-201148-heures-antibes-sdc12369.JPG

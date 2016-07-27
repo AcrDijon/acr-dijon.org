@@ -8,7 +8,7 @@ Trail de la Voie Romaine
 
 Cette année, l'affluence globale a plutôt été modérée sur les trois courses au programme du jour. Quatre vaillants ACRistes ont bravé la fraicheur de ce dimanche matin et se sont brillamment illustrés sur le 15km et sur le 28km.
 
-.. image:: http://assets.acr-dijon.org/vr161.jpg
+.. image:: https://assets.acr-dijon.org/vr161.jpg
 
 *Marie Laure, Fabrice et Adrien au départ du 15km*
 
@@ -26,7 +26,7 @@ Cette année, l'affluence globale a plutôt été modérée sur les trois course
 
 45 concurrents classés / Victoire de Fabien RUSSIER (DUC) en 2h09'05''
 
-.. image:: http://assets.acr-dijon.org/vr164.jpg
+.. image:: https://assets.acr-dijon.org/vr164.jpg
 
 *Tarek à l'appui d'une épaule secourable*
 

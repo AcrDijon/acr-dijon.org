@@ -58,4 +58,4 @@ Hier, jeudi 03 juillet, des athlètes du club ont participé à la dernière soi
 .. _FUSARO Adrien: javascript:bddThrowAthlete('resultats',%2097559,%200)
 .. _LAUVERGNE Vincent: javascript:bddThrowAthlete('resultats',%20877950,%200)
 .. _CHIODIN Jean-marc: javascript:bddThrowAthlete('resultats',%2097493,%200)
-.. |httpidataover-blogcom0120862-pict0215.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pict0215.jpg
+.. |httpidataover-blogcom0120862-pict0215.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-pict0215.jpg

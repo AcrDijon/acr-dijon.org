@@ -28,4 +28,4 @@ N' hésitez pas à nous contacter pour d' autres précisions qui vous sembleraie
 
 Merci de votre investissement pour cette importante occasion.
 
-.. |00018_Image9R.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2310120862bertrand-00018_image9r.jpg
+.. |00018_Image9R.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2310120862bertrand-00018_image9r.jpg

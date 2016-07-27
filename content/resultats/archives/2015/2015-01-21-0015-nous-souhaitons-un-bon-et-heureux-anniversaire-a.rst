@@ -19,4 +19,4 @@ Après le mot d’accueil prononcé par notre président, chacun a pu gouter aux
 
 Rendez-vous est maintenant donné le samedi 18 avril pour l’organisation des Foulées du Lac Kir.
 
-.. |DSCN0769.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom450x6000120862coursescourses-2015-dscn0769.JPG
+.. |DSCN0769.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom450x6000120862coursescourses-2015-dscn0769.JPG

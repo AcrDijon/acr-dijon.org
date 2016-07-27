@@ -31,4 +31,4 @@ Une sortie de 15 km dans laquelle chacun des 3 amis laissèrent des forces, mêm
 
 Une super soirée, un bon moment passé qui fit oublier la dureté de l'épreuve. Sans compter un repas réconfortant avant de reprendre la route.
 
-.. |Team-Trail-ACR-copie-1.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-team-trail-acr-copie-1.jpg
+.. |Team-Trail-ACR-copie-1.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-team-trail-acr-copie-1.jpg

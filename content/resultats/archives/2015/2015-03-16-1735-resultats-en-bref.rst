@@ -21,4 +21,4 @@ sur le Semi Marathon et **Michael Alixant** , **316ème sur 352**  en **1h04'27"
 
 **Pascal Molimard**  quand à lui était parmi les 34897 coureurs du semi marathon de Paris et termine **14276ème en 1h53'49"** .
 
-.. |Résultats en bref...| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150316-ob_33b3d2_img-2575.JPG
+.. |Résultats en bref...| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150316-ob_33b3d2_img-2575.JPG

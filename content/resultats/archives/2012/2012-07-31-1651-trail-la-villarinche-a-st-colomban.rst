@@ -23,4 +23,4 @@ Ils en ont profité pour s'inscrire sur un Trail de 13 km ou nos deux adhérents
 
 |VMP.jpg|
 
-.. |VMP.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012-vmp.jpg
+.. |VMP.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2012-vmp.jpg

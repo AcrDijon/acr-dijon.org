@@ -133,5 +133,5 @@ Merci à toutes et tous pour avoir participer et surtout on espère composer plu
 
 RETROUVEZ DES A PRESENT L'ALBUM PHOTOS SOUVENIR DE CETTE JOURNEE
 
-.. |Alexandra ne lache plus son trophee| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862bertrand-bis-alexandra-ne-lache-plus-son-trophee.JPG
-.. |Le président soulève le trophee| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862bertrand-bis-le-president-souleve-le-trophee.JPG
+.. |Alexandra ne lache plus son trophee| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862bertrand-bis-alexandra-ne-lache-plus-son-trophee.JPG
+.. |Le président soulève le trophee| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862bertrand-bis-le-president-souleve-le-trophee.JPG

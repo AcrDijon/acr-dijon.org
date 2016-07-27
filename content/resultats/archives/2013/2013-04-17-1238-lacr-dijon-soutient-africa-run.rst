@@ -7,7 +7,7 @@ L’ACR DIJON SOUTIENT AFRICA RUN
 
 Manuel Barreira et Vincent Lauvergne sont deux coureurs de l’ACR Dijon (Association des Coureurs sur Route de Dijon), également bénévoles au sein de l’association Africa Run. Ils ont décidé  de sensibiliser l’opinion public en organisant une collecte de chaussures de running à l’occasion des 8èmes Foulées du Lac Kir qu’organise l’ACR Dijon le 20 avril prochain. 
  
-.. image:: http://assets.acr-dijon.org/africarun.jpg
+.. image:: https://assets.acr-dijon.org/africarun.jpg
 
 L’association Africa Run a pour but l’organisation d’actions à caractère social ou culturel d’intérêt général, en particulier la collecte, l’acheminement et la distribution de chaussures ‘running’ neuves ou d’occasion à destination des populations d’Afrique.
 

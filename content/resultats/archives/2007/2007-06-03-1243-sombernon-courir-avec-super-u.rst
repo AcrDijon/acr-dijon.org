@@ -27,5 +27,5 @@ Enfin, le 4,9 km a été remporté par le jeune coureur de l'ACR Dijon Vincent 
 4,9 km : 1. Mangalaers-Pivot (ACRD) 16'06'' ; 2. Caillon (AC Talant) 16'18'' ; 3. J. Crotet (ACRD) 17'20'' ; 4. D. Crotet (ACRD) 17'24'' ; 5. Chartrain (Chenôve) 17'53''...
 10 km : 1. Korolev (Athlé 21) 32'53'' ; 2. Chahid (RCD) 33'53'' ; 3. Lelièvre (RCD) 35'21'' ; 4. Brahimi (NL) 35'27'' ; 5. Ramos (DUC Sombernon) 35'37'' ; 6. Bernardot (Plombières AC) 35'50'' ; 7. Belot (CROCO) 36'02'' ; 8. Audin (ACRD) 36'23'' ; 9. Aguirre (NL) 36'31'' ; 10. Vandroux (Nuits) 37'30'' ; 11. Ferrer (Chenôve, 1re féminine) 37'39''...
 
-.. | Dimitri Korolev n'a pas trop souffert pour s'imposer à Sombernon| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1701_030607.jpg
-.. | Le départ du 5 km. A l'arrivée, Mangalaers-Pivot s'imposera en solitaire| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1702_030607.jpg
+.. | Dimitri Korolev n'a pas trop souffert pour s'imposer à Sombernon| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1701_030607.jpg
+.. | Le départ du 5 km. A l'arrivée, Mangalaers-Pivot s'imposera en solitaire| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop1702_030607.jpg

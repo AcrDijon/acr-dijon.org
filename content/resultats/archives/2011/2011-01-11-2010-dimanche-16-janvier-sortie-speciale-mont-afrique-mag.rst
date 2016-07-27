@@ -13,4 +13,4 @@ A près le rendez-vous habituel au barrage du lac, nous gagnerons en voiture Cor
 
 A l'issu de celui-ci, un vin chaud sera proposé aux courageux participants, offert par l'ACR. Prévoyez un retour vers 12 h 00 sur Dijon.
 
-.. |dsc00048.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862ski-2007-dsc00048.jpg
+.. |dsc00048.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3750120862ski-2007-dsc00048.jpg

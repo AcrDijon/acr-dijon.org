@@ -26,5 +26,5 @@ Quelque soit votre rang d'arrivée, vous aurez les dix dernières secondes de vo
 
 Je ne trouve plus à dire, mais si vous avez des questions, je répondrais si possible.
 
-.. |httpidataover-blogcom0120862-bandeau.png| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-bandeau.png
+.. |httpidataover-blogcom0120862-bandeau.png| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-bandeau.png
 .. _http://www.escalade.ch/cms/index.php?option=com_content&view=frontpage&Itemid=1: http://www.escalade.ch/cms/index.php?option=com_content&view=frontpage&Itemid=1

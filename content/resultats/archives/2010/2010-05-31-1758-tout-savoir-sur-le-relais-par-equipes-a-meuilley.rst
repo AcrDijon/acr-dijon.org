@@ -44,4 +44,4 @@ Sportivement.
 
 Fabrice HEURET.
 
-.. |Chalon2009_0568.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862chalon2009-chalon2009_0568.jpg
+.. |Chalon2009_0568.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2010120862chalon2009-chalon2009_0568.jpg

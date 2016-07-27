@@ -13,4 +13,4 @@ Je me joints aux membres du bureau et des adhérents de l'ACR pour souhaiter ple
 
 BERTRAND
 
-.. |bebes138| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1830120862bertrand-bis-bebes138.jpg
+.. |bebes138| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1830120862bertrand-bis-bebes138.jpg

@@ -5,7 +5,7 @@
 :category: Résultats
 
 
-.. image:: http://assets.acr-dijon.org/reaux.jpg
+.. image:: https://assets.acr-dijon.org/reaux.jpg
 
 Benoit Sureau finit 3ème V1 au scratch de l'édition 2015 des 6 heures des Réaux, mais puisqu'il n'y a pas de cumul entre scratch et catégorie, il se retrouve 1er V1.
 

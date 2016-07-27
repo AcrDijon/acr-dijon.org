@@ -16,4 +16,4 @@ Et pour ceux qui ne sont pas de Dijon et qui ne savent comment s'y rendre, suive
 
 http://`www.chenove-triathlon.com/trail/acces_au_plateau_de_chenove.html <http://www.chenove-triathlon.com/trail/acces_au_plateau_de_chenove.html>`_
 
-.. |Trail-de-Chenove.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x7140120862coursescourses-2015affiche-trail-de-chenove.jpg
+.. |Trail-de-Chenove.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x7140120862coursescourses-2015affiche-trail-de-chenove.jpg

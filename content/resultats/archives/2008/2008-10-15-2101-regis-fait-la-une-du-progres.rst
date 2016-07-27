@@ -5,7 +5,7 @@ Régis fait la Une du Progrès !
 :category: Résultats
 :summary: Régis fait la Une du Progrès !
 
-.. image:: http://assets.acr-dijon.org/progres.jpg
+.. image:: https://assets.acr-dijon.org/progres.jpg
 
 **Régis Boucheseche**  a finalement terminé 14ème en 36'52" le 10KM remporté par le duciste Romain Vogt en 32'08".
 
@@ -17,4 +17,4 @@ Sur le semi (259 classés) remporté par Jean-Paul Bourgeois de l'Entente Jura e
 
 J'espère n'avoir oublié personne !
 
-.. |httpidataover-blogcom0120862-dole_une_progres_p.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dole_une_progres_p.jpg
+.. |httpidataover-blogcom0120862-dole_une_progres_p.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dole_une_progres_p.jpg

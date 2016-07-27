@@ -11,11 +11,11 @@ Partenaires institutionnels
 
 .. image:: /theme/partenaires/omsport.png
 
-.. image:: http://assets.acr-dijon.org/logoplombieres.png
+.. image:: https://assets.acr-dijon.org/logoplombieres.png
 
 .. image:: /theme/partenaires/bourgogne.png
 
-.. image:: http://assets.acr-dijon.org/cg.png
+.. image:: https://assets.acr-dijon.org/cg.png
 
 
 
@@ -30,7 +30,7 @@ Instances sportives
 
 .. image:: /theme/partenaires/jesuisuncoureur.png
 
-.. image:: http://assets.acr-dijon.org/etoile.png
+.. image:: https://assets.acr-dijon.org/etoile.png
 
 
 Sponsors
@@ -60,16 +60,16 @@ Sponsors
 
 .. image:: /theme/partenaires/rapidflore.png
 
-.. image:: http://assets.acr-dijon.org/doras.png
+.. image:: https://assets.acr-dijon.org/doras.png
 
-.. image:: http://assets.acr-dijon.org/lr.png
+.. image:: https://assets.acr-dijon.org/lr.png
 
-.. image:: http://assets.acr-dijon.org/barbarians.png
+.. image:: https://assets.acr-dijon.org/barbarians.png
 
-.. image:: http://assets.acr-dijon.org/hertz.png
+.. image:: https://assets.acr-dijon.org/hertz.png
 
-.. image:: http://assets.acr-dijon.org/graymode.png
+.. image:: https://assets.acr-dijon.org/graymode.png
 
-.. image:: http://assets.acr-dijon.org/quadijon.png
+.. image:: https://assets.acr-dijon.org/quadijon.png
 
-.. image:: http://assets.acr-dijon.org/matmut.png
+.. image:: https://assets.acr-dijon.org/matmut.png

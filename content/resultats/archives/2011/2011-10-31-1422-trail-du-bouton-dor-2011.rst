@@ -5,7 +5,7 @@ Trail du bouton d'or 2011
 :category: Résultats
 :summary: Trail du bouton d'or 2011
 
-.. image:: http://assets.acr-dijon.org/boutondor11.JPG
+.. image:: https://assets.acr-dijon.org/boutondor11.JPG
 
 Trail Nature 10,6 km
 

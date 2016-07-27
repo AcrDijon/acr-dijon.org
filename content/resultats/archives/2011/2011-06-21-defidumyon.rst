@@ -8,7 +8,7 @@ Défi du Myon
 
 6 ACRistes étaient présents samedi soir à Messange pour le Défi du Myon, Trail de 15 km.
 
-.. image:: http://assets.acr-dijon.org/myon.JPG
+.. image:: https://assets.acr-dijon.org/myon.JPG
 
 - 1 	55:24:00 	PETITJEAN Benjamin 	  	 
 - 2 	01:00:25 	BERNETTES Cedric 	  	 

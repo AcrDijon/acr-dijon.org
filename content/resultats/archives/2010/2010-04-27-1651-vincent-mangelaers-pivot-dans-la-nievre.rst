@@ -13,4 +13,4 @@ Vincent Mangelaers-Pivot dans la Nièvre
 
 **BRAVO VINCENT POUR CETTE BELLE PERFORMANCE**
 
-.. |Vincent au finish| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862bertrand-bis-vincent-au-finish.jpg
+.. |Vincent au finish| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2240120862bertrand-bis-vincent-au-finish.jpg

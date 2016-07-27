@@ -19,4 +19,4 @@ Laisser un commentaire avec votre pointure.
 
 Merci.
 
-.. |Ezy-shoes.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3720120862coursescourses-2012-ezy-shoes.jpg
+.. |Ezy-shoes.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3720120862coursescourses-2012-ezy-shoes.jpg

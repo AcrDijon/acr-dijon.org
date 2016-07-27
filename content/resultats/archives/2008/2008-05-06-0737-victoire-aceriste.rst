@@ -23,4 +23,4 @@ http://trailbesancon.free.fr
 Désolé pour la photo mais elles sont un peu sombres...
 
 .. _http://trailbesancon.free.fr: http://trailbesancon.free.fr
-.. |httpidataover-blogcom0120862-hpim0868.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-hpim0868.JPG
+.. |httpidataover-blogcom0120862-hpim0868.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-hpim0868.JPG

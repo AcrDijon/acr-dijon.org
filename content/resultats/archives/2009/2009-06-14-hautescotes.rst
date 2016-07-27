@@ -7,7 +7,7 @@
 
 
 
-.. image:: http://assets.acr-dijon.org/hautescotes091.jpg
+.. image:: https://assets.acr-dijon.org/hautescotes091.jpg
 
 3 équipes de 6 coureurs de l'ACR Dijon ont affronté la chaleur et le relief ce samedi pour représenter brillament le club à la seconde édition du marathon relais des Hautes-Côtes de Nuits à Villers la Faye.
 
@@ -19,6 +19,6 @@ Une très belle manifestation brillament organisée par Nuits Course à Pied sur
 
 Après la course, Mag nous a préparé un barbecue dont il a le secret !! Un pique-nique grandement préparé par Serge. Une très belle journée pour les adhérents de l'ACR...
 
-.. image:: http://assets.acr-dijon.org/hautescotes092.jpg
+.. image:: https://assets.acr-dijon.org/hautescotes092.jpg
 
 Résultats défintifs et photos à venir.

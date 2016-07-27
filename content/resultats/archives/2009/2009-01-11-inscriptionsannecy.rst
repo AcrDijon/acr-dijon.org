@@ -7,7 +7,7 @@ Marathon et semi du Lac d'Annecy (Haute-Savoie, 74) le 19 avril 2009
 :eventdate: 2009-04-19
 
 
-.. image:: http://assets.acr-dijon.org/parcoursannecy.jpg
+.. image:: https://assets.acr-dijon.org/parcoursannecy.jpg
 
 Inscription individuelle, clôture le 31 mars 2009.
 

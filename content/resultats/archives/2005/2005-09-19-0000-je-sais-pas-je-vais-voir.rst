@@ -16,4 +16,4 @@ Heureusement, c'est une minorité ! et je pense que la liste établie avant l'as
 
 N'hésitez pas à laissez vos commentaires sur ce sujet |httpgifstoutimagescomimagescrayons-crayon_004.GIF|
 
-.. |httpgifstoutimagescomimagescrayons-crayon_004.GIF| image:: http://assets.acr-dijon.org/old/httpgifstoutimagescomimagescrayons-crayon_004.GIF
+.. |httpgifstoutimagescomimagescrayons-crayon_004.GIF| image:: https://assets.acr-dijon.org/old/httpgifstoutimagescomimagescrayons-crayon_004.GIF

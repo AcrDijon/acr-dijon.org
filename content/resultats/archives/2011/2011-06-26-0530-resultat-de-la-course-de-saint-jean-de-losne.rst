@@ -25,4 +25,4 @@ le classement
 
 10 km : 1. Niyonsaba (Villeurbanne) 31’04 ; 2. Chahid (DUC) 31’28 ; 3. Brahimi (non licencié) 35’06 ; **4. Bendahmane (ACR Dijon) 35’35**  ; 5. Belot (Crocos Costaud) 36’01 ; 6. Da Costa (non licencié) 36’45 ; 7. Castille (non licencié) 37’52 ; 8. Lepage (BA 102) 38’01 ; 9. Frey (non licencié) 38’55 ; 10. Courant (non licencié) 39’22... 18. Siri (Chenôve) 40,11…
 
-.. |le-burundais-niyonsaba-s-est-impose-en-placant-une-accelera| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3590120862coursescourses-2011course-saint-jean-de-losne-le-burundais-niyonsaba-s-est-impose-en-placant-une-accelera.jpg
+.. |le-burundais-niyonsaba-s-est-impose-en-placant-une-accelera| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3590120862coursescourses-2011course-saint-jean-de-losne-le-burundais-niyonsaba-s-est-impose-en-placant-une-accelera.jpg

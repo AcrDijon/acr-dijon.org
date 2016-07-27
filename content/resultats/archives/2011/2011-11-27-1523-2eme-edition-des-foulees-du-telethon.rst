@@ -54,5 +54,5 @@ Objectif rempli pour nos 2 vedettes, félicitations à Marie Laure et Jean Louis
 
 "Le parcours trop de longues lignes droites mais quand même sympa de courir dans la campagne. Mais grace à mon lièvre qui se reconnaitra j'ai reussi a atteindre mes objectifs."
 
-.. |Elody-copie-1| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011-elody-copie-1.jpg
-.. |Vanessa-copie-1| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011-vanessa-copie-1.jpg
+.. |Elody-copie-1| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011-elody-copie-1.jpg
+.. |Vanessa-copie-1| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2011-vanessa-copie-1.jpg

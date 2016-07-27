@@ -8,7 +8,7 @@ Trail de la Vallée de l'Ouche 2016
 
 6 ACRistes se sont rendus à Saint Victor/Ouche à l'occasion du 7e Trail de la Vallée de l'Ouche ; tous engagés sur le 12km, sur un tracé modifié et rallongé d'une centaine de mètres dans sa partie finale et dans des conditions de forte chaleur.
 
-.. image:: http://assets.acr-dijon.org/tvo161.jpg
+.. image:: https://assets.acr-dijon.org/tvo161.jpg
 
 *Où est Bertrand ? Déjà parti ?*
 
@@ -25,7 +25,7 @@ Trail de la Vallée de l'Ouche 2016
 
 Sur le 27,5km/1300mD+ : 106 concurrents classés. Victoire de Morgan DUMAS (ASCE THALES) en 2h28'11'' ; 1ère féminine : Charline TOUVREY (NL) en 3h00'42'' (14e au scratch).
 
-.. image:: http://assets.acr-dijon.org/tvo162.jpg
+.. image:: https://assets.acr-dijon.org/tvo162.jpg
 
 *Fred à l'approche de l'arrivée*
 

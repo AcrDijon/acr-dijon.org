@@ -33,4 +33,4 @@ ACRistes à Tart Le Haut: De bons classements...
 - 66 CHIODIN Jean-Marc ( 17 V1 M ) ( ACR DIJON ) 00:46:24
 - 70 LAUVERGNE Vincent ( 29 SE M ) ( ACR DIJON ) 00:47:00
 
-.. |httplinkspicturesaolcom-picid9110brhpnbu9wiozm1exy5z3cw5u-kiexgysv4xqp5fd3igsizem| image:: http://assets.acr-dijon.org/old/httplinkspicturesaolcom-picid9110brhpnbu9wiozm1exy5z3cw5u-kiexgysv4xqp5fd3igsizem
+.. |httplinkspicturesaolcom-picid9110brhpnbu9wiozm1exy5z3cw5u-kiexgysv4xqp5fd3igsizem| image:: https://assets.acr-dijon.org/old/httplinkspicturesaolcom-picid9110brhpnbu9wiozm1exy5z3cw5u-kiexgysv4xqp5fd3igsizem

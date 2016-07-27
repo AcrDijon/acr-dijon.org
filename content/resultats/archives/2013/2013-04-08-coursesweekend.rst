@@ -6,7 +6,7 @@ Elles se sont déroulées ce week end
 
 
 
-.. image:: http://assets.acr-dijon.org/paris.jpg
+.. image:: https://assets.acr-dijon.org/paris.jpg
 
 Comme certains d'entre vous ont pu le voir à la télé dimanche matin. il s'agissait du 37ème Marathon de Paris. 50 000 coureurs au départ de cette nouvelle version avec départ différé.
 Cette fois-ci, je ne portais pas le dossard de l'ACR puisque je courais pour deux causes : Aurélie Gauthier, notre amie dans le coma depuis bientôt un mois et l'association Imagine for Margo qui lutte contre le cancer chez les enfants.

@@ -23,5 +23,5 @@ en 6h10'  environ et **Vincent boucle 48,1 km en un peu moins de 5h50'** .
 
 |Vincent.jpg|
 
-.. |Vero.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom180x3000120862coursescourses-2014-vero.jpg
-.. |Vincent.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom288x3000120862coursescourses-2014-vincent.jpg
+.. |Vero.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom180x3000120862coursescourses-2014-vero.jpg
+.. |Vincent.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom288x3000120862coursescourses-2014-vincent.jpg

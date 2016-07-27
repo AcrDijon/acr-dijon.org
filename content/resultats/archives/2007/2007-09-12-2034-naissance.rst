@@ -7,4 +7,4 @@ Naissance...
 
 |httpidataover-blogcom0120862-naissance-guillaume.jpg|
 
-.. |httpidataover-blogcom0120862-naissance-guillaume.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-naissance-guillaume.jpg
+.. |httpidataover-blogcom0120862-naissance-guillaume.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-naissance-guillaume.jpg

@@ -7,7 +7,7 @@ Les courses du Bien Public
 :eventdate: 2010-09-04
 
 
-.. image:: http://assets.acr-dijon.org/bp.JPG
+.. image:: https://assets.acr-dijon.org/bp.JPG
 
 
 Samedi 4 septembre 2010 avait lieu les courses du Bien Public . Notre trés célébre quotidien avait réuni pour l'occasion 482 arrivants sur le semi-marathon qui demeure l'épreuve phare de leurs courses et 1178 arrivants sur le 10 kms avec le toujours jeune Roger Soulier qui fermera le banc sur cette distance . La lutte sera acharnée sur les deux distances . Sur le semi marathon Emmanuel Nduwayo mettra à la raison Philippe Rémond tandis que la russe Marina Kovaleva s'imposera chez les femmes . Sur le 10 kms , Eric Niyonsaba et Isabelle Ferrer l'emporteront . Côté acéristes , forte mobilisation générale avec 7 personnes sur le semi et pas moins de 29 maillots oranges étaient représentés !

@@ -97,4 +97,4 @@ Je vous laisse regarder les classements et les temps (complets, je l'espère !) 
   Vitesse moyenne : 9,931034
 
 
-.. |trophée| image:: http://assets.acr-dijon.org/old/httpyvesmarsalfreefratoutgifs-utdiv68.gif
+.. |trophée| image:: https://assets.acr-dijon.org/old/httpyvesmarsalfreefratoutgifs-utdiv68.gif

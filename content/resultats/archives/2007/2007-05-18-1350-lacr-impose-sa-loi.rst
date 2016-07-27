@@ -24,5 +24,5 @@ Jean-Paul MARCHAND
 Relais : 1. ACR (21 tours, 4h07') ; 2. RC Dijon (21 t., 4h08') ; 3. AC Talant (21t., 4h12') ; 4. ACR 2 (19 t., 4h00') ; 5. ACR 3 (19 t., 4h01'). Vainqueur individuel : Daniel Mazaeu (AC Talant). Première femme : Marie-Jeanne Lenhof (Athlé 21).
 Vous retrouverez tous les résultats dans notre édition de demain.
 
-.. | Malgré la pluie et le vent, les premiers relayeurs étaient dans les starting-blocks (photos J.-P.M)| image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0901_180507.jpg
-.. | L'ACR franchit la ligne en vainqueur | image:: http://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0902_180507.jpg
+.. | Malgré la pluie et le vent, les premiers relayeurs étaient dans les starting-blocks (photos J.-P.M)| image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0901_180507.jpg
+.. | L'ACR franchit la ligne en vainqueur | image:: https://assets.acr-dijon.org/old/httpwwwbienpubliccomphotos-spop0902_180507.jpg

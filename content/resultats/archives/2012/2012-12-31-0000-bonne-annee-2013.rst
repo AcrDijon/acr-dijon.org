@@ -7,4 +7,4 @@ Bonne Année 2013
 
 |noel.jpg|
 
-.. |noel.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862divers-noel.jpg
+.. |noel.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862divers-noel.jpg

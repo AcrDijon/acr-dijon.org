@@ -88,5 +88,5 @@ En conclusion : 26 km de bonheur, puis 22 km de souffrance, de calvaire...Un vé
 
 Maintenant, repos jusqu'à l'Ultra Marin...
 
-.. |979772_381826821938874_802731701_n.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2242294922coursescourses-2013trail-du-mont-or-979772_381826821938874_802731701_n.jpg
-.. |100_0909.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2252294922coursescourses-2013trail-du-mont-or-100_0909.JPG
+.. |979772_381826821938874_802731701_n.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2242294922coursescourses-2013trail-du-mont-or-979772_381826821938874_802731701_n.jpg
+.. |100_0909.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2252294922coursescourses-2013trail-du-mont-or-100_0909.JPG

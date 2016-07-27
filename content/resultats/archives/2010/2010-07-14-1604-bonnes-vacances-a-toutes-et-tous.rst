@@ -10,4 +10,4 @@ Bonnes Vacances à toutes et tous
 
 BERTRAND
 
-.. |vacances| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2960120862bertrand-bis-vacances.jpg
+.. |vacances| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2960120862bertrand-bis-vacances.jpg

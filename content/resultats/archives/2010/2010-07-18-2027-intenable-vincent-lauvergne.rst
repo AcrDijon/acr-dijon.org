@@ -26,4 +26,4 @@ Il faudra donc parcourir 2600 m de dénivelé positif sur une distante totale de
 
 **BRAVO A VINCENT POUR CE NOUVEL EXPLOIT**
 
-.. |Vincent| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom178x3000120862meuilley-2010-vincent.JPG
+.. |Vincent| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom178x3000120862meuilley-2010-vincent.JPG

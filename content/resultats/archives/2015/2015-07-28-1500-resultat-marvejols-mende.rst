@@ -12,4 +12,4 @@ Résultat Marvejols-Mende
 
 A défaut de photo, voici son résultat,**il termine 152ème en 1h39'45"** .
 
-.. |Résultat Marvejols-Mende| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150728-ob_43e06d_pict2014-07-26-rg-74-semi-marathon-42e.jpg
+.. |Résultat Marvejols-Mende| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150728-ob_43e06d_pict2014-07-26-rg-74-semi-marathon-42e.jpg

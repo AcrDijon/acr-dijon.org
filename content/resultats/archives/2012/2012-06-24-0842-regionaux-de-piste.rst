@@ -19,5 +19,5 @@ Nous sommes tous fière de toi, tu es sur une bonne dynamique, continue comme ce
 
 |Dernier-Tour.jpg|
 
-.. |Elody.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2012regionaux-de-piste-elody.jpg
-.. |Dernier-Tour.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x3740120862coursescourses-2012regionaux-de-piste-dernier-tour.jpg
+.. |Elody.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom225x3000120862coursescourses-2012regionaux-de-piste-elody.jpg
+.. |Dernier-Tour.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x3740120862coursescourses-2012regionaux-de-piste-dernier-tour.jpg

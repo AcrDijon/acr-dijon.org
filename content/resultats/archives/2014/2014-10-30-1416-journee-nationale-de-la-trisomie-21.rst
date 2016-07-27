@@ -10,4 +10,4 @@ Journée Nationale de la Trisomie 21
 
 `www.trisomie21-cotedor.org <http://www.trisomie21-cotedor.org/>`_
 
-.. |Trisomie21.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x7070120862coursescourses-2015-trisomie21.jpg
+.. |Trisomie21.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x7070120862coursescourses-2015-trisomie21.jpg

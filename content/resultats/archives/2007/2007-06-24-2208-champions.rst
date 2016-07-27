@@ -30,7 +30,7 @@ Les "vieux" ont également participés sur le 5000 mètres avec Vincent lauvergn
 
 |httpidataover-blogcom0120862-vincent-prned-un-tour-sur-le-5000-m.jpg|
 
-.. |httpidataover-blogcom0120862-podiums-champion-de-bourgogne-3000-m.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-podiums-champion-de-bourgogne-3000-m.jpg
-.. |httpidataover-blogcom0120862-fin-du-800-m.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-fin-du-800-m.jpg
-.. |httpidataover-blogcom0120862-dscn6847.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn6847.jpg
-.. |httpidataover-blogcom0120862-vincent-prned-un-tour-sur-le-5000-m.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-vincent-prned-un-tour-sur-le-5000-m.jpg
+.. |httpidataover-blogcom0120862-podiums-champion-de-bourgogne-3000-m.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-podiums-champion-de-bourgogne-3000-m.jpg
+.. |httpidataover-blogcom0120862-fin-du-800-m.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-fin-du-800-m.jpg
+.. |httpidataover-blogcom0120862-dscn6847.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn6847.jpg
+.. |httpidataover-blogcom0120862-vincent-prned-un-tour-sur-le-5000-m.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-vincent-prned-un-tour-sur-le-5000-m.jpg

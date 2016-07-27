@@ -7,4 +7,4 @@ Hier marquait la 1ère étape du Challenge de l'étoile 2012
 
 |Challenge-etoile-2012.jpg|
 
-.. |Challenge-etoile-2012.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4410120862challenge-etoileetoile-2012-challenge-etoile-2012.jpg
+.. |Challenge-etoile-2012.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4410120862challenge-etoileetoile-2012-challenge-etoile-2012.jpg

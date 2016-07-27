@@ -23,4 +23,4 @@ Parmi eux se trouvait Maxime Saunier venu découvrir ce parcours en tant que cou
 
 |Maxime.jpg|
 
-.. |Maxime.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x1990120862coursescourses-2012-maxime.jpg
+.. |Maxime.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x1990120862coursescourses-2012-maxime.jpg

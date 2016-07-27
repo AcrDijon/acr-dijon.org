@@ -19,5 +19,5 @@ La carte " Loisirs " de l'association de 27 euros et à prendre dés son entrée
 
 `|httpwwwathlecomimagesnet-top01portail.gif| <http://www.athle.com/asp.net/main.home/home.aspx>`_  |httpwwwathlecomimagesnet-top05common.gif|
 
-.. |httpwwwathlecomimagesnet-top01portail.gif| image:: http://assets.acr-dijon.org/old/httpwwwathlecomimagesnet-top01portail.gif
-.. |httpwwwathlecomimagesnet-top05common.gif| image:: http://assets.acr-dijon.org/old/httpwwwathlecomimagesnet-top05common.gif
+.. |httpwwwathlecomimagesnet-top01portail.gif| image:: https://assets.acr-dijon.org/old/httpwwwathlecomimagesnet-top01portail.gif
+.. |httpwwwathlecomimagesnet-top05common.gif| image:: https://assets.acr-dijon.org/old/httpwwwathlecomimagesnet-top05common.gif

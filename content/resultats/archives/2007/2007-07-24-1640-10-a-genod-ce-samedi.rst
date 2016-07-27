@@ -13,4 +13,4 @@ Quant à ceux qui y vont juste pour goûter la bière, ils devront quand même p
 
 |httpidataover-blogcom0120862-genod.jpg|
 
-.. |httpidataover-blogcom0120862-genod.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-genod.jpg
+.. |httpidataover-blogcom0120862-genod.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-genod.jpg

@@ -7,4 +7,4 @@ Bientôt la rentrée avec le BP...
 
 |httpidataover-blogcom0120862-yes.png|
 
-.. |httpidataover-blogcom0120862-yes.png| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-yes.png
+.. |httpidataover-blogcom0120862-yes.png| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-yes.png

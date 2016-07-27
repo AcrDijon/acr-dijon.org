@@ -233,5 +233,5 @@ En seniors féminines, Pia Roessler s'offre une victoire pour son premier cross,
 
 Merci de me signaler toute erreur ou omission. Les photos et récits de course sont les bienvenus !
 
-.. |httpidataover-blogcom0120862automne-2006-fred-chevigny06.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-fred-chevigny06.jpg
-.. |httpidataover-blogcom0120862automne-2006-arnay-11nov2006.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-arnay-11nov2006.jpg
+.. |httpidataover-blogcom0120862automne-2006-fred-chevigny06.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-fred-chevigny06.jpg
+.. |httpidataover-blogcom0120862automne-2006-arnay-11nov2006.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-arnay-11nov2006.jpg

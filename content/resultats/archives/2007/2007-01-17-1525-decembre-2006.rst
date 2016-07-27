@@ -167,7 +167,7 @@ J.-M.C.
 
 Merci de me signaler toute erreur ou omission. Les photos et récits de course sont les bienvenus !
 
-.. |httpidataover-blogcom0120862automne-2006-jlrabiet-chalon06.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-jlrabiet-chalon06.jpg
-.. |httpidataover-blogcom0120862automne-2006-pontailler2006-dz.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-pontailler2006-dz.jpg
-.. |httpidataover-blogcom0120862automne-2006-pontailler2006-fred.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-pontailler2006-fred.jpg
-.. |httpidataover-blogcom0120862automne-2006-pontailler2006-gg.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-pontailler2006-gg.jpg
+.. |httpidataover-blogcom0120862automne-2006-jlrabiet-chalon06.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-jlrabiet-chalon06.jpg
+.. |httpidataover-blogcom0120862automne-2006-pontailler2006-dz.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-pontailler2006-dz.jpg
+.. |httpidataover-blogcom0120862automne-2006-pontailler2006-fred.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-pontailler2006-fred.jpg
+.. |httpidataover-blogcom0120862automne-2006-pontailler2006-gg.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862automne-2006-pontailler2006-gg.jpg

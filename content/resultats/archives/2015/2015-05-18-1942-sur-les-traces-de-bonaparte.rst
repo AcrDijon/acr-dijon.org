@@ -21,4 +21,4 @@ Félicitations à nos valeureux ACRistes qui une nouvelle fois ont montré nos c
 
 **Laurentine Klein, 249ème et 1ère Espoir en 1h04'35"**
 
-.. |Sur les Traces de Bonaparte| image:: http://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150518-ob_08319d_sur-les-traces-de-bonaparte-a-auxonne.jpg
+.. |Sur les Traces de Bonaparte| image:: https://assets.acr-dijon.org/old/httpimgover-blog-kiwicom149288520150518-ob_08319d_sur-les-traces-de-bonaparte-a-auxonne.jpg

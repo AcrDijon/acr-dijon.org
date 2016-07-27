@@ -19,5 +19,5 @@ Pour les licenciés FFA Compétition : se faire connaître au près d'Alain pour
 
 Pour tous les autres : vous devez vous inscrire personnellement.
 
-.. |Cross Sombernon1| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom420x6000120862coursescourses-2014departementaux-cross-cross-sombernon1.jpg
-.. |Cross-Sombernon2.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014departementaux-cross-cross-sombernon2.jpg
+.. |Cross Sombernon1| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom420x6000120862coursescourses-2014departementaux-cross-cross-sombernon1.jpg
+.. |Cross-Sombernon2.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2014departementaux-cross-cross-sombernon2.jpg

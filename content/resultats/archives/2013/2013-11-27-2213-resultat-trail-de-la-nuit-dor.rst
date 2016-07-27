@@ -20,4 +20,4 @@ Résultat Trail de la Nuit d'or
   	  	 
 - 453 	Sophie Bontempi 	02:18:04 
 
-.. |Courses-2013-1154.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-courses-2013-1154.jpg
+.. |Courses-2013-1154.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862coursescourses-2013-courses-2013-1154.jpg

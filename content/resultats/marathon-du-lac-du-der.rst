@@ -8,7 +8,7 @@ Marathon du Lac du Der
 
 **Alain BRIOT** participait, ce dimanche, en Haute Marne, à son 3e marathon de l'année, entre SAINT-DIZIER et les rives du Lac du Der.
 
-.. image:: http://assets.acr-dijon.org/der2016.jpg
+.. image:: https://assets.acr-dijon.org/der2016.jpg
 
 Il a terminé 96e/259 en 3h45'25'' et **1erV4** (chrono du vainqueur : 2h26'18'').
 

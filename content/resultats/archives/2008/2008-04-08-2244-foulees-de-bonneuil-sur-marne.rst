@@ -11,4 +11,4 @@ Nous le retrouverons le dimanche 20 avril aux 15 Km de Lindry dans l'Yonne... Le
 |httpidataover-blogcom0120862-vincent-bonneuil-2008.JPG|
 
 .. _http://www.csmbathle.fr/documents/fouleesdebonneuil2008/resultats/Le%2010%20Kms.pdf: http://www.csmbathle.fr/documents/fouleesdebonneuil2008/resultats/Le%2010%20Kms.pdf
-.. |httpidataover-blogcom0120862-vincent-bonneuil-2008.JPG| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-vincent-bonneuil-2008.JPG
+.. |httpidataover-blogcom0120862-vincent-bonneuil-2008.JPG| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-vincent-bonneuil-2008.JPG

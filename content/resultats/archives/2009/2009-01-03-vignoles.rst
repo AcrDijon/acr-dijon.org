@@ -7,7 +7,7 @@ Championnats départementaux de Cross
 :eventdate: 2009-01-11
 
 
-.. image:: http://assets.acr-dijon.org/dpcross.jpg
+.. image:: https://assets.acr-dijon.org/dpcross.jpg
 
 Les championnats départementaux de Cross auront lieu le Dimanche 11 janvier à Vignoles, prés de Beaune.
 

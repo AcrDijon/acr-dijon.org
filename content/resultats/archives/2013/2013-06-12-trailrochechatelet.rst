@@ -9,8 +9,8 @@ Trail de la Roche du Chatelet
 
 4 ACRistes étaient au départ de Bouilland pour 16 km et un peu plus de 500m D+ de pur plaisir ce dimanche 8 juin.
 
-.. image:: http://assets.acr-dijon.org/Vero.jpg
-.. image:: http://assets.acr-dijon.org/Vanessa.jpg
+.. image:: https://assets.acr-dijon.org/Vero.jpg
+.. image:: https://assets.acr-dijon.org/Vanessa.jpg
 
 - 1 	Benjamin Petitjean 	01:11:24 	 
 - 2 	Sébastien Bizard 	01:16:55 	 
@@ -23,8 +23,8 @@ Trail de la Roche du Chatelet
   	  	  	 
 - 66 	Pierre Henriat 	02:30:13
 
-.. image:: http://assets.acr-dijon.org/Matthieu.jpg
-.. image:: http://assets.acr-dijon.org/Vince.jpg
+.. image:: https://assets.acr-dijon.org/Matthieu.jpg
+.. image:: https://assets.acr-dijon.org/Vince.jpg
 
 
 

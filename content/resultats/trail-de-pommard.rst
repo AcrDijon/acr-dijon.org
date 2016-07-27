@@ -10,4 +10,4 @@ Trail de Pommard
 
 Bravo à elle !
 
-.. image:: http://assets.acr-dijon.org/trpommardlaurentine.jpg
+.. image:: https://assets.acr-dijon.org/trpommardlaurentine.jpg

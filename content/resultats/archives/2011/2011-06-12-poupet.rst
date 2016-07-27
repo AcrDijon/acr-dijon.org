@@ -7,7 +7,7 @@ Résultat 27ème Montée du Poupet
 :eventdate: 2015-11-11
 
 
-.. image:: http://assets.acr-dijon.org/poupet.JPG
+.. image:: https://assets.acr-dijon.org/poupet.JPG
 
 - 1 	NDUWIMANA 	Willy 	1 	SE 	00:57:12 	AS RISPOLI
 - 2 	NKUNZIMANA 	onesphore 	2 	SE 	00:59:58 	 

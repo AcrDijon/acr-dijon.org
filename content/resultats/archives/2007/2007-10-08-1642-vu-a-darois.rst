@@ -13,4 +13,4 @@ L'occasion de donner le bonjour à Yannick, à Géraldine et au petit Julien qu
 
 |httpidataover-blogcom0120862-regp0504-081007.jpg|
 
-.. |httpidataover-blogcom0120862-regp0504-081007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-regp0504-081007.jpg
+.. |httpidataover-blogcom0120862-regp0504-081007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-regp0504-081007.jpg

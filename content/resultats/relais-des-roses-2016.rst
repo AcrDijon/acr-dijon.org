@@ -10,7 +10,7 @@ Cette année encore, l'ACR était présente à la Roseraie Saint Nicolas, avec, 
 
 109 équipes étaient au départ (40 Masculines, 56 Mixtes et 13 Féminines).
 
-.. image:: http://assets.acr-dijon.org/roses161.jpg
+.. image:: https://assets.acr-dijon.org/roses161.jpg
 
 *Le départ vient d'être donné. Deux ACRistes sont aux avants postes. Où s'est caché le troisième ?*
 
@@ -47,6 +47,6 @@ Cette année encore, l'ACR était présente à la Roseraie Saint Nicolas, avec, 
 - ACR MIXTE 2 : 31'06''
 - ACR MIXTE 3 : 34'22''
 
-.. image:: http://assets.acr-dijon.org/roses162.jpg
+.. image:: https://assets.acr-dijon.org/roses162.jpg
 
 **Bravo à toutes et à tous !**

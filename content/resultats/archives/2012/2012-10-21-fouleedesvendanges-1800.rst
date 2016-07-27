@@ -13,7 +13,7 @@ Hier, en fin d'après midi, une dizaine d'ACRistes se sont joints au 923 concure
 
 N'ayant pu récupérer encore les résultats Scrath, nous vous proposons le classemnt masculin et féminin.
 
-.. image:: http://assets.acr-dijon.org/bertrand.JPG
+.. image:: https://assets.acr-dijon.org/bertrand.JPG
 
 Hommes :
 

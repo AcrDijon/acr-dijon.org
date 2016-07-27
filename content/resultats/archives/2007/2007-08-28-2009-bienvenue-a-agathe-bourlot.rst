@@ -10,4 +10,4 @@ Stéphane Bourlot et son épouse sont heureux de vous faire part de la naissance
 
 Les heureux parents fêterons son arrivée, avec les adhérents de l'ACR Dijon, le jeudi 30 août à l'issu de l'entraînement....
 
-.. |httpwwwyatoulacomgifbebe-bebe32.gif| image:: http://assets.acr-dijon.org/old/httpwwwyatoulacomgifbebe-bebe32.gif
+.. |httpwwwyatoulacomgifbebe-bebe32.gif| image:: https://assets.acr-dijon.org/old/httpwwwyatoulacomgifbebe-bebe32.gif

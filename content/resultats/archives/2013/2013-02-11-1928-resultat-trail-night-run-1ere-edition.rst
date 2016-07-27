@@ -36,4 +36,4 @@ Remercions aussi notre Président venu encourager nos athlètes.
   	  	 
 - 244 	Gilbert Lebreuil 	02:18:30
 
-.. |IMGP0426.JPG| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-imgp0426.JPG
+.. |IMGP0426.JPG| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2250120862coursescourses-2013-imgp0426.JPG

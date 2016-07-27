@@ -38,4 +38,4 @@ Ce week end avait lieu sur les terres de Chenôve le trail de La Transmontagne .
 BRAVO A TOUS LES ACERISTES
 `http://adoc.free.fr/articles.php?lng=fr&pg=367 <http://adoc.free.fr/articles.php?lng=fr&pg=367>`_
 
-.. |Chalon2009_0062.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862chalon2009-chalon2009_0062.jpg
+.. |Chalon2009_0062.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862chalon2009-chalon2009_0062.jpg

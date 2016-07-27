@@ -21,4 +21,4 @@ Le classement complet de a Corrida :
 
 `http://www.athletiz.com/CORRIDA_2008.xls <http://www.athletiz.com/CORRIDA_2008.xls>`_
 
-.. |httpidataover-blogcom0120862-dscn7364.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn7364.jpg
+.. |httpidataover-blogcom0120862-dscn7364.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862-dscn7364.jpg

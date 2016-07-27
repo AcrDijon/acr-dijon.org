@@ -8,7 +8,7 @@ La Madone
 
 Velars-Sur-Ouche (8 et 14 km)
 
-.. image:: http://assets.acr-dijon.org/madone14.jpg
+.. image:: https://assets.acr-dijon.org/madone14.jpg
 
 
 
@@ -27,7 +27,7 @@ Alors que nous constatons un beau tir groupé sur le 8 km :
 - 135 	Nicolas Papez 	01:22:14 	 
 
 
-.. image:: http://assets.acr-dijon.org/madone142.jpg
+.. image:: https://assets.acr-dijon.org/madone142.jpg
 
 Sur le 14 km, les espaces se sont un peu creusé :  
 

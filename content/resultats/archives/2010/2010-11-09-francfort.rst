@@ -7,7 +7,7 @@ Christine Mathey était le 31 octobre sur le Marathon de Francfort
 :eventdate: 2010-10-31
 
 
-.. image:: http://assets.acr-dijon.org/cm101.jpg
+.. image:: https://assets.acr-dijon.org/cm101.jpg
 
 Une « Acériste » sur le marathon de Francfort-Sur-Le-Main, dimanche 31 octobre 2010.
 
@@ -23,7 +23,7 @@ Prochain challenge : ne pas trop subir ce fameux mur « des 30 » ! A suivre….
 
 Christine Mathey 
 
-.. image:: http://assets.acr-dijon.org/cm102.jpg
+.. image:: https://assets.acr-dijon.org/cm102.jpg
 
 - Split 	time of day 	time 	diff 	min/km 	km/h
 - 5 km 	10:41:06 	00:32:37 	32:37:00 	06:32 	9.20

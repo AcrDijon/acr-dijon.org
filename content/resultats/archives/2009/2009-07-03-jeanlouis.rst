@@ -6,7 +6,7 @@ Hommage à Jean-Louis
 
 
 
-.. image:: http://assets.acr-dijon.org/jlr.JPG
+.. image:: https://assets.acr-dijon.org/jlr.JPG
 
 Où comment survoler plus de 30 années de course à pied, 250 podiums en quelques lignes.
 

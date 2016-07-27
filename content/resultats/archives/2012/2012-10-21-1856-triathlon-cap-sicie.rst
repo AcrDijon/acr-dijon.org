@@ -16,4 +16,4 @@ A défaut de résultat au scratch, nous la félicitons pour sa 2ème place en ca
 
 Nous lui souhaitons une bonne récupération pour Marseille Cassis ou Benoit Sureau sera aussi présent.
 
-.. |Alex.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x4040120862coursescourses-2012-alex.jpg
+.. |Alex.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x4040120862coursescourses-2012-alex.jpg

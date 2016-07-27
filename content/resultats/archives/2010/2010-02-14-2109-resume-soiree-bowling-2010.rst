@@ -32,5 +32,5 @@ Et oui, c'est aussi cela l'ACR...  |Arlette semble choisir sa boule|
 
 RETROUVEZ DES MAINTENANT L'ALBUM PHOTOS DE CETTE SOIREE DANS NOTRE RUBRIQUE ALBUMS PHOTOS
 
-.. |Dédé et Christine en famille| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862soiree-bowling-2010-dede-et-christine-en-famille.JPG
-.. |Arlette semble choisir sa boule| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862soiree-bowling-2010-arlette-semble-choisir-sa-boule.JPG
+.. |Dédé et Christine en famille| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862soiree-bowling-2010-dede-et-christine-en-famille.JPG
+.. |Arlette semble choisir sa boule| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom300x2000120862soiree-bowling-2010-arlette-semble-choisir-sa-boule.JPG

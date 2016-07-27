@@ -13,4 +13,4 @@ Nous vous invitons à venir nombreux.
 
 |Varanges-1.jpg|
 
-.. |Varanges-1.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom422x6000120862affiche-varanges-1.jpg
+.. |Varanges-1.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom422x6000120862affiche-varanges-1.jpg

@@ -7,7 +7,7 @@ Bienvenue à Freya
 :eventdate: 2016-01-13
 
 
-.. image:: http://assets.acr-dijon.org/freya.jpg
+.. image:: https://assets.acr-dijon.org/freya.jpg
 
 
 Le 13 janvier à 13h45, **Freya** est arrivée pour tenir compagnie à Suki et Milo.

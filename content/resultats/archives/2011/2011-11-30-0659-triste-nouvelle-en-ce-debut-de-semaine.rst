@@ -13,4 +13,4 @@ Alain BREGAND *.*
 
 |goes-deces.jpg|
 
-.. |goes-deces.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom600x4950120862divers-goes-deces.jpg
+.. |goes-deces.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom600x4950120862divers-goes-deces.jpg

@@ -13,4 +13,4 @@ Retrouvez les classements complets sur le lien suivant: | |httpidataover-blogcom
 
 `http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=019485&frmposition=0 <http://bases.athle.com/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=019485&frmposition=0>`_
 
-.. |httpidataover-blogcom0120862bien-public-2007-regis-et-jeremie-bp-2007.jpg| image:: http://assets.acr-dijon.org/old/httpidataover-blogcom0120862bien-public-2007-regis-et-jeremie-bp-2007.jpg
+.. |httpidataover-blogcom0120862bien-public-2007-regis-et-jeremie-bp-2007.jpg| image:: https://assets.acr-dijon.org/old/httpidataover-blogcom0120862bien-public-2007-regis-et-jeremie-bp-2007.jpg

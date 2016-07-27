@@ -7,4 +7,4 @@ Si vous souhaitez courir pour une bonne cause...
 
 |Rett|
 
-.. |Rett| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom396x5430120862courses-rett.jpg
+.. |Rett| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom396x5430120862courses-rett.jpg

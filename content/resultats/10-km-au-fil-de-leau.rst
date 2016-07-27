@@ -6,7 +6,7 @@
 :location: SAINT JEAN DE LOSNE
 :eventdate: 2016-05-07
 
-.. image:: http://assets.acr-dijon.org/sj161.jpg
+.. image:: https://assets.acr-dijon.org/sj161.jpg
 
 Sept ACRistes ont participé à la septième édition des "10 km au fil de l'eau", avec une jolie récolte de trois podiums !
 

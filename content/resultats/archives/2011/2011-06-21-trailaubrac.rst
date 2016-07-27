@@ -16,6 +16,6 @@ Dimanche matin, à 4h15 se déroulait la 4ème édition de l'Aubrac Ultra Trail 
 
 213 concurrents arrivèrent à boucler cette édition 2011. 
 
-.. image:: http://assets.acr-dijon.org/aubrac.JPG
+.. image:: https://assets.acr-dijon.org/aubrac.JPG
 
 Notre ACRiste termine à la 150ème place en 16h11'15".

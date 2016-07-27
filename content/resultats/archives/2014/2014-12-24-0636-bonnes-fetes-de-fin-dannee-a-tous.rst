@@ -10,4 +10,4 @@ C'est à tous les adhérents que je dédie cette jolie carte, car vous êtes un 
 
 |Noel.jpg|
 
-.. |Noel.jpg| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom500x6970120862coursescourses-2015-noel.jpg
+.. |Noel.jpg| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom500x6970120862coursescourses-2015-noel.jpg

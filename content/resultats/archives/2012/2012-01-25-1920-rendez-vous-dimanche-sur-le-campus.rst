@@ -22,4 +22,4 @@ Lionel , Vincent L et Vincent MP (avec de belles chances de qualification aux pr
 
 *N'hésitez pas à venir les encourager.*
 
-.. |Departementaux-de-Cross 0982| image:: http://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862coursescourses-2012departementaux-de-cross-departementaux-de-cross-0982.JPG
+.. |Departementaux-de-Cross 0982| image:: https://assets.acr-dijon.org/old/httpimgover-blogcom201x3000120862coursescourses-2012departementaux-de-cross-departementaux-de-cross-0982.JPG
