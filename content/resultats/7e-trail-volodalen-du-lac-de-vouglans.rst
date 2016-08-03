@@ -8,7 +8,7 @@
 
 3 ACRistes ont fait un saut samedi dernier, jusqu'au lac du barrage de Vouglans, dans le Jura, pour le Trail tracé autour du lac.
 
-.. image:: http://assets.acr-dijon.org/julvou161.jpg
+.. image:: https://assets.acr-dijon.org/julvou161.jpg
 
 *Julia prête à partir*
 
@@ -25,7 +25,7 @@
 
 480 concurrents classés / épreuve remportée par Gérald ROUX (DECATHLONS) en 1h08'26'' ; 1ère féminine : Anne CUNIDER (NL) en 1h17'24'' (16e au scratch).
 
-.. image:: http://assets.acr-dijon.org/freddomvou16.jpg
+.. image:: https://assets.acr-dijon.org/freddomvou16.jpg
 
 *Fred & Dom : arrivée en duo*
 
