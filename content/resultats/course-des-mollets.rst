@@ -1,25 +1,17 @@
 Course des Mollets
 ==================
 
-:date: 2016-08-28 18:46
+:date: 2016-08-28
 :category: Résultats
+:location: HILSPRICH (57)
+:eventdate: 2016-08-21
 
 
-Voici un exemple de texte.
 
-**Texte en gras**
+.. image:: http://assets.acr-dijon.org/hilsprich2016.jpg
 
-*Texte en italique*
+**Alain BRIOT** a conclu son périple de courses estivales dans l'Est par "La Course des Mollets" à HILSPRICH, en Moselle, le 21 août ; course de 10 km à 80% sur chemins et sentiers.
 
-Voici une liste:
+Il s'est classé 89e/173 en 49'54'' et **1erV4 !** / chrono du vainqueur : 34'13''.
 
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
