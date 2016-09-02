@@ -1,25 +1,17 @@
 Course des Vignes
 =================
 
-:date: 2016-09-02 14:34
+:date: 2016-09-02
 :category: Résultats
+:location: BUVILLY (39)
+:eventdate: 2016-08-28
 
+**Adrien BRUNET**, récent expatrié en terre jurassienne, était ce dimanche à BUVILLY, pour la "Course des Vignes" (parcours de 12,3km vallonné).
 
-Voici un exemple de texte.
+Il s'est classé 65e/149 en 1h06'05'' (chrono du vainqueur en 44'35'').
 
-**Texte en gras**
+.. image:: http://assets.acr-dijon.org/adrien.jpg
 
-*Texte en italique*
+*Adrien aux "10km au fil de l'eau" 2016 (photo archives ACR)*
 
-Voici une liste:
-
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
