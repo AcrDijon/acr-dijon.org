@@ -34,6 +34,10 @@ Les classements de catégorie sont donnés à titre indicatif ; le classement pa
 
 62 concurrents classés / Victoire de Sacha CULTRU (DUC) en 17'28'' ; 1ère féminine : Nathalie CHRETIEN (ATHLE 52) en 20'54'' (6ème au classement général).
 
+.. image:: http://assets.acr-dijon.org/sen162.jpg
+
+*Gérard à l'arrivée du 5km*
+
 **10km :**
 
 - **Pierre AUDIN** : 5e en 38'13'' (**3eV1M**)
@@ -46,8 +50,10 @@ Les classements de catégorie sont donnés à titre indicatif ; le classement pa
 - **Gilles BECHARD** : 207e en 1h00'17''
 - **Michaël ALIXANT** : 226e en 1h04'26''
 
+238 concurrents classés / Victoire de Cédric BERNETTES (NL) en 34'44'' ; 1ère féminine : Aurélie BIONDI en 44'16'' (50e au classement général).
+
 .. image:: http://assets.acr-dijon.org/sen163.jpg
 
-*Mag' jusqu'au bout de l'effort*
+*Mag' jusqu'au bout de l'effort sur le 10km*
 
 **Un grand bravo à toutes et à tous !**
