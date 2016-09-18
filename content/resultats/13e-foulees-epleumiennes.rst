@@ -23,9 +23,9 @@ Les podiums de catégorie sont notifiés à titre indicatif, ceux-ci ne donnant 
 - **Gérard GOEURY** : 38e en 24'05'' (1erV3M)
 - **Marie Laure LEONARD** : 50e en 25'31'' (2eV1F)
 - **Emilie DERAIL** : 53e en 26'04'' (3eSEF)
-- **Jean Louis RABIET** :102e en 39'25'' (1erV4M)
+- **Jean Louis RABIET** : 102e en 39'25'' (1erV4M)
 
-107 concurrents classés / Course remportée par Alexis CHAMBRION (DUC) en 17'23'' ; 1ère féminine : Marie Hélène TATTU (NL) en 21'03'' (22e au classement général)
+107 concurrents classés / Course remportée par Alexis CHAMBRION (DUC) en 17'23'' ; 1ère féminine : Marie Hélène TATTU (NL) en 21'03'' (22e au classement général).
 
 .. image:: http://assets.acr-dijon.org/fe162.jpg
 
@@ -55,3 +55,5 @@ Les podiums de catégorie sont notifiés à titre indicatif, ceux-ci ne donnant 
 - **Emma FANTON** : 28e en 11'08''
 
 35 classés / Course remportée par Nathan DORAS (AS VINGEANNE TEENAGERS) en 7'44'' ; 1ère féminine : Charlotte TREUCHOT (USC VENAREY) en 9'27'' (10e au classement général).
+
+**Bravo à toutes et à tous !**
