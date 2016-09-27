@@ -12,10 +12,12 @@ PARIS-VERSAILLES 2016
 
 *Fabrice et Marie Laure avant le départ*
 
-- **Fabrice HEURET** : 382e en 1h06'43'' (temps réel) / 396e en 1h11'20'' (temps officiel)
-- **Mikaël MARCAUD** : 5257e en 1h22'23'' (temps réel) / 8065e en 1h56'11'' (temps officiel)
-- **Marie Laure LEONARD** : 10983e en 1h31'54'' (temps réel) / 3511e en 1h36'32'' (temps officiel)
+Les départs étant donnés par sas regroupant environ 400 coureurs chacun, avec un départ toutes les minutes, pour plus de 20000 concurrents, seuls seront mentionnés le temps réel de chaque concurrent, ainsi que son classement en fonction de celui-ci.
 
-21459 concurrents classés / Epreuve remportée par Stephen OGARI en 49'59'' ; 1ère féminine : Etagegn woldu MAMO en 55'19'' (12e au classement général).
+- **Fabrice HEURET** : 382e en 1h06'43''
+- **Mikaël MARCAUD** : 5257e en 1h22'23''
+- **Marie Laure LEONARD** : 10983e en 1h31'54''
+
+21459 concurrents classés / Epreuve remportée par Stephen OGARI en 49'58'' ; 1ère féminine : Etagegn woldu MAMO en 55'19'' (12e au classement général).
 
 **Bravo à eux !**
