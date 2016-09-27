@@ -8,7 +8,7 @@ ALESIA TRAIL 2016
 
 L'édition 2016 de l'Alésia Trail, dernière pour l'actuelle équipe organisatrice, s'est déroulée sous le soleil et a fait le plein de participants.
 
-Un bon groupe d'ACRistes était en course, essentiellement sur le parcours de 16km.
+Un bon groupe d'ACRistes était en course, sur les parcours de l'OPPIDUM et de la TENDINIX.
 
 .. image:: http://assets.acr-dijon.org/at161.jpg
 
@@ -28,7 +28,9 @@ Un bon groupe d'ACRistes était en course, essentiellement sur le parcours de 16
 
 **TENDINIX (24,8km / 700mD+) :**
 
-- **Julia KOLMAKOVA** : 190e en 3h29'50''
+- **Julia KOLMAKOVA** : 190e en 2h39'50''
+- **Emmanuelle DELOT** : 268e en 2h50'12''
+- **Pascal ROSA** : 269e en 2h50'13''
 
 393 concurrents classés : Course remportée par Stéphane VIGNAUD (DIJON TRIATHLON) en 1h46'26'' ; 23e et 1ère féminine : Claire MAUGRAS (CROCOS) en 2h04'06''.
 
