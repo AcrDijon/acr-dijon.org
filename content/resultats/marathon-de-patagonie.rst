@@ -10,7 +10,7 @@ Marathon de Patagonie
 
 **Philppe BASSAND** s'est offert une excursion au Chili, pour y courir le "Marathon de Patagonie", sur un parcours montagneux et accidenté.
 
-Il s'y est classé **3e** dans la catégorie **V3** et 5e au classement scratch en 3h53'26'' !
+Il s'y est classé **3e** dans la catégorie **V2** et 5e au classement scratch en 3h53'26'' !
 
 78 concurrents classés / chrono du vainqueur en 3h11'48''.
 
