@@ -12,6 +12,4 @@ Le 25 septembre dernier, **Eric** et **Christine MATHEY** sont allés chez nos "
 
 Parmi les 3691 concurrents à l'arrivée, **Eric** s'est classé 2311e en 4h29'52'', tandis que **Christine** s'est classée 3423e en 5h30'31''.
 
-**Bravo à eux !** 
-
-
+**Bravo à eux !**
