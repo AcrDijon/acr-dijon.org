@@ -15,7 +15,7 @@ Sur le **10km** :
 - **Jean Philippe BEUCHE** : 87e en 45'38''
 - **Alain BRIOT** : 111e en 47'54'' et **1erV4M**
 
-Course remportée par Florian GRANDPERRIN en 32'04''.
+207 concurrents classés / Course remportée par Florian GRANDPERRIN (DSA PONTARLIER) en 32'04'' ; 39e et 1ère féminine : Sylvie GRANDPERRIN (LONS ATHLETIQUE CLUB) en 39'24''.
 
 Sur le **5km** :
 
@@ -25,6 +25,6 @@ Sur le **5km** :
 - **Philippe BASSAND** : 22e en 22'30''
 - **Marie Laure LEONARD** : 33e en 24'36'' et **1èreV1F**
 
-Course remportée par Alexis GAIFFE en 17'23''.
+57 concurrents classés / Course remportée par Alexis GAIFFE (ASPTT BESANCON) en 17'23''; 11e et 1ère féminine : Valentine CHAPELOTTE (DOLE ATHLETIQUE CLUB) en 19'47''.
 
 **Bravo à eux !**
