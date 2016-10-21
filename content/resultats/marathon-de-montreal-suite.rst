@@ -16,4 +16,3 @@ Et effectivement nous l’avons été….
 Certes les chronos n’ont rien d’affriolants mais là n’est pas l’essentiel, 5h30 pour Christine et 1h de moins pour moi ce qui nous classe respectivement à la 3 425e et 2313e sur un total de 3778 « finissants ».
 Ce marathon que nous qualifierons d’assez exigeant mérite le déplacement tout comme cette ville où la douceur de vivre est sans doute ce qui nous avons particulièrement apprécié !
 « Je me souviens » telle est leur devise, nous nous rappellerons nous de ce voyage….
-
