@@ -6,7 +6,7 @@ Trail du Bouton d'Or 2016
 :location: AHUY
 :eventdate: 2016-10-23
 
-Quelques ACRistes étaient présents pour cette 9e édition du "Trail du Bouton d'Or" à Ahuy, dont l'épreuve courte se présentait comme la 8e et avant dernière manche du "Challenge de l'Etoile" 2016. Les courses se sont déroulées par temps sec, mais sur un sol plutôt glissant.
+Quelques ACRistes étaient présents pour cette 9e édition du "Trail du Bouton d'Or" à Ahuy, dont l'épreuve courte constituait la 8e et avant dernière manche du "Challenge de l'Etoile" 2016. Les courses se sont déroulées par temps sec, mais sur un sol plutôt glissant.
 
 .. image:: http://assets.acr-dijon.org/tbo161.jpg
 
