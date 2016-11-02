@@ -1,7 +1,7 @@
 Les Couloirs du Temps II
 ========================
 
-:date: 2016-11-01
+:date: 2016-10-31
 :category: Résultats
 :location: AUXONNE
 :eventdate: 2016-10-29

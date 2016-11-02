@@ -1,7 +1,7 @@
 Marseille-Cassis 2016
 =====================
 
-:date: 2016-11-02
+:date: 2016-11-01
 :category: Résultats
 :location: MARSEILLE
 :eventdate: 2016-10-30
