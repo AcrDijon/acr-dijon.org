@@ -8,7 +8,7 @@ Trail du Roc d'Aluze (3e édition)
 
 En ce lundi où nombreux fêtent Halloween, une foule lumineuse et bigarée, peuplée de fantômes, spectres, zombies, squelettes et coureurs, parmis lesquels on a retrouvé deux ACRistes, s'est ébrouée, une fois la nuit tombée et par un épais brouillard, à travers chemins et sentiers ondoyant à travers bois et vignobles de la contrée d'Aluze.
 
-Au terme de leur périple de près de 15km, ils ont pu trouver réconfort dans le copieux banquet d'arrivée et se réchauffer avec la soupe à l'oignon préparée pour l'occasion, au son du groupe de rock réchauffant l'assistance.
+Au terme de leur périple de près de 15km, ils ont pu trouver réconfort dans le copieux banquet d'arrivée et sa soupe à l'oignon préparée pour l'occasion, au son du groupe de rock réchauffant l'assistance.
 
 **14,9km / 370mD+ :**
 
