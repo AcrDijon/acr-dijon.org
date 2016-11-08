@@ -33,7 +33,7 @@ L'épreuve dont le 10km était la dernière manche du "Challenge de l'Etoile 201
 **10km :**
 
 - **Bertrand BULLE** : 24e en 36'40''
-- **Pierre AUDIN** : 30e en 39'12'' (**1erV2M**)
+- **Pierre AUDIN** : 30e en 37'12'' (**1erV2M**)
 - **Fréderic RABIET** : 82e en 40'21''
 - **Eric MAREJUS** : 143e en 43'09''
 - **Michaël ALIXANT** : 224e en 45'32''
