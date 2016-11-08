@@ -12,7 +12,7 @@ L'épreuve dont le 10km était la dernière manche du "Challenge de l'Etoile 201
 
 **4,5km :**
 
-- **Jean Christophe DUBARD** : 27e en 20'07'' (**3eV3M**)
+- **Jean Christophe DUBARD** : 27e en 20'07'' (**3eV2M**)
 - **Marie Laure LEONARD** :  39e en 21'48'' (**1èreV1F**)
 - **Emilie DERAIL** : 46e en 22'26''
 - **Emma FANTON** : 52e en 22'55'' (**2eCAF**)
