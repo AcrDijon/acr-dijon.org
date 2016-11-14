@@ -10,7 +10,7 @@ La Madone était fraiche et humide ce dimanche matin, mais celà n'a pas refroid
 
 .. image:: http://assets.acr-dijon.org/madone161.jpg
 
-*Des mines réjouies quoique certains traits un peu tirés... avant le départ du 8km*
+*Des sourires quoique certains traits un peu tirés... avant le départ du 8km*
 
 **8km / 200mD+ :**
 
