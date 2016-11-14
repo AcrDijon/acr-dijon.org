@@ -6,7 +6,7 @@ LA MADONE 2016
 :location: VELARS SUR OUCHE
 :eventdate: 2016-11-13
 
-La Madone était fraiche et humide ce dimanche matin, mais celà n'a pas découragé les plus de 600 concurrents inscrits sur les courses de cette 23e édition.
+La Madone était fraiche et humide ce dimanche matin, mais celà n'a pas refroidi les ardeurs des plus de 600 concurrents inscrits, dont quelques ACRistes, pour cette 23e édition.
 
 .. image:: http://assets.acr-dijon.org/madone161.jpg
 

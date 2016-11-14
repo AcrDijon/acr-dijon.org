@@ -27,7 +27,7 @@ Plusieurs ACRistes ont occupé leur dimanche matin à courir le marathon.
 
 **Julia Kolmakova** avait choisi la Côte d'Azur. Elle a bouclé son marathon en 3h55'09'', se classant 2826e/6728.
 
-Course remportée par Elisha KIPCHICHIR en 2h10'44'' ; 27e et 1ère féminine : Lucy MURIGI en 2h42'38''.
+Course remportée par Elisha KIPCHIRCHIR en 2h10'44'' ; 27e et 1ère féminine : Lucy MURIGI en 2h42'38''.
 
 .. image:: http://assets.acr-dijon.org/julianice2016.jpg
 
