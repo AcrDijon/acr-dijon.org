@@ -21,6 +21,8 @@ Plusieurs ACRistes ont occupé leur dimanche matin à courir le marathon.
 
 13590 concurrents classés / Victoire de Luka Rotich LOBUWAN en 2h12'49'' ; 20e et 1ère féminine : Nancy Jebichi ARUSEI en 2h38'28''.
 
+.. image:: http://assets.acr-dijon.org/athenes162.jpg
+
 ****
 
 **Marathon des Alpes Maritimes (NICE-CANNES) :**
