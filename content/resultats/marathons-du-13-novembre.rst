@@ -39,7 +39,7 @@ Course remportée par Elisha KIPCHIRCHIR en 2h10'44'' ; 27e et 1ère féminine :
 
 **Marathon de Salon de Provence :**
 
-**Vincent LAUVERGNE** avait choisi Salon de Provence pour son 5e marathon cette année.
+**Vincent LAUVERGNE** avait choisi Salon de Provence pour son 6e marathon cette année.
 
 Il s'est classé 855e/1018 en 4h39'44'' / Course remportée par James Cherutich TALLAM en 2h22'02'' ; 17e et 1ère féminine : Aline CAMBOULIVES (ASJ 74 SAINT JULIEN EN GENEVOIS) en 2h46'50''.
 
