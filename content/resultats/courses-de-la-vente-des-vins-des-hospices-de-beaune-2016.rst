@@ -10,7 +10,7 @@ C'est dans une ambiance automnale, mais surtout plus sereine que l'an passé, qu
 
 Comme de coutume, une importante délégation de coureuses et de coureurs de l'ACR était présente sur place.
 
-**10,4km / 118mD+ :**
+**Foulées Beaunoises (10,4km / 118mD+) :**
 
 - **Tarek ZIADE** : 20e en 38'56'' / passage aux 10km : 37'23''
 - **Jean Christophe DUBARD** : 189e en 47'43'' / 10km : 45'56''
@@ -27,7 +27,7 @@ Comme de coutume, une importante délégation de coureuses et de coureurs de l'A
 
 *Tarek dans la côte à la sortie de Pommard*
 
-**Semi-Marathon 21,1km / 225mD+ :**
+**Semi-Marathon (21,1km / 225mD+) :**
 
 - **Fabrice HEURET** : 84e en 1h26'41'' / passage aux 10km : 42'10''
 - **David CROTET** : 101e en 1h27'50'' / 10km : 43'56''
