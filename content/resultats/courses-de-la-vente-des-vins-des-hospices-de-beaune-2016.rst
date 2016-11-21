@@ -44,6 +44,6 @@ Comme de coutume, une importante délégation de coureuses et de coureurs de l'A
 
 .. image:: http://assets.acr-dijon.org/b162.jpg
 
-*Fabrice, tête de file de l'ACR sur le Semi*
+*Fabrice, chef de file de l'ACR sur le Semi*
 
 **Un grand bravo et félicitations à toutes et à tous !**
