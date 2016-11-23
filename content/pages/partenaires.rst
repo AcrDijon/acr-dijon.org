@@ -1,7 +1,7 @@
 Partenaires
 ===========
 
-:date: 12/09/2015
+:date: 09/12/2015
 :summary: Partenaires de l'ACR
 
 Partenaires institutionnels
@@ -36,7 +36,7 @@ Instances sportives
 Sponsors
 --------
 
-.. image:: /theme/partenaires/intermarche.png
+
 
 .. image:: /theme/partenaires/enduranceshop.png
 
@@ -44,7 +44,7 @@ Sponsors
 
 .. image:: /theme/partenaires/abcproprete.png
 
-.. image:: /theme/partenaires/bacelli.png
+
 
 .. image:: /theme/partenaires/bache.png
 
