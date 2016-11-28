@@ -42,7 +42,7 @@ Sponsors
 
 .. image:: /theme/partenaires/abcproprete.png
 
-.. image:: /theme/partenaires/inter.PNG
+.. image:: https://assets.acr-dijon.org/inter.png
 
 .. image:: /theme/partenaires/bache.png
 
