@@ -1,7 +1,7 @@
 Départementaux UNSS de Cross Country
 ====================================
 
-:date: 2016-12-01
+:date: 2016-11-30
 :category: Résultats
 :location: DIJON
 :eventdate: 2016-11-23
