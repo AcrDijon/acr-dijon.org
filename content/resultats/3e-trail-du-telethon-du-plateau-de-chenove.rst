@@ -8,7 +8,7 @@
 
 Après la Maison du Plateau, pour la première édition, le gymnase du Châpitre pour la deuxième édition, c'est le haut de la Montagne Sainte Anne et l'I.M.E. de l'Acodège, qui ont servi de base à cette 3e édition du "Trail du Téléthon du PLateau de Chenôve", organisé par le "Chenôve Triathlon Club".
 
-Cette année, les courses se déroulaient toutes en nocturne et les conditions de visiblité ont été très satisfaisantes, le brouillard un moment craint ayant pris soin de s'abstenir de sa présence.
+Cette année, les courses se déroulaient toutes en nocturne. Malgré un froid glacial rendant le sol glissant, les conditions de visiblité ont été très satisfaisantes, le brouillard un moment craint ayant pris soin de s'abstenir de sa présence.
 
 Cinq ACRistes figuraient parmi les participants.
 
