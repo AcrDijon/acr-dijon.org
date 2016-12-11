@@ -3,9 +3,8 @@ Trail Meursault By Night 2016
 
 :date: 2016-12-11
 :category: Résultats
-:location: MEURQAULT
+:location: MEURSAULT
 :eventdate: 2016-12-10
-
 
 .. image:: http://assets.acr-dijon.org/meursault2016.jpg
 

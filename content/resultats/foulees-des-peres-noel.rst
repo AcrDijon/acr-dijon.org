@@ -1,25 +1,18 @@
 Foulées des Pères Noël
 ======================
 
-:date: 2016-12-11 17:44
+:date: 2016-12-11
 :category: Résultats
+:location: Hirsingue (68)
+:eventdate: 2016-12-10
 
 
-Voici un exemple de texte.
+.. image:: http://assets.acr-dijon.org/hirsingue2016.jpg
 
-**Texte en gras**
+**Alain BRIOT** a couru en Alsace, à Hirsingue, ce samedi, "Les Foulées des Pères Noël".
 
-*Texte en italique*
+Il a bouclé les 8km de l'épreuve en 39'52'', se classant 102e/267 et **2eV4**.
 
-Voici une liste:
+**Bravo à lui !**
 
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
 
