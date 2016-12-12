@@ -1,7 +1,7 @@
 Partenaires
 ===========
 
-:date: 09/12/2015
+:date: 12/09/2015
 :summary: Partenaires de l'ACR
 
 Partenaires institutionnels
