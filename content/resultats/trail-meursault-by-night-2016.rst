@@ -14,6 +14,6 @@ Le froid intense et le brouillard persistant n'ont pas découragé les nombreux 
 
 - **Jean Christophe DUBARD** : 211e en 1h25'07''
 
-502 concurrents classés / course remportée par Benjamin PETITJEAN (DIJON SINGLETRACK) en 59'58''.
+502 concurrents classés / course remportée par Benjamin PETITJEAN (DIJON SINGLETRACK) en 59'58'' ; 61e et 1ère féminine : Carine DESBOIS (DIJON SINGLETRACK) en 1h11'39''.
 
 **Bravo à lui !**
