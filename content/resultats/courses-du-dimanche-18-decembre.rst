@@ -25,7 +25,7 @@ Deux ACRistes étaient présents pour l'édition 2016 de la "Corrida de Montbard
 
 ****
 
-** Corrida de Bologne (52) :**
+**Corrida de Bologne (52) :**
 
 Au lendemain de sa course à Savigny Le Sec, direction Bologne, en Haute Marne, pour l'infatigable **Alain BRIOT**.
 
