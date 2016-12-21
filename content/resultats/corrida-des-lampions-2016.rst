@@ -26,6 +26,10 @@ La course présentait un tracé légèrement modifié et raccourci, par rapport 
 
 174 concurrents classés / course remportée par Guillaume DENUIT (AC LANGRES) en 26'11'' ; 44e et 1ère féminine : Stéphanie VAXILAIRE en 34'34''.
 
+**1,7km Benjamins/Minimes :**
+
+- *Zoé FANTON* : 3e en 6'48'' (**1èreBEF**)
+
 .. image:: http://assets.acr-dijon.org/lampions2016.jpg
 
 *Le podium V4*
