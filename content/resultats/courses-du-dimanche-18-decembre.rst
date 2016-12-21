@@ -37,7 +37,7 @@ Il s'y est classé 165e/339 en 38'22'' et **1erV4** ! (course remportée par Fr�
 
 **Cross desSources / Falletans (39) :**
 
-**Laurentine KLEIN** et**Adrien BRUNET** de leur côté, ont participé, dans le brouillard, au "Cross des Sources" (9,21km), à Falletans, près de Dole.
+**Laurentine KLEIN** et **Adrien BRUNET**, de leur côté, ont participé, dans le brouillard, au "Cross des Sources" (9,21km), à Falletans, près de Dole.
 
 Laurentine s'est classée 61e/73 et **3eESF**. Adrien, quant à lui, arrivé vers la 58e place, n'a pas été classé, pour une raison inconnue pour l'heure... / Course remportée par Romain PRUDON (AC CHENÔVE) ; 16e et 1ère féminine : Mélina CLERC / Pas de chornos enregistrés.
 
