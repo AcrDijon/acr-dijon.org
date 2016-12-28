@@ -1,7 +1,7 @@
 Partenaires
 ===========
 
-:date: 12/09/2015
+:date: 09/12/2015
 :summary: Partenaires de l'ACR
 
 Partenaires institutionnels
@@ -48,8 +48,6 @@ Sponsors
 
 .. image:: /theme/partenaires/banquepop.png
 
-.. image:: /theme/partenaires/logofunradio.png
-
 .. image:: /theme/partenaires/lafestive.png
 
 .. image:: /theme/partenaires/lesportif.png
@@ -60,7 +58,7 @@ Sponsors
 
 .. image:: https://assets.acr-dijon.org/doras.png
 
-
+.. image:: https://assets.acr-dijon.org/logofunradio.png
 
 .. image:: https://assets.acr-dijon.org/barbarians.png
 
