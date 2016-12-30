@@ -10,24 +10,22 @@ Voici quelques chiffres de l'activité des membres de l'ACR sur les différentes
 
 **Participations :**
 
-602 participations ont été recensées, sur l'ensemble des courses où des participations ont été portées à notre connaissance (482 l'an dernier).
+602 participations ont été recensées (482 l'an dernier).
 Répartition : 480 côté Masculins / 122 côté Féminines (387/95 l'an passé).
 
 85 compétiteurs et compétitrices ont participé à au moins une course (81 l'an passé).
 Répartition : 61 côté Masculins / 24 côté Féminines (60/21 l'an passé).
 
 Marathons Relais : 5 équipes au Marathon Relais des Hautes Côtes à CHAUX (4 Masculines, 1 Féminine), 3 équipes mixtes au Marathon Relais des Roses à Chalon Sur Saône.
-Performances :
 
-143 podiums de catégorie sur les courses individuelles (66 l'an passé), concernant 27 compétiteurs et compétitrices (20 l'an passé) : 22 Masculins / 5 Féminines (15/5 l'an passé).
-Dont 75 premières places (23 en 2015) : 69 côté Masculins / 6 côté Féminines (17/6 en 2015).
+**Performances :**
 
-44 deuxièmes places et 24 troisièmes places (25/18 en 2015).
+- 143 podiums de catégorie sur les courses individuelles (66 l'an passé), concernant 27 compétiteurs et compétitrices (20 l'an passé) : 22 Masculins / 5 Féminines (15/5 l'an passé) dont 75 premières places (23 en 2015) : 69 côté Masculins / 6 côté Féminines (17/6 en 2015), 44 deuxièmes places et 24 troisièmes places (25/18 en 2015).
 
 - 1 titre de Champion de France en catégorie V2, lors des Championnats de France de Trail longue distance, à Saint Martin Vésubie, pour Christophe PIGNET, sur 47,5 km !
 - 8 podiums scratch sur les courses individuelles (2 victoires, 3 deuxièmes places, 4 troisièmes places). A noter le triplé réalisé par Bertrand QUINTIN, Pierre AUDIN et Tarek ZIADE sur le 5km des "Foulées Longviciennes".
 - 2 podiums de catégorie (1 deuxième place d'équipe masculine et une troisièmes place d'équipe féminine) au Marathon Relais des Hautes Côtes.
-- 1 podium scratch (2ème place) au Relais des Hautes Côtes.
+- 1 podium scratch (2ème place) au Relais des Hautes Côtes, pour l'équipe masculine des "Furieux de l'ACR".
 
 
 
@@ -160,13 +158,9 @@ Pour terminer ce tour d'horizon annuel, le cumul des kilomètres parcourus en co
 - *Christine PETITPERRIN* : 9km
 - Jean Louis TOCK : 9km
 - Laurent BERTHE : 9km
+- Jacques PIVOT : 5km
 - Kévin FOND : 4km
 
-Distance totale parcourue par l'ensemble des concurrents : 8393km ! 
-
-
-
-
-
+Distance totale parcourue par l'ensemble des concurrents : 8398km !
 
 Félicitations à toutes et à tous pour ces belles prestations, ainsi qu'à toutes celles et tous ceux qui ne sont pas monté sur un podium, mais ont représenté le club par leurs participations aux épreuves !
