@@ -13,8 +13,8 @@ Voici quelques chiffres de l'activité des membres de l'ACR sur les différentes
 602 participations ont été recensées (482 l'an dernier).
 Répartition : 480 côté Masculins / 122 côté Féminines (387/95 l'an passé).
 
-85 compétiteurs et compétitrices ont participé à au moins une course (81 l'an passé).
-Répartition : 61 côté Masculins / 24 côté Féminines (60/21 l'an passé).
+86 compétiteurs et compétitrices ont participé à au moins une course (81 l'an passé).
+Répartition : 62 côté Masculins / 24 côté Féminines (60/21 l'an passé).
 
 Marathons Relais : 5 équipes au Marathon Relais des Hautes Côtes à CHAUX (4 Masculines, 1 Féminine), 3 équipes mixtes au Marathon Relais des Roses à Chalon Sur Saône.
 
