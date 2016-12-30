@@ -22,7 +22,7 @@ Marathons Relais : 5 équipes au Marathon Relais des Hautes Côtes à CHAUX (4 M
 
 - 143 podiums de catégorie sur les courses individuelles (66 l'an passé), concernant 27 compétiteurs et compétitrices (20 l'an passé) : 22 Masculins / 5 Féminines (15/5 l'an passé) dont 75 premières places (23 en 2015) : 69 côté Masculins / 6 côté Féminines (17/6 en 2015), 44 deuxièmes places et 24 troisièmes places (25/18 en 2015).
 
-- 1 titre de Champion de France en catégorie V2, lors des Championnats de France de Trail longue distance, à Saint Martin Vésubie, pour Christophe PIGNET, sur 47,5 km !
+- 1 titre de Champion de France en catégorie V2, lors des Championnats de France de Trail longue distance, à Saint Martin Vésubie, pour Christophe PIGNET, sur 53 km !
 - 8 podiums scratch sur les courses individuelles (2 victoires, 3 deuxièmes places, 4 troisièmes places). A noter le triplé réalisé par Bertrand QUINTIN, Pierre AUDIN et Tarek ZIADE sur le 5km des "Foulées Longviciennes".
 - 2 podiums de catégorie (1 deuxième place d'équipe masculine et une troisièmes place d'équipe féminine) au Marathon Relais des Hautes Côtes.
 - 1 podium scratch (2ème place) au Relais des Hautes Côtes, pour l'équipe masculine des "Furieux de l'ACR".
