@@ -6,7 +6,7 @@ Statistiques ACR 2016
 :location: Ici et là
 :eventdate: 2016-12-30
 
-Voici quelques chiffres de l'activité des membres de l'ACR sur les différentes compétitions, un peu partout, au cours de l'année 2015. Ces chiffres concernent les épreuves "adultes" (catégories Cadet à V5) et ne prennent pas en compte les courses non terminées. Par ailleurs, ces éléments étant relatifs aux participations aux compétitions dont nous avons eu connaissance, des imprécisions peuvent y figurer si certain(e)s ont concouru lors d'épreuves hors région sans nous en avoir fait part.
+Voici quelques chiffres de l'activité des membres de l'ACR sur les différentes compétitions, un peu partout, au cours de l'année 2016. Ces chiffres concernent les épreuves "adultes" (catégories Cadet à V5) et ne prennent pas en compte les courses non terminées. Par ailleurs, ces éléments étant relatifs aux participations aux compétitions dont nous avons eu connaissance, des imprécisions peuvent y figurer si certain(e)s ont concouru lors d'épreuves hors région sans nous en avoir fait part.
 
 **Participations :**
 
