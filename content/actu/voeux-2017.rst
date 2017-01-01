@@ -10,4 +10,4 @@ VOEUX 2017
 
 **L'ACR-DIJON vous adresse ses meilleurs voeux pour 2017 !**
 
-.. image:: https://assets.acr-dijon.org/voeux2017.pdf
+https://assets.acr-dijon.org/voeux2017.pdf
