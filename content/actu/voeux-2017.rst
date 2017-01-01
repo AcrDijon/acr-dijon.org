@@ -6,10 +6,8 @@ VOEUX 2017
 :location: DIJON
 :eventdate: 2017-01-01
 
-
-
 .. image:: http://assets.acr-dijon.org/acr2017.jpg
 
 **L'ACR-DIJON vous adresse ses meilleurs voeux pour 2017 !**
 
-.. image:: http://assets.acr-dijon.org/voeux2017.pdf
+.. image:: https://assets.acr-dijon.org/voeux2017.pdf
