@@ -6,6 +6,10 @@ Foulées du Lac Kir 2017 : Inscriptions
 :location: DIJON
 :eventdate: 2017-04-15
 
-Formulaire d'inscription en cliquant sur le lien suivant :
+- Formulaire d'inscription internet en cliquant sur le lien suivant :
 
 http://forms.registration4all.com/EventRegistration/Register_Sport_Event.aspx?EventID=130845
+
+- Bulletin à imprimer en cliquant sur le lien suivant :
+
+http://bulletinlackir2017.pdf
