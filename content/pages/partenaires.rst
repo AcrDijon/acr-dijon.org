@@ -1,7 +1,7 @@
 Partenaires
 ===========
 
-:date: 09/12/2015
+:date: 12/09/2015
 :summary: Partenaires de l'ACR
 
 Partenaires institutionnels
@@ -58,7 +58,7 @@ Sponsors
 
 .. image:: https://assets.acr-dijon.org/doras.png
 
-.. image:: https://assets.acr-dijon.org/logofunradio.png
+.. image:: https://assets.acr-dijon.org/fun.png
 
 .. image:: https://assets.acr-dijon.org/barbarians.png
 
