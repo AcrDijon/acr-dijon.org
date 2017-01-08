@@ -1,5 +1,5 @@
-Trai Rotary de BEAUNE
-=====================
+Trail Rotary de BEAUNE
+======================
 
 :date: 2017-01-08
 :category: Résultats
