@@ -1,5 +1,5 @@
-Régionnaux de Cross Country 2017
-================================
+Régionaux de Cross Country 2017
+===============================
 
 :date: 2017-01-23
 :category: Résultats
