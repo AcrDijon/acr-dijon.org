@@ -26,3 +26,5 @@ Nos quatre ACRistes ont terminé chacun à la 5e place de leur catégorie !
 .. image:: http://assets.acr-dijon.org/magcross.jpg
 
 *Mag aux départementaux de cross à Dijon l'an dernier (archives ACR)*
+
+**Bravo à eux !**
