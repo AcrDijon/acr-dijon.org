@@ -8,8 +8,11 @@ Marathon de Cernay La Ville
 
 .. image:: http://assets.acr-dijon.org/cernay2017.jpg
 
-Ce dimanche, **Vincent LAUVERGNE** a bouclé son 1er marathon de l'année, en vallée de Chevreuse, à Cernay La Ville (364mD+).
+Ce dimanche, **Alain BRIOT** et **Vincent LAUVERGNE**  ont bouclé leur 1er marathon de l'année, en vallée de Chevreuse, à Cernay La Ville (364mD+).
 
-Il s'est classé 195e/222 en 4h48'35'' / course remportée par Gaspard FONTBONNE en 2h39'36''.
+- **Alain BRIOT** : 88e en 3h50'41'' et **1erM4**
+- **Vincent LAUVERGNE** : 195e/222 en 4h48'35'' 
 
-**Bravo à lui !**
+Course remportée par Gaspard FONTBONNE en 2h39'36''.
+
+**Bravo à eux !**

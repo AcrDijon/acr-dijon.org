@@ -14,14 +14,13 @@ Quatre ACRistes se sont rendus sur place, pour une course disputée sur la neige
 
 **Course Vétérans-Masters / 8920m :**
 
-- **Pierre AUDIN** : 32e en 34'44'' (V2)
-- **Tarek ZIADE** : 68e en 37'01'' (V1)
-- **Eric MAREJUS** : 121e en 40'31'' (V3)
-- **Jean Claude MAGUER** : 156e en 48'54'' (V4)
+- **Pierre AUDIN** : 32e en 34'44'' 
+- **Tarek ZIADE** : 68e en 37'01'' 
+- **Eric MAREJUS** : 121e en 40'31'' 
+- **Jean Claude MAGUER** : 156e en 48'54''
 
 Course remportée par Habib AJJOUNI (AO NIVERNAISE) en 31'54''.
 
-Nos quatre ACRistes ont terminé chacun à la 5e place de leur catégorie !
 
 .. image:: http://assets.acr-dijon.org/magcross.jpg
 
