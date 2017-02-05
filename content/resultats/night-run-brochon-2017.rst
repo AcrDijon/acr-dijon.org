@@ -12,11 +12,12 @@ La 5e édition du trail nocturne "Night & Run", organisé par les élèves du Ly
 
 Quatre ACRistes comptaient parmi les participants.
 
-- **Pascal ROSA** : 167e en 1h32'07''
-- **Jean Christophe DUBARD** : 174e en 1h32'49''
-- *Emmanuelle DELOT* : 188e en 1h34'37''
-- **Talmi SIMEHA** : 221e en 1h40'26'' (**3eM4M**)
+- **Pascal ROSA** : 167e en 1h32'05''
+- **Jean Christophe DUBARD** : 174e en 1h32'47''
+- *Emmanuelle DELOT* : 188e en 1h34'36''
+- **Talmi SIMEHA** : 221e en 1h40'24'' (**3eM4M**)
 
-308 concurrents classés / Victoire de Benjamin PETITJEAN (DIJON SINGLETRACK) ; 21e et 1ère féminine : Cécile CLET (TEAM COSTO) en 1h09'34''.
+308 concurrents classés / Victoire de Benjamin PETITJEAN (DIJON SINGLETRACK) en 0h57'59'' ; 21e et 1ère féminine : Cécile CLET (TEAM COSTO) en 1h09'31''.
 
 **Bravo à eux !**
+ 
