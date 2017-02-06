@@ -8,7 +8,7 @@
 
 La troisième édition des "Foulées Hivernales des Trois Etangs" s'est disputée ce dimanche, sur un parcours légèrement rallongé, avec un départ donné dans les rues de Lamarche/ Saône.
 
-Cinq ACRistes étaient présents et se sont brillament illustrés.
+Cinq ACRistes étaient présents et se sont brillamment illustrés.
 
 .. image:: http://assets.acr-dijon.org/lamarche2017.jpg
 
