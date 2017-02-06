@@ -12,7 +12,7 @@ Cinq ACRistes étaient présents et se sont brillament illustrés.
 
 .. image:: http://assets.acr-dijon.org/lamarche2017.jpg
 
-**7,75km / Féminines toutes catégories + Hommes catégories M3 et M4 :**
+**5,75km / Féminines toutes catégories + Hommes catégories M3 et M4 :**
 
 - **Alain BRIOT** : **3e** en 28'36'' (**1erM4M**)
 - **Gérard GOEURY** : 5e en 29'13'' (**1erM3M**)
