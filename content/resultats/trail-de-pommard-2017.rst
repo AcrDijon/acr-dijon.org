@@ -17,8 +17,10 @@ Pour sa deuxième édition, le Trail de Pommard a fait le plein de participants 
 
 465 concurrents classés / Course remportée par Benjamin PETITJEAN (DIJON SINGLETRACK) en 55'32'' ; 46e et 1ère féminine : Carinne DESBOIS (CHENÔVE TRIATHLON) en 1h06'06''.
 
-.. image:: http://assets.acr-dijon.org/pommard2017.jpg
+.. image:: http://assets.acr-dijon.org/pm17.jpg
 
-*Le podium M4*
+
+
+
 
 **Bravo à nos quatre ACRistes !**
