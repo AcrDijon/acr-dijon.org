@@ -6,7 +6,7 @@ Trail de Pommard 2017
 :location: POMMARD
 :eventdate: 2017-02-19
 
-Pour sa deuxième édition, le Trail de Pommard a fait le plein de participants (plus de 500 inscrits contre environ 230 l'an dernier) et s'est déroulé sous un beau soleil et une température plutôt fraîche.
+Pour sa deuxième édition, le Trail de Pommard a fait le plein de participants (493 inscrits contre 242 l'an dernier) et s'est déroulé sous un beau soleil et une température plutôt fraîche.
 
 **14,2km / 350mD+ :**
 
