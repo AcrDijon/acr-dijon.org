@@ -10,7 +10,7 @@ Pour sa 3e édition, le Trail urbain du "Transvaal Trail" proposait une course a
 
 Cette épreuve festive n'a pas fait l'objet d'un classement.
 
-.. image:: http://assets.acr-dijon.org/transvaaltrail2017.jpg
+.. image:: http://assets.acr-dijon.org/tt17.jpg
 
 
 
