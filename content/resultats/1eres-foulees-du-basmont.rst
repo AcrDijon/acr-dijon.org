@@ -10,9 +10,15 @@ Ce samedi matin, se sont courues les 1ères Foulées du Basmont, à Ruffey Lès 
 
 .. image:: http://assets.acr-dijon.org/ruffey171.jpg
 
-Trois ACRistes ont fait le déplacement pour l'occasion, parmi les 89 inscrits à la course adultes (10km). 
+Trois ACRistes ont fait le déplacement pour l'occasion, parmi les 89 inscrits à la course adultes (10km).
 
-(Le classement n'a pas encore été publié)
+- **Jean Christophe DUBARD** : 28e en 46'39''
+- **Alain BRIOT** : 33e en 48'00'' (**1erM4M**)
+- **Florence JACOBS** : 70e en 57'29'' (**3eM2F**)
+
+Les classements par catégories sont mentionnés à titre indicatif - seuls les 5 premiers du classement scratch masculin et féminin étant récompensés.
+
+86 concurrents classés / course remportée par Cédric BERNETTES en 35'57'' ; 17e et 1ère féminine : Marine ROSSELLE (ATHLE 52) en 44'17''.
 
 .. image:: http://assets.acr-dijon.org/ruffey172.jpg
 
