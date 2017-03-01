@@ -12,7 +12,7 @@ Pour sa deuxième édition, le Trail de Pommard a fait le plein de participants 
 
 - **Jean Christophe DUBARD** : 201e en 1h20'27''
 - **Alain BRIOT** : 214e en 1h21'11'' et **1erM4**
-- **Julia KOLMAKOVA** : 313e en 1h27'45''
+- *Julia KOLMAKOVA* : 313e en 1h27'45''
 - **Fabien MATHIEU** : 377e en 1h32'42''
 
 465 concurrents classés / Course remportée par Benjamin PETITJEAN (DIJON SINGLETRACK) en 55'32'' ; 46e et 1ère féminine : Carinne DESBOIS (CHENÔVE TRIATHLON) en 1h06'06''.

@@ -14,7 +14,7 @@ Trois ACRistes ont fait le déplacement pour l'occasion, parmi les 89 inscrits �
 
 - **Jean Christophe DUBARD** : 28e en 46'39''
 - **Alain BRIOT** : 33e en 48'00'' (**1erM4M**)
-- **Florence JACOBS** : 70e en 57'29'' (**3eM2F**)
+- *Florence JACOBS* : 70e en 57'29'' (**3eM2F**)
 
 Les classements par catégories sont mentionnés à titre indicatif - seuls les 5 premiers du classement scratch masculin et féminin étant récompensés.
 
