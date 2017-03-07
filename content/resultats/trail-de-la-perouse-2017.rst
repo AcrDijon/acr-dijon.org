@@ -6,7 +6,7 @@ Trail de la Pérouse 2017
 :location: PLOMBIERES LES DIJON
 :eventdate: 2017-03-05
 
-L'édition 2017 du Trail de la Pérouse a heureusement été épargnée par les précipitaions annoncées.
+L'édition 2017 du Trail de la Pérouse a heureusement été épargnée par les précipitations annoncées.
 
 Six ACRistes étaient présents sur les deux distances au programme.
 
