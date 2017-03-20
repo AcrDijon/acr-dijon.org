@@ -13,13 +13,13 @@ Les quelques ACRistes présents se sont alignés su le 8km.
 .. image:: http://assets.acr-dijon.org/seurre2017.jpg
 
 - **Fabrice HEURET** : **3e** et **1erM1** en 30'25''
-- **Adrien BRUNET** : 13e
-- **Philippe BASSAND** : 27e
-- **Jean Philippe BEUCHE** : 32e
+- **Adrien BRUNET** : 13e en 35'05''
+- **Philippe BASSAND** : 27e en 37'39''
+- **Jean Philippe BEUCHE** : 32e en 39'23''
 - *Marie Laure LEONARD* : AB
 
-Epreuve remportée par Yohan BAERT en 28'30'' ; 1ère féminine : Suzanne JOLLEY
-
-*Ces résultats seront complétés après publication des résultats officiels.*
+60 concurrents classés / Epreuve remportée par Yohan BAERT (ASPTT DIJON) en 28'30'' ; 24e et 1ère féminine : Suzanne JOLLEY (BEAUNE ATHLE) en 37'26''.
 
 **Bravo à eux !**
+
+

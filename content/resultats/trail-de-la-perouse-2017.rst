@@ -21,7 +21,7 @@ Six ACRistes étaient présents sur les deux distances au programme.
 - **Jean Philippe BEUCHE** : 127e en 1h23'09''
 - **Florian DROUHIN** : 223e en 1h44'55''
 
-237 concurrents classés / course remportée par Adrien ALIX (NL) en 54'01'' ; 30e et 1ère féminine : Fettouma BRELAUD (AC CHENÔVE) en 1h08'44''.
+237 concurrents classés / course remportée par Adrien ALIX (AC CHENÔVE) en 54'01'' ; 30e et 1ère féminine : Fettouma BRELAUD (AC CHENÔVE) en 1h08'44''.
 
 .. image:: http://assets.acr-dijon.org/p172.jpg
 
