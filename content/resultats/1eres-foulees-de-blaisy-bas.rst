@@ -19,22 +19,22 @@ Une petite ombre au tableau a néanmoins résidé dans la gestion des horaires d
 
 **5km / 62mD+ :**
 
-- **Tarek ZIADE** : **2e** en 17'19'' et **1erM1**
-- **Jean Christophe DUBARD** : 18e en 22'20'' et **2eM2**
-- *Emma FANTON* : 30e en 25'44'' et **1èreCA**
+- **Tarek ZIADE** : **2e** en 17'19'' et **1erM1M**
+- **Jean Christophe DUBARD** : 18e en 22'20'' et **2eM2M**
+- *Emma FANTON* : 30e en 25'44'' et **1èreCAF**
 
 50 concurrents classés / Victoire de Yohan BAERT (ASPTT DIJON) en 16'37'' ; 14e et 1ère féminine : Aurélie BIONDI en 21'17''.
 
 **10km / 124mD+ :**
 
-- **Pierre AUDIN** : 12e en 38'45'' et **2eM2**
-- **Tarek ZIADE** : 14e en 38'52'' et **3eM1**
-- *Sandrine FANTON* : 46e en 48'03''
+- **Pierre AUDIN** : 12e en 38'45'' et **2eM2M**
+- **Tarek ZIADE** : 14e en 38'52'' et **3eM1M**
+- *Sandrine FANTON* : 46e en 48'03''et **3eM1F**
 
 66 concurrents classés / Victoire de Jérémy PIGNARD (DUC) en 31'28'' ; 9e et 1ère féminine : Isabelle FERRER (AC CHENÔVE) en 37'22''.
 
 **3km BE/MI :**
 
-- *Zoé FANTON* : 6e en 15'46'' et **1ère féminine** et **1èreBE**
+- *Zoé FANTON* : 6e en 15'46'' et **1ère féminine** et **1èreBEF**
 
 **Bravo à toutes et à tous !**
