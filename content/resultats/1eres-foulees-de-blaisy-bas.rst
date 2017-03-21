@@ -17,7 +17,7 @@ Une petite ombre au tableau a néanmoins résidé dans la gestion des horaires d
 
 *Tarek a enchaîné 5 et 10km*
 
-**5km :**
+**5km / 62mD+ :**
 
 - **Tarek ZIADE** : **2e** en 17'19'' et **1erM1**
 - **Jean Christophe DUBARD** : 18e en 22'20'' et **2eM2**
@@ -25,7 +25,7 @@ Une petite ombre au tableau a néanmoins résidé dans la gestion des horaires d
 
 50 concurrents classés / Victoire de Yohan BAERT (ASPTT DIJON) en 16'37'' ; 14e et 1ère féminine : Aurélie BIONDI en 21'17''.
 
-**10km :**
+**10km / 124mD+ :**
 
 - **Pierre AUDIN** : 12e en 38'45'' et **2eM2**
 - **Tarek ZIADE** : 14e en 38'52'' et **3eM1**
