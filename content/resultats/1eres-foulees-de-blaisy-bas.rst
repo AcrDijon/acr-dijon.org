@@ -6,7 +6,7 @@
 :location: 
 :eventdate: 2017-03-21
 
-La première édition des Foulées de Blaisy Bas s'est déroulée sous un fin crachin printannier et des conditions de températures presques parfaites pour la pratique de la course à pied, sur le circuit très vallonné avec de nombreuses relances, tracé dans les rues du village, n'offrant guère de moment de répit aux concurrents.
+La première édition des Foulées de Blaisy Bas s'est déroulée sous un fin crachin printannier et des conditions de températures presque parfaites pour la pratique de la course à pied, sur le circuit très vallonné avec de nombreuses relances, tracé dans les rues du village, n'offrant guère de moment de répit aux concurrents.
 
 .. image:: http://assets.acr-dijon.org/bb171.jpg
 
