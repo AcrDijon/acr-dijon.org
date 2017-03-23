@@ -16,10 +16,8 @@ Les quelques ACRistes présents se sont alignés su le 8km.
 - **Adrien BRUNET** : 13e en 35'05''
 - **Philippe BASSAND** : 27e en 37'39''
 - **Jean Philippe BEUCHE** : 32e en 39'23''
-- *Marie Laure LEONARD* : AB
+- *Marie Laure LEONARD* : NC
 
 60 concurrents classés / Epreuve remportée par Yohan BAERT (ASPTT DIJON) en 28'30'' ; 24e et 1ère féminine : Suzanne JOLLEY (BEAUNE ATHLE) en 37'26''.
 
 **Bravo à eux !**
-
-
