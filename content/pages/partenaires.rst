@@ -1,7 +1,7 @@
 Partenaires
 ===========
 
-:date: 12/09/2015
+:date: 09/12/2015
 :summary: Partenaires de l'ACR
 
 Partenaires institutionnels
@@ -52,7 +52,7 @@ Sponsors
 
 .. image:: /theme/partenaires/lesportif.png
 
-.. image:: /theme/partenaires/orangebleue.png
+.. image:: https://assets.acr-dijon.org/orangebleue.jpg
 
 .. image:: /theme/partenaires/rapidflore.png
 
