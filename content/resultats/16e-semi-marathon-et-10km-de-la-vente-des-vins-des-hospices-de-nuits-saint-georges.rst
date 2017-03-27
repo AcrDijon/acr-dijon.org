@@ -44,7 +44,7 @@ Les participant(e)s, parmi lesquels l'ACR était bien représentée, ont répond
 - **Dominique ZIMA** : 66e en 1h33'50''
 - **Pascal FLEURY** : 161e en 1h41'03''
 - *Florence JACOBS* : 836e en 2h12'13''
-- **Alain BREGAND** : 837e en 2h12'37''
+- **Alain BREGAND** : 837e en 2h12'13''
 
 1081 concurrents classés / Epreuve remportée par Gilles RUBIO (MENTON MARATHON) en 1h15'06'' ; 3e et 1ère féminine : Hanna VANDENBUSSCHE en 1h17'58''.
 
