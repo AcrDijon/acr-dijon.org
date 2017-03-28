@@ -6,7 +6,7 @@
 :location: CHALON SUR SAÔNE
 :eventdate: 2017-03-26
 
-Cinq ACRistes étaient présents, ce dimanche, pour cette nouvelle édition des 10km Chalon Sur Saône, épreuve labélisée, qualificative pour les Championnats de France de la distance et servant de cadre aux Championnats de Bougogne-Franche Comté. 
+Six ACRistes étaient présents, ce dimanche, pour cette nouvelle édition des 10km Chalon Sur Saône, épreuve labélisée, qualificative pour les Championnats de France de la distance et servant de cadre aux Championnats de Bougogne-Franche Comté. Pour l'occasion, **Emma FANTON** y a déroulé ses premières foulées sur cette distance !
 
 .. image:: http://assets.acr-dijon.org/chalon2017.jpg
 
@@ -15,6 +15,7 @@ Cinq ACRistes étaient présents, ce dimanche, pour cette nouvelle édition des 
 - **Alain BRIOT** : 196e en 46'59'' ; **2eM4**
 - **Ismaël KHADIR** : 215e en 48'46''
 - *Sandrine FANTON* : 240e en 50'30''
+- *Emma FANTON* : 318e en 57'04'' ; **2eCA**
 
 376 concurrents classés / Epreuve remportée par Masba HAILE (CLERMONT ATHLETISME AUVERGNE) en 29'53'' ; 33e et 1ère féminine : Nelly JEPKOECH MUTAI (ASVEL VILLEURBANNE) en 35'53''.
 
