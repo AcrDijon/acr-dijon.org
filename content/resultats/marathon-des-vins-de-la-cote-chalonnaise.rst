@@ -25,7 +25,7 @@ En plus du marathon, un semi-marathon et un 10km nature étaient au programme.
 
 - **Pierre AUDIN** : 4e en 1h24'53'' et **1erM2**
 - **Frédéric RABIET** : 26e en 1h34'08''
-- *Stéphanie TERRAND* :580e en 2h10'34''
+- *Stéphanie TERRAND* : 580e en 2h10'34''
 - **Fabien MATHIEU** : 581e en 2h10'38''
 
 905 concurrents classés / Course remportée par Yoann SEIGNEURET (LA39) en 1h20'50'' ; 19e et 1ère féminine : Bowen MARY en 1h32'39''.
