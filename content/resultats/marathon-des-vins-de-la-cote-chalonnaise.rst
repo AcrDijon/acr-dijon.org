@@ -18,6 +18,7 @@ En plus du marathon, un semi-marathon et un 10km nature étaient au programme.
 
 - **Alain BRIOT** : 134e en 3h52'59'' et **1erM4**
 - **Michaël ALIXANT** : 152e en 3h56'41''
+- **Nicolas ONIMUS** : 218e en 4h09'23''
 
 526 concurrents classés / Course remportée par Yoann STUCK (Town To Trail) en 2h33'40'' ; 18e et 1ère féminine : Agnès DUHAIL (Team Outdoor Poli) en 3h14'03''.
 
