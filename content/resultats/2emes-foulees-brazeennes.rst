@@ -22,7 +22,7 @@ Les ACRistes étaient présents en nombre pour cette deuxième édition des "Fou
 - *Emma FANTON* : 34e en 27'40'' (**3eCAF**)
 - *Diamantina MOURA* : 46e en 29'22'' (**3eM1F**)
 
-55 concurrents classés / Course remportée par Nicolas JEANDROT (AC CHENÔVE) en 17'46'' ; 19e et 1ère féminine : Solène LACROIX SAMPERT (DIJON TRIATHLON) en 23'09''.
+93 concurrents classés / Course remportée par Nicolas JEANDROT (AC CHENÔVE) en 17'46'' ; 19e et 1ère féminine : Solène LACROIX SAMPERT (DIJON TRIATHLON) en 23'09''.
 
 .. image:: http://assets.acr-dijon.org/brazey172.jpg
 
