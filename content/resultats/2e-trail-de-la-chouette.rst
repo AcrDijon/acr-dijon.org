@@ -14,8 +14,8 @@ Un beau soleil et des températures quasi estivales ont accompagné les nombreux
 
 **La Chevêchette (12,8km / 410mD+) :**
 
-- **Dominique ZIMA** : 16e en 1h04'39'' et **1erM1 !**
-- **Pascal FLEURY** : 27e en 1h08'066'' et **2eM2**
+- **Dominique ZIMA** : 16e en 1h04'39'' et **1erM2 !**
+- **Pascal FLEURY** : 27e en 1h08'06'' et **2eM3**
 - **Jean Christophe DUBARD** : 97e en 1h19'19''
 - *Béatrice BADET* : 153e en 1h24'50''
 - *Emilie DERAIL* : 245e en 1h35'23''
