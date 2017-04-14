@@ -17,7 +17,11 @@ $(document).ready(function() {
       "/theme/banner.jpg",
       "/theme/banner2.jpg",
       "/theme/banner3.jpg",
-      "/theme/banner4.jpg"], {duration: 6000, fade: 750}
+      "/theme/banner4.jpg",
+      "/theme/banner5.jpg",
+      "/theme/banner6.jpg",
+      "/theme/banner7.jpg",
+    ], {duration: 6000, fade: 750}
     );
 
 });
