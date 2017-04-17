@@ -8,8 +8,6 @@
 
 Les précipitations annoncées et craintes ne s'étant pas déversées sur les organisateurs et concurrents présents aux abords du Lac Kir, cette 12e édition de la course organisée par l'ACR-DIJON s'est finalement déroulée dans des conditions climatiques plutôt agréables, avec un vent modéré et une fraîcheur de bon aloi pour la pratique de la course à pied.
 
-
-
 .. image:: http://assets.acr-dijon.org/flk171.jpg
 
 *Les concurrents du 10km sous les ordres du starter*
@@ -42,4 +40,4 @@ Quelques ACRistes ont participé aux différentes épreuves du jour.
 
 *Mohamed en action sur le 5km*
 
-**Bravo à toutes et à tous et un grand bravo à tous les bénévoles qui ont permis, comme d'habitude, de faire de cette journée une réussite!**
+**Bravo à toutes et à tous et un grand bravo à tous les bénévoles qui ont permis, comme d'habitude, de faire de cette journée une réussite !**
