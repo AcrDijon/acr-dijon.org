@@ -1,25 +1,17 @@
 Foulées de La Motte
 ===================
 
-:date: 2017-04-18 20:39
+:date: 2017-04-18
 :category: Résultats
+:location: PUSEY (70)
+:eventdate: 2017-04-16
 
+Au lendemain des Foulées du Lac Kir, **Alain BRIOT** a enchaîné du côté de la Haute Saône, aux Foulées de la Motte (10km) à Pusey, dans l'immédiate proximité de Vesoul.
 
-Voici un exemple de texte.
+.. image:: http://assets.acr-dijon.org/lamotte2017.jpg
 
-**Texte en gras**
+Il s'y est classé 109e/227 en 55'45'' et **1erM4 !**.
 
-*Texte en italique*
+Course remportée par Lucas REBOUL (ESM GONFREVILLE) en 36'47'' ; 12e et 1ère féminine : Anaïs ROBIN (GTVHS) en 43'26''.
 
-Voici une liste:
-
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
