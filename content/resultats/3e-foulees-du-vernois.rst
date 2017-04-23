@@ -1,7 +1,7 @@
 3e Foulées du Vernois
 =====================
 
-:date: 2017-04-23
+:date: 2017-04-22
 :category: Résultats
 :location: Remilly Sur Tille
 :eventdate: 2017-04-22
