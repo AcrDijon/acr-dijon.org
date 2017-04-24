@@ -22,6 +22,6 @@ C'est sous un grand soleil que s'est déroulée cette troisième édition du Tra
 
 - **Jean Philippe BEUCHE** : 52e en 2h15'51''
 
-60 concurrents classés / Epreuve remportée par Alexis DARCEAUX en 1h24'46'' ; 14e et 1ère féminine : Carinne DESBOIS (DIJON SINGLETRACK) en 1h37'34''.
+60 concurrents classés / Epreuve remportée par Alexis DARCEAUX (DIJON SINGLETRACK) en 1h24'46'' ; 14e et 1ère féminine : Carinne DESBOIS (DIJON SINGLETRACK) en 1h37'34''.
 
 **Bravo à nos deux intrépides ACRistes !**
