@@ -39,7 +39,7 @@ Pour l'occasion, les membres du club se sont rendus en nombre en Haute Savoie, a
 - *Sandrine FANTON* : 1116e en 1h54'46''
 - *Claire TAINTURIER* : 1924e en 2h05'59''
 - *Laurence CARRIE* : 2167e en 2h10'08''
-- *Nathalie COMTE* : 2168e en 2h10'80''
+- *Nathalie COMTE* : 2168e en 2h10'08''
 - *Claudette ESTIVALET* : 2855e en 2h20'16''
 - *Christine MATHEY* : 3521e en 2h40'27''
 
