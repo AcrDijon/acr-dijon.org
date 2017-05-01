@@ -11,6 +11,8 @@
 Les courses du marathon et du semi-marathon d'Annecy, servaient, cette année, de cadre à la sortie course annuelle de l'ACR.
 Pour l'occasion, les membres du club se sont rendus en nombre en Haute Savoie, avec le soleil pour les accompagner en prime !
 
+.. image:: http://assets.acr-dijon.org/ancy171.jpg
+
 **Marathon :**
 
 - **Bertrand BULLE** : 49e en 2h48'25''
@@ -24,6 +26,14 @@ Pour l'occasion, les membres du club se sont rendus en nombre en Haute Savoie, a
 - **Alain BREGAND** : 2369e en 4h47'03''
 
 2628 concurrents classés / Victoire de Joël Kipkogei KIMUTAI en 2h12'33'' ; 12e et 1ère féminine : Daisy Chepngeno LANGAT en 2h36'14''.
+
+.. image:: http://assets.acr-dijon.org/ancy172.jpg
+
+*Pierre en approche de l'arrivée*
+
+.. image:: http://assets.acr-dijon.org/ancy173.jpg
+
+*Alain Briot au sommet en catégorie Masters4*
 
 **Semi-Marathon :**
 
