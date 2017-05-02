@@ -21,7 +21,7 @@ Quatre ACRistes se sont rendus dans le Val de Saône, en ce lundi 1er mai frais,
 
 Les podiums de catégorie sont mentionnés à titre indicatif, ceux-ci ne donnant pas lieu à un classement distinctif.
 
-68 concurrents classés / Course remportée par Olivier SOULLIER en 29'51'' ; 22e et 1ère féminine : Clémentine PHILIPPE en 41'55''.
+69 concurrents classés / Course remportée par Olivier SOULLIER en 29'51'' ; 22e et 1ère féminine : Clémentine PHILIPPE en 41'55''.
 
 **14,5km :**
 
