@@ -25,8 +25,10 @@ Quelques ACRistes ont participé aux différentes épreuves du jour.
 
 **5,2km :**
 
-- **Mohamed SAALAH WARSAME** : 19e en 19'15'' et **3eJU**
+- **Mohamed SAALAH WARSAME** : 19e en 19'15'' et (3eJU)
 - *Emma FANTON* : 59e en 26'35''
+
+Podium de catégorie mentionné à titre indicatif, ne donnant pas lieu à un classement distinctif sur cette distance.
 
 138 concurrents classés / Victoire de Hugo DE ALMEIDA (DIJON TRIATHLON) en 16'55'' ; 8e et 1ère féminine : Lucie LEBOURG (Entente Mt St AIGNAN MAROM) en 17'46''.
 
