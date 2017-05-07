@@ -19,7 +19,7 @@ La 8e édition des 10 km au fil de l'eau a été bien arrosée cette année, ce 
 - *Sandrine FANTON* : 164e en 50'37''
 - **Daniel CHAMBIN** : 203e en 55'41''
 
-250 concurrents classés / Victoire de Khalid CHAHID en 32'06'' ; 20e et 1ère féminine : Adèle GIRARDOT SAUTENET (TRI VAL DE GRAY) en 38'59''.
+250 concurrents classés / Victoire de Khalid CHAHID en 32'06'' ; 20e et 1ère féminine : Adèlaïde GIRARDOT SAUTENET (TRIATHLON VAL DE GRAY) en 38'59''.
 
 **2km Benjamins/Minimes :**
 
