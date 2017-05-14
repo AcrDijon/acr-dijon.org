@@ -8,6 +8,10 @@ Courir Ensemble
 
 Les abondantes précipitations du jour ont épargné les concurrents ; parmi lesquels figuraient deux ACRistes ; de cette 6e édition de la course "Courir Ensemble" à Is Sur Tille. Ceux-ci ont dû, toutefois, composer avec un terrain bien lourd et glissant.
 
+.. image:: http://assets.acr-dijon.org/is2017.jpg
+
+*Un ACRiste dans les bois...*
+
 **10,5km / 200mD+ :**
 
 - **Jean Christophe DUBARD** : 19e en 53'16''
