@@ -10,7 +10,7 @@ Les abondantes précipitations du jour ont épargné les concurrents ; parmi les
 
 .. image:: http://assets.acr-dijon.org/is2017.jpg
 
-*Un ACRiste dans les bois...*
+*Un ACRiste dans les bois...* (photo "Le Bien Public")
 
 **10,5km / 200mD+ :**
 
