@@ -10,7 +10,7 @@ Soleil et forte chaleur ont accompagné les nombreux concurrents (record de part
 
 .. image:: http://assets.acr-dijon.org/mar171.jpg
 
-**10,1km :**
+**10,14km :**
 
 - **Fabrice HEURET** : 30e en 40'49''
 - **Benoît SUREAU** : 46e en 41'59''
@@ -24,13 +24,13 @@ Soleil et forte chaleur ont accompagné les nombreux concurrents (record de part
 - **Mahfoud BAALI** : 454e en 1h14'21''
 - **Alain BREGAND** : 456e en 1h14'22''
 
-Course remportée par Thomas REMOND en 33'56'' ; 45e et 1ère féminine : Fanny BASSORA en 41'58''.
+462 classés / Course remportée par Thomas REMOND en 33'56'' ; 45e et 1ère féminine : Fanny BASSORA en 41'58''.
 
 .. image:: http://assets.acr-dijon.org/mar172.jpg
 
 *Course en duo sur le 10km pour Benoît et Dom'*
 
-**6,4km :**
+**6,46km :**
 
 - **Tarek ZIADE** : 3e en 23'19'' et 2eM1
 - *Marie Laure LEONARD* : 44e en 32'16'' et **1èreM1**
@@ -43,10 +43,10 @@ Course remportée par Thomas REMOND en 33'56'' ; 45e et 1ère féminine : Fanny 
 
 - *Zoé FANTON* : 24e en 13'34'', 2eF et **1èreBE**
 
-61 classés / Course remportée par Clément LAUPER en 10'41'' ; 1ère féminine : Eva BORNOT en 13'20''.
+61 classés / Course remportée par Clément LAUPER en 10'41'' ; 21e et 1ère féminine : Eva BORNOT en 13'20''.
 
 .. image:: http://assets.acr-dijon.org/mar173.jpg
 
-*Tarek à la pointe sur le 6km*
+*Tarek 3e sur le 6km*
 
 **Félicitations à nos vaillants ACRistes !**
