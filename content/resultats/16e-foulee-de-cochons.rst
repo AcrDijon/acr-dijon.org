@@ -28,7 +28,7 @@ Course remportée par Thomas REMOND en 33'56'' ; 45e et 1ère féminine : Fanny 
 
 .. image:: http://assets.acr-dijon.org/mar172.jpg
 
-*Course en duo sur le 10km pour Benoït et Dom'*
+*Course en duo sur le 10km pour Benoît et Dom'*
 
 **6,4km :**
 
