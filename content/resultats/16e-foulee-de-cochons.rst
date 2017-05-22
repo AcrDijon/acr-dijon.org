@@ -37,7 +37,7 @@ Soleil et forte chaleur ont accompagné les nombreux concurrents (record de part
 - *Emma FANTON* : 60e en 35'10'' et 3eCA
 - **Jean Louis RABIET** : 137e en 44'37'' et 3eM4
 
-163 classés / Course remportée par Guillaume DENUIT (LACSHM) en 21'27'' ; 31e et 1ère féminine : Andréa LECLERE (DUC) en 30'22''.
+163 classés / Course remportée par Guillaume DENUIT (LACSHM) en 21'27'' ; 20e et 1ère féminine : Marie Hélène TATTU en 27'31''.
 
 **3km Benjamins/Minimmes :**
 
