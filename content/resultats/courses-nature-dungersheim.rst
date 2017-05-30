@@ -1,12 +1,10 @@
 Courses Nature d'Ungersheim
 ===========================
 
-:date: 2017-05-25
+:date: 2017-05-30
 :category: Résultats
 :location: Ungersheim (68)
-:eventdate: 2017-05-30
-
-
+:eventdate: 2017-05-25
 
 .. image:: http://assets.acr-dijon.org/u17.jpg
 
@@ -20,4 +18,3 @@ Jeudi, **Emilie DERAIL** et **Eric MOVAT** ont participé à la "Course Mini Nat
 Une course de 12 km était également au programme du jour.
 
 **Bravo à eux !**
-

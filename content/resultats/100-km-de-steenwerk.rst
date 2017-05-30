@@ -1,11 +1,10 @@
 100 km de Steenwerk
 ===================
 
-:date: 2017-05-25
+:date: 2017-05-30
 :category: Résultats
 :location: Steenwerk (59)
-:eventdate: 2017-05-30
-
+:eventdate: 2017-05-25
 
 .. image:: http://assets.acr-dijon.org/stw17.jpg
 
