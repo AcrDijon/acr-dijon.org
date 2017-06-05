@@ -25,4 +25,8 @@ Cinq ACRistes étaient présents, par ce dimanche matin ensoleillé, à Ruffey L
 
 67 concurrents classés / 17e et 1ère féminine : Nolwenn BEROUJON en 30'37''.
 
+.. image:: http://assets.acr-dijon.org/fr2017.jpg
+
+*Tarek s'envole vers la victoire sur le 6km (photo Le Bien Public)*
+
 **Bravo à eux !**
