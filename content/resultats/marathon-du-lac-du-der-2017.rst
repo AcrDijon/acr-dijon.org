@@ -1,25 +1,19 @@
 Marathon du Lac du Der 2017
 ===========================
 
-:date: 2017-06-12 14:36
+:date: 2017-06-12
 :category: Résultats
+:location: Saint Dizier (52)
+:eventdate: 2017-06-11
 
 
-Voici un exemple de texte.
 
-**Texte en gras**
+.. image:: http://assets.acr-dijon.org/der2017.jpg
 
-*Texte en italique*
+Ce dimanche, **Alain BRIOT** était du côté de Saint Dizier, pour la 5e édition du Marathon du Lac du Der.
 
-Voici une liste:
+Il s'y est classé 70e/235 en 3h48'40'' et **1erM4 !**
 
-- un
-- deux
-- trois
+Course remportée par Guylain SCHMEID (S/L VGA ATTICHY) en 2h29'16'' ; 9e et 1ère féminine : Claire BANNWARTH en 3h04'10''.
 
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
