@@ -17,7 +17,7 @@ Quelques ACRistes étaient présents au départ du 5km de la 21e édition des Fo
 - **Christophe MIMEUR** : 17e en 22'05''
 - **Jean Christophe DUBARD** : 19e en 22'12''
 - **Philippe BASSAND** : 21e en 22'24''
-- **Mohamed SALAAH WARSAME** : AB
+- **Mohamed SAALAH WARSAME** : AB
 
 43 concurrents classés / Course remportée par Thomas REMOND en 15'57'' ; 20e et 1ère féminine : Christine PETITE en 22'21''.
 
