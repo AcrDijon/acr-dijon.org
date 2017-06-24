@@ -21,6 +21,6 @@ Quelques ACRistes étaient présents au départ du 5km de la 21e édition des Fo
 
 43 concurrents classés / Course remportée par Thomas REMOND en 15'57'' ; 20e et 1ère féminine : Christine PETITE en 22'21''.
 
-Romain LELIEVRE (AC CHENÔVE) a remporté la course de 10km en 35'45'' ; 21e et 1ère féminine : Christelle MATHIS (Les Traileurs des Roches) en 44'55''.
+Romain LELIEVRE (AC CHENÔVE) a remporté la course de 10km en 35'45'' ; 21e et 1ère féminine : Christelle MATHIS (Les Traileurs des Roches) en 44'55'' / 71 concurrents classés.
 
 **Bravo à nos ACRistes !**
