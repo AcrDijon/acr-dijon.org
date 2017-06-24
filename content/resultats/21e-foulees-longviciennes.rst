@@ -8,9 +8,9 @@
 
 Quelques ACRistes étaient présents au départ du 5km de la 21e édition des Foulées Longviciennes, dont les courses se sont déroulées dans des conditions de chaleur extrêmes.
 
-.. image:: http://assets.acr-dijon.org/fl2017.jpg
+.. image:: http://assets.acr-dijon.org/fl17.jpg
 
-*2 boucles de 2,5km*
+*Pierre en plein effort*
 
 - **Pierre AUDIN** : 7e en 17'55''
 - **Frédéric RABIET** : 14e en 20'38''
