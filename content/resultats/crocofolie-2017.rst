@@ -34,6 +34,12 @@ L'ACR y etait bien représentée, principalement sur le 10km.
 
 82 concurrents classés / Epreuve remportée par Adrien ALIX en 1h47'02'' ; 16e et 1ère féminine : Carine DESBOIS (Chenôve triathlon) en 2h10'37''.
 
+**2km Benjamins :**
+
+- *Zoé FANTON* : 3e en 7'52'' (**1ereF !** et **1èreBenjamine !**)
+
+Course remportée par Tom LIVCHOUNE en 7'23''.
+
 .. image:: http://assets.acr-dijon.org/croco172.jpg
 
 *Fabrice à l'arrivée du 10km*
