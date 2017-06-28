@@ -16,7 +16,7 @@ Ce mardi, ont été organisées, les 2e Foulées du Lac Kir intraclub, sur les t
 - 2 **Pascal FLEURY** : 46'00'' ( 22'12'' au km 5)
 - 3 **Edalberto CUCO** : 46'53''(23'07'' au km 5)
 - 4 **Jacky BAUDRY** : 47'27'' (23'54'' au km 5)
-- 5 **Charly FONAINE** : 48'24'' (23'07'' au km 5)
+- 5 **Charly FONTAINE** : 48'24'' (23'07'' au km 5)
 - 6 **Philippe BASSAND** : 48'25'' (23'54'' au km 5)
 - 7 **Guillaume SACQUARD** : 50'10'' (24'00'' au km 5)
 - 8ex *Sandrine FANTON* : 53'34'' (26'24'' au km 5)
