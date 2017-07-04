@@ -9,7 +9,7 @@ Maratrail de la Sambuy
 .. image:: http://assets.acr-dijon.org/faverges17.jpg
 
 
-**Vincent LAUVERGNE** a participé, ce dimanche, au "Maratrail de la Sambuy" à Faverges, en Haute Savoie (48,1km/3000mD+).
+**Vincent LAUVERGNE** a participé, ce dimanche, au "Maratrail de la Sambuy" à Faverges, en Haute Savoie (50km/3000mD+).
 
 Il s'est classé 134e en 8h16'43''.
 

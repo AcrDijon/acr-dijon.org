@@ -12,7 +12,7 @@ Quelques ACRistes étaient présents !
 
 .. image:: http://assets.acr-dijon.org/acct2017.jpg
 
-**10km / 240mD+ :**
+**9,6km / 240mD+ :**
 
 - **Jacky BAUDRY** : 30e en 51'11''
 - **Jean Christophe DUBARD** : 40e en 52'07''
@@ -21,7 +21,7 @@ Quelques ACRistes étaient présents !
 
 116 concurrents classés / Course remportée par Thomas REMOND en 35'36'' ; 12e et 1ère féminine : Caroline TACHE (AJ Auxerre Section Marathon) en 45'26''.
 
-**26km / 700mD+ :**
+**26,5km / 700mD+ :**
 
 - **Sylvain SANCHEZ** : 30e en 3h08'59''
 - *Julia KOLMAKOVA* : 31e en 3h13'25''
