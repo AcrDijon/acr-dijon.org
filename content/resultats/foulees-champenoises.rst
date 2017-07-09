@@ -6,7 +6,7 @@ Foulées champenoises
 :location: Champagne Sur Vingeanne
 :eventdate: 2017-07-08
 
-La première édittion des Foulées champenoises s'est déroulée ce samedi, sur des parcours (10,4 ou 15,5km) tout en vallonnements à travers champs et bois, ce samedi en fin d'après-midi, par une chaleur moite et lourde suite à l'orage précédent la course.
+La première édittion des Foulées champenoises s'est déroulée ce samedi en fin d'après midi, sur des parcours (10,4 ou 15,5km) tout en vallonnements à travers champs et bois, par une chaleur moite et lourde suite à l'orage précédent la course.
 
 Trois ACRistes étaient présents parmi les 156 inscrits sur les courses adultes (109 pour le 10,4km et 47 pour le 15,5km).
 
