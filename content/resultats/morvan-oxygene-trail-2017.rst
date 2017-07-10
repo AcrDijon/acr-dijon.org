@@ -10,7 +10,7 @@ Morvan Oxygène Trail 2017
 
 Samedi, **Vincent LAUVERGNE** s'est élancé à l'assaut des 80km du Morvan Oxygène Trail (3000mD+), à Château Chinon, dans la Nièvre.
 
-Il a bouclé son périple en un peu plus de 16h30, arrivé à la 56e place, hors délais ; seuls les 48 premiers arrivants étant dans les délais, sur les 70 partants !
+Il a bouclé son périple en 15h47'48'', arrivé à la 56e place, dernier classé, mais arrivé au bout, parmi le 68 partants !
 
 Epreuve remportée par Aymeric CHOVET (AO Nivernaise) en 8h05'49'' ; 18e et 1ère féminine : Raphaëlle DUCOURTIOUX en 12h24'30''.
 
