@@ -5,4 +5,4 @@ Calendrier Courses
 
 Calendrier  2017 des courses hors-stade en Côte d'Or
 
-http://ffaliguebou.pagesperso-orange.fr/archives/2017/17_cal21.pdf
+http://ffaliguebou.pagesperso-orange.fr/archives/2017/17_calendrier 2017.pdf
