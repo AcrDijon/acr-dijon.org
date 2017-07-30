@@ -1,7 +1,7 @@
 Info pratique
 =============
 
-:date: 09/12/2015
+:date: 12/09/2015
 :summary: Informations pratiques
 
 Adresse postale
@@ -47,8 +47,10 @@ trois formules vous sont proposées :
 
 
 
+
 # **Licence Loisirs** vous permet de participer à toutes épreuves
   -hors championnats- sans présenter de certificat médical (59 euros).
+
 
 
 
