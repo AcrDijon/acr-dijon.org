@@ -1,7 +1,7 @@
 Info pratique
 =============
 
-:date: 12/09/2015
+:date: 09/12/2015
 :summary: Informations pratiques
 
 Adresse postale
@@ -26,10 +26,9 @@ un e-mail à: `contact@acr-dijon.org <mailto:contact@acr-dijon.org>`_
 - **Président** Didier BELLEVILLE - 06 08 98 77 17
 - **Vice-Président** Manuel LOPEZ-VARQUIEL - 06 71 68 57 31
 - **Trésorier** Pierre AUDIN - 03 80 74 14 66 / 06 79 80 21 83
-- **Secrétaire** Laurent BERTHE - 03 80 42 13 60 / 06 86 89 33 61
-- **Secrétaire Adjointe** Claire TAINTURIER - 06 77 47 40 74
+- **Secrétaire** Claire TAINTURIER - 06 77 47 40 74
 - **Secrétaire Adjointe** Edith SANCHEZ - 06 32 17 66 21
-- **Chargé de Communication (site internet)** Jean-Christophe DUBARD - 06 21 67 94 79
+- **Site internet** Jean-Christophe DUBARD - 06 21 67 94 79
 - **Relations Partenaires** Eric MARILLIER - 06 26 02 18 85
 
 
@@ -41,14 +40,16 @@ La saison commence le 1er septembre. Pour s'inscrire à l'ACR,
 trois formules vous sont proposées :
 
 # **Licence Performance** vous permet de participer aux championnats et
-  vous donne accès aux classements FFA (89 euros et 20 euros pour les catégories jusqu'à junior).
+  vous donne accès aux classements FFA (99 euros et 20 euros pour les catégories jusqu'à junior).
+
 
 
 
 
 
 # **Licence Loisirs** vous permet de participer à toutes épreuves
-  -hors championnats- sans présenter de certificat médical (49 euros).
+  -hors championnats- sans présenter de certificat médical (59 euros).
+
 
 
 
@@ -63,4 +64,4 @@ la saison 2015-2016.
 Un supplément de 5 euros est demandé aux nouveaux adhérents pour participer aux frais
 du t-shirt du club qui est remis à chaque adhérent.
 
-`Bulletin d'inscription <https://assets.acr-dijon.org/adhesion20162017.pdf>`_.
+`Bulletin d'inscription <https://assets.acr-dijon.org/adhésion 2017 2018.pdf>`_.
