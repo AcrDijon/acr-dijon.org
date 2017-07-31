@@ -6,7 +6,7 @@ Trail Volodalen du Jura 2017
 :location: Base nautique de Bellecin (39)
 :eventdate: 2017-07-29
 
-Cette 8e édition du Trail du Lac de Vouglans s'est disputée sous des conditions de chaleur particulièrement éprouvantes. Pour ma part, j'ai subi une spectaculaire défaillance...
+Cette 8e édition du Trail du Lac de Vouglans s'est disputée sous des conditions de chaleur particulièrement éprouvantes. Pour ma part, j'ai subi une spectaculaire défaillance et terminé dans les abîmes du classement de ma course...
 
 Autre ACRiste présent, **Philippe BASSAND** participait à la Spéciale du Lac, nouvelle épreuve de 25km combinant 5 portions chronométrées et parcours à allure libre.
 
@@ -16,6 +16,8 @@ Autre ACRiste présent, **Philippe BASSAND** participait à la Spéciale du Lac,
 
 Epreuve remportée par Tristan Mercier en 34'21'' ; 23e et 1ère féminine : Lucie BOUQUET en 41'15''
 / 167 concurrents classés.
+
+.. image:: http://assets.acr-dijon.org/vg17.jpg
 
 **Tour de Château Richard (17km/400mD+) :**
 
