@@ -1,4 +1,4 @@
-X Trail de Courchevel
+X-Trail de Courchevel
 =====================
 
 :date: 2017-08-06
