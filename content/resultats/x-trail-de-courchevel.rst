@@ -1,25 +1,15 @@
 X Trail de Courchevel
 =====================
 
-:date: 2017-08-06 19:40
+:date: 2017-08-06
 :category: Résultats
+:location: Courchevel (73)
+:eventdate: 2017-08-06
 
+.. image:: http://assets.acr-dijon.org/xtrail2017.jpg
 
-Voici un exemple de texte.
+Ce dimanche, **Vincent LAUVERGNE** est allé arpenter quelques sommets savoyards, à l'occasion de l'X-Trail de Courchevel (54km / 4400mD+).
 
-**Texte en gras**
+Il s'est classé 196e en 16h39'31'' / 224 concurrents classés / Epreuve remportée par Aurélien DUNAND-PALLAZ en 6h23'56'' ; 25e et 1ère féminine : Manikala RAÏ en 8h42'18''.
 
-*Texte en italique*
-
-Voici une liste:
-
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
