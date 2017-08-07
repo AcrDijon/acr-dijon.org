@@ -10,6 +10,8 @@ X-Trail de Courchevel
 
 Ce dimanche, **Vincent LAUVERGNE** est allé arpenter quelques sommets savoyards, à l'occasion de l'X-Trail de Courchevel (54km / 4400mD+).
 
-Il s'est classé 196e en 16h39'31'' / 224 concurrents classés / Epreuve remportée par Aurélien DUNAND-PALLAZ en 6h23'56'' ; 25e et 1ère féminine : Manikala RAÏ en 8h42'18''.
+Il n'a pas effectué la totalité de la distance, mais s'est rabattu sur un parcours de repli (45km/3400mD+), moyennant une pénalité chronométrique de 7h...
+
+Finalement, il s'est classé 196e en 16h39'31'' / 224 concurrents classés / Epreuve remportée par Aurélien DUNAND-PALLAZ en 6h23'56'' ; 25e et 1ère féminine : Manikala RAÏ en 8h42'18''.
 
 **Bravo à lui !**
