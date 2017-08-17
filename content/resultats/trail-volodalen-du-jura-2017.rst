@@ -8,9 +8,9 @@ Trail Volodalen du Jura 2017
 
 Cette 8e édition du Trail du Lac de Vouglans s'est disputée sous des conditions de chaleur particulièrement éprouvantes. Pour ma part, j'ai subi une spectaculaire défaillance et terminé dans les abîmes du classement de ma course...
 
-Autre ACRiste présent, **Philippe BASSAND** participait à la Spéciale du Lac, nouvelle épreuve de 25km combinant 5 portions chronométrées et parcours à allure libre.
+Autre ACRiste présent, **Philippe BASSAND** participait à la Spéciale du Lac, nouvelle épreuve de 27km combinant 5 portions chronométrées (pour un total de 10km) et parcours à allure libre.
 
-**La Spéciale du Lac (25km/500mD+) :**
+**La Spéciale du Lac (27km/500mD+) :**
 
 - **Philippe BASSAND** : 97e en 53'07'' (sur les parties chronométrées)
 
