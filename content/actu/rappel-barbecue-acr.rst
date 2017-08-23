@@ -1,7 +1,7 @@
 Rappel barbecue ACR
 ===================
 
-:date: 2017-08-14
+:date: 2017-08-23
 :category: Actualités
 :location: Ahuy
 :eventdate: 2017-09-03
