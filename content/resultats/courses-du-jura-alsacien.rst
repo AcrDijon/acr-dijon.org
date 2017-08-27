@@ -3,10 +3,8 @@ Courses du Jura alsacien
 
 :date: 2017-08-14
 :category: Résultats
-:location: Ferrette
+:location: Ferrette (68)
 :eventdate: 2017-08-13
-
-
 
 .. image:: http://assets.acr-dijon.org/ferrette2017.jpg
 
