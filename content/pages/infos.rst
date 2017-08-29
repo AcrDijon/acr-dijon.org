@@ -1,7 +1,7 @@
 Info pratique
 =============
 
-:date: 12/09/2015
+:date: 09/12/2015
 :summary: Informations pratiques
 
 Adresse postale
@@ -28,7 +28,7 @@ un e-mail à: `contact@acr-dijon.org <mailto:contact@acr-dijon.org>`_
 - **Trésorier** Pierre AUDIN - 03 80 74 14 66 / 06 79 80 21 83
 - **Secrétaire** Claire TAINTURIER - 06 77 47 40 74
 - **Secrétaire Adjointe** Edith SANCHEZ - 06 32 17 66 21
-- **Site internet** Jean-Christophe DUBARD - 06 68 91 37 43
+- **Site internet** Jean-Christophe DUBARD - 06 59 25 24 67
 - **Relations Partenaires** Eric MARILLIER - 06 26 02 18 85
 
 
@@ -52,8 +52,10 @@ trois formules vous sont proposées :
 
 
 
+
 # **Licence Loisirs** vous permet de participer à toutes épreuves
   -hors championnats- sans présenter de certificat médical (59 euros).
+
 
 
 
