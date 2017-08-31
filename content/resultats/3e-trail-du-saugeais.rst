@@ -1,25 +1,19 @@
 3e Trail du Saugeais
 ====================
 
-:date: 2017-08-31 10:52
+:date: 2017-08-31
 :category: Résultats
+:location: La Longeville (25)
+:eventdate: 2017-08-27
 
+Ce dimanche, **Frédéric RABIET** a couru dans le Doubs, à l'occasion du Trail du Saugeais.
 
-Voici un exemple de texte.
+.. image:: http://assets.acr-dijon.org/saugeais2017.jpg
 
-**Texte en gras**
+**Trail de la vallée du Drugeon (11km) :**
 
-*Texte en italique*
+- **Frédéric RABIET** : 48e en 1h26'26''
 
-Voici une liste:
+243 concurrents classés / Course remportée par Kévin VIDAL (Sport 2000 Beaume Les Dames) en 56'52'' ; 35e et 1ère féminine : Emma THIBERT (Lons Athlé 39) en 1h22'01''.
 
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
