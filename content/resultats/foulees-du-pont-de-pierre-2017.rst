@@ -8,7 +8,7 @@ Foulées du Pont de Pierre 2017
 
 Le régime d'averses orageuses du jour a globalement épargné les courses, hormis une brève mais intense averse avec quelques grêlons durant le 10km. Un sol gras et lourd sur toute la partie du parcours tracée à travers champs, avec un vent soutenu a servi de support aux compétiteurs.
 
-Parmi les ACRistes présents, quelques uns se sont brillament illustrés.
+Parmi les ACRistes présents, plusieurs se sont brillament illustrés.
 
 .. image:: http://assets.acr-dijon.org/sen171.jpg
 
