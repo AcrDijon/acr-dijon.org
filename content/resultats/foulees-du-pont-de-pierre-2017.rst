@@ -6,7 +6,7 @@ Foulées du Pont de Pierre 2017
 :location: Sennecey Les Dijon
 :eventdate: 2017-09-02
 
-Le régime d'averses orageuses du jour a globalement épargné les courses, hormis une brève mais intense averse avec quelques grêlons durant le 10km. Un sol gras et lourd sur toute la partie du parcours tracée à travers champs, avec un vent soutenu a servi de support aux compétiteurs.
+Le régime d'averses orageuses du jour a globalement épargné les courses, hormis une brève mais intense averse avec quelques grêlons durant le 10km. Un sol gras et lourd sur toute la partie du parcours tracée à travers champs, avec un vent soutenu, a quelque peu durci la tâche des compétiteurs.
 
 Parmi les ACRistes présents, plusieurs se sont brillament illustrés.
 
