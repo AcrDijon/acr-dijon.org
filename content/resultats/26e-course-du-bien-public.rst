@@ -6,7 +6,7 @@
 :location: Dijon
 :eventdate: 2017-09-09
 
-Cette édition 2017 de la Course du Bien Public proposait des parcours largement renouvelés dans leur tracé, ainsi que dans leur développement ; le semi-marathon en plusieurs boucles laissant place à une boucle unique de 21,4km, le 10km labellisé passant à 10,6km ; modifications appréciées, semble-t-il de la plupart des concurrents.
+Cette édition 2017 de la Course du Bien Public proposait des parcours largement renouvelés dans leur tracé, ainsi que dans leur développement ; le semi-marathon en plusieurs boucles laissant place à une boucle unique de 20,4km, le 10km labellisé passant à 10,6km ; modifications appréciées, semble-t-il de la plupart des concurrents.
 
 Autre changement d'importance, les conditions climatiques du jour ; fraîches et humides ; étaient beaucoup plus agréables et propices à la pratique de la course à pied que les températures caniculaires rencontrées lors de la précédente édition.
 
