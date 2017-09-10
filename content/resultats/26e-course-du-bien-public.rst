@@ -23,7 +23,7 @@ Par contre, au niveau de l'ACR, on peut regretter le faible nombre de participan
 
 .. image:: http://assets.acr-dijon.org/bp171.jpg
 
-*Avant le départ du 20,4km*
+*Fabrice et JC avant le départ du 20,4km*
 
 **10,6km :**
 
@@ -43,14 +43,20 @@ Par contre, au niveau de l'ACR, on peut regretter le faible nombre de participan
 
 **4,7km féminin :**
 
-- *Sandrine FANTON* : 9e en 22'00''
-- *Emma FANTON* : 15e en 22'57''
+- *Sandrine FANTON* : 9e en 22'00'' (3eM)
+- *Emma FANTON* : 15e en 22'57'' (3eCA)
 - *Charline GEORGEON* : 115e en 29'39''
 
 190 concurrentes classées / Epreuve remportée par Aurélie BIONDI en 19'24''.
 
 .. image:: http://assets.acr-dijon.org/bp173.jpg
 
-*Emma à l'arrivée*
+*Emma à l'arrivée, 3e cadette*
+
+**3km Benjamins/Minimes :**
+
+- *Zoé FANTON* : 41e en 16'58''
+
+65 concurrents classés / Epreuve remportée par Constant PERRIN en 12'08'' ; 5e et 1ère féminine : Charlotte TREUCHOT en 13'08''.
 
 **Bravo à celles et ceux qui ont participé et merci aux quelques supporters présents pour les encourager !**
