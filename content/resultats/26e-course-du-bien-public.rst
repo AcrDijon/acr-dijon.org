@@ -43,7 +43,7 @@ Par contre, au niveau de l'ACR, on peut regretter le faible nombre de participan
 
 **4,7km féminin :**
 
-- *Sandrine FANTON* : 9e en 22'00'' (3eM)
+- *Sandrine FANTON* : 9e en 22'00'' (3eM) et 2eM1
 - *Emma FANTON* : 15e en 22'57'' (3eCA)
 - *Charline GEORGEON* : 115e en 29'39''
 
