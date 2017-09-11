@@ -15,7 +15,7 @@ Par contre, au niveau de l'ACR, on peut regretter le faible nombre de participan
 **20,4km :**
 
 - **Fabrice HEURET** : 27e en 1h21'51''
-- **David CROTET** : 34e en 1h22'59''
+- **David CROTET** : 34e en 1h22'59''(3eM2)
 - **Jacky BAUDRY** : 246e en 1h39'52''
 - **Jean Christophe DUBARD** : 354e en 1h47'54''
 
