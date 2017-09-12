@@ -8,7 +8,7 @@ Foulées de Vaudes
 
 .. image:: http://assets.acr-dijon.org/vaudes2017.jpg
 
-Au lendemain de son excursion chaumontaise, **Alain BRIOT** a participé aux Foulées Vaudoises, dans l'Aube (10km).
+Au lendemain de son excursion chaumontaise, **Alain BRIOT** a participé aux Foulées de Vaudes, dans l'Aube (10km).
 
 Il s'y est classé 101e en 50'14'' et **1erM4 !**
 
