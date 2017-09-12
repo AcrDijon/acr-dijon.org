@@ -1,25 +1,18 @@
 Foulées de Vaudes
 =================
 
-:date: 2017-09-12 16:39
+:date: 2017-09-12
 :category: Résultats
+:location: Vaudes (10)
+:eventdate: 2017-09-10
 
 
-Voici un exemple de texte.
+.. image:: http://assets.acr-dijon.org/vaudes2017.jpg
 
-**Texte en gras**
+Au lendemain de son excursion chaumontaise, **Alain BRIOT** a participé aux Foulées Vaudoises, dans l'Aube (10km).
 
-*Texte en italique*
+Il s'y est classé 101e en 50'14'' et **1erM4 !**
 
-Voici une liste:
+163 concurrents classés / Course remportée par Rachid BOUTASGHOUT (Romilly Sport Athlétisme) en 32'30'' ; 27e et 1ère féminine : Stéphanie AYERED-COZIER (SDA Aix En Othe) en 39'16''.
 
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
