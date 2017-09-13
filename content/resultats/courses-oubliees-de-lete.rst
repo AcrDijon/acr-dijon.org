@@ -24,7 +24,7 @@ Pas de temps chronométriques relevés.
 
 ****
 
-**Course des Mollets / ILSPRICH / 10km / 20/08 :**
+**Course des Mollets / ILSPRICH (10km) 20/08 :**
 
 Le 20 août, direction la Moselle pour la Course des Mollets (10km). **Alain** s'y est classé 112e/173 en 53'06'' (2eM4) / Victoire de Yann SCHRUB (ASSA) en 34'25'' ; 49e et 1ère féminine : Céline BAUER (Benco Team) en 46'09''.
 
