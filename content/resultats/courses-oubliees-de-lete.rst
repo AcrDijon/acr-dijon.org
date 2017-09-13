@@ -6,7 +6,7 @@ Courses oubliées de l'été...
 :location: Golbey (88), Ilsprich (57)
 :eventdate: 2017-07-14
 
-... A l'automne retrouvées !
+**... A l'automne retrouvées !**
 
 Deux courses estivales disputées par **Alain BRIOT** avaient échappé à ma vigilence. En voici les résultats.
 
