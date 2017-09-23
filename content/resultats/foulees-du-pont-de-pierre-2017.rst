@@ -18,7 +18,6 @@ Parmi les ACRistes présents, plusieurs se sont brillament illustrés.
 
 - **Mohamed SAALAH WARSAME** : 3e en 17'46'' et 1erJUM
 - **Tarek ZIADE** : 4e en 17'48'' et 1erM1M
-- **Jean Philippe BEUCHE** : 24e en 24'01''
 - *Emma FANTON* : 33e en 25'54'' et 2eCAF
 
 64 concurrents classés / Course remportée par Olivier SOULIER (AC Chenôve) en 16'55'' ; 14e et 1ère féminine : Solène LACROIX SAMPER (Dijon Triathlon) en 21'26''.
