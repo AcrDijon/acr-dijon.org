@@ -12,12 +12,14 @@ Quelques ACRistes étaient présents au départ du 5km de la 21e édition des Fo
 
 *Pierre en plein effort*
 
-- **Pierre AUDIN** : 7e en 17'55''
-- **Frédéric RABIET** : 14e en 20'38''
-- **Christophe MIMEUR** : 17e en 22'05''
+- **Pierre AUDIN** : 7e en 17'55'' (1erM1)
+- **Frédéric RABIET** : 14e en 20'38'' (2eM1)
+- **Christophe MIMEUR** : 17e en 22'05'' (2eM2)
 - **Jean Christophe DUBARD** : 19e en 22'12''
 - **Philippe BASSAND** : 21e en 22'24''
 - **Mohamed SAALAH WARSAME** : AB
+
+Les podiums de catégorie sont mentionnés à titre indicatif, ces classements n'étant pas récompensés sur cette compétion.
 
 43 concurrents classés / Course remportée par Thomas REMOND en 15'57'' ; 20e et 1ère féminine : Christine PETITE en 22'21''.
 
