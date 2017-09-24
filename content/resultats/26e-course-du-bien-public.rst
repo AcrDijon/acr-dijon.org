@@ -19,6 +19,8 @@ Par contre, au niveau de l'ACR, on peut regretter le faible nombre de participan
 - **Jacky BAUDRY** : 246e en 1h39'52''
 - **Jean Christophe DUBARD** : 354e en 1h47'54''
 
+Christophe MIMEUR, licencié à l'AC CHENÔVE, mais par ailleurs adhérent à l'ACR, s'est classé 219e en 1h38'42''.
+
 577 concurrents classés / Epreuve remportée par Qaasiim SHUMBII en 1h09'49'' ; 24e et 1ère féminine : Nathalie TAVERNIER en 1h20'52''.
 
 .. image:: http://assets.acr-dijon.org/bp171.jpg
