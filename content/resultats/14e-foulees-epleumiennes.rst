@@ -8,7 +8,7 @@
 
 C'est sous un franc soleil et des températures agréables que se sont déroulées les courses de la 14e édition des Foulées Epleumiennes, organisées par l'ASPTT-DIJON, à Saint Apolinnaire.
 
-L'ACR y était bien représentée, principalement sur la petite distance, et ses compétiteurs s'y ont brillamment illustrés.
+L'ACR y était bien représentée, principalement sur la petite distance, et ses compétiteurs s'y sont brillamment illustrés.
 
 .. image:: http://assets.acr-dijon.org/fe171.jpg
 
