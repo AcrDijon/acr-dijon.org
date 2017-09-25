@@ -1,7 +1,7 @@
 Trail des Montées d'Abbans
 ==========================
 
-:date: 2017-09-24
+:date: 2017-09-23
 :category: Résultats
 :location: Abbans Dessus (25)
 :eventdate: 2017-09-17

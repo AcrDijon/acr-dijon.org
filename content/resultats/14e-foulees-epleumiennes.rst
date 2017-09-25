@@ -1,7 +1,7 @@
 14e Foulées Epleumiennes
 ========================
 
-:date: 2017-09-25
+:date: 2017-09-24
 :category: Résultats
 :location: Saint Apolinnaire
 :eventdate: 2017-09-23
