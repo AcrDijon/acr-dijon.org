@@ -21,10 +21,12 @@ L'ACR y était bien représentée, l'essentiel de ses concurrents s'alignant, ce
 - **Pascal FLEURY** : 52e en 42'00'' (2eM3)
 - **Jean Christophe DUBARD** : 126e en 46'46''
 - **Alain BRIOT** : 151e en 48'06'' (3eM4)
+- **Hervé TRAVERT** : 154e en 48'16''
 - **Jean Claude MAGUER** : 178e en 49'19''
 - *Sandrine FANTON* : 179e en 49'20''
 - **Daniel CHAMBIN** : 186e en 50'28''
 - *Emilie DERAIL* : 220e en 52'53''
+- **François MOUREY** : 258e en 55'26''
 
 332 concurrents classés / Course remportée par Thomas REMOND (TDR) en 32'20'' / 32e et 1ère féminine : Carine DESBOIS (Chenôve Triathlon Club) en 40'11''.
 
