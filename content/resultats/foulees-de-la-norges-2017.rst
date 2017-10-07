@@ -37,7 +37,7 @@ L'ACR y était bien représentée, l'essentiel de ses concurrents s'alignant, ce
 
 Les classements par catégorie sont donnés à titre indicatif, seuls les classements scratch masculin et féminin étant pris en compte sur cette distance.
 
-69 concurrents classés / Course remportée par Romain COLLABELLA (Chenôve Triathlon Club) en 16'44'' / 14e et 1ère féminine : Julie DA ROCHA (Dijon Triathlon) en 22'21''.
+68 concurrents classés / Course remportée par Romain COLLABELLA (Chenôve Triathlon Club) en 16'44'' / 14e et 1ère féminine : Julie DA ROCHA (Dijon Triathlon) en 22'21''.
 
 .. image:: http://assets.acr-dijon.org/bret172.jpg
 
