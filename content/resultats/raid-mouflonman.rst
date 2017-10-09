@@ -6,7 +6,7 @@ Raid Mouflonman
 :location: DIJON / Lac Kir
 :eventdate: 2017-10-08
 
-.. image:: http://assets.acr-dijon.org/mouflonman2017.jpg
+.. image:: http://assets.acr-dijon.org/mouflon17.jpg
 
 **Florence CUCIS** était engagée en équipe avec Mathieu FREYSZ (Crocos), pour ce raid, au départ du Lac de Panthier, associant natation ou canoë, vélo de route, VTT et s'achavant à la base nautique du Lac Kir à l'issue d'un trail de 13km.
 
