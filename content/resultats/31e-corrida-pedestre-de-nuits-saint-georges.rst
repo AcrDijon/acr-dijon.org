@@ -6,7 +6,7 @@
 :location: Nuits Saint Georges
 :eventdate: 2017-07-13
 
-Cinq ACRistes ont participé, en cette soirée du 13 juillet, à la plus ancienne course sur route du département.
+Cinq ACRistes ont participé, en cette soirée du 13 juillet, à une des plus anciennes courses sur route du département.
 
 .. image:: http://assets.acr-dijon.org/crnsg17.JPG
 
@@ -21,4 +21,3 @@ Cinq ACRistes ont participé, en cette soirée du 13 juillet, à la plus ancienn
 156 concurrents classés / Epreuve remportée par Alexandre BOURGEOIS (DUC) en 31'36'' ; 29e et 1ère féminine : Camille VERNIZEAU (Rougeot Beaune Triathlon) en 39'57''.
 
 **Bravo à eux !**
-
