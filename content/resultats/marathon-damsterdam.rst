@@ -6,8 +6,6 @@ Marathon d'Amsterdam
 :location: Amsterdam
 :eventdate: 2017-10-15
 
-
-
 .. image:: http://assets.acr-dijon.org/amsterdam.jpg
 
 Deux ACRistes sont allés, ce dimanche, arpenter les rues d'Amsterdam, chaussures de running aux pieds.
@@ -17,4 +15,8 @@ Deux ACRistes sont allés, ce dimanche, arpenter les rues d'Amsterdam, chaussure
 
 11390 concurrents classés / Epreuve remportée par Lawrence CHERONO en 2h05'09'' / 31e et 1ère féminine : Gladys CHESIR en 2h24'51''.
 
-**Bravo à eux !**
+.. image:: http://assets.acr-dijon.org/ams17.jpg
+
+*Julia et Philippe ont la banane après l'arrivée !*
+
+**Un grand bravo à eux !**
