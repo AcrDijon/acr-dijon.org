@@ -8,7 +8,7 @@ Les Couloirs du Temps III
 
 .. image:: http://assets.acr-dijon.org/cdt3.jpg
 
-Trois ACRistes ont effectué le déplacement dans le Val de Saône pour la troisième édition du trail urbain nocturne organisé par le Triathlon Club Auxonnais.
+Quatre ACRistes ont effectué le déplacement dans le Val de Saône pour la troisième édition du trail urbain nocturne organisé par le Triathlon Club Auxonnais.
 
 **Petit Couloir (6,3km) :**
 
@@ -19,6 +19,7 @@ Trois ACRistes ont effectué le déplacement dans le Val de Saône pour la trois
 
 **Grand Couloir (12,6km) :**
 
+- **Bruno HUOT** : 113e en 1h13'30''
 - **frédéric RABIET** : AB
 
 126 concurrents classés / Course remportée par Simon JOONEKIN en 50'08'' / 16e et 1ère féminine : Adrienne LANGLOIS (TDR) en 57'49''.
