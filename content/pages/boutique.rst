@@ -20,4 +20,4 @@ Casquette : 3€
 
 T shirt ACR (sans partenaires, sigle ACR Dijon / dos) : 5€
 
-.. image:: https://assets.acr-dijon.org/acrtso.jpg
+.. image:: https://assets.acr-dijon.org/acrtssp.jpg
