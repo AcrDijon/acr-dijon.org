@@ -29,6 +29,7 @@ Christophe MIMEUR, licencié à l'AC CHENÔVE, mais par ailleurs adhérent à l'
 
 **10,6km :**
 
+- **Anthony GUILLEMIN** : 187e en 47'32''
 - **Charly FONTAINE** : 292e en 50'17''
 - **Sylvain DELCEY** : 365e en 52'05''
 - **Jean Claude MAGUER** : 451e en 53'21'' (3eM4)
