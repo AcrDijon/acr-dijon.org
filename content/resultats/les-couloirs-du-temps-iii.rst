@@ -25,6 +25,6 @@ Six ACRistes ont effectué le déplacement dans le Val de Saône pour la troisi�
 
 **Manuel BARREIRA** a réalisé un chrono de près d'1h04', qui lui aurait valu un classement entre la 45e et 55e place, mais sa puce de chronométrage n'a pas fonctionné à l'arrivée et il n'a pas été classé.
 
-126 concurrents classés / Course remportée par Simon JOONEKIN en 50'08'' / 16e et 1ère féminine : Adrienne LANGLOIS (TDR) en 57'49''.
+221 concurrents classés / Course remportée par Simon JOONEKIN en 50'08'' / 16e et 1ère féminine : Adrienne LANGLOIS (TDR) en 57'49''.
 
 **Bravo à eux !**
