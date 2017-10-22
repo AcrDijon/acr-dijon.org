@@ -12,6 +12,6 @@ Le 8 octobre dernier, **Anthony GUILLEMIN** a participé à la course carritativ
 
 Il s'est classé 5e en 27'25''.
 
-48 concurrents classés / Victoire de jérémy FEBVRE en 23'29'' / 14e et 1ère féminine : Laura DENIZOT en 33'35''.
+48 concurrents classés / Victoire de Jérémy FEBVRE en 23'29'' / 14e et 1ère féminine : Laura DENIZOT en 33'35''.
 
 **Bravo à lui !**
