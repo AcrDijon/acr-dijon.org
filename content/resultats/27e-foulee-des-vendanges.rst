@@ -13,19 +13,19 @@ Un bon groupe d'ACRistes s'est rendu à Savigny Lès Beaune, pour l'édition ann
 **10,15km :**
 
 - **Fabrice HEURET** : 43e en 39'15"
-- **Manuel BARREIRA** : 213e en 45'05"
-- **Edalberto CUCO** : 215e en 45'06"
-- **Sylvain DELCEY** : 285e en 46'51"
-- **Jean Christophe DUBARD** : 293e en 46'58"
-- *Sandrine FANTON* : 408e en 49'13"
-- **Alain BRIOT** : 421e en 49'22" (3eM4)
-- *Emma FANTON* : 528e en 51'49" (3eCA)
-- **François MOUREY** : 760e en 56'43"
-- *Stéphanie TERRAND* : 863e en 59'20"
-- *Charline GEORGEON* : 955e en 1h03'34"
-- **Jean Louis RABIET** : 1001e en 1h06'19"
+- **Manuel BARREIRA** : 211e en 45'05"
+- **Edalberto CUCO** : 213e en 45'06"
+- **Sylvain DELCEY** : 283e en 46'51"
+- **Jean Christophe DUBARD** : 291e en 46'58"
+- *Sandrine FANTON* : 406e en 49'13"
+- **Alain BRIOT** : 419e en 49'22" (3eM4)
+- *Emma FANTON* : 526e en 51'49" (3eCA)
+- **François MOUREY** : 757e en 56'43"
+- *Stéphanie TERRAND* : 862e en 59'20"
+- *Charline GEORGEON* : 952e en 1h03'34"
+- **Jean Louis RABIET** : 998e en 1h06'19"
 
-1063 concurrents classés / Epreuve remportée par Maxence BRUYAS (ACUS) en 33'15" / 50e et 1ère féminine : Anne Sophie RAFFA en 39'47".
+1060 concurrents classés / Epreuve remportée par Maxence BRUYAS (ACUS) en 33'15" / 50e et 1ère féminine : Anne Sophie RAFFA en 39'47".
 
 **2km Benjamins/Minimes :**
 
