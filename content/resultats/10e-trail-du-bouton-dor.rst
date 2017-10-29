@@ -10,12 +10,12 @@ La pluie annoncée a épargné les courses de cette dixième édition du Trail d
 
 **10km :**
 
-- *Pauline GUENEAU* : 117e en 54'08''
-- **Alain BRIOT** : 148e en 56'04'' (2eM4)
-- **Jean Claude MAGUER** : 172e en 57'51'' (3eM4)
-- **Daniel CHAMBIN** : 201e en 1h00'37''
+- *Pauline GUENEAU* : 118e en 54'08''
+- **Alain BRIOT** : 149e en 56'04'' (2eM4)
+- **Jean Claude MAGUER** : 173e en 57'51'' (3eM4)
+- **Daniel CHAMBIN** : 202e en 1h00'37''
 
-359 concurrents classés / Course remportée par Thomas REMOND (TDR) en 38'26'' / 15e et 1ère féminine : Justine ROBINET (ASPTT Dijon) en 43'26''.
+361 concurrents classés / Course remportée par Thomas REMOND (TDR) en 38'26'' / 15e et 1ère féminine : Justine ROBINET (ASPTT Dijon) en 43'26''.
 
 .. image:: http://assets.acr-dijon.org/bo171.jpg
 
@@ -28,7 +28,7 @@ La pluie annoncée a épargné les courses de cette dixième édition du Trail d
 - *Julia KOLMAKOVA* : 163e en 2h39'29''
 - **Fabien MATHIEU** : 181e en 2h50'27''
 
-184 concurrents classés / Course remportée par Mickaël PERRET (DUC) en 1h36'25'' / 25e et 1ère féminine : Fettouma BRELAUD (AC Chenôve) en 1h58'11''.
+189 concurrents classés / Course remportée par Mickaël PERRET (DUC) en 1h36'25'' / 25e et 1ère féminine : Fettouma BRELAUD (AC Chenôve) en 1h58'11''.
 
 .. image:: http://assets.acr-dijon.org/bo172.jpg
 
@@ -36,6 +36,8 @@ La pluie annoncée a épargné les courses de cette dixième édition du Trail d
 
 **3km Benjamins/Minimes :**
 
-résultats à venir
+- **Benjamin ALIXANT** : 16e en 13'46''
+
+23 concurrents classés / Course remportée par Nathan CARLOT (TDR) en 10'14'' / 8e et 1ère féminine : Axelle AMMETER (Dijon Triathlon) en 12'12''.
 
 **félicitations à toutes et à tous !**
