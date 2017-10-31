@@ -15,7 +15,7 @@ La pluie annoncée a épargné les courses de cette dixième édition du Trail d
 - **Jean Claude MAGUER** : 173e en 57'51'' (3eM4)
 - **Daniel CHAMBIN** : 202e en 1h00'37''
 
-361 concurrents classés / Course remportée par Thomas REMOND (TDR) en 38'26'' / 15e et 1ère féminine : Justine ROBINET (ASPTT Dijon) en 43'26''.
+361 concurrents classés / Course remportée par Thomas REMOND (TDR) en 38'26'' / 73e et 1ère féminine : Emilie BREAUDAT en 50'06''.
 
 .. image:: http://assets.acr-dijon.org/bo171.jpg
 
