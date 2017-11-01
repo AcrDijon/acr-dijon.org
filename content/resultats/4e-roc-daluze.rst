@@ -13,7 +13,7 @@ Pour la 4e fois, en ce soir d'Halloween, une foule lumineuse et bigarée, peupl�
 
 Cette année, deux courses de 11 ou 17km étaient au programme des festivités.
 
-**17km/420mD+ :**
+**17km/448mD+ :**
 
 - **Jean Christophe DUBARD** : 162e en 1h57'57''
 
