@@ -9,7 +9,7 @@
 .. image:: http://assets.acr-dijon.org/aluze2017.jpg
 
 
-Pour la 4e fois, en ce soir d'Halloween, une foule lumineuse et bigarée, peuplée de fantômes, spectres, zombies, squelettes et coureurs, parmis lesquels on a retrouvé un ACRiste, s'est ébrouée, la nuit tombée, à travers chemins et sentiers ondoyant à travers bois et vignobles de la contrée d'Aluze.
+Pour la 4e fois, en ce soir d'Halloween, une foule lumineuse et bigarée, peuplée de fantômes, spectres, zombies, squelettes et coureurs, parmis lesquels on a retrouvé un ACRiste, s'est ébrouée, la nuit tombée, à travers chemins et sentiers ondoyant à travers bois et vignobles de la contrée d'Aluze et de ses environs.
 
 Cette année, deux courses de 11 ou 17km étaient au programme des festivités.
 
