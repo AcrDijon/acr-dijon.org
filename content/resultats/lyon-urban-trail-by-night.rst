@@ -1,25 +1,20 @@
 Lyon Urban Trail By Night
 =========================
 
-:date: 2017-11-05 16:48
+:date: 2017-11-05
 :category: Résultats
+:location: Lyon (69)
+:eventdate: 2017-11-04
 
 
-Voici un exemple de texte.
+.. image:: http://assets.acr-dijon.org/lutbn2017.jpg
 
-**Texte en gras**
+Après la version diurne au printemps, place à la nocturne (12km / 550mD+) cet automne, pour **Philippe BASSAND**.
 
-*Texte en italique*
+Il s'est classé 590e en 1h15'21''.
 
-Voici une liste:
+3476 concurrents classés / Course remportée par Lucas BASSET (ASUL Sport Nature) en 49'45'' / 51e et 1ère féminine : Isia BASSET (ASUL Sport Nature) en 58'21''.
 
-- un
-- deux
-- trois
+**Bravo à lui !**
 
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
 
