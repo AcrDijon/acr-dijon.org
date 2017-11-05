@@ -1,25 +1,20 @@
-Trail Nocturne de Saint Bris Le Vineux (89)
-===========================================
+Trail Nocturne de Saint Bris Le Vineux
+======================================
 
-:date: 2017-11-05 16:40
+:date: 2017-11-05
 :category: Résultats
+:location: Saint Bris Le Vineux (89)
+:eventdate: 2017-11-04
 
 
-Voici un exemple de texte.
 
-**Texte en gras**
+.. image:: http://assets.acr-dijon.org/sblv17.jpg
 
-*Texte en italique*
+Nouveau trail dans l'Yonne pour **Fabien MATHIEU**, 15km en nocturne cette fois.
 
-Voici une liste:
+Il s'est classé 149e en 1h38'04''.
 
-- un
-- deux
-- trois
+221 concurrents classés / Course remportée par Emile TINGUELY (SP Reims) en 1h02'32'' / 26e et 1ère féminine : Lelia LE COQUET (AJ Auxerre Marathon) en 1h12'02''.
 
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
+**Bravo à lui !**
 

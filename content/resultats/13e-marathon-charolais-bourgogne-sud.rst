@@ -14,3 +14,5 @@ Deux ACRistes se sont élancés de Gueugnon, pour l'édition 2017 de ce marathon
 - **Alain BRIOT** : 97e en 4h06'10'' (**1erM4 !**)
 
 196 concurrents classés / Course remportée par Philippe ROBIN (SLO Ste Marguerite Marseille) en 2h35'29'' / 26e et 1ère féminine : Karine ZEIMER (AO Nivernaise) en 3h20'33''.
+
+**Bravo à eux !**
