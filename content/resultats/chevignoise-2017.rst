@@ -12,12 +12,13 @@ Fraîcheur et vent glacial étaient au rendez-vous de cette treizième édition 
 
 **4,5km :**
 
-- **Mohamed SAALAH WARSAME** : **1er** en 16'06'' (**record sur la distance !**) (**1erJU**)
 - **Jean Christophe DUBARD** : 28e en 20'16''
 - *Emma FANTON* : 33e en 21'04'' (2eCA)
 - **Alain BRIOT** : 53e en 23'51'' (**1erM4**)
 
-127 concurrents classés / 24e et 1ère féminine : Maëlle DONNEZ (AC Chenôve) en 19'35''.
+127 concurrents classés / Course remportée par Mohamed SAALAH WARSAME (DUC) en 16'06'' / 24e et 1ère féminine : Maëlle DONNEZ (AC Chenôve) en 19'35''.
+
+Mohamed est adhérent à l'ACR, mais est désormais licencié au DUC, club pour lequel il concourt en compétition.
 
 .. image:: http://assets.acr-dijon.org/chev172.jpg
 
@@ -47,7 +48,6 @@ Fraîcheur et vent glacial étaient au rendez-vous de cette treizième édition 
 - *Charline GEORGEON* : 643e en 1h06'09''
 
 654 concurrents classés / Course remportée par Romain PRUDHON (AC Chenôve) en 32'11'' / 30e et 1ère féminine : Adrienne LANGLOIS (Triathlon Rouen) en 37'49''
-
 
 .. image:: http://assets.acr-dijon.org/chev173.jpg
 
