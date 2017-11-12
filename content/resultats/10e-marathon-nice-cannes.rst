@@ -16,4 +16,8 @@ Trois ACRistes ont participé, ce dimanche, au marathon Nice-Cannes.
 
 6250 concurrents classés / Course remportée par Dejene KELKILEW en 2h12'09'' / 10e et 1ère féminine : Tetiju SIYUM en 2h33'21''.
 
+.. image:: http://assets.acr-dijon.org/nicecannes2017.jpg
+
+*Joël en plein effort*
+
 **Bravo à eux !**
