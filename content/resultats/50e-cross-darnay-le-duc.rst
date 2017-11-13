@@ -10,7 +10,7 @@ Une pluie soutenue et quasi ininterrompue à accompagné les concurrents de cett
 
 .. image:: http://assets.acr-dijon.org/arnay17.jpg
 
-*Prêts à en découdre...  pour la 49e fois pour l'un, pour la 2e fois pour l'autre...*
+*Prêts à en découdre...  pour la 49e fois ou pour la 2e...*
 
 **Cross Juniors/Masters Hommes (5,45km) :**
 
