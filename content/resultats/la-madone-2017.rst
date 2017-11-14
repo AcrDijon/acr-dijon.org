@@ -15,9 +15,9 @@ Comme une habitude bien établie, la pluie s'est invitée ce dimanche matin pour
 
 182 concurrents classés / Course remportée par Grégoire CHEVALIER en 31'26'' / 14e et 1ère féminine : Adélaïde GIRARDOT en 35'46''.
 
-.. image:: http://assets.acr-dijon.org/mad171.jpg
+.. image:: http://assets.acr-dijon.org/mad17.jpg
 
-*Emilie à l'arrivée du 8km*
+*Jean Claude (dossard 650) sur le 8km*
 
 **14km / 350mD+ :**
 
