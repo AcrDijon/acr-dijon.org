@@ -23,6 +23,6 @@ Doue la gadoue, la gadoue, la gadoue... Fraicheur et humidité étaient au rende
 
 203 concurrents classés / Course remportée par Hugo LAISSUS (Dijon Triathlon) en 28'25'' / 29e et 1ère féminine : Adèle FOUCHERES (ASPTT DIJON) en 36'26''.
 
-**Benjamin ALIXANT** a participé à la course jeunes de 1,2km (pas de classement communiqué pour l'heure).
+**Benjamin ALIXANT** a participé à la course jeunes de 1,2km et s'est classé 3e minime (pas de chronométrage ni classement publié).
 
 **Bravo à tous !**
