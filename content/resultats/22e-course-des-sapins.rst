@@ -14,11 +14,11 @@ Pour sa 22e édition, la maintenant traditionnelle Course des Sapins de Saulieu,
 
 **Course 6 (10km) :**
 
-- *Emma FANTON* : 167e en 52'10'' et 2e Cadette
-- *Charline GEORGON* : 255e en 1h03'57''
-- **Sylvain DELCEY** : 256e en 1h03'58''
+- *Emma FANTON* : 170e en 52'10'' et 2e Cadette
+- *Charline GEORGON* : 258e en 1h03'57''
+- **Sylvain DELCEY** : 259e en 1h03'58''
 
-279 concurrents classés / Course remportée par Romain LELIEVRE (AC Chenôve) en 33'33'' / 40e et 1ère féminine : Noémie VOUILLON en 41'11''.
+282 concurrents classés / Course remportée par Romain LELIEVRE (AC Chenôve) en 33'33'' / 40e et 1ère féminine : Noémie VOUILLON en 41'11''.
 
 .. image:: http://assets.acr-dijon.org/saulieu172.jpg
 
