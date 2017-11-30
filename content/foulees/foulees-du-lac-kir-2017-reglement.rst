@@ -19,6 +19,8 @@ Les départs et arrivées auront lieu au Lac Kir Esplanade pointe Ouest (parking
 
     - POUSSINS : 1250 m départ à 16 h 30 nés en 2007, 2008
 
+
+
 - BENJAMINS : 2200 m départ à 16 h50 nés en 2005,2006
 
 
@@ -56,6 +58,8 @@ Les bulletins sont à retourner pour une réception au plus tard le Mercredi 11 
     Début des inscriptions : à partir de 12 h 30
 
 
+
+
 En plus du bulletin rempli correctement et de leur règlement de 14 € pour le 10 km et de 8 € pour le 5 km, les coureurs devront présenter obligatoirement :
 
 • Pour les coureurs licenciés : leur licence valable pour la saison en cours.
@@ -67,11 +71,11 @@ En plus du bulletin rempli correctement et de leur règlement de 14 € pour le 
 3- Les inscriptions pourront s’effectuer également en ligne par le lien suivant : www.le-sportif.com jusqu’au mercredi 11 avril 2018 à 23 h 59.
 Pour tout dossier incomplet, les coureurs devront fournir la ou les pièces manquantes lors du retrait des dossards.
 
-Action caritative : Dans le cadre de son partenariat avec RETINOSTOP, l’ACR fait appel à votre générosité dans la lutte contre le rétinoblastome, cancer de la rétine touchant les jeunes enfants.
+**Action caritative : Dans le cadre de son partenariat avec RETINOSTOP, l’ACR fait appel à votre générosité dans la lutte contre le rétinoblastome, cancer de la rétine touchant les jeunes enfants.
 A cet effet, vous pourrez faire un don lors de votre inscription sur internet, par courrier ou sur place le jour de la course au stand RETINOSTOP.
 L’intégralité des dons sera reversée à cette association
 Tout don égal ou supérieur à 10€ donnera droit à un justificatif de paiement pour déduction fiscale.
-Pour tout renseignement sur cette association : https://www.retinostop.org/
+Pour tout renseignement sur cette association :** https://www.retinostop.org/
 
 4- Le retrait des dossards aura lieu :
 
