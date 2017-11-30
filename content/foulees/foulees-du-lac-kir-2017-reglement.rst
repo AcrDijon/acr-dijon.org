@@ -21,6 +21,7 @@ Les départs et arrivées auront lieu au Lac Kir Esplanade pointe Ouest (parking
 
 
 
+
 - BENJAMINS : 2200 m départ à 16 h50 nés en 2005,2006
 
 
@@ -56,6 +57,7 @@ Les bulletins sont à retourner pour une réception au plus tard le Mercredi 11 
 2- Les inscriptions sur place devront s’effectuer selon les modalités suivantes :
 
     Début des inscriptions : à partir de 12 h 30
+
 
 
 
