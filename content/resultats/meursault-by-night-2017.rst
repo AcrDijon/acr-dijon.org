@@ -8,7 +8,7 @@ Meursault By Night 2017
 
 .. image:: http://assets.acr-dijon.org/meursault2017.jpg
 
-Six ACRistes ont participé, ce samedi, à l'édition annuelle du trail nocturne de Meursault.
+Six ACRistes ont participé, dans la fraicheur de la soirée de ce samedi, à l'édition annuelle du trail nocturne de Meursault.
 
 **15,17km / 442mD+ :**
 
