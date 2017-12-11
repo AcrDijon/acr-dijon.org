@@ -10,6 +10,8 @@ Pluie, froid glacial et vent fort attendaient les courageux participants à cett
 
 .. image:: http://assets.acr-dijon.org/genlis171.jpg
 
+*Pour le 6km, prendre à droite après l'autoroute*
+
 **9,7km :**
 
 - **Manuel LOPEZ VARQUIEL** : 9e en 42'30''
