@@ -6,7 +6,7 @@
 :location: Genlis
 :eventdate: 2017-12-10
 
-Pluie, froid glacial et vent fort attendaient les courageux participants à cette nouvelle édition des Foulées du Téléthon de Genlis, ainsi qu'une modification réduisant la distance d'un des deux parcours au programme de la matinée (voir légende du plan ci-joint). Cinq ACRistes se sont retrouvés sur place, pour en découdre, pour une bonne cause, dans cet environnement hostile, plus compatible, pour le citoyen ordinaire, à la pratique de la grasse matinée douilette, qu'à celle de l'activité d'extérieur...
+Pluie, froid glacial et vent fort attendaient les courageux participants à cette nouvelle édition des Foulées du Téléthon de Genlis, ainsi qu'une modification réduisant la distance d'un des deux parcours au programme de la matinée (voir légende du plan ci-joint). Cinq ACRistes se sont retrouvés sur place, pour en découdre, pour une bonne cause, dans cet environnement hostile, plus compatible, pour le citoyen ordinaire, avec la pratique de la grasse matinée douilette, qu'avec celle de l'activité d'extérieur...
 
 .. image:: http://assets.acr-dijon.org/genlis171.jpg
 
