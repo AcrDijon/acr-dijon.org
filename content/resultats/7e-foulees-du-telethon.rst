@@ -29,6 +29,6 @@ Pluie, froid glacial et vent fort attendaient les courageux participants à cett
 
 .. image:: http://assets.acr-dijon.org/genlis172.jpg
 
-*Détendus et souriants, de retour à l'abris et au sec*
+*Détendus et souriants, de retour à l'abri et au sec*
 
 **Bravo à nos courageux ACRistes !**
