@@ -3,9 +3,8 @@ La Ronde Hivernale
 
 :date: 2017-12-20
 :category: Résultats
-:location: Thaon les Vosges (88)
+:location: Thaon Les Vosges (88)
 :eventdate: 2017-12-17
-
 
 .. image:: http://assets.acr-dijon.org/thaon2017.jpg
 
