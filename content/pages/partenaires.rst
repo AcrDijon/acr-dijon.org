@@ -58,8 +58,6 @@ Sponsors
 
 .. image:: https://assets.acr-dijon.org/doras.png
 
-.. image:: https://assets.acr-dijon.org/fun.png
-
 .. image:: https://assets.acr-dijon.org/barbarians.png
 
 .. image:: https://assets.acr-dijon.org/hertz.png
@@ -73,3 +71,5 @@ Sponsors
 .. image:: https://assets.acr-dijon.org/retinostop.jpg
 
 .. image:: https://assets.acr-dijon.org/slc.jpg
+
+.. image:: https://assets.acr-dijon.org/k6fm.jpg
