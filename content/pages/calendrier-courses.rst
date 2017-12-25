@@ -1,5 +1,5 @@
-Calendrier Courses 2018 
-========================
+Calendrier Courses 2018
+=======================
 
 :date: 25/12/2017
 
