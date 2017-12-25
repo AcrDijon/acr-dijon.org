@@ -28,7 +28,7 @@ Le calendrier des courses hors-stade 2018 se trouve quelque peu boulversé, au r
 - **Relais Trail / VENAREY LES LAUMES** (42km) le 21/07
 - **Trail des sorcières / MÂLAIN** (13km) le 01/11
 
-Vous pouvez visualiser le calendrier complet en cliquant sur le lien ci-dessous (fichier également consultatble dans l'onglet **Calendrier Courses 2018**).
+Vous pouvez visualiser le calendrier complet en cliquant sur le lien ci-dessous (fichier également consultatble dans l'onglet **Calendrier Courses**).
 
 http://data.over-blog-kiwi.com/0/54/78/43/20171106/ob_1f52e4_calendrier-21-2018-au-04-11.pdf
 
