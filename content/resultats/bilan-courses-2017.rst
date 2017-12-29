@@ -25,7 +25,7 @@ Répartition : 413 côté Masculins / 117 côté Féminines, pour 204 courses (1
 
 - Courses adultes :
 
-151 podiums de catégorie sur les courses individuelles (143 l'an passé), concernant 26 compétiteurs et compétitrices (27 l'an passé) : 20 Masculins / 6 Féminines (22/5 l'an passé) dont 73 premières places (75 en 2016) : 68 côté Masculins / 5 côté Féminines (69/6 en 2015), 43 deuxièmes places et 35 troisièmes places (25/18 en 2015).
+151 podiums de catégorie sur les courses individuelles (143 l'an passé), concernant 26 compétiteurs et compétitrices : 20 Masculins / 6 Féminines dont 73 premières places : 68 côté Masculins / 5 côté Féminines, 43 deuxièmes places et 35 troisièmes places.
 
 10 podiums scratch sur les courses individuelles (**1 victoire**, 3 deuxièmes places, 6 troisièmes places).
 
@@ -67,7 +67,7 @@ Sont comptabilisées toutes les places parmi les trois premiers de chaque catég
 - Pascal FLEURY : 7 (**2x1er**, 3x2e, 2x3e) Master3
 - Jean Louis RABIET : 5 (**3x1er**, 1x2e, 1x3e) Master4 puis Master5
 - Fabrice HEURET : 5 (**3x1er**, 2x3e) Master1
-- Jean Christophe DUBARD : (**1x1er**, 2x2e, 2x3e) Master2
+- Jean Christophe DUBARD : 5 (**1x1er**, 2x2e, 2x3e) Master2
 - *Sandrine FANTON* : 4 (**1x1ère**, 1x2e, 2x3e) Master1
 - *Marie Laure LEONARD* : 3 (**2x1ère**, 1x3e) Master1
 - Mohammed SALAAH WARSAME : 3 (**1x1er**, 2x3e) Junior
