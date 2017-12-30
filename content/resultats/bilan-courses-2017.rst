@@ -93,7 +93,7 @@ Podiums de catégorie jeunes :
 
 **Distances en course :**
 
-Pour terminer ce tour d'horizon, voici les distances parcourues en course, sur les courses officielles durant cette année. Seuls les totaux kilométriques des courses terminées sont pris en compte. Certains totaux concernent l'année complète, d'autres une partie d'année (départ/ arrivées en cours d'année).
+Pour terminer ce tour d'horizon, voici les distances parcourues en course, sur les courses officielles durant cette année. Seuls les totaux kilométriques des courses terminées sont pris en compte. Certains totaux concernent l'année complète, d'autres une partie d'année (départs/arrivées en cours d'année).
 
 - Vincent LAUVERGNE : 1126,5
 - Alain BRIOT : 787,9
