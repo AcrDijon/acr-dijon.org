@@ -29,7 +29,7 @@ Répartition : 413 côté Masculins / 117 côté Féminines, pour 204 courses (1
 
 10 podiums scratch sur les courses individuelles (**1 victoire**, 3 deuxièmes places, 6 troisièmes places).
 
-2 podiums de catégorie (1 troisième place d'équipe masculine et une troisièmes place d'équipe mixte) au Marathon Relais des Hautes Côtes.
+2 podiums de catégorie (troisième place d'équipe masculine et troisième place d'équipe mixte) au Marathon Relais des Hautes Côtes.
 
 1 podium scratch (3ème place) au Relais des Hautes Côtes, pour l'équipe masculine des "Fusées".
 
@@ -81,7 +81,7 @@ Sont comptabilisées toutes les places parmi les trois premiers de chaque catég
 - *Florence CUCIS* : 1 (1x2e) Master2
 - Adrien BRUNET : 1 (1x2e) Senior
 - frédéric RABIET : 1 (1x2e) Master1
-- Philippe BASSAND : 1 (1x2e) Master2
+- Philippe BASSAND : 1 (1x2e) Master3
 - Gérard BACONNET : 1 (1x3e) Master4
 - *Diamantina MOURA* : 1 (1x3) Master1
 - *Emilie DERAIL* : 1 (1x3e) Senior
