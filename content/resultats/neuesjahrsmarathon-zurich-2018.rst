@@ -10,7 +10,7 @@ Neuesjahrsmarathon Zürich 2018
 
 Il s'y est classé 81e/191 en 4h00'12''.
 
-Course gagnée par Patrick WIESER en 2h31'27'' / 16e et 1ère féminine : Katharina HARTMUTH en 3h20'08''. 
+Course gagnée par Patrick WIESER en 2h31'27'' / 16e et 1ère féminine : Katharina HARTMUTH en 3h20'08''.
 
 .. image:: http://assets.acr-dijon.org/zurich2018.jpg
 
