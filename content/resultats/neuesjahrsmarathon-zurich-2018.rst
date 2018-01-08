@@ -6,7 +6,7 @@ Neuesjahrsmarathon Zürich 2018
 :location: Zürich (Suisse)
 :eventdate: 2018-01-01
 
-2017 à peine terminée, 2018 démarre plein gaz avec le traditionnel Matathon du Jour de l'An de Zürich, auquel a participé **Philippe BASSAND**.
+2017 à peine terminée, 2018 démarre plein gaz avec le traditionnel Matathon du Jour de l'An de Zürich, auquel a participé **Philippe BASSAND** ; course nocturne avec dénivelé, courue sous la pluie et le vent.
 
 Il s'y est classé 81e/191 en 4h00'12''.
 
