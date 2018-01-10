@@ -3,8 +3,8 @@ Une poignée d'ACRistes sur les 10 km de Seurre
 
 :date: 2013-08-05
 :category: Résultats
-:eventdate: 2018-01-10
 :location: 
+:eventdate: 2018-01-10
 :summary: Une poignée d'ACRistes sur les 10 km de Seurre
 
 |Sedik|  |Alexis.jpg|

@@ -3,8 +3,8 @@ Corrida de Nuits Saint Georges
 
 :date: 2013-07-15
 :category: Résultats
-:eventdate: 2018-01-10
 :location: 
+:eventdate: 2018-01-10
 :summary: Corrida de Nuits Saint Georges
 
 - 1     Nicolas Mary    00:32:39
