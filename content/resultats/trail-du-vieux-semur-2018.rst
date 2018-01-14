@@ -19,7 +19,7 @@ Pour sa 4e édition, le Trail nocturne du Vieux Semur a fait le plein de partici
 
 **22km :**
 
-- **Bruno HUOT** : 120e en 2h22'5''
+- **Bruno HUOT** : 120e en 2h22'55''
 
 267 concurrents classés / Course remportée par Thomas GARNIER en 1h41'26'' / 33e et 1ère féminine : Amandine GASNIER en 1h59'57''.
 
