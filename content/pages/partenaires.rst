@@ -36,7 +36,7 @@ Instances sportives
 Sponsors
 --------
 
-.. image:: https://assets.acr-dijon.org/endshop.jpg
+.. image:: https://assets.acr-dijon.org/edceshop.jpg
 
 .. image:: /theme/partenaires/3as.png
 
