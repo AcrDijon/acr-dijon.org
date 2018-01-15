@@ -1,7 +1,7 @@
 Partenaires
 ===========
 
-:date: 12/09/2015
+:date: 09/12/2015
 :summary: Partenaires de l'ACR
 
 Partenaires institutionnels
@@ -36,7 +36,7 @@ Instances sportives
 Sponsors
 --------
 
-.. image:: https://assets.acr-dijon.org/edceshop.jpg
+.. image:: https://assets.acr-dijon.org/endurance.jpg
 
 .. image:: /theme/partenaires/3as.png
 
@@ -44,7 +44,7 @@ Sponsors
 
 .. image:: https://assets.acr-dijon.org/inter.png
 
-.. image:: /theme/partenaires/bache.png
+.. image:: https://assets.acr-dijon.org/bache.jpg
 
 .. image:: /theme/partenaires/banquepop.png
 
