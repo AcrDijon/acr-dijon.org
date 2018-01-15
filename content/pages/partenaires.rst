@@ -1,7 +1,7 @@
 Partenaires
 ===========
 
-:date: 09/12/2015
+:date: 12/09/2015
 :summary: Partenaires de l'ACR
 
 Partenaires institutionnels
@@ -70,6 +70,6 @@ Sponsors
 
 .. image:: https://assets.acr-dijon.org/retinostop.jpg
 
-.. image:: https://assets.acr-dijon.org/slc.jpg
+.. image:: https://assets.acr-dijon.org/scq.jpg
 
 .. image:: https://assets.acr-dijon.org/k6fm.jpg
