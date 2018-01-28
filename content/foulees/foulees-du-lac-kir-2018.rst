@@ -6,6 +6,10 @@ Foulées du Lac Kir 2018 : liens utiles
 :location: DIJON / Lac Kir
 :eventdate: 2018-04-14
 
+- Bulletin d'inscription à imprimer :
+
+.. image:: http://assets.acr-dijon.org/bulletin-lac-kir-2018.pdf
+
 - lien vers le formulaire inscriptions :
 
 https://forms.registration4all.com/EventRegistration/Register_Sport_Event.aspx?EventID=141111
