@@ -13,3 +13,5 @@ A l'occasion de cette sortie d'entraînement, les participants se retrouveront a
 Rendez vous devant l'église au centre du village :
   - 9h30 pour le groupe qui souhaite courir 1h30
   - 10h pour le groupe qui souhaite courir 1h avec le "Mag"
+
+**Venez nombreux !**
