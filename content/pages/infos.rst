@@ -1,7 +1,7 @@
 Info pratique
 =============
 
-:date: 09/12/2015
+:date: 12/09/2015
 :summary: Informations pratiques
 
 Adresse postale
@@ -39,8 +39,7 @@ Adhésion
 La saison commence le 1er septembre. Pour s'inscrire à l'ACR,
 trois formules vous sont proposées :
 
-# **Licence Performance** vous permet de participer aux championnats et
-  vous donne accès aux classements FFA (99 euros et 20 euros pour les catégories jusqu'à junior).
+ **Licence Performance** : vous permet de participer aux championnats et vous donne accès aux classements FFA (99 euros et 20 euros pour les catégories jusqu'à junior).
 
 
 
@@ -53,8 +52,9 @@ trois formules vous sont proposées :
 
 
 
-# **Licence Loisirs** vous permet de participer à toutes épreuves
-  -hors championnats- sans présenter de certificat médical (59 euros).
+
+ **Licence Loisirs** : vous permet de participer à toutes épreuves
+ -hors championnats- sans présenter de certificat médical (59 euros).
 
 
 
@@ -67,8 +67,9 @@ trois formules vous sont proposées :
 
 
 
-# **Adhésion simple** vous permet de pratiquer la course à pied en loisir, à
-  titre associatif (30 euros).
+
+ **Adhésion simple** vous permet de pratiquer la course à pied en loisir, à
+ titre associatif (30 euros).
 
 Le prix de la licence catégories "jeunes" (jusqu'à junior) a été fixé à 20 euros pour
 la saison 2015-2016.
