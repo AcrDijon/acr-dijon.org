@@ -8,7 +8,4 @@ Foulées du Lac Kir 2018 : Bulletin d'inscription
 
 Bulletin d'inscription papier à imprimer :
 
-.. image:: http://assets.acr-dijon.org/bulletin2018.jpg
-
-.. image:: http://assets.acr-dijon.org/bulletinlackir2018.pdf
-
+<https://assets.acr-dijon.org/bulletinlackir2018.pdf>`_.
