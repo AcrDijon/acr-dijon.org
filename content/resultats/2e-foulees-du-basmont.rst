@@ -1,25 +1,23 @@
 2e Foulées du Basmont
 =====================
 
-:date: 2018-02-26 16:52
+:date: 2018-02-26
 :category: Résultats
+:location: Ruffey Lès Echirey
+:eventdate: 2018-02-24
 
+Un froid de canard et une bise glaciale ont pris possession des chemins champêtres du Basmont et des rues de Ruffey, pour accueillir la grosse centaine de participants présents ce samedi matin.
 
-Voici un exemple de texte.
+Trois ACRistes comptaient parmi les courageux du jour.
 
-**Texte en gras**
+.. image:: http://assets.acr-dijon.org/basmont2018.jpg
 
-*Texte en italique*
+**10km :**
 
-Voici une liste:
+- **Anthony GUILLEMIN** : 20e en 42'13''
+- **Hervé TRAVERT** : 46e en 48'07''
+- **Jean Christohe DUBARD** : 56e en 50'39''
 
-- un
-- deux
-- trois
+Course remportée par Adrien ALIX en 35'01'' / 16e et 1ère féminine : Mélina CLERC en 41'19''.
 
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à eux !**
