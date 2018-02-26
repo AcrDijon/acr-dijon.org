@@ -12,5 +12,5 @@ Février touche à sa fin et mars arrive à grandes enjambées, avec un programm
 - samedi 10 : **Nuits Saint Georges / Courses de la Vente des Vins des Hospices** (Semi-Marathon/10,4km)
 - dimanche 11 : **Chenôve / La Transmontagne** (29,7km/16,9km)
 - samedi 17 : **Saint Romain / Falaiz' Trail** (15km/8km)
-- samedi 17 : **seurre / Urban Trail semi-nocturne** (16km/8km)
+- samedi 17 : **Seurre / Urban Trail semi-nocturne** (16km/8km)
 - dimanche 25 : **Massingy / trail de la Côte chatillonnaise** (30km/15km/8km)
