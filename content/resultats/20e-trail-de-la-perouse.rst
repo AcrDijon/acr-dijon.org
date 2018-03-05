@@ -23,4 +23,6 @@ Cinq ACRistes ont participé à la Pérousette (13km / 430mD+), ce dimanche, à 
 
 Sur le 26km (865mD+), victoire de Gilles REBOUL (Dijon Triathlon) en 1h50'12'' / 27e et 1ère féminine : Véronique ASSADI (AC Talant) en 2h16'01'' (181 concurrents classés).
 
+En marge de la course, *Florence CUCIS* a participé à la Marche Nordique encadrée.
+
 **bravo à nos courageux ACRistes !**
