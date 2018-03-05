@@ -1,25 +1,17 @@
 Semi Marathon de Paris 2018
 ===========================
 
-:date: 2018-03-05 18:08
+:date: 2018-03-05
 :category: Résultats
+:location: Paris
+:eventdate: 2018-03-04
 
 
-Voici un exemple de texte.
 
-**Texte en gras**
+.. image:: http://assets.acr-dijon.org/semiparis18.jpg
 
-*Texte en italique*
+**Jean Marc DELATTRE** a participé, ce dimanche, au Semi Marathon de Paris, se classant 4410e/36510 en 1h36'56''.
 
-Voici une liste:
+Course remportée par Evans CHERUIYOT en 1h01'25'' / 11e et 1ère féminine : Antonia KWAMBAI en 1h08'07''.
 
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
