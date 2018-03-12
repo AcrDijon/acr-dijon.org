@@ -18,6 +18,6 @@ Trois ACRistes comptaient parmi les courageux du jour.
 - **Hervé TRAVERT** : 46e en 48'07''
 - **Jean Christohe DUBARD** : 56e en 50'39''
 
-Course remportée par Adrien ALIX en 35'01'' / 16e et 1ère féminine : Mélina CLERC en 41'19''.
+105 concurrents classés / Course remportée par Adrien ALIX en 35'01'' / 16e et 1ère féminine : Mélina CLERC en 41'19''.
 
 **Bravo à eux !**
