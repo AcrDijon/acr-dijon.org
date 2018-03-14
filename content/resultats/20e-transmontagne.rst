@@ -3,8 +3,8 @@
 
 :date: 2018-03-14
 :category: Résultats
-:location: 
-:eventdate: 2018-03-14
+:location: Chenôve
+:eventdate: 2018-03-11
 
 .. image:: http://assets.acr-dijon.org/transmontagne18.jpg
 
