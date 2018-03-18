@@ -8,7 +8,7 @@ Trail de Vesoul
 
 .. image:: http://assets.acr-dijon.org/vesoul.jpg
 
-Au lendemain du semi-marathon de Nuits Saint Georges, **Alain Briot** a pris la direction de la préfecture de la Haute Saône, pour le Trail de Vesoul (14km/350mD+).
+Au lendemain du semi-marathon de Nuits Saint Georges, **Alain BRIOT** a pris la direction de la préfecture de la Haute Saône, pour le Trail de Vesoul (14km/350mD+).
 
 Il s'y est classé 122e/199 en 1h31'28'' (2eM4).
 
