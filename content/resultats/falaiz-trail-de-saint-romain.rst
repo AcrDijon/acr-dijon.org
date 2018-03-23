@@ -18,7 +18,7 @@ La première édition du Falaiz' Trail de Saint Romain, entre vignes et falaises
 
 Mohamed SAALAH WARSAME, maintenant licencié au DUC, mais toujours adhérent à l'ACR, s'est classé 7e en 39'21'' et 3eJU.
 
-**trail des falaises** (16km/500mD+) :
+**Trail des falaises** (16km/500mD+) :
 
 - **Jean Christophe DUBARD** : 124e en 2h08'10''
 
