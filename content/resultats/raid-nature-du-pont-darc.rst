@@ -8,6 +8,6 @@ Raid Nature du Pont d'Arc
 
 .. image:: http://assets.acr-dijon.org/rnpa18.jpg
 
-ce dimanche, *Stéphanie TERRAND* a participé au Raid Nature du Pont d'Arc, en Ardèche (45,6km) épreuve en équipe mêlant canoë biplace, course à pied et VTT), périple bouclé en 6h41'41'' !
+ce dimanche, *Stéphanie TERRAND* a participé au Raid Nature du Pont d'Arc, en Ardèche (45,6km) épreuve en équipe alternant canoë biplace, course à pied et VTT), périple bouclé en 6h41'41'' !
 
 **bravo à elle !**
