@@ -6,7 +6,7 @@
 :location: Gevrey Chambertin
 :eventdate: 2018-04-08
 
-Neuf ACRistes se sont alignés au départ du Petit Tacot (14,35km/500mD+), ce dimanche, sur un parcours largement modifié par rapport à celui de l'édition 2016, présentant un profil moins roulant, agréménté de  quelques sévères raidards et de descentes plutôt abruptes, course heureusement disputée par temps sec et sous des températures printannières.
+Neuf ACRistes se sont alignés au départ du Petit Tacot (14,35km/500mD+), ce dimanche, sur un parcours largement modifié par rapport à celui de l'édition 2016, présentant un profil moins roulant, agréménté de  quelques sévères raidards et descentes plutôt abruptes, course heureusement disputée par temps sec et sous des températures printannières.
 
 .. image:: http://assets.acr-dijon.org/tacot181.jpg
 
