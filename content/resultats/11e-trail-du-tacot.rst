@@ -6,7 +6,7 @@
 :location: Gevrey Chambertin
 :eventdate: 2018-04-08
 
-Neuf ACRistes se sont alignés au départ du Petit Tacot (14,35km/500mD+), ce dimanche, sur un parcours largement modifié par rapport à celui de l'édition 2016, présentant un profil moins roulant, agréménté de  quelques sévères raidards et descentes plutôt abruptes, course heureusement disputée par temps sec et sous des températures printannières.
+Dix ACRistes se sont alignés au départ du Petit Tacot (14,35km/500mD+), ce dimanche, sur un parcours largement modifié par rapport à celui de l'édition 2016, présentant un profil moins roulant, agréménté de  quelques sévères raidards et descentes plutôt abruptes, course heureusement disputée par temps sec et sous des températures printannières.
 
 .. image:: http://assets.acr-dijon.org/tacot181.jpg
 
@@ -18,6 +18,7 @@ Neuf ACRistes se sont alignés au départ du Petit Tacot (14,35km/500mD+), ce di
 - **Jean Christophe DUBARD** : 110e en 1h37'05''
 - *Julia KOLMAKOVA* : 154e en 1h47'00''
 - **Jean Claude CUCIS** : 175e en 1h50'43''
+- **Eric MATHEY** : 192e en 1h55'54''
 - **Jean Luc POIROT** : 202e en 1h58'40''
 
 246 concurrents classés / Victoire de Fabien RUSSIER (DUC) en 1h05'14'' / 2e et 1ère féminine : Clotilde GELIN en 1h07'53''.
