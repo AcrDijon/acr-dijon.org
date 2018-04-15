@@ -44,6 +44,6 @@ Les podiums de catégorie n'étaient pas récompensés sur cette distance.
 
 *Benjamin à l'arrivée de la course Benjamins/Minimes*
 
-Vous pouvez retrouver le reportage photo de l'événement sur le site du photographe Nicolas GOISQUE, sur le lien suivant : http://niko-ngoisque.blogspot.fr/
+Vous pouvez retrouver le reportage photo de l'événement réalisé par jean-Noël SAINTOT à l'adresse suivante : PassionPhotoPortraits2152@sf.fr, ou sur sa page facebook.
 
 **bravo à tous les participants et bénévoles qui ont oeuvré à la réussite de cette 13e édition !**
