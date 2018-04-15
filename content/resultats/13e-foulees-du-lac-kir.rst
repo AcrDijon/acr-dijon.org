@@ -22,7 +22,7 @@ Comme à l'acoutumée, quelques ACRistes figuraient parmi les participants ; l'�
 
 .. image:: http://assets.acr-dijon.org/magflk18.jpg
 
-*Mag' en action sur le chemin des jardins*
+*Mag' en action sur le chemin des jardins (photo Le Bien Public)*
 
 **5km :**
 
@@ -43,5 +43,7 @@ Les podiums de catégorie n'étaient pas récompensés sur cette distance.
 .. image:: http://assets.acr-dijon.org/lackir182.jpg
 
 *Benjamin à l'arrivée de la course Benjamins/Minimes*
+
+Vous pouvez retrouver le reportage photo de l'événement sur le site du photographe Nicolas GOISQUE, sur le lien suivant : http://niko-ngoisque.blogspot.fr/
 
 **bravo à tous les participants et bénévoles qui ont oeuvré à la réussite de cette 13e édition !**
