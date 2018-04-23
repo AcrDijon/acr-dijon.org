@@ -32,45 +32,19 @@ un e-mail à: `contact@acr-dijon.org <mailto:contact@acr-dijon.org>`_
 - **Relations Partenaires** Eric MARILLIER - 06 26 02 18 85
 
 
-
 Adhésion
 --------
 
 La saison commence le 1er septembre. Pour s'inscrire à l'ACR,
 trois formules vous sont proposées :
 
-    **Licence Performance** : vous permet de participer aux championnats et vous donne accès aux classements FFA (99 euros et 20 euros pour les catégories jusqu'à junior).
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Licence Loisirs** : vous permet de participer à toutes épreuves
--hors championnats- sans présenter de certificat médical (59 euros).
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Adhésion simple** vous permet de pratiquer la course à pied en loisir, à
-titre associatif (30 euros).
-
+- **Licence Performance** : vous permet de participer aux championnats et vous
+  donne accès aux classements FFA (99 euros et 20 euros pour les catégories
+  jusqu'à junior).
+- **Licence Loisirs** : vous permet de participer à toutes épreuves -hors
+  championnats- sans présenter de certificat médical (59 euros).
+- **Adhésion simple** vous permet de pratiquer la course à pied en loisir, à
+  titre associatif (30 euros).
 
 Le prix de la licence catégories "jeunes" (jusqu'à junior) a été fixé à 20 euros pour
 la saison 2015-2016.
