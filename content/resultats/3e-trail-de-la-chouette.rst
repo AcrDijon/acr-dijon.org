@@ -13,7 +13,7 @@ Cette 3e édition du Trail de la Chouette a, une nouvelle fois, fait le plein de
 **La Chevêchette (14km/300mD+) :**
 
 - **Anthony GUILLEMIN** : 31e en 1h07'48''
-- **Pascal FLEURY** : 36e en 1h08'26'' et **1erM3!**
+- **Pascal FLEURY** : 36e en 1h08'26'' et **1erM3 !**
 - **Bruno HUOT** : 37e en 1h08'40''
 - **Eric NOVAT** : 80e en 1h16'06''
 - **Jean Luc POIROT** : 236e en 1h32'07''
