@@ -1,4 +1,4 @@
-11e trail des Lacs
+11e Trail des Lacs
 ==================
 
 :date: 2018-04-30
