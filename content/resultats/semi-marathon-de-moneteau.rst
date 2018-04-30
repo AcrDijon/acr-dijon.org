@@ -1,4 +1,4 @@
-Semi Marathon de Moneteau
+Semi Marathon de Monéteau
 =========================
 
 :date: 2018-04-30
