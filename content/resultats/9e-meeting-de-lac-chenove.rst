@@ -17,4 +17,6 @@ Course remportée par Armand LUCAND (AC Chenôve) en 9'02''.
 
 *Deux ACRistes en plein effort*
 
+Par ailleurs, **Mohamed SAALAH WARSAME**, licencié au DUC, mais également adhérant à l'ACR, s'est classé 4e du 1500m.
+
 **Bravo à eux !**
