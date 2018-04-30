@@ -1,11 +1,10 @@
-16e trail des Trois Chäteaux
+16e trail des Trois Châteaux
 ============================
 
 :date: 2018-03-05
 :category: Résultats
 :location: Le Creusot (71)
 :eventdate: 2018-03-04
-
 
 .. image:: http://assets.acr-dijon.org/T3Clogo.jpg
 
@@ -17,5 +16,3 @@ Deux ACRistes étaient du côté du Creusot, pour le 10km (306mD+) des courses d
 164 concurrents classés / Victoire de Vincent DE BONTIN (EA Le Creusot) en 47'21'' / 15e et 1ère féminine : Laura POMPANON en 59'20''.
 
 **Bravo à eux !**
-
-
