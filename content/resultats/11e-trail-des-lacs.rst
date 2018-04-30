@@ -3,7 +3,7 @@
 
 :date: 2018-04-30
 :category: Résultats
-:location: Clairvaux les Lacs (39=
+:location: Clairvaux les Lacs (39)
 :eventdate: 2018-04-29
 
 Deux Acristes se sont rendus du côté de Clairvaux les lacs, dans le Jura, à l'occasion de la 11e édition du Trail des Lacs.
