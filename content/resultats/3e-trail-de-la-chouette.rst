@@ -18,7 +18,7 @@ Cette 3e édition du Trail de la Chouette a, une nouvelle fois, fait le plein de
 - **Eric NOVAT** : 80e en 1h16'06''
 - **Jean Luc POIROT** : 236e en 1h32'07''
 
-392 concurrents classés / Course remportée par Chafik JBARI (AC Chenôve) en 55'40'' / 8e et 1ère féminine : Anne Sophie VITET (Team Kari Traa) en 58'51''.
+392 concurrents classés / Course remportée par Chafik JBARI (AC Chenôve) en 55'40'' / 8e et 1ère féminine : Anne Sophie VITTET (Team Kari Traa) en 58'51''.
 
 .. image:: http://assets.acr-dijon.org/chouette182.jpg
 
