@@ -11,6 +11,7 @@ Le calendrier des courses hors-stade 2018 se trouve quelque peu boulversé, au r
 **Courses supprimées :**
 
 - **Foulées hivernales des trois étangs / LAMARCHE SUR SAÔNE** (après 3 éditions)
+- **transvaal Trail / DIJON** (après 2 éditions)
 - **Trail nocturne Sport & Nature / BEAUNE** (déjà annulé en 2017)
 - **Foulées de BLAISY BAS** (après une unique édition)
 - **Foulées brazéennes / BRAZEY EN PLAINE** (après 2 éditions)

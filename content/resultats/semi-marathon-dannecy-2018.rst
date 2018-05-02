@@ -26,4 +26,9 @@ Un an après la sortie club, quatre ACRistes sont allés participer au Marathon 
 
 *Léa et Soline après l'arrivée*
 
+.. image:: http://assets.acr-dijon.org/annecy182.jpg
+
+*...et Pauline*
+
+
 **Bravo à nos ACRistes !**
