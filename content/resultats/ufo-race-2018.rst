@@ -10,6 +10,19 @@ UFO Race 2018
 
 Pour la 3e année consécutive, l'UFOLEP 21 a organisé, à Trouhans, l'UFO Race, avec deux courses au programme, Les Foulées du Bas Sauvage (15km) et les Foulées du Meurger (8km).
 
-Deux ACRistes, **Alain BRIOT** et **Pierre AUDIN**, figuraient parmi les participants.
+Trois ACRistes figuraient parmi les participants.
 
-Plus amples précisions quand les classements seront publiés...
+**Foulées du Meurger :**
+
+- **Pierre AUDIN** : **3e** en 33'26'' et **1erM2 !**
+
+97 concurrents classés / Victoire de Guillaume MALDONADO en 30'58'' / 18e et 1ère féminine : Camille BOUTRELLE (CROCOS) en 37'53''.
+
+**Foulées du Bas Sauvage :**
+
+- **Alain BRIOT** : 44e en 1h15'30'' et **1erM4 !**
+- **Jean Claude CUCIS** : 66e en 1h22'45'' et 3eM3
+
+79 concurrents classés / Victoire d'Olivier SOULIER (AC Chenôve) en 52'43'' / 42e et 1ère féminine : Virginie BELOT en 1h15'18''.
+
+**Bravo à eux !**
