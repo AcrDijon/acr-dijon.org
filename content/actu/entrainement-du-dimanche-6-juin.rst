@@ -7,13 +7,13 @@ Entraînement du dimanche 6 juin
 :eventdate: 2018-05-06
 
 Le lieu de rassemblement sera le parking de l'observatoire sur la route
-en montant a Corcelles les monts .
-(Très grand parking sur votre droite en arrivant de Dijon)
+en montant a Corcelles les monts (grand parking sur la droite en arrivant de Dijon).
 
 Rendez-vous a 9h15 pour se rendre entre Corcelles et Flavignerot en
-voiture, endroit du départ de notre sortie.
+voiture, endroit du départ de la sortie.
 
-Environ 14km au programme.
+Environ 14km au programme, avec un peu de dénivelé.
 
-Sylvain Sanchez sera notre guide du jour.
-Pour votre santé,merci de prévoir votre ravitaillement.
+Sylvain Sanchez sera le guide du jour.
+
+Merci de prévoir votre ravitaillement.
