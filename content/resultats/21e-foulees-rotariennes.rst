@@ -14,7 +14,7 @@ Etablir un classement n'est pas chose aisée, puisque certains concurrents de la
 
 **10,14km/180mD+ :**
 
-- *Morgane FRAIZE* : 49'05"
+- *Morgane FRAIZE* : 49'05" et **1ère féminine !**
 - *Margaux BRINAS* : 51'36"
 - *Elise BOUILLET* : 56'49"
 
