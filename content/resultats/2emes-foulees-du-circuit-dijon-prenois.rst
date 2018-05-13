@@ -24,8 +24,9 @@ Le parcours a également été modifié avec un départ et une arrivée depuis l
 
 - **Pierre AUDIN** : 2e en 36'25'' et **1erM2 !**
 - **Alain BRIOT** : 34e en 47'24'' et 2eM4
-- **Christophe MIMEUR** : 36e en 48'20''
 - **Gérard BACONNET** : 45e en 51'48'' et 3eM4
+
+Christophe MIMEUR, licencié à l'AC Chenôve, mais par ailleurs adhérent à l'ACR, s'est classé 36e en 48'20".
 
 71 concurrents classés / Course remportée par Olivier FAURE (ASPTT DIJON) en 36'20'' ; 15e et 1ère féminine : Christelle MATHIS (Les Traileurs des Roches) en 42'57''.
 
