@@ -19,6 +19,10 @@ Pour la troisième fois, les bolides de la course à pied ont remplacé les chev
 
 62 concurrents classés / Course remportée par Yohan BAERT en 18'01" / 18e et 1ère féminine : Christine PETITE en 23'31".
 
+.. image:: http://assets.acr-dijon.org/dp182.jpg
+
+*Pierre, 3e et 1er Master2 du 5km*
+
 **10km :**
 
 - **Alain BRIOT** : 56e en 49'08" et 2eM4
