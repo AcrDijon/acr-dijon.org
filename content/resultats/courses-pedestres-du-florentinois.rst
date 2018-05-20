@@ -1,25 +1,15 @@
 Courses Pédestres du Florentinois
 =================================
 
-:date: 2018-05-20 20:30
+:date: 2018-05-20
 :category: Résultats
+:location: Saint Florentin (89)
+:eventdate: 2018-05-19
 
+**Alexandre DUFOUR** et sa compagne ont remporté la course de 10km en duo mixte, ce samedi, à Saint Florentin, dans l'Yonne !
 
-Voici un exemple de texte.
+.. image:: http://assets.acr-dijon.org/stflo18.jpg
 
-**Texte en gras**
+*Le duo gagnant*
 
-*Texte en italique*
-
-Voici une liste:
-
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Un grand bravo !**
