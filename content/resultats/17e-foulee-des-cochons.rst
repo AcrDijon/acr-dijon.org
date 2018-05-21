@@ -10,7 +10,7 @@
 
 Soleil et chaleur ont accompagné les nombreux concurrents de cette édition, avec une forte participation sur l'ensemble des courses au programme du jour. L'ACR y fut bien représentée.
 
-**10,1km :**
+**10,1km/111mD+ :**
 
 - **Vincent BADET** : 31e en 42'22"
 - **Bruno HUOT** : 61e en 44'37"
@@ -28,7 +28,7 @@ Soleil et chaleur ont accompagné les nombreux concurrents de cette édition, av
 
 *Vincent, chef de file de l'ACR sur le 10km*
 
-**6,4km :**
+**6,4km/74mD+ :**
 
 - **Eric NOVAT** : 32e en 29'36"
 - **Jean Christophe DUBARD** : 40e en 30'26"
