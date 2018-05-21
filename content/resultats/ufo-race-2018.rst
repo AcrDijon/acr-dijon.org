@@ -6,7 +6,7 @@ UFO Race 2018
 :location: Trouhans
 :eventdate: 2018-05-01
 
-.. image:: http://assets.acr-dijon.org/ufo18.jpg
+.. image:: http://assets.acr-dijon.org/ufo2018.jpg
 
 Pour la 3e année consécutive, l'UFOLEP 21 a organisé, à Trouhans, l'UFO Race, avec deux courses au programme, Les Foulées du Bas Sauvage (15km) et les Foulées du Meurger (8km).
 
