@@ -6,7 +6,7 @@
 :location: Marsannay Le Bois
 :eventdate: 2018-05-20
 
-.. image:: http://assets.acr-dijon.org/cochons2018.jpg
+.. image:: http://assets.acr-dijon.org/fdc18.jpg
 
 Soleil et chaleur ont accompagné les nombreux concurrents de cette édition, avec un record de participation sur l'ensemble des courses au programme du jour. L'ACR y fut bien représentée.
 
