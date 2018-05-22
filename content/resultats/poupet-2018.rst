@@ -23,10 +23,10 @@ Quelques ACRistes se sont rendus, ce dimanche, à Salins Les Bains, pour la 34e 
 - **Benoît SUREAU** : 119e en 3h13'39"
 - *Julia KOLMAKOVA* : 162e en 3h35'46"
 
+217 concurrents classés / Epreuve remportée par Aurélien CHARITE (Team Elite Velorun) en 2h04'42" / 44e et 1ère féminine : Céline JEANNIER en 2h44'54".
+
 .. image:: http://assets.acr-dijon.org/poupet18.jpg
 
 *Benoît au ravito sur le trail*
-
-217 concurrents classés / Epreuve remportée par Aurélien CHARITE (Team Elite Velorun) en 2h04'42" / 44e et 1ère féminine : Céline JEANNIER en 2h44'54".
 
 **Bravo à nos ACRistes !**
