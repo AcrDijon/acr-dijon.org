@@ -27,6 +27,6 @@ Pour la troisième fois, les bolides de la course à pied ont remplacé les chev
 
 - **Alain BRIOT** : 56e en 49'08" et 2eM4
 
-92 concurrents classés / Course remportée par Olivier SOULIER (AC Chenôve) en 33'45" / 7e et 1ère féminine : Isabelle FERRER en 37'16".
+92 concurrents classés / Course remportée par Olivier SOULIER (AC Chenôve) en 33'45" / 7e et 1ère féminine : Isabelle FERRER (Issy Triathlon) en 37'16".
 
 **Bravo à nos ACRistes !**
