@@ -6,8 +6,6 @@ Trail des Béliers
 :location: Saint Blin Semilly (52)
 :eventdate: 2018-05-27
 
-
-
 .. image:: http://assets.acr-dijon.org/beliers18.jpg
 
 Un ACRiste était en Haute Marne, ce dimanche, pour le Trail des Béliers, à Saint Blin Semilly.
