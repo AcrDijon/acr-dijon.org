@@ -6,7 +6,7 @@ ODYSSEA 2018
 :location: Dijon
 :eventdate: 2018-06-03
 
-.. image:: http://assets.acr-dijon.org/odyssea18.jpg
+.. image:: http://assets.acr-dijon.org/odyssea2018.jpg
 
 Une belle délégation de l'ACR a participé, ce dimanche, à l'édition annuelle d'ODYSSEA, de retour dans les allées du Parc de la Colombière, après deux passages par le centre ville de Dijon.
 
