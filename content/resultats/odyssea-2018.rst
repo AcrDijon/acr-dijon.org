@@ -12,8 +12,8 @@ Une belle délégation de l'ACR a participé, ce dimanche, à l'édition annuell
 
 Sauf erreur ou omission, étaient présents
 
-- sur le 5km : *Béatrice* et Vincent BADET, *Edith* et Sylvain SANCHEZ et Mohamed SAALAH WARSAME
+- sur le 5km : *Béatrice* et Vincent BADET, *Edith* et Sylvain SANCHEZ
 - sur le 10km : Mafhoud BAALI, *Mélanie BALSON*, Manuel BARREIRA, *Céline BENOIT*, *Léa CLAUDE*, Alexandre DUFOUR, *Nathalie COMTE*, Charly FONTAINE, *Soline LALLEMAND*, Benoît SUREAU et *Claire TAINTURIER*
-- *Florence CUCIS* et Bruno HUOT ont doublé 5 et 10km !
+- *Florence CUCIS*, Bruno HUOT et Mohamed SAALAH WARSAME ont doublé 5 et 10km !
 
 **Bravo à toutes et à tous !**
