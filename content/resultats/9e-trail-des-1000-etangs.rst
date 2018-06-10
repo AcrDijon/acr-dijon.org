@@ -3,9 +3,8 @@
 
 :date: 2018-05-11
 :category: Résultats
-:location: Radon  et  Chapendu (70)
+:location: Raddon  et  Chapendu (70)
 :eventdate: 2018-05-10
-
 
 .. image:: http://assets.acr-dijon.org/1000etgs.jpg
 
