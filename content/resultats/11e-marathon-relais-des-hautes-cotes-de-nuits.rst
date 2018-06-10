@@ -44,7 +44,7 @@ Cette année, c'était au tour de Villers La Faye d'accueillir les concurrents d
 - **Eric NOVAT**  (Eiffel Tech') : 29'44"
 - **Ismaël KHADIR** (Les Pépères) : 30'06"
 - **jean Christophe DUBARD** (Les Pépères) : 30'13"
-- **Pascal ROSA** (Les Pépères) : 30'58"
+- **Pascal ROSA** (Les Détendus) : 30'58"
 - **Quentin POIROT** (Les Pépères) : 31'08"
 - *Noémie GANDILLIET* (Les Razmoquette) : 31'36"
 - **Fabien MATHIEU** (Les Pépères) : 31'50"
