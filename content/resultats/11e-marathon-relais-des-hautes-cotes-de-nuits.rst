@@ -19,7 +19,7 @@ Cette année, c'était au tour de Villers La Faye d'accueillir les concurrents d
 - **Les Pépères** : 15e en 3h35'30"
 - **Les Razmoquette** : 35e en 4h00'12" (9e équipe mixte/23)
 
-61 équipes classées / Victoire des "Red Zone" (ASPTT DIJON) en 2h43'19" / 8e et 1ère équipe mixte : Eiffel Power, en 3h20'43" / 19e et 1ère équipe féminine : Les AJVNETTES, en 3h36'59".
+61 équipes classées / Victoire des "Red Zone" (ASPTT DIJON) en 2h43'19" / 8e et 1ère équipe mixte : Eiffel Power, en 3h20'43" / 19e et 1ère équipe féminine : Les AJVNettes, en 3h36'59".
 
 2 ACRistes concouraient dans des équipes du Lycée Eiffel : **Eric Novat** équipe Eiffel Tech (14e en 3h35'11"), *Emilie DERAIL*  équipe La Tour d'Eiffel (51e en 4h21'42").
 
