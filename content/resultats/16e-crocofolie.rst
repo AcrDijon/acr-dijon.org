@@ -6,7 +6,7 @@
 :location: Fontaine Lès Dijon
 :eventdate: 2018-06-17
 
-Cette année, la courte distance servait de support, aussi bien au Challenge de l'Etoile qu'au Challenge Trail 21, d'où la forte participation sur cette distance, avec, par ailleurs, un parcours profondément remanié et conséquemment rallongé.
+Cette année, la courte distance servait de support, aussi bien au Challenge de l'Etoile qu'au Challenge Trail 21, d'où une forte participation sur cette épreuve, avec, par ailleurs, un parcours profondément remanié et conséquemment rallongé.
 
 Les courses se sont disputées sous un ciel gris et par des températures très agréables. Malheureusement, l'ACR y était faiblement représentée, puisque seuls quatre membres du club figuraient parmi les participants, ainsi que deux jeunes. Heureusement, quelques podiums furent à la clé de la matinée.
 
