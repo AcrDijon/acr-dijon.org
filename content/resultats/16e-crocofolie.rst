@@ -8,7 +8,7 @@
 
 Cette année, la courte distance servait de support, aussi bien au Challenge de l'Etoile qu'au Challenge Trail 21, d'où la forte participation sur cette distance, avec, par ailleurs, un parcours profondément remanié et conséquemment rallongé.
 
-Les courses se sont disputées sous un ciel gris et par des températures très agréables. Malheureusement, l'ACR n'a pas répondu présent, puisque seuls quatre membres du club figuraient parmi les participants, ainsi que deux jeunes. Heureusement, quelques podiums furent à la clé de la matinée. 
+Les courses se sont disputées sous un ciel gris et par des températures très agréables. Malheureusement, l'ACR y était faiblement représentée, puisque seuls quatre membres du club figuraient parmi les participants, ainsi que deux jeunes. Heureusement, quelques podiums furent à la clé de la matinée.
 
 .. image:: http://assets.acr-dijon.org/croco181.jpg
 
@@ -26,8 +26,6 @@ Les courses se sont disputées sous un ciel gris et par des températures très 
 **1,8km Benjamins/Minimes :**
 
 *Zoé FANTON* et **Benjamin ALIXANT** représentaient notre club sur cette course, *Zoé* se classant 2e Benjamine (classement de cette course non encore publié) .
-
-
 
 .. image:: http://assets.acr-dijon.org/croco182.jpg
 
