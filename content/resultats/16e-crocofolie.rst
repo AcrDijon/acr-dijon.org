@@ -31,6 +31,6 @@ Les courses se sont disputées sous un ciel gris et par des températures très 
 
 *Zoé en action sur la course Benjamins/Minimes*
 
-Sur le 26km, victoire de Jonathan MEULE en 1h47'48" / 28e et 1ère féminine, Cécile SOUAN en 2h16'25" / 113 concurrents classés.
+Sur le 26km, victoire de Jonathan MEULE (Val de Gray Marathon) en 1h47'48" / 28e et 1ère féminine, Cécile SOUAN en 2h16'25" / 113 concurrents classés.
 
 **Bravo à nos ACRistes !**
