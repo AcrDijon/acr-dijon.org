@@ -23,9 +23,12 @@ Les courses se sont disputées sous un ciel gris et par des températures très 
 
 330 concurrents classés / Course remportée par Thomas REMOND (AC Chenôve) en 38'37" / 50e et 1ère féminine, Noémie VOUILLON (ADOChenôve) en 48'21".
 
-**1,8km Benjamins/Minimes :**
+**3km Benjamins/Minimes :**
 
-*Zoé FANTON* et **Benjamin ALIXANT** représentaient notre club sur cette course, *Zoé* se classant 2e Benjamine (classement de cette course non encore publié) .
+- **Benjamin ALIXANT** : 5e en 11'23"
+- *Zoé FANTON* : 8e en 11'49" 2eF et 2eMI
+
+15 concurrents classés / Course remportée par Louis GUILLEMINOT en 10'10" / 7e et 1ère féminine, Marion PERNIN (Dijon Triathlon) en 11'36".
 
 .. image:: http://assets.acr-dijon.org/croco182.jpg
 
