@@ -15,7 +15,9 @@ Une belle brochette d'ACRistes était en lice pour cette nouvelle édition des F
 - **Vincent BADET** : 4e en 18'33"
 - **Anthony GUILLEMIN** : 5e en 18'33"
 
-66 concurrents classés / 28e et 1ère féminine, Lucie PACOT en 20'50".  
+66 concurrents classés / 28e et 1ère féminine, Lucie PACOT en 20'50".
+
+Mohamed est licencié au DUC, mais est, par ailleurs adhérent à l'ACR, et c'est à ce titre qu'il courait sous nos couleurs.
 
 .. image:: http://assets.acr-dijon.org/longvic18.jpg
 
