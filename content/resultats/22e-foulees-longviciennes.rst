@@ -8,6 +8,8 @@
 
 Une belle brochette d'ACRistes était en lice pour cette nouvelle édition des Foulées Longviciennes, également répartie sur les deux distances au programme. Manquaient toutefois quelques représentantes féminines...
 
+.. image:: http://assets.acr-dijon.org/longvic22.jpg
+
 **5 km :**
 
 - **Mohamed SAALAH WARSAME** : **1er** en 16'29"
