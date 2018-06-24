@@ -12,12 +12,12 @@ Une belle brochette d'ACRistes était en lice pour cette nouvelle édition des F
 
 **5 km :**
 
-- **Mohamed SAALAH WARSAME** : **1er** en 16'29"
-- **Pierre AUDIN** : 3e en 18'19"
-- **Vincent BADET** : 4e en 18'33"
-- **Anthony GUILLEMIN** : 5e en 18'33"
+- **Mohamed SAALAH WARSAME** : **1er** en 16'29" (**1erJU**)
+- **Pierre AUDIN** : 3e en 18'19" (**1erM2**)
+- **Vincent BADET** : 4e en 18'33" (**1erM1**)
+- **Anthony GUILLEMIN** : 5e en 18'33" (**1erSE**)
 
-66 concurrents classés / 28e et 1ère féminine, Lucie PACOT en 20'50".
+64 concurrents classés / 28e et 1ère féminine, Lucie PACOT en 20'50".
 
 Mohamed est licencié au DUC, mais est, par ailleurs adhérent à l'ACR, et c'est à ce titre qu'il courait sous nos couleurs.
 
