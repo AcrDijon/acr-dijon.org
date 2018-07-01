@@ -8,7 +8,9 @@
 
 Savigny Les Beaune accueillait, ce dimanche, la course côte d'orienne des "10 km de l'Hexagone". Un ACRiste comptait parmi les participants à cette épreuve (avec finalement 8,5 km parcourus à son compteur).
 
-- **Tarek ZIADE** : 5e en 32'46"
+- **Tarek ZIADE** : 4e en 32'47"
+
+70 concurrents classés / Victoire de Yohan BAERT en 31'45" / 26e et 1ère féminine, Cécile ESCURE (Association Beaune Athlétisme) en 42'35".
 
 .. image:: http://assets.acr-dijon.org/hexagone18.jpg
 
