@@ -10,6 +10,6 @@ Direction l'Espérou, dans le Gard, pour **Fabien MATHIEU**, ce dimanche, à l'o
 
 .. image:: http://assets.acr-dijon.org/aigoual18.jpg
 
-Il s'est classé 163e en 1h33'39" / Course remportée par Simon CARRIERE (VC Mont Aigoual) en 1h00'01" / 49e et 1ère féminine, Manon DEQUATRE en 1h17'33".
+Il s'est classé 163e en 1h33'39" / Course remportée par Simon CARRIERE (VC Mont Aigoual) en 1h00'01" / 49e et 1ère féminine, Manon DEQUATRE en 1h17'33" / 364 concurrents classés.
 
 **Bravo à lui !**
