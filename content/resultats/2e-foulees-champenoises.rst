@@ -1,7 +1,7 @@
 2e Foulées champenoises
 =======================
 
-:date: 2018-07-08
+:date: 2018-07-07
 :category: Résultats
 :location: Champagne Sur Vingeanne
 :eventdate: 2018-07-07
