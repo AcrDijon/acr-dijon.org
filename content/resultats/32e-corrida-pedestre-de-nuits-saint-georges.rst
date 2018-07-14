@@ -15,6 +15,6 @@ Comme c'est généralement le cas, une chaleur lourde a accompagné les concurre
 - *Florence CUCIS* : 90e en 51'22" et 2eM2
 - **Jean Claude CUCIS** : 94e en 51'44"
 
-133 concurrents classés / Course remportée par Armand LUCAND en 33'18" / 18e et 1ère féminine, Camille VERNIZEAU (Rougeot Beaune Triathlon) en 39'43".
+133 concurrents classés / Course remportée par Armand LUCAND (AC Chenôve) en 33'18" / 18e et 1ère féminine, Camille VERNIZEAU (Rougeot Beaune Triathlon) en 39'43".
 
 **Bravo à eux !**
