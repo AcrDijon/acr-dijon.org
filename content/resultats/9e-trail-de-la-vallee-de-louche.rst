@@ -16,7 +16,7 @@ Comme l'an dernier, trois ACRistes ont participé, ce dimanche, au Trail de la V
 - **Alain BRIOT** : 82e en 1h15'36" (3eM4)
 - **Daniel CHAMBIN** : 124e en 1h25'32"
 
-189 concurrents classés / Course remportée par Thomas REMOND (AC Chenôve) en 49'20" / 25e et 1ère féminine, Carine DESBOIS (Chenôve Triathlon Club) en 1h01'41".
+189 concurrents classés / Course remportée par Thomas REMOND (AC Chenôve) en 49'20" / 13e et 1ère féminine, Isabelle FERRER en 58'03".
 
 **La Véluze (27,5km) :**
 
