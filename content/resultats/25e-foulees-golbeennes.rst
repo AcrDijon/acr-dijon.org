@@ -10,4 +10,4 @@ En ce jour de Fête Nationale, **Alain BRIOT** a poursuivi son périple vosgien 
 
 .. image:: http://assets.acr-dijon.org/golbey18.jpg
 
-Classement à suivre
+Classement à suivre... quand il sera diffusé...
