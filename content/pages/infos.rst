@@ -1,7 +1,7 @@
 Info pratique
 =============
 
-:date: 09/12/2015
+:date: 12/09/2015
 :summary: Informations pratiques
 
 Adresse postale
@@ -52,4 +52,4 @@ la saison 2015-2016.
 Un supplément de 5 euros est demandé aux nouveaux adhérents pour participer aux frais
 du t-shirt du club qui est remis à chaque adhérent.
 
-`Bulletin d'inscription <https://assets.acr-dijon.org/ad1718.pdf>`_.
+`Bulletin d'adhésion <https://assets.acr-dijon.org/bulletin2018-2019.pdf>`_.
