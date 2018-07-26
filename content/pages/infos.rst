@@ -52,4 +52,4 @@ la saison 2015-2016.
 Un supplément de 5 euros est demandé aux nouveaux adhérents pour participer aux frais
 du t-shirt du club qui est remis à chaque adhérent.
 
-`Bulletin d'adhésion <https://assets.acr-dijon.org/bulletin2018-2019.pdf>`_.
+`Bulletin d'inscription <https://assets.acr-dijon.org/bulletin2018-2019.pdf>`_.
