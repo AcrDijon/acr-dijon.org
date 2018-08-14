@@ -21,7 +21,7 @@ Cette épreuve servait de support aux Championnats de Bourgogne du Semi-Marathon
 - **Pierre AUDIN** : 42e en 1h26'33''
 - **Pascal FLEURY** : 153e en 1h44'08''
 - **Michaël ALIXANT** : 183e en 1h46'34''
-- **Alain BRIOT** : 184e en 1h46'35''(**2eV4** et **Champion de Bourgogne V4**)
+- **Alain BRIOT** : 184e en 1h46'35''(**2eV4**)
 - **Ismaël KHADIR** : 247e en 1h53'35''
 - **Julia KOLMAKOVA** : 249e en 1h53'56''
 - **Didier BELLEVILLE** : 263e en 1h55'05'' (**Champion de Bourgogne V2**)
