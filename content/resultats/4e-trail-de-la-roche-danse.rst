@@ -21,7 +21,7 @@ Six ACRistes étaient présents à Sainte Marie sur Ouche, ce 15 août, pour la 
 
 **26,5km/1000mD+ :**
 
-- **Alexandre DUFOUR** : 36e en 3h00'35"
+- **Alexandre DUFOUR** : 56e en 3h00'35"
 - **Jean Christophe DUBARD** : 99e en 3h34'44"
 
 119 concurrents classés / Course remportée par Adrien ALIX en 2h11'58" / 24e et 1ère féminine, Annne Sophie RAFFA en 2h43'37".
