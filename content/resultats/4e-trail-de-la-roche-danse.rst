@@ -17,7 +17,7 @@ Six ACRistes étaient présents à Sainte Marie sur Ouche, ce 15 août, pour la 
 - *Pauline GUENEAU* : 90e en 1h18'28"
 - **Daniel CHAMBIN** : 194e en 1h33'55"
 
-270 concurrents classés / Course remportée par Thibault MILLON en 56'17" / 33e et 1ère féminine, Carine DESBOIS (Aniche Triathlon) en 1h07'53".
+271 concurrents classés / Course remportée par Thibault MILLON en 56'17" / 33e et 1ère féminine, Carine DESBOIS (Aniche Triathlon) en 1h07'53".
 
 **26,5km/1000mD+ :**
 
