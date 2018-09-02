@@ -19,7 +19,7 @@ Six ACRistes étaient présents à Sainte Marie sur Ouche, ce 15 août, pour la 
 
 271 concurrents classés / Course remportée par Nicolas DRAPIER en 56'17" / 34e et 1ère féminine, Carine DESBOIS (Aniche Triathlon) en 1h07'53".
 
-**26,5km/1000mD+ :**
+**26,5km/1035mD+ :**
 
 - **Alexandre DUFOUR** : 57e en 3h00'35"
 - **Jean Christophe DUBARD** : 100e en 3h34'44"
