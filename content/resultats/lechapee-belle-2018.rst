@@ -3,14 +3,12 @@ L'Echapée Belle 2018
 
 :date: 2018-09-02
 :category: Résultats
-:location: Aiguebelle (73)
+:location: Allevard (38), Aiguebelle (73)
 :eventdate: 2018-09-01
 
+.. image:: http://assets.acr-dijon.org/bld18.jpg
 
-
-.. image:: http://assets.acr-dijon.org/belledonne18.jpg
-
-Une ACRiste était en Savoie, en ce premier jour de septembre, du côté de la Chaîne de Belledonne...
+Une ACRiste a transité d'Isère en Savoie, en ce premier jour de septembre, du côté de la Chaîne de Belledonne...
 
 **Parcours des Crêtes (57km/4100mD+) :**
 
