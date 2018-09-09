@@ -19,7 +19,7 @@ Cette 27e édition a été marquée par une baisse sensible en termes de partici
 - **jean Luc POIROT** : 303e en 1h53'05"
 - **Sylvain SANCHEZ** : 321e en 1h55'06"
 
-452 concurrents classés / Course remportée par Alaa HRIOUED (Coquelicot 42) en 1h05'32" / 8e et 1ère féminine, Susan Kipsang Jeptoo (Athlé Saint Julien 74) en 1h11'29".
+452 concurrents classés / Course remportée par Alaa HRIOUED (Coquelicot 42) en 1h05'32" / 8e et 1ère féminine, Susan KIPSANG JEPTOO (Athlé Saint Julien 74) en 1h11'29".
 
 .. image:: http://assets.acr-dijon.org/bp181.jpg
 
@@ -37,7 +37,7 @@ Cette 27e édition a été marquée par une baisse sensible en termes de partici
 - **Daniel CHAMBIN** : 422e en 56'40"
 - **Jean Louis RABIET** : 1099e en 1h22'55" et **1erM5 !**
 
-1112 concurrents classés / Course remportée par Ammar DAHMAR (CO Saint Fons) en 33'14" / 11e et 1ère féminine, Susan KIPSANG Jeptoo (Athlé Saint Julien 74) en 37'10".
+1112 concurrents classés / Course remportée par Ammar DAHMAR (CO Saint Fons) en 33'14" / 11e et 1ère féminine, Susan KIPSANG JEPTOO (Athlé Saint Julien 74) en 37'10".
 
 **L'ACR remporte le classement par équipe sur le 10 km !**
 
