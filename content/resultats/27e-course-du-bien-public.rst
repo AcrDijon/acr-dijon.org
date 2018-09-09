@@ -39,7 +39,7 @@ Cette 27e édition a été marquée par une baisse sensible en termes de partici
 
 1112 concurrents classés / Course remportée par Ammar DAHMAR (CO Saint Fons) en 33'14" / 11e et 1ère féminine, Susan KIPSANG JEPTOO (Athlé Saint Julien 74) en 37'10".
 
-**L'ACR remporte le classement par équipe sur le 10 km !**
+**L'ACR remporte le classement par équipe sur cette épreuve !**
 
 .. image:: http://assets.acr-dijon.org/bp182.jpg
 
