@@ -32,7 +32,7 @@ Cette 27e édition a été marquée par une baisse sensible en termes de partici
 - **Anthony GUILLEMIN** : 71e en 44'30"
 - **Jean Christophe DUBARD** : 160e en 48'47"
 - **jean Claude MAGUER** : 254e en 51'56" et 2eM4
-- **Charly FONTAINE** :275e en 52'42"
+- **Charly FONTAINE** : 275e en 52'42"
 - **Didier BELLEVILLE** : 397e en 56'01"
 - **Daniel CHAMBIN** : 422e en 56'40"
 - **Jean Louis RABIET** : 1099e en 1h22'55" et **1erM5 !**
