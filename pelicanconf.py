@@ -111,7 +111,8 @@ LINKS = (('Athle.fr', 'http://www.athle.fr/ffa.performance/'),
         ('Ligue Bourgogne', 'http://ffaliguebou.pagesperso-orange.fr/'),
         ("J'aime Courir", 'http://www.jaimecourir.fr/'),
         ('CDCHS 21', 'http://www.cdchs21.fr'),
-        ('Challenge Etoile', 'http://challenge-etoile21.com')
+        ('Challenge Etoile', 'http://challenge-etoile21.com'),
+        ("Bulletin d'inscription", "https://assets.acr-dijon.org/bulletin2018-2019.pdf")
 )
 
 # Social widget
