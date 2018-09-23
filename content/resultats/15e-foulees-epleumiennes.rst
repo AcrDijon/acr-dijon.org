@@ -36,6 +36,6 @@ Une petite délégation d'ACRistes était présente à Saint Apollinaire, pour l
 
 - *Zoé FANTON* : 13e en 10'17" (2eF et **1èreMI !**)
 
-33 concurrents classés / Course remportée par Léo CHATTENET en 8'42" / 12e et 1ère féminine, Axelle AMMETERE en 10'11".
+33 concurrents classés / Course remportée par Léo CHATTENET (DUC) en 8'42" / 12e et 1ère féminine, Axelle AMMETERE en 10'11".
 
 **Bravo à nos ACRistes !**
