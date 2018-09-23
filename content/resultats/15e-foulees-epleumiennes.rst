@@ -6,7 +6,9 @@
 :location: Saint Apollinaire
 :eventdate: 2018-09-22
 
-Une petite délégation d'ACRistes était présente à Saint Apollinaire, pour la 15e édition des Foulées Epleumiennes, sur de nouveaux tracés qui ont éprouvé l'ensemble des participants.
+Une petite délégation de 7 ACRistes (toutes courses et catégories d'âge confondues) était à Saint Apollinaire hier après midi - sans doute la concurrence de la Course des Garçons de café qui animait le centre de Dijon au même moment ! Pour rappel, nous étions 14 l'an dernier, 21 il y a deux ans...
+
+Pour cette quinzième édition des Foulées Epleumiennes, de nouveaux parcours étaient proposés aux concurrents.
 
 **10,1km (101mD+) :**
 
