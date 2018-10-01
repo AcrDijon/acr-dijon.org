@@ -6,7 +6,7 @@ Trail du Montagut
 :location: Alba La Romaine (07)
 :eventdate: 2018-09-29
 
-Direction l'Ardèche, ce samedi, pour **Vincent BADET**, à l'occasion du Trail de Montagut (20,7km/630mD+).
+Direction l'Ardèche, ce samedi, pour **Vincent BADET**, à l'occasion du Trail du Montagut (20,7km/630mD+).
 
 .. image:: http://assets.acr-dijon.org/montagut18.jpg
 
