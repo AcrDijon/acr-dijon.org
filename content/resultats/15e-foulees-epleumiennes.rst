@@ -14,11 +14,11 @@ Pour cette quinzième édition des Foulées Epleumiennes, de nouveaux parcours �
 
 - **Jean Christophe DUBARD** : 102e en 46'57"
 - **Jean Claude MAGUER** : 141e en 49'31" (2eM4)
-- *Sandrine FANTON* : 179e en 52'25"
-- **Daniel CHAMBIN** : 187e en 53'21" (3eM4)
-- *Emilie DERAIL* : 194e en 54'02"
+- *Sandrine FANTON* : 180e en 52'25"
+- **Daniel CHAMBIN** : 188e en 53'21" (3eM4)
+- *Emilie DERAIL* : 195e en 54'02"
 
-254 concurrents classés / Course remportée par Khalid CHAHID en 33'00" / 7e et 1ère féminine, Mélanie LUSTREMANT (DUC) en 38'32".
+250 concurrents classés / Course remportée par Khalid CHAHID en 33'00" / 7e et 1ère féminine, Mélanie LUSTREMANT (DUC) en 38'32".
 
 .. image:: http://assets.acr-dijon.org/stapo181.jpg
 
