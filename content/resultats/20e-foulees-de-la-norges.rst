@@ -19,7 +19,7 @@ Un petit groupe d'ACRistes était présent, ce dimanche, sous le soleil de Brét
 **5 km :**
 
 - **Pierre AUDIN** : 5e en 19'03" (**1erM2 !**)
-- **jean Christophe DUBARD** : 14e en 22'12"
+- **jean Christophe DUBARD** : 14e en 22'12" (3eM2)
 - *Emma FANTON* : 19e en 23'00" (**1èreF et 1èreCA !**)
 - **jean Louis RABIET** : 84e en 35'41" (**1erM5 !**)
 
