@@ -3,10 +3,10 @@
 
 :date: 2018-10-08
 :category: Résultats
-:location: Arc Et Senans (39)
+:location: Arc Et Senans (25)
 :eventdate: 2018-10-07
 
-Trois ACRistes étaient hier en terre jurassienne, à l'occasion des courses du Trail des deux salines à Arc Et Senans.
+Trois ACRistes étaient hier dans le Doubs, à l'occasion des courses du Trail des deux salines à Arc Et Senans.
 
 **Trail des deux salines (33 km / 950 m D+) :**
 
