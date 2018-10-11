@@ -52,7 +52,7 @@ Sponsors
 
 .. image:: /theme/partenaires/lesportif.png
 
-.. image:: https://assets.acr-dijon.org/orangebleue.jpg
+
 
 .. image:: /theme/partenaires/rapidflore.png
 
