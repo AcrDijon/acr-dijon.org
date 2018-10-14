@@ -30,4 +30,8 @@ Trois ACRistes étaient hier dans le Doubs, à l'occasion des courses du Trail d
 
 *Christophe et benoît terminent leur course au coude à coude !*
 
+.. image:: http://assets.acr-dijon.org/tds2018.jpg
+
+*Pauline à l'arrivée*
+
 **Un grand bravo à nos ACRistes !**
