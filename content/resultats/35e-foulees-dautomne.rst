@@ -6,7 +6,7 @@
 :location: Semur En Auxois
 :eventdate: 2018-10-14
 
-En ce dimanche matin ensoleillé de mi-octobre, cinq ACRistes s'en sont allés arpenter, les parcours vallonnés et venteux des courses de la plus ancienne des épreuves sur route de Côte d'Or.
+En ce dimanche matin ensoleillé de mi-octobre, cinq ACRistes s'en sont allés arpenter, les parcours vallonnés et ventés des courses de la plus ancienne des épreuves sur route de Côte d'Or.
 
 .. image:: http://assets.acr-dijon.org/semur181.jpg
 
