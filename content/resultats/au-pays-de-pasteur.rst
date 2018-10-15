@@ -1,25 +1,20 @@
 Au pays de Pasteur...
 =====================
 
-:date: 2018-10-15 12:52
+:date: 2018-10-15
 :category: Résultats
+:location: Dole (39)
+:eventdate: 2018-10-14
 
 
-Voici un exemple de texte.
 
-**Texte en gras**
+.. image:: http://assets.acr-dijon.org/dole18.jpg
 
-*Texte en italique*
 
-Voici une liste:
+Ce dimanche matin, **Pierre AUDIN** a participé au 10 km, dans le cadre des courses du Marathon du pays de Pasteur.
 
-- un
-- deux
-- trois
+Il s'y est classé 21e en 39'16" (2eM2)
 
-Attention à bien sauter une ligne avant ET apres la liste!
+329 concurrents classés / Course remportée par Anthony FEVRAT (Amicale des Coureurs de Fond d'Alsace) en 34'16" / 37e et 1ère féminine, Mathilde PLESSE (ASPTT Besançon) en 41'38".
 
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Bravo à lui !**
