@@ -23,14 +23,16 @@ Contacts
 Vous pouvez contacter les responsables de l'association en envoyant
 un e-mail à: `contact@acr-dijon.org <mailto:contact@acr-dijon.org>`_
 
-- **Président** Alain BREGAND - 06 88 24 82 02
-- **Vice-Président** Benoît SUREAU - 06 64 46 32 68
-- **Trésorier** Pierre AUDIN - 06 79 80 21 83
-- **Trésorier Adjoint** Bruno HUOT - 06 73 24 52 80
-- **Secrétaire** Claire TAINTURIER - 06 77 47 40 74
-- **Secrétaire Adjointe** Céline BENOIT - 07 71 87 83 09
-- **Site internet** Jean-Christophe DUBARD - 06 59 25 24 67
-- **Relations Partenaires** Eric MARILLIER - 06 26 02 18 85
+- **Président** : Alain BREGAND 06 88 24 82 02
+- **Vice-Président** : Benoît SUREAU 06 64 46 32 68
+- **Communication / Relations Partenaires** : Eric MARILLIER 06 26 02 18 85
+- **Trésorier** : Pierre AUDIN
+- **Trésorier Adjoint** : Bruno HUOT
+- **Secrétaire** : Claire TAINTURIER
+- **Secrétaire Adjointe** : Edith SANCHEZ
+- **Secrétaire Adjointe** : Céline BENOIT
+- **Site internet** : Jean-Christophe DUBARD
+
 
 
 Adhésion
