@@ -1,7 +1,7 @@
-Info pratique
-=============
+Contacts / Info pratique
+========================
 
-:date: 09/12/2015
+:date: 12/09/2015
 :summary: Informations pratiques
 
 Adresse postale
