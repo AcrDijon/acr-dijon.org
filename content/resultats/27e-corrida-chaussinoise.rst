@@ -4,7 +4,7 @@
 :date: 2018-10-21
 :category: Résultats
 :location: Chaussin (39)
-:eventdate: 2018-10-21
+:eventdate: 2018-10-20
 
 .. image:: http://assets.acr-dijon.org/ch18.jpg
 
