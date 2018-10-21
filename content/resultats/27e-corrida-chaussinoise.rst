@@ -8,7 +8,7 @@
 
 .. image:: http://assets.acr-dijon.org/ch18.jpg
 
-Les rues de Chaussin ont accueilli soleil, chaleur et vent, ainsi qu'un ACRiste, pour les courses de sa traditionnelle corrida, ce samedi après-midi.
+Les rues de Chaussin ont accueilli soleil, chaleur et vent, ainsi qu'un ACRiste, pour les courses de la traditionnelle corrida, ce samedi après-midi.
 
 **5 km :**
 
