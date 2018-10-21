@@ -19,3 +19,11 @@ Soleil et chaleur étaient de mise, ce samedi après midi, dans le vignoble du p
 - **Jean Louis RABIET** : 944e en 1h16'08" (**1erM5 !**)
 
 959 concurrents classés / Course remportée par Alexandre BOURGEOIS en 32'03" / 44e et 1ère féminine, Camille VERNIZEAU (DUC) en 39'59".
+
+**2km Benjamins/Minimes :**
+
+- *Zoé FANTON* : 21e en 7'20" (2eMI)
+
+84 concurrents classés / Course remportée par Augustin CHAPET en 5'50" / 8e et 1ère féminine, Kahina HIANE (VLPA) en 6'41".
+
+**Bravo à nos ACRistes !**
