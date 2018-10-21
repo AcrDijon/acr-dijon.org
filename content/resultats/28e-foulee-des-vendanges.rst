@@ -26,4 +26,8 @@ Soleil et chaleur étaient de mise, ce samedi après midi, dans le vignoble du p
 
 84 concurrents classés / Course remportée par Augustin CHAPET en 5'50" / 8e et 1ère féminine, Kahina HIANE (VLPA) en 6'41".
 
+.. image:: http://assets.acr-dijon.org/fdv18.jpg
+
+*Zoé et Emma en bonne compagnie !*
+
 **Bravo à nos ACRistes !**
