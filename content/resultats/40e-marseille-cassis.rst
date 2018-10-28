@@ -8,7 +8,7 @@
 
 .. image:: http://assets.acr-dijon.org/marseillecassis18.jpg
 
-Ce dimanche matin, cinq ACRistes étaient à Marseille, au départ de la 40e édition de Marseille-Cassis (19,9km / 358m D+). l'un d'eux, malheureusement victime d'un claquage, ne rallia pas Cassis.
+Ce dimanche matin, cinq ACRistes étaient à Marseille, au départ de la 40e édition de Marseille-Cassis (19,9km / 358m D+). L'un d'eux, malheureusement victime d'un claquage, ne rallia pas Cassis.
 
 - **Quentin POIROT** : 5979e en 1h47'35"
 - *Sandrine FANTON* : 7188e en 1h50'35"
