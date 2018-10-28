@@ -1,25 +1,21 @@
 40e Marseille-Cassis
 ====================
 
-:date: 2018-10-28 18:22
+:date: 2018-10-28
 :category: Résultats
+:location: Marseille, Cassis (13)
+:eventdate: 2018-10-28
 
+.. image:: http://assets.acr-dijon.org/marseillecassis18.jpg
 
-Voici un exemple de texte.
+Ce dimanche matin, cinq ACRistes étaient à Marseille, au départ de la 40e édition de Marseille-Cassis (19,9km / 358m D+). l'un d'eux, malheureusement victime d'un claquage, ne rallia pas Cassis.
 
-**Texte en gras**
+- **Quentin POIROT** : 5979e en 1h47'35"
+- *Sandrine FANTON* : 7188e en 1h50'35"
+- **Charly FONTAINE** : 8214e en 1h53'07"
+- **Philippe JOLY** : 9974e en 1h57'09"
+- **Jean Luc POIROT** : AB
 
-*Texte en italique*
+18760 concurrents classés / Course remportée par Olika ADUGNA en 1h00'29" / 23e et 1ère féminine, Gete ALEMAYEHU en 1h08'46".
 
-Voici une liste:
-
-- un
-- deux
-- trois
-
-Attention à bien sauter une ligne avant ET apres la liste!
-
-Une image:
-
-.. image:: http://assets.acr-dijon.org/1janvacr1.jpg
-
+**Un grand bravo à nos vaillants ACRistes !**
