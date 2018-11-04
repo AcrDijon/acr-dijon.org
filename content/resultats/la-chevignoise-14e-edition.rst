@@ -14,7 +14,7 @@ Une belle délégation d'ACRistes était présente, avec de bons résulats à la
 
 - *Zoé FANTON* : 17e en 7'58" (3eF et 2eMI)
 
-70 concurrents classés / Course remportée par Nathan BUSSIERE (DUC) en 6'43" / 15e et 1ère féminine, Laura ENDERLIN (DUC) en 6'43".
+70 concurrents classés / Course remportée par Nathan BUSSIERE (DUC) en 6'43" / 15e et 1ère féminine, Laura ENDERLIN (DUC) en 7'56".
 
 **4,5 km :**
 
