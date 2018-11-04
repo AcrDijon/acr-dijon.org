@@ -32,10 +32,4 @@ Ce matin, les environs d'Ahuy étaient baignés d'un froid glacial, pour la onzi
 
 *Bertrand, brillant 5e du 23km*
 
-**3 km Benjamins/Minimes :**
-
-- **Benjamin ALIXANT** : 18e en 12'31"
-
-39 concurrents classés / Course remportée par Léo TRAMOY (JSP Dijon Est) en 9'56" / 16e et 1ère féminine, Axelle AMMETER (Dijon Triathlon) en 12'03".
-
 **Un grand bravo à nos vaillants ACRistes !**
