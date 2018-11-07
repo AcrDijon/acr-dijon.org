@@ -16,7 +16,7 @@ Nos représentants, tous présents sur la petite distance, se sont illustrés pa
 
 - **Mohamed SAALAH WARSAME** : **1er** en 26'13" (**1erJU !**)
 - **Anthony GUILLEMIN** : 14e en 29'03"
-- **Dimitri BARDET** : 19e en 30'12"
+- **Dimitri BARDEY** : 19e en 30'12"
 - **Alexandre DUFOUR** : 21e en 30'19"
 - **Bruno HUOT** : 23e en 30'36"
 - **Donatien JEHNE** : 31e en 31'16"
