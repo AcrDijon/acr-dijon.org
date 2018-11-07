@@ -28,7 +28,7 @@ Un petit groupe d'ACRistes était présent, ce dimanche, sous le soleil de Brét
 **2 km Be/Mi :**
 
 - *Zoé FANTON* : 16e en 8'05" (2eF et 2eMi)
-- **Benjamin ALIXANT** : 19e en 8'21"
+
 
 49 concurrents classés / Epreuve remportée par Clément GUIGON en 7'03" / 14e et 1ère féminine, Coline BORRION en 7'58".
 
