@@ -14,6 +14,7 @@ Il y avait foule, ce dimanche matin, à La Cude, pour cette 25e édition du Trai
 
 - **Dimitri BARDEY** : 7e en 35'21" (3eSE)
 - *Julie SAVIANE* : 53e en 45'53"
+- **Romain HERBLOT** : 108e en 54'11"
 - **Jean Louis RABIET** : 169e en 1h11'31" (**1erM5 !**)
 
 170 concurrents classés / Epreuve remportée par Florian MASSUT en 32'11" / 22e et 1ère féminine, Camille PIERRE (Dijon Singletrack) en 40'08".
