@@ -12,7 +12,7 @@ Il y avait foule, ce dimanche matin, à La Cude, pour cette 25e édition du Trai
 
 **8 km / 180 m D+ :**
 
-- **Dimitry BARDEY** : 7e en 35'21" (3eSE)
+- **Dimitri BARDEY** : 7e en 35'21" (3eSE)
 - *Julie SAVIANE* : 53e en 45'53"
 - **Jean Louis RABIET** : 169e en 1h11'31" (**1erM5 !**)
 
