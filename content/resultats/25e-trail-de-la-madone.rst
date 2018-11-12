@@ -6,7 +6,7 @@
 :location: Velars Sur Ouche
 :eventdate: 2018-11-11
 
-.. image:: http://assets.acr-dijon.org/madone2018.jpg
+
 
 Il y avait foule, ce dimanche matin, à La Cude, pour cette 25e édition du Trail de la Madone, avec, pour l'occasion, l'ajout d'une course de 25 km au programme des classiques 8 et 14 km !
 
@@ -25,6 +25,10 @@ Il y avait foule, ce dimanche matin, à La Cude, pour cette 25e édition du Trai
 - **Charly FONTAINE** : 123e en 1h19'47"
 
 320 concurrents classés / Epreuve remportée par Thomas REMOND en 53'52" / 18e et 1ère féminine, Isabelle FERRER (ACS) en 1h05'04".
+
+.. image:: http://assets.acr-dijon.org/mad18.jpg
+
+*Charly proche de l'arrivée du 14 km*
 
 **25 km / 1000 m D+ :**
 
