@@ -25,8 +25,18 @@ Voici les résultats des ACRistes !
 
 - *Emma FANTON* : **1ère !**
 
+**Minimes Garçons 2e année :**
+
+- **Corentin BADET** : **1er !**
+
 **Minimes Filles 1ère année :**
 
 - *Zoé FANTON* : **1ère !**
+
+**Benjamins 2e année :**
+
+- **Clément BADET** : **1er !**
+
+
 
 **Un grand bravo à nos ACRistes et rendez-vous en 2019 pour le prochain Challenge de l'Etoile !**
