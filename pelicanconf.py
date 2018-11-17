@@ -159,3 +159,6 @@ def str2defaultformat(data):
 JINJA_FILTERS = {'str2defaultformat': str2defaultformat}
 
 ISSO_SERVER = "http://localhost:9999"
+HENET_SERVER = "http://localhost:8080"
+PLUGIN_PATH = '/Users/tarek/Dev/github.com/henet/pelican/plugins'
+PLUGINS = ["henet_comments"]
