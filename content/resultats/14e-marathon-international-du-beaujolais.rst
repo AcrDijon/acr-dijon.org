@@ -27,7 +27,7 @@ Les courses du Marathon du Beaujolais étaient le cadre de la sortie annuelle du
 - **Manuel BARREIRA** : 341e en 1h40'46" (temps réel : 1h39'49")
 - **Donatien JEHNE** : 353e en 1h41'00" (temps réel : 1h40'03")
 - **Edalberto CUCO** : 693e en 1h48'16" (temps réel : 1h47'17")
-- *Noémie GANDILLIET** : 926e en 1h52'09" (temps réel : 1h51'11")
+- *Noémie GANDILLIET* : 926e en 1h52'09" (temps réel : 1h51'11")
 - **Didier BELLEVILLE** : 1173e en 1h55'36" (temps réel : 1h54'38")
 - **Talmi SIMEHA** : 1276e en 1h56'51" (temps réel : 1h55'50")
 - *Céline BENOIT* : 1632e en 2h00'56" (temps réel : 1h59'59")
