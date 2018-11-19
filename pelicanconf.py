@@ -116,7 +116,7 @@ LINKS = (('Athle.fr', 'http://www.athle.fr/ffa.performance/'),
 )
 
 # Social widget
-SOCIAL = [('envelope', 'mailto:contact@acr-dijon.org')]
+SOCIAL = [('envelope', 'mailto:acr.dijon@gmail.com')]
 
 DEFAULT_PAGINATION = 10
 
