@@ -25,5 +25,6 @@ Par ailleurs, on note le retour des **Championnats départementaux de Cross Coun
 
 **Courses supprimées ou ne figurant pas encore au calendrier :**
 
+- **"Trail Telethon du Plateau de Chenôve"**
 - **"Trail du Lac de Pont"** à **Pont Et Massène** (déjà annulé ces deux dernières années)
 - Trail nocturne **"Meursault By Night"**
