@@ -23,8 +23,8 @@ http://data.over-blog-kiwi.com/0/54/78/43/20181116/ob_be8185_calendrier-running-
 
 Par ailleurs, on note le retour des **Championnats départementaux de Cross Country**, qui seront organisés le 13 janvier à **Saint Apollinaire**.
 
-**Courses supprimées ou ne figurant pas encore au calendrier :**
+**Courses ne figurant pas au calendrier :**
 
 - **"Trail Telethon du Plateau de Chenôve"**
 - **"Trail du Lac de Pont"** à **Pont Et Massène** (déjà annulé ces deux dernières années)
-- Trail nocturne **"Meursault By Night"**
+- Trail nocturne **"Meursault By Night"** (les organisateurs assurent que la course sera organisée en 2019)
