@@ -16,9 +16,8 @@ Un test VMA était organisé, ce dimanche matin, au stade d'Epirey.
 - 17,5 km/h : Vincent MONNIN, Quentin POIROT
 - 15,5 km/h : Jean Claude MAGUER
 - 15 km/h : Eric CORDIER
-- 14,5 km/h : *Beatrice BADET*
+- 14,5 km/h : *Béatrice BADET*
 - 13,5 km/h : *Anne Laure HUET*
 - 12 km/h : Jean Louis RABIET
 
 **Bravo à tous les participants !**
-
