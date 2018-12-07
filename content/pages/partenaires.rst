@@ -52,8 +52,6 @@ Sponsors
 
 .. image:: /theme/partenaires/lesportif.png
 
-
-
 .. image:: https://assets.acr-dijon.org/cdf.jpg
 
 .. image:: https://assets.acr-dijon.org/doras.png
@@ -61,8 +59,6 @@ Sponsors
 .. image:: https://assets.acr-dijon.org/barbarians.png
 
 .. image:: https://assets.acr-dijon.org/hertz.png
-
-.. image:: https://assets.acr-dijon.org/graymode.png
 
 .. image:: https://assets.acr-dijon.org/quadijon.png
 
@@ -75,3 +71,5 @@ Sponsors
 .. image:: https://assets.acr-dijon.org/k6fm.jpg
 
 .. image:: https://assets.acr-dijon.org/boutillon.jpg
+
+.. image:: https://assets.acr-dijon.org/cryo.jpg
