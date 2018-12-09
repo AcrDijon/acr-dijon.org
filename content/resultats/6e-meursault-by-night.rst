@@ -12,7 +12,7 @@ Une pluie fine ininterrompue a accompagné les concurrents de cette 6e édition 
 
 *Les deux ACRistes du 16 km avant le départ*
 
-**16 km / 400 m D+ :**
+**16 km / 500 m D+ :**
 
 - **Bertrand BULLE** : 14e en 1h13'43" et 3eM1
 - **Jean Christophe DUBARD** : 222e en 1h44'28"
