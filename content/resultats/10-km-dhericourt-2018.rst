@@ -1,7 +1,7 @@
 10 km d'Héricourt 2018
 ======================
 
-:date: 2018-12-16
+:date: 2018-12-15
 :category: Résultats
 :location: Héricourt (70)
 :eventdate: 2018-12-09
