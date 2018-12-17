@@ -6,9 +6,11 @@
 :location: Châtillon Sur Seine
 :eventdate: 2018-12-15
 
-.. image:: http://assets.acr-dijon.org/tfc18.jpg
+
 
 Un ACRiste a participé, ce samedi soir, au "Trail de la Forêt Châtillonnaise", parcours alternant entre parties urbaines (les premiers kilomètres et la fin de parcours correspondant aux 9 km du trail urbain, à travers rues, ruelles pavées et escaliers du centre historique) et parties champêtres et boisées.
+
+.. image:: http://assets.acr-dijon.org/chat18.jpg
 
 **Trail de la Forêt Châtillonnaise (25,7 km / 425 m D+) :**
 
