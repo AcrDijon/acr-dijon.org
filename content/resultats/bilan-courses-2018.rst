@@ -13,7 +13,7 @@ L'année 2018 touche à sa fin et voici quelques chiffres de l'activité des mem
 Courses adultes (catégories Cadet à Master 5) : 440 participations recensées sur les courses individuelles (530 l'an dernier, 602 il y a deux ans).
 Répartition : 341 côté Masculins / 99 côté Féminines, pour 167 courses (204 l'an dernier).
 
-81 compétiteurs et compétitrices ont participé à au moins une course (35 pour le plus assidu). Répartition : 53 côté Masculins / 28 côté Féminines.
+81 compétiteurs et compétitrices (88 l'an dernier) ont participé à au moins une course (35 pour le plus assidu). Répartition : 53 côté Masculins / 28 côté Féminines.
 
 Courses jeunes (catégories Benjamins et Minimes) : 13 particpations recencées (10 pour Zoé FANTON, 3 pour Benjamin ALIXANT).
 
