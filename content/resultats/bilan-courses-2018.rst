@@ -38,6 +38,8 @@ Courses adultes :
 
 - 130 podiums de catégorie sur les courses individuelles (151 l'an passé), concernant 31 compétiteurs et compétitrices : 24 Masculins / 7 Féminines dont 71 premières places : 63 côté Masculins / 8 côté Féminines, 30 deuxièmes places et 29 troisièmes places.
 
+- 4 podiums de catégories lors des marathons relais.
+
 
 Courses jeunes :
 
@@ -102,6 +104,13 @@ Podiums de catégorie jeunes :
 
 Zoé FANTON : 8 (2x1ère, 5x2e, 1x3e) Benjamine puis Minime
 Benjamin ALIXANT : 1 (1x1er) Minime
+
+Podiums de catégories en relais :
+
+- Les Vaillants : 3e équipe masculine au Relais des Hautes Côtes.
+- Les Véloces : 1ère équipe masculine au relais d'Alésia.
+- Les Tranquilles : 1ère équipe mixte au relais d'Alésia.
+- Les Touristes : 3e équipe mixte au relais d'Alésia.
 
 Distances en course :
 
@@ -191,7 +200,7 @@ Pour terminer ce tour d'horizon, voici les distances parcourues en course, sur l
 
 Distance totale parcourue : 6417,5km (soit une distance moyenne de 79,23km par participant).
 
-Chez les jeunes : 
+Chez les jeunes :
 
 - *Zoé FANTON* : 24,5 km
 - Benjamin ALIXANT : 12 km
