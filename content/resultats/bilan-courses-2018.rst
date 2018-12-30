@@ -59,7 +59,7 @@ Podiums scratch adultes :
 - Pierre AUDIN : 3 (3x3e)
 - *Emma FANTON* : 1 (1x1ère)
 - *Morgane FRAIZE* : 1 (1x1ère)
-- Mohammed SALAAH WARSAME : 1 (1x1er)
+- Mohammed SAALAH WARSAME : 1 (1x1er)
 - Alexandre DUFOUR : 1 (1x1er)
 
 Podiums scratch jeunes :
