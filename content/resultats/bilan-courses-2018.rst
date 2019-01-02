@@ -64,7 +64,7 @@ Podiums scratch adultes :
 
 Podiums scratch jeunes :
 
-Zoé FANTON : 7 (1x1ère, 5x2e, 1x3e)
+- *Zoé FANTON* : 7 (1x1ère, 5x2e, 1x3e)
 
 Podiums de catégorie adultes :
 
