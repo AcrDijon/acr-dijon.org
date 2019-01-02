@@ -112,7 +112,7 @@ Podiums de catégories en relais :
 - Les Tranquilles : 1ère équipe mixte au relais d'Alésia.
 - Les Touristes : 3e équipe mixte au relais d'Alésia.
 
-Distances en course :
+**Distances en course :**
 
 Pour terminer ce tour d'horizon, voici les distances parcourues en course, sur les courses officielles durant cette année. Seuls les totaux kilométriques des courses terminées sont pris en compte. Certains totaux concernent l'année complète, d'autres une partie d'année (départs/arrivées en cours d'année). Les distances ont été arrondies aux 500m les plus proches, ou la distance annoncée de la course, si course unique disputée dans l'année.
 
