@@ -1,7 +1,7 @@
 Un Kir pour l'an neuf
 =====================
 
-:date: 2019-01-02
+:date: 2019-01-01
 :category: Actualités
 :location: DIJON / Lac Kir
 :eventdate: 2019-01-01
