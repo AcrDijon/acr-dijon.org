@@ -10,12 +10,12 @@ L'année 2018 touche à sa fin et voici quelques chiffres de l'activité des mem
 
 **Participations :**
 
-Courses adultes (catégories Cadet à Master 5) : 440 participations recensées sur les courses individuelles (530 l'an dernier, 602 il y a deux ans).
-Répartition : 341 côté Masculins / 99 côté Féminines, pour 167 courses (204 l'an dernier).
+Courses adultes (catégories Cadet à Master 5) : 442 participations recensées sur les courses individuelles (530 l'an dernier, 602 il y a deux ans).
+Répartition : 341 côté Masculins / 101 côté Féminines, pour 169 courses (204 l'an dernier).
 
 81 compétiteurs et compétitrices (88 l'an dernier) ont participé à au moins une course (35 pour le plus assidu). Répartition : 53 côté Masculins / 28 côté Féminines.
 
-Courses jeunes (catégories Benjamins et Minimes) : 13 particpations recencées (10 pour Zoé FANTON, 3 pour Benjamin ALIXANT).
+Courses jeunes (catégories Benjamins et Minimes) : 15 particpations recencées (10 pour Zoé FANTON, 3 pour Benjamin ALIXANT).
 
 Marathons Relais :
 
@@ -140,7 +140,7 @@ Pour terminer ce tour d'horizon, voici les distances parcourues en course, sur l
 - Benoît SUREAU : 103,5
 - Edalberto CUCO : 103,5
 - Ismaël KHADIR : 97
-- *Emma FANTON* : 82
+- *Emma FANTON* : 88,5
 - *Céline BENOIT* : 80,5
 - *Sandrine FANTON* : 80,5
 - Talmi SIMEHA : 79
@@ -198,11 +198,11 @@ Pour terminer ce tour d'horizon, voici les distances parcourues en course, sur l
 - *Elodie BRETON* : 5
 - *Béatrice BADET* : 4,5
 
-Distance totale parcourue : 6417,5km (soit une distance moyenne de 79,23km par participant).
+Distance totale parcourue : 6424km (soit une distance moyenne de 79,3km par participant).
 
 Chez les jeunes :
 
-- *Zoé FANTON* : 24,5 km
+- *Zoé FANTON* : 29,5 km
 - Benjamin ALIXANT : 12 km
 
 Un grand bravo à toutes et à tous, pour vos participations et vos performances, et bonnes courses 2019 à venir !
