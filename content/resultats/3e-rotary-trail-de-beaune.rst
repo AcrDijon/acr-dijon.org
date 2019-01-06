@@ -18,8 +18,8 @@ Course remportée par Antoine PENKALA en 32'24" / 22e et 1ère féminine, Léa A
 
 **13,1 km / 210 m D+ :**
 
-- **Jean Christophe DUBARD** : 192e en 1h18'02"
+- **Jean Christophe DUBARD** : 193e en 1h18'02"
 
-Course remportée par Alexandre BOURGEOIS (Team Sport & Nature Beaune) en 49'08" / 35e et 1ère féminine, Camille Vernizeau (DUC) en 59'24" / 326 concurrents classés.
+Course remportée par Alexandre BOURGEOIS (Team Sport & Nature Beaune) en 49'08" / 35e et 1ère féminine, Camille Vernizeau (DUC) en 59'24" / 327 concurrents classés.
 
 **Bravo à nos ACRistes !**
