@@ -26,6 +26,10 @@ Course remportée par Louis HETROY (PAC AVALLON) en 32'27" / 26e et 1ère fémin
 
 Course remportée par Thomas RAMOS en 1h12'51" / 47e et 1ère féminine, Céline VALTAT (ANSA) en 1h34'33" / 283 concurrents classés.
 
+.. image:: http://assets.acr-dijon.org/trailsemur192.jpg
+
+*Prêts au départ pour 17 km*
+
 **Grand Parcours** (27 km / 725 m D+) :
 
 - **Bruno HUOT** : 83e en 2h51'57"
