@@ -13,7 +13,7 @@
 - **Anthony GUILLEMIN** : 42e en 40'14"
 - **Jean Louis RABIET** : 444e en 1h22'03" (**1erM5**)
 
-Course remportée par Louis HETROY (PAC AVALLON) en 32'27" / 26e et 1ère féminine, Charlotte TREUCHOT (USCVL) en 38'26" / 444 concurrents classés.
+Course remportée par Louis HETROY (PAC Avallon) en 32'27" / 26e et 1ère féminine, Charlotte TREUCHOT (USCVL) en 38'26" / 444 concurrents classés.
 
 .. image:: http://assets.acr-dijon.org/trailsemur19.jpg
 
@@ -24,7 +24,7 @@ Course remportée par Louis HETROY (PAC AVALLON) en 32'27" / 26e et 1ère fémin
 - **Donatien JEHNE** : 63e en 1h38'15"
 - **Jean Luc POIROT** : 205e en 2h06'12"
 
-Course remportée par Thomas RAMOS en 1h12'51" / 47e et 1ère féminine, Céline VALTAT (ANSA) en 1h34'33" / 283 concurrents classés.
+Course remportée par Thomas RAMOS (SA Autun) en 1h12'51" / 47e et 1ère féminine, Céline VALTAT (ANSA) en 1h34'33" / 283 concurrents classés.
 
 .. image:: http://assets.acr-dijon.org/trailsemur192.jpg
 
