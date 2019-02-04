@@ -4,7 +4,7 @@
 :date: 2019-02-04
 :category: Résultats
 :location: 
-:eventdate: 2019-02-04
+:eventdate: 2019-02-02
 
 .. image:: http://assets.acr-dijon.org/thcn19.JPG
 
