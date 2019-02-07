@@ -68,7 +68,7 @@ Sponsors
 
 .. image:: https://assets.acr-dijon.org/scq.jpg
 
-.. image:: https://assets.acr-dijon.org/k6fm.jpg
+.. image:: https://assets.acr-dijon.org/k6.jpg
 
 .. image:: https://assets.acr-dijon.org/boutillon.jpg
 
