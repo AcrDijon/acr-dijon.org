@@ -6,13 +6,11 @@
 :location: Poligny (39)
 :eventdate: 2019-03-03
 
-
-
 .. image:: http://assets.acr-dijon.org/dan19.jpg
 
 Deux ACRistes étaient à Poligny, ce dimanche, pour le Trail de la Croix du Dan.
 
-**Course des Eoliennes (16, km / 550 m D+) :**
+**Course des Eoliennes (16,1 km / 550 m D+) :**
 
 - **Donatien JEHNE** : 48e en 1h02'12"
 - *Pauline GUYOT* : 249e en 1h25'29"
