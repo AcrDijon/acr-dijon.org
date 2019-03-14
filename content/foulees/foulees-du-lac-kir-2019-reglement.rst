@@ -19,24 +19,22 @@ II – HORAIRES ET PARCOURS
 
 Les départs et arrivées auront lieu au Lac Kir Esplanade pointe Ouest (parking n°5 « Le Domaine du Lac ») :
 
-- POUSSINS : 1250 m départ à 16 h 30 nés en 2008, 2009 
+	- POUSSINS : 1250 m départ à 16 h 30 nés en 2008, 2009 
 
-- BENJAMINS : 2200 m départ à 16 h50 nés en 2006,2007
+	- BENJAMINS : 2200 m départ à 16 h50 nés en 2006,2007
 	
 - MINIMES : 2200 m départ à 16 h 50 nés en 2004, 2005
 
-- CADETS à MASTERS nés en 2003 et avant :
+	- CADETS à MASTERS nés en 2003 et avant :
 
-	5 km départ à 14 h 15
-
-	10 km départ à 15 h 00 
+•	5 km départ à 14 h 15
+•	10 km départ à 15 h 00 
 
 III – INSCRIPTIONS ET DOSSARDS
 
 •	NOTA : 
 
 o	Les inscriptions pour les courses jeunes (poussins à minimes) sont gratuites.
-
 o	Lors du retrait du dossard, tout dossier incomplet invalidera la participation du coureur. 	
 
 1- Les inscriptions par courrier devront comporter obligatoirement :
@@ -47,11 +45,10 @@ o	Lors du retrait du dossard, tout dossier incomplet invalidera la participation
 Montant des droits d’engagement : 12 euros pour le 10 km et 6 euros pour le 5 km.
 	
 	Pour les coureurs licenciés : 
-
 	Toute participation à une compétition est soumise à la présentation obligatoire par les participants à l’organisateur
 •	 D’une licence Athlé compétition, Athlé Entreprise, Athlé Running délivrée par la FFA ou d’un pass « J’aime courir » délivré par la FFA et complété par le médecin, en cours de validité à la date de la manifestation. (Attention : les autres licences délivrées par la FFA (santé, Encadrement et découverte) ne sont pas acceptées)
 •	Ou d’une licence sportive, en cours de validité à la date de la manifestation, délivrée par une fédération uniquement agrée, sur laquelle doit apparaître, par tous moyens, la non contre-indication à la pratique du sport en compétition, de l’Athlétisme en compétition ou de la course à pied en compétition.
-•	Les licences FF Tri, FF Course d’orientation et FF Pentathlon Moderne ne sont plus acceptées. Vous devez présenter un certificat médical mentionnant l’absence de contre-indication à la pratique de la course à pied en compétition et datant de moins d’un an à la date de l’épreuve ou une photocopie certifiée conforme à l’original.
+•	Les licences FF Tri, FF Course d’orientation et FF Pentathlon Moderne ne sont plus acceptées sauf mention sur le document de la non contre-indication à la pratique du sport en compétition. En cas contraire, vous devez présenter un certificat médical mentionnant l’absence de contre-indication à la pratique du sport en compétition et datant de moins d’un an à la date de l’épreuve ou une photocopie certifiée conforme à l’original.
 	Pour les coureurs non-licenciés de toutes les catégories : un certificat médical mentionnant l’absence de contre-indication à la pratique de la course à pied en compétition et datant de moins d’un an à la date de l’épreuve ou une photocopie certifiée conforme à l’original.
 
 
@@ -80,14 +77,13 @@ Pour tout dossier incomplet, les coureurs devront fournir la ou les pièces manq
 •	Magasin ENDURANCE SHOP 55, rue Jean-Jacques Rousseau 21000 DIJON
 
 	Jeudi 11 avril 2019 de 15 h 00 à 19 h 00
-
 	Vendredi 12 avril 2019 de 10 h 00 à 19 h 00
 
 •	Lac Kir, sur le lieu de départ, esplanade pointe ouest du Lac Kir : Samedi 13 Avril à partir de 12 h 00
 
 IV – RAVITAILLEMENT
 
-•	Un poste de ravitaillement sera placé au 5ème km (après sortie des Jardins de Plombières les Dijon)
+•	Un poste de ravitaillement sera placé au 5ème km (au niveau des tennis et de la base nautique)
 •	Un ravitaillement à l’arrivée sera également organisé.
 
 V – SURVEILLANCE MEDICALE
@@ -145,4 +141,3 @@ IX– Tout concurrent reconnaît avoir pris connaissance du présent règlement 
 X – Droit à l’image :
 
 Par son engagement, le participant autorise l’organisateur, les partenaires et les médias à utiliser les images sur lesquelles il pourrait apparaître : ceci dans le cadre de reportages ou de promotion de l’évènement.
-
