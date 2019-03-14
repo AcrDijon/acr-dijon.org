@@ -70,4 +70,4 @@ Sponsors
 
 .. image:: https://assets.acr-dijon.org/cryo.jpg
 
-.. image:: https://assets.acr-dijon.org/kia.jpg
+.. image:: https://assets.acr-dijon.org/delin.jpg
