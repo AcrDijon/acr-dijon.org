@@ -12,6 +12,6 @@ Voici les nouveaux parcours que nous vous proposerons cette année.
 
 *Tracé du 10 km*
 
-.. image:: http://assets.acr-dijon.org/parcours5km2019.jpg
+.. image:: http://assets.acr-dijon.org/5km2019.jpg
 
 *Tracé du 5 km*
