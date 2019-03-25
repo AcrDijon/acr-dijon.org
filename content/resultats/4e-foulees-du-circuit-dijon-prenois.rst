@@ -17,6 +17,6 @@ Quatre ACRistes étaient présents sur le circuit de Dijon-Prenois, ce samedi en
 
 Course remportée par Romain COLABELLA (Chenôve Triathlon Club) en 17'20" / 16e et 1ère féminine, Emilie GUILLEMIN en 23'58" / 50 concurrents classés.
 
-Sur le 10 km, victoire de Khalid CHAHID en 34'56" / 25e et 1ère féminine, Aurélie BIONDI en 43'52" / 90 concurrents classés.
+Sur le 10 km, victoire de Khalid CHAHID en 34'56" / 23e et 1ère féminine, Camille BOUTRELLE (CROCO) en 42'55" / 90 concurrents classés.
 
 **Bravo à nos ACRistes !**
