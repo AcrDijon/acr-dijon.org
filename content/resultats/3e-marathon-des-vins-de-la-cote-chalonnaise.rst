@@ -24,6 +24,7 @@ Course remportée par Guillaume BERTHIER (SA Autun) en 2h45'05" / 24e et 1ère f
 
 - **Alexandre DUFOUR** : 98e en 1h42'56"
 - *Camille FEUILLAT* : 99 en en 1h42'56"
+- **Sylvain DELCEY** : 449e en 2h02'37"
 
 Course remportée par Valentin CHARTIER (Athlé Bourgogne Sud) en 1h18'36" / 33e et 1ère féminine, Anne BOUDOT (EA Moulins-Yzeure-Avermes) en 1h35'09" / 1105 concurrents classés.
 
