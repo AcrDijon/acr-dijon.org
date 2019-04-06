@@ -23,7 +23,7 @@ Course remportée par Khalid CHAHID en 34'38" / 16e et 1ère féminine, Charlott
 **5 km :**
 
 - **Anthony GUILLEMIN** : 12e en 20'25"
-- *Béatrice DABROWSKI* : 36e en 24'22" et 1èreSE
+- *Béatrice BADET* : 36e en 24'22" et 1èreSE
 
 Course remportée par Nathan DORAS en 17'28" / 23e et 1ère féminine, Solène LACROIX SAMPER (Athlé 21) en 22'03" / 93 concurrents classés.
 
