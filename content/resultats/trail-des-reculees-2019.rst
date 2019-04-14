@@ -6,8 +6,6 @@ Trail des Reculées 2019
 :location: Lons Le Saulnier (39)
 :eventdate: 2019-04-07
 
-
-
 .. image:: http://assets.acr-dijon.org/reculees19.jpg
 
 **Frédéric BOTTAZZO** a participé au Trail des Reculées (épreuve de 15,5 km pour 440 m D+). Il s'y est classé 273e/557 en 1h55'29".
