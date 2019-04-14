@@ -25,6 +25,10 @@ Course remportée par Nicolas PHILIPONA (Athlé Provence Club) en 31'44" / 58e e
 
 Course remportée par Nathan CARLOT en 6'55" / 12e et 1ère féminine, Laura ENDERLIN (DUC Sombernon) en 8'29" / 24 concurrents classés.
 
+
+
 Sur le **5 km**, course remportée par Przemyslaw CHATYS (EA Le Creusot) en 16'10" / 21e et 1ère féminine, Stessy LEHMANN (Athlé 21) en 21'25" / 117 concurrents classés.
+
+Classements complets des courses du jour sur : http://perfevent.matsport.fr/
 
 **Bravo à toutes et à tous (coureurs et bénévoles de l'ACR) qui ont contribué à la réussite de cette journée !**
