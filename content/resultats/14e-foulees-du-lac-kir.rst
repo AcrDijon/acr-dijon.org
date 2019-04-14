@@ -6,7 +6,7 @@
 :location: DIJON / Lac Kir
 :eventdate: 2019-04-13
 
-Les 14e Foulées du Lac Kir se sont déroulées sous un ciel finalement clément, ainsi que des températures plutôt fraiches et avec un vent bien présent. De nouveaux parcours étaient proposés cette année pour le  10 km et le 5 km.
+Les 14e Foulées du Lac Kir se sont déroulées sous un ciel finalement clément, ainsi qu'avec des températures plutôt fraiches et un vent bien présent. De nouveaux parcours étaient proposés cette année pour le  10 km et le 5 km.
 
 .. image:: http://assets.acr-dijon.org/flk19.jpg
 
