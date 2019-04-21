@@ -10,8 +10,8 @@ Trail 'n Loue 2019
 
 .. image:: http://assets.acr-dijon.org/trailnloue2019.jpg
 
-- Eric et Julia : 74e en 12h38'26" (9h31'13" + 5h37'12")
+- Eric et *Julia* : 74e en 16h38'26"
 
-Course remportée par la Team Trail'n Beer en 8h22'44" ! (5h14'01" + 3h08'42") / 92 équipes classées.
+Course remportée par la Team Trail'n Beer en 8h22'44" ! / 92 équipes classées.
 
 **Un grand bravo à elle !**
