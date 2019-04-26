@@ -8,7 +8,7 @@
 
 .. image:: http://assets.acr-dijon.org/t3c19.jpg
 
-Un ACRiste était au Creusot ce samedi, dans le cadre des courses du Trail des Trois Châteaux, au départ du 15 km nocturne.
+Un ACRiste était au Creusot ce samedi, dans le cadre des courses du Trail des Trois Châteaux, au départ du 18,5 km nocturne.
 
 **Lionel RAMOS** : 100e en 2h01'36"
 
