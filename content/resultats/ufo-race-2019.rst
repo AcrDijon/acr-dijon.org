@@ -16,8 +16,8 @@ Pour sa 4e édition, l'UFO Race de Trouhans s'est déroulée sous la chaleur et 
 
 - **Jean Christophe DUBARD** : 32e en 39'59"
 
-Course remportée par Florian MASSUT en 31'02" / 26e et 1ère féminine, Camille BOUTRELLE en 37'55" / 129 concurrents classés.
+Course remportée par Florian MASSUT en 31'02" / 26e et 1ère féminine, Camille BOUTRELLE en 37'55" / 124 concurrents classés.
 
-Les Foulées du Bas Sauvage (14,6 km) ont été remportées par Thomas REMOND en 54'20" / 3e et 1ère féminine, Clothilde GELIN en 56'04" / 88 concurrents classés.
+Les Foulées du Bas Sauvage (14,6 km) ont été remportées par Thomas REMOND en 54'20" / 3e et 1ère féminine, Clothilde GELIN en 56'04" / 102 concurrents classés.
 
 **Bravo à notre ACRiste !**
