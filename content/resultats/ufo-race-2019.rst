@@ -8,9 +8,9 @@ UFO Race 2019
 
 Pour sa 4e édition, l'UFO Race de Trouhans s'est déroulée sous la chaleur et un grand soleil, avec un record de participants ! Parmi eux, se trouvait un ACRiste.
 
-.. image:: http://assets.acr-dijon.org/ufo19.jpg
+.. image:: http://assets.acr-dijon.org/uforace19.jpg
 
-*Encore 200 m et l'arrivée*
+
 
 **Foulées du Meurger (8,3 km) :**
 
