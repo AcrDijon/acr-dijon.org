@@ -6,9 +6,11 @@
 :location: Saint Jean De Losne
 :eventdate: 2019-05-12
 
-Pour cette dixième édition, les **10 km au fil de l'eau** présentaient l'adjonction d'un parcours de 5 km et ont, pour l'occasion, établi leur record de participation, te tout à l'abris de la pluie, qui a eu le bon goût de s'absenter.
+Pour cette dixième édition, les **10 km au fil de l'eau** présentaient l'adjonction d'un parcours de 5 km et ont, pour l'occasion, établi leur record de participation, le tout à l'abris de la pluie, qui a eu le bon goût de s'absenter.
 
 .. image:: http://assets.acr-dijon.org/stjean19.jpg
+
+*Eric à l'approche de l'arrivée du 10 km*
 
 **10 km :**
 
@@ -30,4 +32,6 @@ Victoire de Lucas BAVEREL (AC Chenôve) en 16'51" / 16e et 1ère féminine, Chri
 
 **2 km Bejamins/Minimes :**
 
-- *Zoé FANTON* :
+- *Zoé FANTON* était présente pour l'ACR. Les résultats de cette course seront insérés quand ils auront été publiés par l'organisation.
+
+**Bravo à nos ACRistes !**
