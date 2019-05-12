@@ -1,4 +1,4 @@
-trail de Gergueil 1ère édition
+Trail de Gergueil 1ère édition
 ==============================
 
 :date: 2019-05-11
