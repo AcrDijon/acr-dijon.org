@@ -32,6 +32,8 @@ Victoire de Lucas BAVEREL (AC Chenôve) en 16'51" / 16e et 1ère féminine, Chri
 
 **2 km Bejamins/Minimes :**
 
-- *Zoé FANTON* était présente pour l'ACR. Les résultats de cette course seront insérés quand ils auront été publiés par l'organisation.
+- *Zoé FANTON* : 16e en 8'15" (2eF et 2eMI)
+
+Victoire de Louis GUILLEMINOT en 6'40" / 15e et 1ère féminine, Jodi-Lynn THORIGNY (Grand Châlon Athlétisme) en 8'11" / 25 concurrents classés.
 
 **Bravo à nos ACRistes !**
