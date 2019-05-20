@@ -27,7 +27,7 @@ La météo s'est finalement montrée clémente, ce dimanche matin, et les course
 **6,4 km (75 m D+) :**
 
 - **Tarek ZIADE** : 4e en 23'49" (**1erM1 !**)
-- *Emma FANTON* : 26e en 30'53" (2eJU)
+- *Emma FANTON* : 26e en 30'53" (3e féminine et 2eJU)
 - **Michaël ALIXANT** : 29e en 31'13"
 
 101 concurrents classés / Victoire d' Antoine FILLION (Athlétisme Strasbourg Europe) en 23'25" / 11e et 1ère féminine, Virginie FRAISSE en 26'50".
