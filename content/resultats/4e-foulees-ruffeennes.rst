@@ -10,7 +10,7 @@ Une chaleur écrasante a accompagné les concurrents de cette 4e édition des Fo
 
 **5,9 km :**
 
-- **Alexandre DUFOUR** :4e en 24'29"
+- **Alexandre DUFOUR** : 4e en 24'29"
 - **Sylvain DELCEY** : 12e en 27'12"
 
 Victoire de Gauthier LALEURE en 21'03" / 15e et 1ère féminine, Christine PETITE en 27'38" / 63 concurrents classés.
