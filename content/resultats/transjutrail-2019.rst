@@ -37,6 +37,6 @@ Victoire de Michaël BOUILLET en 1h59'01" / 24e et 1ère féminine, Louise WANNE
 
 .. image:: http://assets.acr-dijon.org/transju19.jpg
 
-*Donatien en action*
+*Dimitri et Donatien en action*
 
 **Bravo à nos ACRistes !**
