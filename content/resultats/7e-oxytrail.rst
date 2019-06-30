@@ -3,13 +3,12 @@
 
 :date: 2019-06-30
 :category: Résultats
-:location: Lhoisiel (77)
+:location: Noisiel (77)
 :eventdate: 2019-06-30
-
 
 .. image:: http://assets.acr-dijon.org/oxytrail.jpg
 
-*Stéphanie TERRAND* était en Seine et Marne, ce dimanche, pour l'Oxy'Trail (23 km / 443 m D+), à Lhoisiel.
+*Stéphanie TERRAND* était en Seine et Marne, ce dimanche, pour l'Oxy'Trail (23 km / 443 m D+), à Noisiel.
 
 Elle s'y est classée 1477e en 2h39'01" !
 
