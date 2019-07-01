@@ -13,11 +13,9 @@ Deux ACRistes comptaient parmi les participants.
 **7,6 km / 110 m D+ :**
 
 - **Jean Christophe DUBARD** : 44e en 38'00"
-- **Daniel CHAMBIN** : 66e en 43'37"
+- **Daniel CHAMBIN** : 66e en 43'37" (2eM4)
 
 Course remportée par Khalid CHAHID en 24'56" / 5e et 1ère féminine, Mélanie LUSTREMANT (DUC) en 27'42" / 100 concurrents classés.
-
-
 
 .. image:: http://assets.acr-dijon.org/ponta19.jpg
 
