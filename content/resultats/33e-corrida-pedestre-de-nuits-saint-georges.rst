@@ -17,6 +17,6 @@ Deux ACRistes étaient à Nuits Saint Georges pour la traditionnelle corrida de 
 - **Jean Christophe DUBARD** : 55e en 46'34"
 - **Jean Luc POIROT** : 73e en 51'42"
 
-Course remportée par Khalid CHAHID en 33'23" / 43e et 1ère féminine, Laura POMPANON en 44'12" / 99 concurrents classés.
+Course remportée par Khalid CHAHID en 33'23" / 43e et 1ère féminine, Laura POMPANON en 44'12" / 98 concurrents classés.
 
 **Bravo à eux !**
